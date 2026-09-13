@@ -1,0 +1,30 @@
+{
+  "id": "07676fbed36f1aa6",
+  "title": "Check total purchase amounts on documents",
+  "languages": {
+    "en": {
+      "title": "Check total purchase amounts on documents",
+      "summary": "Enable users to verify that the sum of all line items matches the total amount from an external invoice before posting.",
+      "details": "### Business value\n\nThis feature helps you ensure that all line items are accurate and match the external invoice. It reduces human errors in accounts payable processes.\n\n### Feature details\n\nPreviously, this feature was part of the check purchase amounts functionality in the Netherlands localization. As part of the delocalization process, this feature is now global and available to everyone. When you set up the feature, select Check Doc. Total Amounts. If you don't activate the feature, there's no change. When you activate the feature, the Doc. Amount Incl. VAT and Doc. Amount VAT fields appear on the Purchase Invoice and Purchase Credit Memo pages. You must fill in these fields before you can post the documents. Business Central checks whether the amount including VAT and the VAT amount on the purchase document match the total amount of the purchase lines when you try to post the document.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/check-total-purchase-amounts-documents"
+    },
+    "da": {
+      "title": "Tjek de samlede købsbeløb på dokumenter",
+      "summary": "Gør det muligt for brugere at kontrollere, at summen af alle linjeelementer matcher det samlede beløb fra en ekstern faktura før bogføring.",
+      "details": "### Forretningsværdi\n\nDenne funktion hjælper dig med at sikre, at alle linjeelementer er nøjagtige og stemmer overens med den eksterne faktura. Det reducerer menneskelige fejl i kreditorbogholderiprocesser.\n\n### Detaljer om funktioner\n\nTidligere var denne funktion en del af funktionen til kontrol af købsbeløb i lokaliseringen Holland. Som en del af delokaliseringsprocessen er denne funktion nu global og tilgængelig for alle. Når du konfigurerer funktionen, skal du vælge Kontrollér samlede beløb for dokument. Hvis du ikke aktiverer funktionen, er der ingen ændring. Når du aktiverer funktionen, vises felterne Dokumentbeløb inkl. moms og Bilagsbeløb moms på siderne Købsfaktura og Købskreditnota . Du skal udfylde disse felter, før du kan bogføre dokumenterne. Business Central kontrollerer, om beløbet inklusive moms og momsbeløbet på købsdokumentet stemmer overens med det samlede beløb på købslinjerne, når du forsøger at bogføre dokumentet.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/check-total-purchase-amounts-documents"
+    },
+    "nl": {
+      "title": "Totale aankoopbedragen in documenten controleren",
+      "summary": "Stel gebruikers in staat om vóór boeking te controleren of de som van alle regelitems overeenkomt met het totaalbedrag van een externe factuur.",
+      "details": "### Zakelijke waarde\n\nMet deze functie kunt u ervoor zorgen dat alle regelitems nauwkeurig zijn en overeenkomen met de externe factuur. Het vermindert menselijke fouten in de crediteurenadministratie.\n\n### Details van functies\n\nVoorheen maakte deze functie deel uit van de functionaliteit in de Nederlandse localisatie voor het controleren van aankoopbedragen. Als onderdeel van het delokalisatieproces is deze functie nu wereldwijd en voor iedereen beschikbaar. Wanneer u de functie instelt, selecteert u Totaalbedragen documenten controleren. Als u de functie niet activeert, verandert er niets. Wanneer u de functie activeert, worden de velden Documentbedrag incl. btw en Documentbedrag btw weergegeven op de pagina's Inkoopfactuur en Inkoopcreditnota . U moet deze velden invullen voordat u de documenten kunt verzenden. Business Central controleert of het bedrag inclusief btw en het btw-bedrag op het inkoopdocument overeenkomen met het totale bedrag van de inkoopregels wanneer u het document probeert te boeken.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/check-total-purchase-amounts-documents"
+    },
+    "fr": {
+      "title": "Vérifier le montant total des achats sur les documents",
+      "summary": "Autorisez les utilisateurs à vérifier que la somme de tous les postes correspond au montant total d’une facture externe avant de valider.",
+      "details": "### Valeur commerciale\n\nCette fonctionnalité vous permet de vous assurer que tous les postes sont exacts et correspondent à la facture externe. Il réduit les erreurs humaines dans les processus des comptes fournisseurs.\n\n### Détails des fonctionnalités\n\nCette fonctionnalité était auparavant disponible dans le cadre de la fonctionnalité Vérifier les montants des achats dans la localisation des Pays-Bas. Dans le cadre du processus de délocalisation, cette fonctionnalité est désormais mondiale et disponible pour tous. Lorsque vous configurez la fonctionnalité, sélectionnez Vérifier les montants totaux du document. Si vous n’activez pas la fonctionnalité, il n’y a aucun changement. Lorsque vous activez la fonctionnalité, les champs Montant du document TVA incluse et Montant du document TVA apparaissent sur les pages Facture d’achat et Avoir d’achat . Vous devez remplir ces champs avant de pouvoir valider les documents. Business Central vérifie si le montant incluant la TVA et le montant de la TVA sur le document d’achat correspondent au montant total des lignes d’achat lorsque vous essayez de valider le document.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/check-total-purchase-amounts-documents"
+    }
+  }
+}

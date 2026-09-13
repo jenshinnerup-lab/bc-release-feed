@@ -1,0 +1,30 @@
+{
+  "id": "104caf6b2500762d",
+  "title": "Report on social and governance information for employees in Sustainability",
+  "languages": {
+    "en": {
+      "title": "Report on social and governance information for employees in Sustainability",
+      "summary": "Features for sustainability enhance ESG reporting by integrating not only environmental, but also social and governance details.",
+      "details": "### Business value\n\nThe Sustainability features provide comprehensive environmental, social, and governance (ESG) reporting capabilities. With these capabilities, you can track and report on important metrics. This feature helps you comply with regulatory requirements, improve operational efficiency, and enhance your reputation by demonstrating commitment to sustainability.\n\n### Feature details\n\nThe Sustainability features were initially developed to cover environmental tracking. However, for full ESG reporting, you also need to include social and governance details. To ensure full compliance with ESG reporting requirements, you can enter additional information about employees on the Employee Card page, such as: Engagement Type Board Member Manager Role Working Hours",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/report-social-governance-information-employees-sustainability"
+    },
+    "da": {
+      "title": "Rapport om sociale og ledelsesmæssige oplysninger til medarbejdere i bæredygtighed",
+      "summary": "Funktioner til bæredygtighed forbedrer ESG-rapportering ved at integrere ikke kun miljømæssige, men også sociale og ledelsesmæssige detaljer.",
+      "details": "### Forretningsværdi\n\nBæredygtighedsfunktionerne giver omfattende rapporteringsfunktioner for miljømæssig, sociale forhold og ledelse (ESG). Med disse funktioner kan du spore og rapportere om vigtige målepunkter. Denne funktion hjælper dig med at overholde lovmæssige krav, forbedre driftseffektiviteten og forbedre dit omdømme ved at demonstrere engagement i bæredygtighed.\n\n### Funktionsoplysninger\n\nBæredygtighedsfunktionerne blev oprindeligt udviklet til at dække miljøsporing. For at få fuld ESG-rapportering skal du dog også inkludere sociale og ledelsesmæssige detaljer. For at sikre fuld overholdelse af ESG-rapporteringskravene kan du angive yderligere oplysninger om medarbejdere på siden Medarbejderkort , f.eks.: Engagementstype Bestyrelsesmedlem Lederrolle Arbejdstid",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/report-social-governance-information-employees-sustainability"
+    },
+    "nl": {
+      "title": "Verslag over sociale en governance-informatie voor medewerkers in Duurzaamheid",
+      "summary": "Functies voor duurzaamheid verbeteren ESG-rapportage door niet alleen milieu-, maar ook sociale en governance-details te integreren.",
+      "details": "### Zakelijke waarde\n\nDe duurzaamheidsfuncties bieden uitgebreide rapportagemogelijkheden op het gebied van milieu, maatschappij en governance (ESG). Met deze mogelijkheden kunt u belangrijke metrische gegevens bijhouden en erover rapporteren. Deze functie helpt u te voldoen aan wettelijke vereisten, de operationele efficiëntie te verbeteren en uw reputatie te verbeteren door uw toewijding aan duurzaamheid te tonen.\n\n### Functiedetails\n\nDe duurzaamheidsfuncties zijn in eerste instantie ontwikkeld om het milieu te volgen. Voor volledige ESG-rapportage moet u echter ook sociale en governance-details opnemen. Om ervoor te zorgen dat volledig wordt voldaan aan de ESG-rapportagevereisten, kunt u aanvullende informatie over werknemers invoeren op de pagina Werknemerskaart , zoals: Betrokkenheidstype Bestuurslid Managersrol Werktijden",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/report-social-governance-information-employees-sustainability"
+    },
+    "fr": {
+      "title": "Rapport sur l’information sociale et de gouvernance pour les employés du secteur du développement durable",
+      "summary": "Les fonctionnalités de durabilité améliorent le reporting ESG en intégrant non seulement les détails environnementaux, mais aussi sociaux et de gouvernance.",
+      "details": "### Valeur commerciale\n\nLes fonctionnalités de développement durable offrent des fonctionnalités complètes de reporting environnemental, social et de gouvernance (ESG). Grâce à ces fonctionnalités, vous pouvez suivre et générer des rapports sur des indicateurs importants. Cette fonctionnalité vous aide à vous conformer aux exigences réglementaires, à améliorer votre efficacité opérationnelle et à renforcer votre réputation en démontrant votre engagement en faveur du développement durable.\n\n### Détails de la fonctionnalité\n\nLes fonctionnalités de durabilité ont été initialement développées pour couvrir le suivi environnemental. Cependant, pour un reporting ESG complet, vous devez également inclure des détails sociaux et de gouvernance. Pour garantir une conformité totale avec les exigences de reporting ESG, vous pouvez saisir des informations supplémentaires sur les employés sur la page Carte d’employé , telles que : Type d’engagement Membre du conseil d’administration Rôle du manager Heures de travail",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/report-social-governance-information-employees-sustainability"
+    }
+  }
+}

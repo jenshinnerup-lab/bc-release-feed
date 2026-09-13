@@ -1,0 +1,30 @@
+{
+  "id": "504e0298ab30e475",
+  "title": "Fraud prevention headers for clients in the UK",
+  "languages": {
+    "en": {
+      "title": "Fraud prevention headers for clients in the UK",
+      "summary": "Support for fraud prevention headers and improved security for Making Tax Digital.",
+      "details": "### Business value\n\nSupport for more scenarios for fraud prevention headers and improved security for Making Tax Digital.\n\n### Feature details\n\nHer Majesty's Revenue and Customs (HMRC) has implemented the first steps of Making Tax Digital, which imposes new requirements on VAT-registered businesses above the VAT threshold. The electronic statements must also include information that helps prevent fraud. Business Central supports Making Tax Digital and the GovTalk service. With this update, Business Central supports all fraud prevention headers according to the HMRC mandate.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/fraud-prevention-headers-clients-uk"
+    },
+    "da": {
+      "title": "Overskrifter til forebyggelse af svindel for klienter i Storbritannien",
+      "summary": "Understøttelse af headers til forebyggelse af svindel og forbedret sikkerhed for at gøre moms digital.",
+      "details": "### Forretningsværdi\n\nUnderstøttelse af flere scenarier til headers til forebyggelse af svindel og forbedret sikkerhed for at gøre moms digital.\n\n### Funktionsdetaljer\n\nHMRC (Her Majesty's Revenue and Customs) har implementeret de første trin i Gør moms digital, som stiller nye krav til momsregistrerede virksomheder over momsgrænsen. De elektroniske opgørelser skal også indeholde oplysninger, der er med til at forebygge svindel. Business Central understøtter Gør moms digital og GovTalk-servicen. Med denne opdatering understøtter Business Central alle headers til forebyggelse af bedrageri i henhold til HMRC-mandatet.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/fraud-prevention-headers-clients-uk"
+    },
+    "nl": {
+      "title": "Fraudepreventie-headers voor klanten in het Verenigd Koninkrijk",
+      "summary": "Ondersteuning voor kopteksten voor fraudepreventie en verbeterde beveiliging voor Making Tax Digital (MTD).",
+      "details": "### Zakelijke waarde\n\nOndersteuning van meer scenario's voor kopteksten voor fraudepreventie en verbeterde beveiliging voor Making Tax Digital (MTD).\n\n### Functiedetails\n\nDe Britse HMRC-dienst (Her Majesty's Revenue and Customs) heeft de eerste stappen van Making Tax Digital geïmplementeerd. Dit stelt nieuwe eisen aan btw-geregistreerde bedrijven boven de btw-drempel. De elektronische afschriften moeten ook informatie bevatten die fraude helpt voorkomen. Business Central ondersteunt Making Tax Digital en de GovTalk-service. Met deze update ondersteunt Business Central alle kopteksten voor fraudepreventie volgens het HMRC-mandaat.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/fraud-prevention-headers-clients-uk"
+    },
+    "fr": {
+      "title": "En-têtes de prévention des fraudes pour les clients au Royaume-Uni",
+      "summary": "Prise en charge des en-têtes de prévention des fraudes et amélioration de la sécurité du processus visant à rendre la taxe numérique.",
+      "details": "### Valeur commerciale\n\nPrise en charge de scénarios supplémentaires pour les en-têtes de prévention des fraudes et amélioration de la sécurité du processus visant à rendre la taxe numérique.\n\n### Détails de la fonctionnalité\n\nLe fisc et les douanes HMRC du Royaume-Uni (Her Majesty’s Revenue and Customs) a mis en œuvre les premières étapes permettant de rendre la taxe numérique qui impose de nouvelles exigences aux entreprises immatriculées à la TVA au-dessus du seuil de TVA. Les relevés électroniques doivent également inclure des informations permettant de prévenir les fraudes. Business Central prend en charge le processus visant à rendre la taxe numérique et le service GovTalk. Avec cette mise à jour, Business Central prend en charge tous les en-têtes de prévention des fraudes conformément au mandat HMRC.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/fraud-prevention-headers-clients-uk"
+    }
+  }
+}

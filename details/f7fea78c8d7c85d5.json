@@ -1,0 +1,30 @@
+{
+  "id": "f7fea78c8d7c85d5",
+  "title": "Use multiline text fields with Word mail merge",
+  "languages": {
+    "en": {
+      "title": "Use multiline text fields with Word mail merge",
+      "summary": "You can use fields with multiline texts with mail merge features for Word templates.",
+      "details": "### Business value\n\nEmail features in Business Central make it easy to communicate with your business partners. Word templates let you generate emails that include data from different types of fields in Business Central. This includes fields that contain text that spans multiple lines.\n\n### Feature details\n\nYou can use email features in Business Central to communicate with one or more of your business partners. To speed up the authoring process and help ensure that messages have a consistent appearance, you can use Word templates to generate emails that include data from Business Central. If a field contains text with line breaks, the information shows in a multiline style.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-multiline-text-fields-word-mail-merge"
+    },
+    "da": {
+      "title": "Bruge tekstfelter med flere linjer med brevfletning i Word",
+      "summary": "Du kan bruge felter med tekster med flere linjer med brevfletningsfunktioner til Word-skabeloner.",
+      "details": "### Forretningsværdi\n\nMailfunktioner i Business Central gør det nemt at kommunikere med dine forretningspartnere. Word-skabeloner giver dig mulighed for at generere mails, der indeholder data fra forskellige typer felter i Business Central. Det inkluderer felter, der indeholder tekst, der strækker sig over flere linjer.\n\n### Funktionsdetaljer\n\nDu kan bruge mailfunktioner i Business Central gør det nemt at kommunikere med en eller flere af dine forretningspartnere. Hvis du vil fremskynde forfatterprocessen og hjælpe med at sikre, at meddelelser har et ensartet udseende, kan du bruge Word-skabeloner til at generere mails, der indeholder data fra Business Central. Hvis et felt indeholder tekst med linjeskift, vises oplysningerne på flere linjer.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-multiline-text-fields-word-mail-merge"
+    },
+    "nl": {
+      "title": "Tekstvelden met meerdere regels gebruiken met Afdruk samenvoegen in Word",
+      "summary": "U kunt velden met meerdere regels tekst gebruiken met samenvoegfuncties voor Word-sjablonen.",
+      "details": "### Zakelijke waarde\n\nE-mailfuncties in Business Central maken het gemakkelijk om met uw zakenpartners te communiceren. Met Word-sjablonen kunt u e-mails genereren die gegevens bevatten uit verschillende soorten velden in Business Central, ook velden met meerdere regels tekst.\n\n### Functiedetails\n\nU kunt e-mailfuncties in Business Central gebruiken om met een of meer zakenpartners te communiceren. Om het schrijfproces te versnellen en ervoor te zorgen dat berichten er consistent uitzien, kunt u Word-sjablonen gebruiken om e-mails te genereren die gegevens uit Business Central bevatten. Als een veld tekst met regeleinden bevat, wordt de informatie op meerdere regels weergegeven.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-multiline-text-fields-word-mail-merge"
+    },
+    "fr": {
+      "title": "Utilisation de champs de texte multiligne avec le publipostage Word",
+      "summary": "Vous pouvez utiliser des champs avec des textes multilignes avec des fonctionnalités de fusion et publipostage pour les modèles Word.",
+      "details": "### Valeur commerciale\n\nLes fonctionnalités de courrier électronique de Business Central facilitent la communication avec vos partenaires commerciaux. Les modèles Word vous permettent de générer des courriers électroniques qui incluent des données provenant de différents types de champs dans Business Central. Cela inclut les champs contenant du texte qui s’étend sur plusieurs lignes.\n\n### Détails de la fonctionnalité\n\nVous pouvez utiliser les fonctionnalités de courrier électronique de Business Central pour communiquer avec un ou plusieurs partenaires commerciaux. Pour accélérer le processus de création et vous assurer que les messages ont une apparence cohérente, vous pouvez utiliser des modèles Word pour générer des courriers électroniques qui incluent des données de Business Central. Si un champ contient du texte avec des sauts de ligne, les informations s’affichent dans un style multiligne.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-multiline-text-fields-word-mail-merge"
+    }
+  }
+}

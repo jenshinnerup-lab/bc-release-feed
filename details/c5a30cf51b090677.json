@@ -1,0 +1,30 @@
+{
+  "id": "c5a30cf51b090677",
+  "title": "Automate embedded attachments in PEPPOL",
+  "languages": {
+    "en": {
+      "title": "Automate embedded attachments in PEPPOL",
+      "summary": "Automate the process of embedding attachments in the PEPPOL format for sales and purchases.",
+      "details": "### Business value\n\nBusinesses can boost productivity by using embedded PDFs in the PEPPOL file format for sales and purchase documents. This format ensures human-readable formats with e-documents.\n\n### Feature details\n\nBy adding the ability to encode attachments in the PEPPOL file format in Business Central 2024 release wave 2, you get extra automation. You can automate embedding sales document attachments in the PEPPOL file format. When you post a document, Business Central creates a PDF file and embeds it in the PEPPOL format, which includes both the full XML and a human-readable format. To turn on this option, select the Embed document PDF to export field on the E-Document Service page. During the purchase process, Business Central can process PEPPOL files with embedded attachments, like invoices. It decomposes the embedded file, adds it as an attachment to the e-document record, and makes it available on the E-Document page for further processing.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/automate-embedded-attachments-peppol"
+    },
+    "da": {
+      "title": "Automatisere indlejrede vedhæftede filer i PEPPOL",
+      "summary": "Automatiser processen med indlejring af vedhæftede filer i PEPPOL-formatet til salg og køb.",
+      "details": "### Forretningsværdi\n\nVirksomheder kan øge produktiviteten ved at bruge integrerede PDF-filer i PEPPOL-filformatet til salgs- og købsdokumenter. Dette format sikrer menneskeligt læsbare formater med e-dokumenter.\n\n### Detaljer om funktioner\n\nVed at tilføje muligheden for at kode vedhæftede filer i PEPPOL-filformatet i Business Central 2024 udgivelsesbølge 2, får du ekstra automatisering. Du kan automatisere indlejring af vedhæftede filer i salgsdokumenter i PEPPOL-filformatet. Når du sender et dokument, opretter Business Central en PDF-fil og integrerer den i PEPPOL-formatet, som omfatter både den fulde XML-fil og et format, der kan læses af mennesker. Hvis du vil aktivere denne indstilling, skal du vælge feltet Integrer dokument-PDF, der skal eksporteres på siden E-Document Service . Under købsprocessen kan Business Central behandle PEPPOL-filer med integrerede vedhæftede filer, f.eks. fakturaer. Den opdeler den integrerede fil, tilføjer den som en vedhæftet fil til e-dokumentposten og gør den tilgængelig på siden E-dokument til videre behandling.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/automate-embedded-attachments-peppol"
+    },
+    "nl": {
+      "title": "Ingesloten bijlagen in PEPPOL automatiseren",
+      "summary": "Automatiseer het proces van het insluiten van bijlagen in de PEPPOL-indeling voor verkoop en inkoop.",
+      "details": "### Zakelijke waarde\n\nBedrijven kunnen de productiviteit verhogen door ingesloten PDF's in het PEPPOL-bestandsformaat te gebruiken voor verkoop- en inkoopdocumenten. Dit formaat zorgt voor voor door mensen leesbare formaten met e-documenten.\n\n### Details van functies\n\nDoor de mogelijkheid toe te voegen om bijlagen te coderen in het PEPPOL-bestandsformaat in Business Central 2024 release wave 2, krijgt u extra automatisering. U kunt het insluiten van bijlagen bij verkoopdocumenten in het PEPPOL-bestandsformaat automatiseren. Wanneer u een document boekt, wordt in Business Central een PDF-bestand gemaakt en wordt dit ingesloten in de PEPPOL-indeling, die de volledige XML en een voor mensen leesbare indeling bevat. Als u deze optie wilt inschakelen, selecteert u het veld PDF van document insluiten om te exporteren op de pagina E-Document Service . Tijdens het aankoopproces kan Business Central PEPPOL-bestanden met ingesloten bijlagen, zoals facturen, verwerken. Het decomprimeert het ingesloten bestand, voegt het als bijlage toe aan het e-documentrecord en maakt het beschikbaar op de E-Document pagina voor verdere verwerking.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/automate-embedded-attachments-peppol"
+    },
+    "fr": {
+      "title": "Automatiser les pièces jointes intégrées dans PEPPOL",
+      "summary": "Automatisez le processus d’intégration des pièces jointes au format PEPPOL pour les ventes et les achats.",
+      "details": "### Valeur commerciale\n\nLes entreprises peuvent augmenter leur productivité en utilisant des PDF intégrés au format de fichier PEPPOL pour les documents de vente et d’achat. Ce format garantit des formats lisibles par l’homme avec les documents électroniques.\n\n### Détails des fonctionnalités\n\nEn ajoutant la possibilité d’encoder les pièces jointes au format de fichier PEPPOL dans Business Central 2024 Release Wave 2, vous bénéficiez d’une automatisation supplémentaire. Vous pouvez automatiser l’intégration des pièces jointes des documents de vente au format de fichier PEPPOL. Lorsque vous publiez un document, Business Central crée un fichier PDF et l’intègre au format PEPPOL, qui comprend à la fois le format XML complet et un format lisible par l’homme. Pour activer cette option, sélectionnez le champ Intégrer le document PDF à exporter sur la page Service de documents électroniques . Au cours du processus d’achat, Business Central peut traiter des fichiers PEPPOL avec des pièces jointes incorporées, telles que des factures. Il décompose le fichier incorporé, l’ajoute en tant que pièce jointe à la notice du document électronique et le rend disponible sur la page du document électronique pour un traitement ultérieur.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/automate-embedded-attachments-peppol"
+    }
+  }
+}

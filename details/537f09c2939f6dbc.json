@@ -1,0 +1,30 @@
+{
+  "id": "537f09c2939f6dbc",
+  "title": "Enhance reports with PDF post-processing capabilities",
+  "languages": {
+    "en": {
+      "title": "Enhance reports with PDF post-processing capabilities",
+      "summary": "Enhance PDF reports with ability to append documents, embed files, and set passwords.",
+      "details": "### Business value\n\nAs a developer, you can create more comprehensive and secure reports by appending multiple documents, embedding extra files, and setting admin and user passwords. This capability not only saves time but also ensures that the final documents meet specific business requirements. By adding value and improving overall efficiency, this feature empowers businesses to deliver more detailed and protected reports to their stakeholders.\n\n### Feature details\n\nMany developers request the ability to perform post-processing on PDF documents from reports. In this release, an AL developer can: Append a list of PDF documents. Attach a list of documents to embed in the PDF. Set admin and user passwords.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/enhance-reports-pdf-post-processing-capabilities"
+    },
+    "da": {
+      "title": "Forbedre rapporter med PDF-efterbehandlingsfunktioner",
+      "summary": "Gør PDF-rapporter bedre med mulighed for at tilføje dokumenter, integrere filer og angive adgangskoder.",
+      "details": "### Forretningsværdi\n\nSom udvikler kan du oprette mere omfattende og sikre rapporter ved at tilføje flere dokumenter, integrere ekstra filer og angive administrator- og brugeradgangskoder. Denne funktion sparer ikke kun tid, men sikrer også, at de endelige dokumenter opfylder specifikke forretningskrav. Ved at tilføje værdi og forbedre den samlede effektivitet giver denne funktion virksomheder mulighed for at levere mere detaljerede og beskyttede rapporter til deres interessenter.\n\n### Detaljer om funktioner\n\nMange udviklere anmoder om muligheden for at udføre efterbehandling af PDF-dokumenter fra rapporter. I denne udgivelse kan en AL-udvikler: Tilføje en liste over PDF-dokumenter. Vedhæft en liste over dokumenter, der skal integreres i PDF-filen. Indstille administrator- og brugeradgangskoder.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/enhance-reports-pdf-post-processing-capabilities"
+    },
+    "nl": {
+      "title": "Rapporten verbeteren met mogelijkheden voor PDF-nabewerking",
+      "summary": "Pdf-rapporten verbeteren met de mogelijkheid om documenten toe te voegen, bestanden in te sluiten en wachtwoorden in te stellen.",
+      "details": "### Zakelijke waarde\n\nAls ontwikkelaar kunt u uitgebreidere en veiligere rapporten maken door meerdere documenten toe te voegen, extra bestanden in te sluiten en beheerders- en gebruikerswachtwoorden in te stellen. Deze mogelijkheid bespaart niet alleen tijd, maar zorgt er ook voor dat de uiteindelijke documenten voldoen aan specifieke zakelijke vereisten. Door waarde toe te voegen en de algehele efficiëntie te verbeteren, stelt deze functie bedrijven in staat om meer gedetailleerde en beschermde rapporten aan hun belanghebbenden te leveren.\n\n### Details van functies\n\nVeel ontwikkelaars vragen om de mogelijkheid om nabewerking uit te voeren op PDF-documenten uit rapporten. In deze release kan een AL-ontwikkelaar: Een lijst met PDF-documenten toevoegen. Voeg een lijst met documenten toe die u in de PDF wilt insluiten. Beheerders- en gebruikerswachtwoorden instellen.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/enhance-reports-pdf-post-processing-capabilities"
+    },
+    "fr": {
+      "title": "Améliorer les rapports avec des fonctionnalités de post-traitement en PDF",
+      "summary": "Améliorez les rapports PDF avec la possibilité d’ajouter des documents, d’incorporer des fichiers et de définir des mots de passe.",
+      "details": "### Valeur commerciale\n\nEn tant que développeur, vous pouvez créer des rapports plus complets et sécurisés en ajoutant plusieurs documents, en incorporant des fichiers supplémentaires et en définissant des mots de passe d’administrateur et d’utilisateur. Cette capacité permet non seulement de gagner du temps, mais aussi de s’assurer que les documents finaux répondent aux exigences spécifiques de l’entreprise. En ajoutant de la valeur et en améliorant l’efficacité globale, cette fonctionnalité permet aux entreprises de fournir des rapports plus détaillés et protégés à leurs parties prenantes.\n\n### Détails des fonctionnalités\n\nDe nombreux développeurs demandent la possibilité d’effectuer un post-traitement sur des documents PDF à partir de rapports. Dans cette version, un développeur AL peut : Ajouter une liste de documents PDF. Joignez une liste de documents à intégrer dans le PDF. Définir les mots de passe administrateur et utilisateur.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/enhance-reports-pdf-post-processing-capabilities"
+    }
+  }
+}

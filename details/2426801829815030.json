@@ -1,0 +1,30 @@
+{
+  "id": "2426801829815030",
+  "title": "Use the Account Payable Role Center",
+  "languages": {
+    "en": {
+      "title": "Use the Account Payable Role Center",
+      "summary": "Centralize accounts payable tasks and documents in one place with the new Account Payable Role Center.",
+      "details": "### Business value\n\nThe new Account Payable Role Center simplifies workflows for accounts payable by centralizing all related documents and tasks in one place. The role center makes it easier to handle purchase documents, inbound e-documents (both e-invoices and PDFs), and payment processes. By consolidating these tasks, you reduce the time spent on administrative work, minimize errors, and improve productivity.\n\n### Feature details\n\nThe Account Payable Role Center centralizes all accounts payable-related tasks, documents, and entities. With this role center, you can manage purchase documents, inbound electronic documents (both e-invoices and PDFs), and payment processes from a single interface.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-account-payables-administrator-role-center"
+    },
+    "da": {
+      "title": "Brug rollecenteret Kontobetaling",
+      "summary": "Centraliser kreditoropgaver og -dokumenter på ét sted med det nye rollecenter for kreditor.",
+      "details": "### Forretningsværdi\n\nDet nye rollecenter for kreditor forenkler arbejdsgangene for kreditor ved at centralisere alle relaterede dokumenter og opgaver på ét sted. Rollecenteret gør det nemmere at håndtere købsdokumenter, indgående e-dokumenter (både e-fakturaer og PDF-filer) og betalingsprocesser. Ved at konsolidere disse opgaver reducerer du den tid, der bruges på administrativt arbejde, minimerer fejl og forbedrer produktiviteten.\n\n### Funktionsdetaljer\n\nRollecenteret Kreditor centraliserer alle kreditorrelaterede opgaver, dokumenter og objekter. Med dette rollecenter kan du administrere købsdokumenter, indgående elektroniske dokumenter (både e-fakturaer og PDF-filer) og betalingsprocesser fra en enkelt grænseflade.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-account-payables-administrator-role-center"
+    },
+    "nl": {
+      "title": "Het rolcentrum Leveranciers gebruiken",
+      "summary": "Centraliseer crediteurentaken en documenten op één plek met het nieuwe rolcentrum voor crediteuren.",
+      "details": "### Zakelijke waarde\n\nMet het nieuwe rolcentrum voor leveranciers worden werkstromen vereenvoudigd door alle gerelateerde documenten en taken op één plek te centraliseren. Het rolcentrum maakt het eenvoudiger om inkoopdocumenten, inkomende e-documenten (zowel e-facturen als pdf's) en betalingsprocessen af te handelen. Door deze taken te consolideren, vermindert u de tijd die u aan administratief werk besteedt, minimaliseert u fouten en verbetert u de productiviteit.\n\n### Functiedetails\n\nMet het rolcentrum voor leveranciers worden alle taken, documenten en entiteiten met betrekking tot leveranciers gecentraliseerd. Met dit rolcentrum kunt u inkoopdocumenten, inkomende elektronische documenten (zowel e-facturen als pdf's) en betalingsprocessen beheren vanuit één enkele interface.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-account-payables-administrator-role-center"
+    },
+    "fr": {
+      "title": "Utiliser le tableau de bord Comptabilité fournisseur",
+      "summary": "Centralisez les tâches et les documents liés aux comptes fournisseurs dans un seul et même emplacement grâce au nouveau tableau de bord Comptes fournisseurs.",
+      "details": "### Valeur commerciale\n\nLe nouveau tableau de bord Comptes fournisseurs simplifie les workflows liés aux comptes fournisseurs en centralisant tous les documents et tâches associés dans un seul et même emplacement. Le tableau de bord facilite la gestion des documents d’achat, des documents électroniques entrants (factures électroniques et PDF) et des processus de paiement. En consolidant ces tâches, vous réduisez le temps consacré au travail administratif, minimisez les erreurs et améliorez la productivité.\n\n### Détails de la fonctionnalité\n\nLe Centre de rôle Comptabilité fournisseurs centralise toutes les tâches, tous les documents et toutes les entités liés à la comptabilité fournisseur. Avec ce tableau de bord, vous pouvez gérer les documents d’achat, les documents électroniques entrants (factures électroniques et PDF) et les processus de paiement à partir d’une interface unique.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-account-payables-administrator-role-center"
+    }
+  }
+}

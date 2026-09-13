@@ -1,0 +1,30 @@
+{
+  "id": "3bf89d52e811debc",
+  "title": "Data administration and cleanup tasks page",
+  "languages": {
+    "en": {
+      "title": "Data cleanup tasks page",
+      "summary": "Page for data compress and cleanup tasks",
+      "details": "### Business value\n\nTable and database sizes have a significant impact on the performance of Business Central online. We're providing tools to help administrators manage data and leverage the full potential of Business Central at a more adjusted cost.\n\n### Feature details\n\nIn Dynamics 365 Business Central, administrators have different options for handling table and database sizes. Until now, these options have been available through several different pages and roles. With this new page, all processes are displayed in a single place. An in-product assistant can be used for guidance.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/data-clean-up-tasks-page"
+    },
+    "da": {
+      "title": "Side med opgaver til dataoprydning",
+      "summary": "Side for datakomprimering og oprydningsopgaver",
+      "details": "### Forretningsværdi\n\nTabel- og databasestørrelser har en betydelig indflydelse på effektiviteten i Business Central Online. Vi leverer værktøjer, der hjælper administratorer med at administrere data og udnytte det fulde potentiale i Business Central til en mere reguleret kostpris.\n\n### Funktionsdetaljer\n\nI Dynamics 365 Business Central har administratorer forskellige muligheder for at håndtere tabel- og databasestørrelser. Indtil nu har disse muligheder været tilgængelige via flere forskellige sider og roller. Med denne nye side vises alle processer på et samlet sted. En assistent i selve produktet kan bruges som vejledning.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/data-clean-up-tasks-page"
+    },
+    "nl": {
+      "title": "Data cleanup tasks page",
+      "summary": "Page for data compress and cleanup tasks",
+      "details": "### Business value\n\nTable and database sizes have a significant impact on the performance of Business Central online. We're providing tools to help administrators manage data and leverage the full potential of Business Central at a more adjusted cost.\n\n### Feature details\n\nIn Dynamics 365 Business Central, administrators have different options for handling table and database sizes. Until now, these options have been available through several different pages and roles. With this new page, all processes are displayed in a single place. An in-product assistant can be used for guidance.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/data-clean-up-tasks-page"
+    },
+    "fr": {
+      "title": "Data cleanup tasks page",
+      "summary": "Page for data compress and cleanup tasks",
+      "details": "### Business value\n\nTable and database sizes have a significant impact on the performance of Business Central online. We're providing tools to help administrators manage data and leverage the full potential of Business Central at a more adjusted cost.\n\n### Feature details\n\nIn Dynamics 365 Business Central, administrators have different options for handling table and database sizes. Until now, these options have been available through several different pages and roles. With this new page, all processes are displayed in a single place. An in-product assistant can be used for guidance.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/data-clean-up-tasks-page"
+    }
+  }
+}

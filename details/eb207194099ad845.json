@@ -1,0 +1,30 @@
+{
+  "id": "eb207194099ad845",
+  "title": "Access attachments on additional list pages",
+  "languages": {
+    "en": {
+      "title": "Access attachments on additional list pages",
+      "summary": "You can access document attachments on additional list pages.",
+      "details": "### Business value\n\nBeing able to quickly get to file attachments that contain additional information about a record, such as customer and vendor contracts, improves productivity. For example, fast access to contract details can help you be more informed when you respond to customer or vendor queries or handle various audit scenarios.\n\n### Feature details\n\nTo make it easier to access the files attached to records, the Attachments FactBox, which contains the files, is available on several additional list pages: Fixed Assets VAT Returns Employees Items Resources Purchase Return Orders Vendors Posted Sales Credit Memos Sales Return Orders Note We'd like to thank our community for making this valuable contribution through our open-source Base Application repository on GitHub.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/access-attachments-additional-list-pages"
+    },
+    "da": {
+      "title": "Adgang til vedhæftede dokumenter på yderligere listesider",
+      "summary": "Du kan få adgang til vedhæftede dokumenter på yderligere listesider.",
+      "details": "### Forretningsværdi\n\nProduktiviteten kan forbedres, hvis du hurtigt kan få fat i vedhæftede filer, der indeholder yderligere oplysninger om en post, såsom debitor- og kreditorkontrakter. Hurtig adgang til kontraktoplysninger kan f.eks. hjælpe dig med at være bedre informeret, når du svarer på debitor- eller kreditorforespørgsler eller håndterer forskellige revisionsscenarier.\n\n### Funktionsdetaljer\n\nFaktaboksen Vedhæftede filer, som indeholder filerne, er tilgængelig på flere yderligere listesider for at gøre det nemmere at få adgang til de filer, der er knyttet til poster: Anlæg Momsangivelser Medarbejdere Elementer Ressourcer Købsreturordrer Kreditorer Bogførte salgskreditnotaer Salgsreturordrer Bemærk Tak til vores community for at yde dette værdifulde bidrag gennem vores GitHub-lager med open source basisapplikationer.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/access-attachments-additional-list-pages"
+    },
+    "nl": {
+      "title": "Toegang tot bijlagen op extra lijstpagina's",
+      "summary": "U kunt documentbijlagen openen op extra lijstpagina's.",
+      "details": "### Zakelijke waarde\n\nDe productiviteit wordt verbeterd als u snel naar bestandsbijlagen kunt gaan die aanvullende informatie over een record bevatten, zoals klant- en leverancierscontracten. Dankzij snelle toegang tot contractdetails bent u bijvoorbeeld beter geïnformeerd wanneer u moet reageren op vragen van klanten of leveranciers of wanneer u verschillende auditscenario's afhandelt.\n\n### Functiedetails\n\nOm gemakkelijker toegang te bieden tot de bestanden die aan records zijn gekoppeld, is op verschillende extra lijstpagina's het feitenblok Bijlagen met bestanden beschikbaar: Vaste activa Btw-aangiften Werknemers Artikelen Informatiebronnen Inkoopretourorders Leveranciers Geboekte verkoopcreditnota's Verkoopretourorders Opmerking Dankwoord aan onze community voor het leveren van deze waardevolle bijdrage via onze opensource Base Application-repository op GitHub.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/access-attachments-additional-list-pages"
+    },
+    "fr": {
+      "title": "Accès aux pièces jointes sur des pages de liste supplémentaires",
+      "summary": "Vous pouvez accéder aux documents joints sur des pages de liste supplémentaires.",
+      "details": "### Valeur commerciale\n\nLa possibilité d’accéder rapidement aux pièces jointes contenant des informations supplémentaires sur un enregistrement, comme les contrats client et fournisseur, améliore la productivité. Par exemple, un accès rapide aux détails du contrat peut vous aider à être mieux informé quand vous répondez aux requêtes des clients ou des fournisseurs ou quand vous gérez divers scénarios d’audit.\n\n### Détails de la fonctionnalité\n\nPour faciliter l’accès aux fichiers joints aux enregistrements, le récapitulatif Pièces jointes, qui contient les fichiers, est disponible sur plusieurs pages de liste supplémentaires : Immobilisations Retours TVA Employés Articles Ressources Retours achat Fournisseurs Avoirs vente validés Retours vente Remarque Nous voulons remercier notre communauté pour avoir apporté cette précieuse contribution via notre référentiel d’applications de base open source sur GitHub.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/access-attachments-additional-list-pages"
+    }
+  }
+}

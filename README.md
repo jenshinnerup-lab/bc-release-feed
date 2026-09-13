@@ -37,8 +37,29 @@ Extension Management, or the call is blocked before it leaves the tenant.
 }
 ```
 
-Localized titles appear as `title_da`, `title_nl` and `title_fr` when the feed
-is generated with `--locales`.
+Localized titles appear as `title_da`, `title_nl` and `title_fr`, and Microsoft's
+one-line summary as `summary` plus `summary_da`, `summary_nl` and `summary_fr`.
+
+## Full descriptions
+
+`details/<feature-id>.json` carries Microsoft's complete text — business value
+and feature details — in every language that has one:
+
+```json
+{
+  "id": "0019b39b0136ea13",
+  "title": "...",
+  "languages": {
+    "en": { "title": "...", "summary": "...", "details": "...", "source_url": "..." },
+    "da": { "...": "..." }
+  }
+}
+```
+
+These are kept out of `releases.json` on purpose. Together they run to 5.5 MB,
+and single descriptions pass 50,000 characters, so the extension fetches one
+file at a time for the features someone opens and stores the result in the
+tenant.
 
 ## What is not here
 

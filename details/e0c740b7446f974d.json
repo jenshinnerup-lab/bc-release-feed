@@ -1,0 +1,30 @@
+{
+  "id": "e0c740b7446f974d",
+  "title": "Use embedded Power BI reports out of the box (general availability)",
+  "languages": {
+    "en": {
+      "title": "Use embedded Power BI reports out of the box",
+      "summary": "Use Power BI reports to get insights into your business.",
+      "details": "### Business value\n\nIt's easier than ever to leverage your business data and get insights into your operations. You can analyze your business data with out-of-the-box Power BI reports for finance, sales, purchasing, inventory, manufacturing, and projects.\n\n### Feature details\n\nBusiness Central gives you many options for reporting, business intelligence (BI) dashboards, and data analysis. This release wave adds many new reports for finance, sales, purchasing, inventory, manufacturing, and projects. Specifically, you get the following Power BI reports: Finance: 14 reports Sales: 12 reports Purchasing: 13 reports Inventory: 7 reports Manufacturing: 11 reports Projects: 6 reports See all reports here: Power BI apps/reports for functional areas You can also embed the Power BI Metrics scorecards you use to track your important KPIs directly in Business Central.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/use-embedded-power-bi-reports-out-box"
+    },
+    "da": {
+      "title": "Brug integrerede Power BI-rapporter direkte",
+      "summary": "Brug Power BI rapporter til at få indsigt i din virksomhed.",
+      "details": "### Forretningsværdi\n\nDet er nemmere end nogensinde før at udnytte dine forretningsdata og få indsigt i din drift. Du kan analysere dine forretningsdata med indbyggede Power BI rapporter for økonomi, salg, køb, lager, produktion og projekter.\n\n### Detaljer om funktioner\n\nBusiness Central giver dig mange muligheder for rapportering, BI-dashboards (business intelligence) og dataanalyse. Denne udgivelsesbølge tilføjer mange nye rapporter til økonomi, salg, indkøb, lager, produktion og projekter. Du får specifikt følgende Power BI-rapporter: Økonomi: 14 rapporter Salg: 12 rapporter Indkøb: 13 rapporter Lager: 7 rapporter Produktion: 11 rapporter Projekter: 6 rapporter Se alle rapporter her: Power BI apps/rapporter for funktionelle områder Du kan også integrere de Power BI-målepunkter, du bruger til at spore dine vigtige KPI'er, direkte i Business Central.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/use-embedded-power-bi-reports-out-box"
+    },
+    "nl": {
+      "title": "Ingesloten Power BI rapporten standaard gebruiken",
+      "summary": "Gebruik Power BI rapporten om inzicht te krijgen in uw bedrijf.",
+      "details": "### Zakelijke waarde\n\nHet is gemakkelijker dan ooit om uw bedrijfsgegevens te benutten en inzicht te krijgen in uw activiteiten. U kunt uw bedrijfsgegevens analyseren met out-of-the-box Power BI rapporten voor financiën, verkoop, aankoop, voorraad, productie en projecten.\n\n### Details van functies\n\nBusiness Central biedt u veel opties voor rapportage, business intelligence (BI) dashboards en data-analyse. Deze releasewave voegt veel nieuwe rapporten toe voor financiën, verkoop, inkoop, voorraad, productie en projecten. Concreet krijgt u de volgende Power BI-rapporten: Financieel: 14 rapporten Verkoop: 12 rapporten Inkoop: 13 rapporten Voorraad: 7 rapporten Productie: 11 rapporten Projecten: 6 rapporten Bekijk hier alle rapporten: Power BI apps/rapporten voor functionele gebieden U kunt de Power BI Metrics-scorekaarten die u gebruikt om uw belangrijke KPI's bij te houden, ook rechtstreeks in Business Central insluiten.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/use-embedded-power-bi-reports-out-box"
+    },
+    "fr": {
+      "title": "Utiliser des rapports de Power BI incorporés hors de la boîte de dialogue",
+      "summary": "Utilisez Power BI rapports pour obtenir des informations sur votre entreprise.",
+      "details": "### Valeur commerciale\n\nIl est plus facile que jamais d’exploiter les données de votre entreprise et d’obtenir des informations sur vos opérations. Vous pouvez analyser vos données métier avec des rapports Power BI prêtes à l’emploi pour la finance, les ventes, l’achat, l’inventaire, la fabrication et les projets.\n\n### Détails des fonctionnalités\n\nBusiness Central vous offre de nombreuses options pour la création de rapports, les tableaux de bord de Business Intelligence (BI) et l’analyse des données. Cette vague de lancement ajoute de nombreux nouveaux rapports pour les finances, les ventes, les achats, les stocks, la fabrication et les projets. Plus précisément, vous obtenez les rapports Power BI suivants : Finance : 14 rapports Ventes : 12 rapports Achats : 13 rapports Stocks : 7 rapports Fabrication : 11 rapports Projets : 6 rapports Consultez tous les rapports ici : Power BI applications/rapports pour les domaines fonctionnels Vous pouvez également incorporer les cartes de performance des métriques Power BI que vous utilisez pour suivre vos indicateurs de performance clés importants directement dans Business Central.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/use-embedded-power-bi-reports-out-box"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "43f192febedff920",
+  "title": "Include job information in archived sales and purchase documents",
+  "languages": {
+    "en": {
+      "title": "Include job information in archived sales and purchase documents",
+      "summary": "You can now archive job-related data together with archived sales and purchase documents.",
+      "details": "### Business value\n\nOrders and quotes are likely to go through a few iterations until agreed to with customers or vendors. Throughout this process, it is useful to keep track of different versions of quotes and orders—in particular, information related to projects or jobs.\n\n### Feature details\n\nYou can now archive job-related data on sales or purchase quotes and orders.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/include-job-information-archived-sales-purchase-documents"
+    },
+    "da": {
+      "title": "Include job information in archived sales and purchase documents",
+      "summary": "You can now archive job-related data together with archived sales and purchase documents.",
+      "details": "### Business value\n\nOrders and quotes are likely to go through a few iterations until agreed to with customers or vendors. Throughout this process, it is useful to keep track of different versions of quotes and orders—in particular, information related to projects or jobs.\n\n### Feature details\n\nYou can now archive job-related data on sales or purchase quotes and orders.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2019wave2/dynamics365-business-central/include-job-information-archived-sales-purchase-documents"
+    },
+    "nl": {
+      "title": "Include job information in archived sales and purchase documents",
+      "summary": "You can now archive job-related data together with archived sales and purchase documents.",
+      "details": "### Business value\n\nOrders and quotes are likely to go through a few iterations until agreed to with customers or vendors. Throughout this process, it is useful to keep track of different versions of quotes and orders—in particular, information related to projects or jobs.\n\n### Feature details\n\nYou can now archive job-related data on sales or purchase quotes and orders.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2019wave2/dynamics365-business-central/include-job-information-archived-sales-purchase-documents"
+    },
+    "fr": {
+      "title": "Include job information in archived sales and purchase documents",
+      "summary": "You can now archive job-related data together with archived sales and purchase documents.",
+      "details": "### Business value\n\nOrders and quotes are likely to go through a few iterations until agreed to with customers or vendors. Throughout this process, it is useful to keep track of different versions of quotes and orders—in particular, information related to projects or jobs.\n\n### Feature details\n\nYou can now archive job-related data on sales or purchase quotes and orders.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2019wave2/dynamics365-business-central/include-job-information-archived-sales-purchase-documents"
+    }
+  }
+}

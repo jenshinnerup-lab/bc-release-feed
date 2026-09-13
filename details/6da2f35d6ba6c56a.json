@@ -1,0 +1,30 @@
+{
+  "id": "6da2f35d6ba6c56a",
+  "title": "Swedish localization delivered as extension",
+  "languages": {
+    "en": {
+      "title": "Swedish localization delivered as extension",
+      "summary": "Swedish localization will be delivered as an extension.",
+      "details": "### Business value\n\nWith 2023 release wave 1, Swedish localization will be delivered as an extension.\n\n### Feature details\n\nSwedish localization will be delivered as an extension. The solution will offer a data upgrade from the old localization to the new one. This release is a step toward delocalization where ISVs will be able to release their apps for a broader market.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/swedish-localization-app--delocalization"
+    },
+    "da": {
+      "title": "Svensk lokalisering leveret som udvidelse",
+      "summary": "Svensk lokalisering leveret som udvidelse.",
+      "details": "### Forretningsværdi\n\nI udgivelsesbølge 1 for 2023 leveres svensk lokalisering som en udvidelse.\n\n### Funktionsdetaljer\n\nSvensk lokalisering leveret som udvidelse. Løsningen vil tilbyde en dataopgradering fra den gamle lokalisering til den nye. Denne udgivelse er et skridt mod aflokalisering, hvor ISV'er kan frigive deres apps til et større marked.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/swedish-localization-app--delocalization"
+    },
+    "nl": {
+      "title": "Zweedse lokalisatie beschikbaar als extensie",
+      "summary": "Zweedse lokalisatie wordt beschikbaar gemaakt als een extensie.",
+      "details": "### Zakelijke waarde\n\nBij releasewave 1 van 2023 wordt Zweedse lokalisatie wordt beschikbaar gemaakt als een extensie.\n\n### Functiedetails\n\nZweedse lokalisatie wordt beschikbaar gemaakt als een extensie. De oplossing biedt een gegevensupgrade van de oude lokalisatie naar de nieuwe versie. Deze release is een stap in de richting van delokalisatie, waarbij ISV's hun apps voor een bredere markt kunnen vrijgeven.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/swedish-localization-app--delocalization"
+    },
+    "fr": {
+      "title": "Localisation suédoise livrée en tant qu’extension",
+      "summary": "La localisation suédoise sera livrée en tant qu’extension.",
+      "details": "### Valeur commerciale\n\nAvec la 1re vague de lancement de 2023, la localisation suédoise sera livrée en tant qu’extension.\n\n### Détails de la fonctionnalité\n\nLa localisation suédoise sera livrée en tant qu’extension. La solution offrira une mise à niveau des données de l’ancienne localisation vers la nouvelle. Cette version est une étape vers la délocalisation où les ISV pourront publier leurs applications pour un marché plus vaste.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/swedish-localization-app--delocalization"
+    }
+  }
+}

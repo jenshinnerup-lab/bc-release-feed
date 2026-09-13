@@ -1,0 +1,30 @@
+{
+  "id": "aba6e8217e07806e",
+  "title": "Add unit cost in subscription lines",
+  "languages": {
+    "en": {
+      "title": "Add unit cost in subscription lines",
+      "summary": "Calculate costs of subscriptions effectively by using unit costs on subscription lines.",
+      "details": "### Business value\n\nEffective cost control starts with accurate data. To evaluate profit, you need unit costs on subscription lines so you can compare revenue.\n\n### Feature details\n\nSubscription Billing supports unit costs for subscription lines, starting with the sales process. The subscriptions display unit costs, and the billing proposal and document lines you create include these costs. In a usage data scenario, unit costs come from actual costs based on the usage data your supplier provides.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/add-unit-cost-subscription-lines"
+    },
+    "da": {
+      "title": "Tilføje enhedsomkostninger i abonnementslinjer",
+      "summary": "Beregne omkostninger ved abonnementer effektivt ved at bruge enhedsomkostninger på abonnementslinjer.",
+      "details": "### Forretningsværdi\n\nEffektiv omkostningsstyring starter med nøjagtige data. Hvis du vil evaluere overskuddet, skal du bruge enhedsomkostninger på abonnementslinjer, så du kan sammenligne omsætningen.\n\n### Funktionsoplysninger\n\nAbonnementsfakturering understøtter enhedsomkostninger for abonnementslinjer, startende med salgsprocessen. Abonnementerne viser enhedsomkostninger, og det faktureringsforslag og de dokumentlinjer, du opretter, omfatter disse omkostninger. I et scenarie med forbrugsdata kommer enhedsomkostninger fra faktiske omkostninger baseret på de forbrugsdata, som din leverandør leverer.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/add-unit-cost-subscription-lines"
+    },
+    "nl": {
+      "title": "Kostprijs per eenheid toevoegen in abonnementsregels",
+      "summary": "Bereken de kosten van abonnementen effectief door eenheidskosten te gebruiken op abonnementsregels.",
+      "details": "### Zakelijke waarde\n\nEffectieve kostenbeheersing begint met nauwkeurige gegevens. Om de winst te evalueren, hebt u eenheidskosten op abonnementslijnen nodig, zodat u de inkomsten kunt vergelijken.\n\n### Functiedetails\n\nFacturering op basis van abonnementen ondersteunt de eenheidskosten voor abonnementslijnen, te beginnen met het verkoopproces. De abonnementen geven eenheidskosten weer en deze kosten zijn opgenomen in het factureringsvoorstel en de documentregels die u maakt. In een scenario met gebruiksgegevens zijn de eenheidskosten afkomstig van de werkelijke kosten op basis van de gebruiksgegevens die uw leverancier verstrekt.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/add-unit-cost-subscription-lines"
+    },
+    "fr": {
+      "title": "Ajouter le coût unitaire dans les lignes d’abonnement",
+      "summary": "Calculer efficacement les coûts des abonnements en utilisant les coûts unitaires sur les lignes d’abonnement.",
+      "details": "### Valeur commerciale\n\nUn contrôle efficace des coûts commence par des données précises. Pour évaluer les bénéfices, vous avez besoin des coûts unitaires sur les lignes d’abonnement afin de pouvoir comparer les revenus.\n\n### Détails des fonctionnalités\n\nLa facturation par abonnement prend en charge les coûts unitaires des lignes d’abonnement, en commençant par le processus de vente. Les abonnements affichent les coûts unitaires, et les propositions de facturation et les lignes de document que vous créez incluent ces coûts. Dans un scénario de données d’utilisation, les coûts unitaires proviennent des coûts réels basés sur les données d’utilisation fournies par votre fournisseur.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/add-unit-cost-subscription-lines"
+    }
+  }
+}

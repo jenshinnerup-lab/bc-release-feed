@@ -1,0 +1,30 @@
+{
+  "id": "f8a8224ed822de5c",
+  "title": "Get report (raw data) into Excel from request page",
+  "languages": {
+    "en": {
+      "title": "Get report (raw) data in Excel from the request page",
+      "summary": "You can now export the dataset for a report to Excel for additional analysis.",
+      "details": "### Business value\n\nReports provide a view of structured business data, but often you want access to the data behind the report for analysis and fact finding. The data is the raw dataset from the report, filtered based on your selection in the request page. The data includes all calculations and aggregations in the report, but it is presented without any layouts on top. It's ready for your analysis or a user-defined presentation in Excel.\n\n### Feature details\n\nFrom the Send to menu on the request page, users can now choose Microsoft Excel Document (data only). When you choose this option, Business Central generates the report without a layout and presents the raw dataset in an Excel file.\n\n### See also\n\nWorking with Reports, Batch Jobs, and XMLports (docs)\n\n### Additional resources\n\nLast updated on 2021-07-12 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/get-report-raw-data-excel-request-page"
+    },
+    "da": {
+      "title": "Hente rapportdata (rå) i Excel fra anmodningssiden",
+      "summary": "Du kan nu eksportere datasættet til en rapport til Excel med henblik på yderligere analyse.",
+      "details": "### Forretningsværdi\n\nRapporter giver et overblik over strukturerede virksomhedsdata, men ofte kan det være nyttigt at få adgang til dataene bag rapporten med henblik på analyse og faktasøgning. Dataene er det rå datasæt fra rapporten, som er filtreret i overensstemmelse med dit valg på anmodningssiden. Dataene omfatter alle beregninger og aggregeringer i rapporten, men de vises uden layout ovenpå. Den er klar til din analyse eller til en brugerdefineret præsentation i Excel.\n\n### Funktionsdetaljer\n\nI menuen Send til på anmodningssiden kan brugerne nu vælge Microsoft Excel-dokument (kun data). Når du vælger denne funktion, genererer Business Central rapporten uden et layout og viser det rå datasæt i en Excel-fil.\n\n### Se også\n\nArbejde med rapporter, batchjob og XMLports (dokumentation)\n\n### Yderligere ressourcer\n\nLast updated on 2022-09-05 I denne artikel da-dk Dine valg af beskyttelse af personlige oplysninger Tema Lys Mørk Høj kontrast AI-ansvarsfraskrivelse Tidligere versioner Blog Bidrag Beskyttelse af personlige oplysninger Beskyttelse af personlige oplysninger for forbrugerbeskyttelse Vilkår for anvendelse Varemærker © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/get-report-raw-data-excel-request-page"
+    },
+    "nl": {
+      "title": "Get report (raw) data in Excel from the request page",
+      "summary": "You can now export the dataset for a report to Excel for additional analysis.",
+      "details": "### Business value\n\nReports provide a view of structured business data, but often you want access to the data behind the report for analysis and fact finding. The data is the raw dataset from the report, filtered based on your selection in the request page. The data includes all calculations and aggregations in the report, but it is presented without any layouts on top. It's ready for your analysis or a user-defined presentation in Excel.\n\n### Feature details\n\nFrom the Send to menu on the request page, users can now choose Microsoft Excel Document (data only). When you choose this option, Business Central generates the report without a layout and presents the raw dataset in an Excel file.\n\n### See also\n\nWorking with Reports, Batch Jobs, and XMLports (docs)\n\n### Aanvullende resources\n\nLast updated on 2021-07-12 In dit artikel nl-nl Uw privacykeuzes Thema Licht Donker Hoog contrast AI-disclaimer Vorige versies Blog Bijdragen Privacy Privacy van gezondheidsdata Gebruiksvoorwaarden Handelsmerken © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/get-report-raw-data-excel-request-page"
+    },
+    "fr": {
+      "title": "Get report (raw) data in Excel from the request page",
+      "summary": "You can now export the dataset for a report to Excel for additional analysis.",
+      "details": "### Business value\n\nReports provide a view of structured business data, but often you want access to the data behind the report for analysis and fact finding. The data is the raw dataset from the report, filtered based on your selection in the request page. The data includes all calculations and aggregations in the report, but it is presented without any layouts on top. It's ready for your analysis or a user-defined presentation in Excel.\n\n### Feature details\n\nFrom the Send to menu on the request page, users can now choose Microsoft Excel Document (data only). When you choose this option, Business Central generates the report without a layout and presents the raw dataset in an Excel file.\n\n### See also\n\nWorking with Reports, Batch Jobs, and XMLports (docs)\n\n### Ressources supplémentaires\n\nLast updated on 2021-07-12 Dans cet article fr-fr Vos choix en matière de confidentialité Thème Clair Sombre Contraste élevé Clause d’exclusion de responsabilité sur l’IA Versions antérieures Blog Collaboration Confidentialité Confidentialité de la santé des consommateurs Conditions d’utilisation Accessibilité Marques © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/get-report-raw-data-excel-request-page"
+    }
+  }
+}

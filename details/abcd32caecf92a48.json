@@ -1,0 +1,30 @@
+{
+  "id": "abcd32caecf92a48",
+  "title": "Additional types of document approval templates for Power Automate",
+  "languages": {
+    "en": {
+      "title": "New approval workflow experience with Power Automate templates",
+      "summary": "Templates from Power Automate make it easier to create and run approval workflows.",
+      "details": "### Business value\n\nAdvanced and flexible approval workflows don't need to be complex. Business owners or decision makers can choose from multiple templates when they set up approval workflows in Business Central.\n\n### Feature details\n\nBusiness Central online customers who use Power Automate to run document approval workflows are able to do so easily with this release. Several actions linked to workflow approvals and Power Automate have been improved with additional support for selecting one of many templates for each document type. Users and decisions makers can use Power Automate to run approval and take advantage of the rich experience: Define workflows tied to a selected Business Central environment and company. Approve documents using mobile devices. Approve documents using Microsoft Teams. Support a chain of approvers and additional input.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/new-approval-workflow-experience-templates-power-automate"
+    },
+    "da": {
+      "title": "Ny godkendelses-arbejdsproces med Power Automate-skabeloner",
+      "summary": "Skabeloner fra Power Automate gør det nemmere at oprette og køre godkendelsesarbejdsprocesser.",
+      "details": "### Forretningsværdi\n\nAvancerede og fleksible godkendelsesarbejdsprocesser behøver ikke at være komplekse. Virksomhedsejere eller beslutningstagere kan vælge mellem flere skabeloner, når de opsætter godkendelses-arbejdsprocesser i Business Central.\n\n### Funktionsdetaljer\n\nBusiness Central Online-kunder, der bruger Power Automate til at køre arbejdsprocesser til godkendelse af dokumenter, kan nemt gøre det med denne udgivelse. Adskillige handlinger, der er knyttet til arbejdsproces-godkendelser og Power Automate, er blevet forbedret med yderligere støtte til at vælge en af mange skabeloner for hver dokumenttype. Brugere og beslutningstagere kan benytte Power Automate til at køre godkendelser og udnytte den fantastiske oplevelse: Definer arbejdsprocesser, der er knyttet til et udvalgt Business Central-miljø og en udvalgt Business Central-virksomhed. Godkend dokumenter vha. mobilenheder. Godkend dokumenter vha. Microsoft Teams. Støt en kæde af godkendere og yderligere input.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/new-approval-workflow-experience-templates-power-automate"
+    },
+    "nl": {
+      "title": "Nieuwe goedkeuringswerkstroomervaring met Power Automate-sjablonen",
+      "summary": "Met de sjablonen van Power Automate is het eenvoudiger om goedkeuringswerkstromen te maken en uit te voeren.",
+      "details": "### Zakelijke waarde\n\nGeavanceerde en flexibele goedkeuringswerkstromen hoeven niet ingewikkeld te zijn. Bedrijfseigenaren of beslissers kunnen kiezen uit meerdere sjablonen wanneer ze goedkeuringswerkstromen instellen in Business Central.\n\n### Functiedetails\n\nBusiness Central Online-klanten die Power Automate gebruiken om goedkeuringswerkstromen voor documenten uit te voeren, worden met deze release op hun wenken bediend. Verschillende acties die zijn gekoppeld aan werkstroomgoedkeuringen en Power Automate zijn verbeterd, met extra ondersteuning voor het selecteren van een van de vele sjablonen voor elk documenttype. Gebruikers en beslissers kunnen met Power Automate goedkeuringen uitvoeren en profiteren van de diepgaande mogelijkheden: Werkstromen definiëren die zijn gekoppeld aan een geselecteerde Business Central-omgeving en bedrijf. Documenten goedkeuren met behulp van mobiele apparaten. Documenten goedkeuren met behulp van Microsoft Teams. Een keten van fiatteurs en aanvullende invoer ondersteunen.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/new-approval-workflow-experience-templates-power-automate"
+    },
+    "fr": {
+      "title": "Nouvelle expérience de workflows d’approbation avec les modèles Power Automate",
+      "summary": "Les modèles de Power Automate facilitent la création et l’exécution de workflows d’approbation.",
+      "details": "### Valeur commerciale\n\nLes workflows d’approbation avancés et flexibles n’ont pas besoin d’être complexes. Les chefs d’entreprise ou les décisionnaires peuvent choisir parmi plusieurs modèles lorsqu’ils configurent des workflows d’approbation dans Business Central.\n\n### Détails de la fonctionnalité\n\nLes clients Business Central Online qui utilisent Power Automate pour exécuter des workflows d’approbation de documents peuvent le faire facilement avec cette version. Plusieurs actions liées aux approbations de workflow et Power Automate ont été améliorées avec une prise en charge supplémentaire pour la sélection de l’un des nombreux modèles pour chaque type de document. Les utilisateurs et les décisionnaires peuvent utiliser Power Automate pour exécuter l’approbation et tirer parti de la richesse de l’expérience : Définissez des workflows liés à un environnement Business Central et à une entreprise sélectionnés. Approuvez des documents à l’aide d’appareils mobiles. Approuvez les documents à l’aide de Microsoft Teams. Prenez en charge une chaîne d’approbateurs et d’entrées supplémentaires.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/new-approval-workflow-experience-templates-power-automate"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "8db84cf9ea4674ca",
+  "title": "Generate a CSRD preparation report",
+  "languages": {
+    "en": {
+      "title": "Generate a CSRD preparation report",
+      "summary": "Print reports that feature data prepared for CSRD reporting, complete with taxonomies for clarity and compliance.",
+      "details": "### Business value\n\nYou can simplify your Corporate Sustainability Reporting Directive (CSRD) reporting by printing reports with prepared data and taxonomies if you don't want to use integration for ESG reporting.\n\n### Feature details\n\nIn Business Central, you can configure taxonomies that use various transactional data sources. The initial setup uses demo data, but you can change it to meet your needs. After you configure the taxonomies, you can aggregate existing data. If you don't integrate with a reporting tool, you can create a report layout to use as a preparation document for CSRD reporting.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/generate-csrd-preparation-report"
+    },
+    "da": {
+      "title": "Generér en CSRD-forberedelsesrapport",
+      "summary": "Udskriv rapporter, der indeholder data, som er udarbejdet til CSRD-rapportering, komplet med taksonomier for klarhed og overholdelse.",
+      "details": "### Forretningsværdi\n\nDu kan forenkle din CSRD-rapportering (Direktiv om virksomheders bæredygtighedsrapportering) ved at udskrive rapporter med forberedte data og taksonomier, hvis du ikke vil bruge integration til ESG-rapportering.\n\n### Detaljer om funktioner\n\nI Business Central kan du konfigurere taksonomier, der bruger forskellige transaktionsdatakilder. Den første opsætning bruger demodata, men du kan ændre dem, så de opfylder dine behov. Når du har konfigureret taksonomierne, kan du aggregere eksisterende data. Hvis du ikke integrerer med et rapporteringsværktøj, kan du oprette et rapportlayout, der skal bruges som et forberedelsesdokument til CSRD-rapportering.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/generate-csrd-preparation-report"
+    },
+    "nl": {
+      "title": "Een CSRD-voorbereidingsrapport genereren",
+      "summary": "Druk rapporten af met gegevens die zijn voorbereid voor CSRD-rapportage, compleet met taxonomieën voor duidelijkheid en compliance.",
+      "details": "### Zakelijke waarde\n\nU kunt uw CSRD-rapportage (richtlijn inzake duurzaamheidsrapportage door ondernemingen) vereenvoudigen door rapporten met voorbereide gegevens en taxonomieën af te drukken als u geen integratie wilt gebruiken voor ESG-rapportage.\n\n### Details van functies\n\nIn Business Central kunt u taxonomieën configureren die gebruikmaken van verschillende transactionele gegevensbronnen. De eerste installatie maakt gebruik van demogegevens, maar u kunt deze wijzigen om aan uw behoeften te voldoen. Nadat u de taxonomieën hebt geconfigureerd, kunt u bestaande gegevens aggregeren. Als u niet integreert met een rapportagetool, kunt u een rapportlay-out maken die u kunt gebruiken als voorbereidingsdocument voor CSRD-rapportage.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/generate-csrd-preparation-report"
+    },
+    "fr": {
+      "title": "Générer un rapport de préparation CSRD",
+      "summary": "Imprimer des rapports contenant des données préparées en vue de rapports CSRD, utilisant des taxonomies pour une clarté accrue et une mise en conformité efficace.",
+      "details": "### Valeur commerciale\n\nVous pouvez simplifier vos rapports CSRD en imprimant des rapports contenant des données préparées et des taxonomies si vous ne souhaitez pas utiliser l’intégration pour les rapports ESG.\n\n### Détails des fonctionnalités\n\nDans Business Central, vous pouvez configurer des taxonomies qui utilisent différentes sources de données transactionnelles. La configuration initiale utilise des données de démonstration, mais vous pouvez les modifier pour répondre à vos besoins. Après avoir configuré les taxonomies, vous pouvez agréger les données existantes. Si vous ne l’intégrez pas à un outil de reporting, vous pouvez créer une mise en page de rapport à utiliser comme document de préparation pour le reporting CSRD.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/generate-csrd-preparation-report"
+    }
+  }
+}

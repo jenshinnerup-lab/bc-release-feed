@@ -1,0 +1,30 @@
+{
+  "id": "0b5f4e575bf2f340",
+  "title": "Use e-documents to fix unposted purchase documents",
+  "languages": {
+    "en": {
+      "title": "Use e-documents to fix unposted purchase documents",
+      "summary": "You can recreate unposted purchase invoices or credit memos from an incoming standard or corrective e-document if it was accidentally deleted.",
+      "details": "### Business value\n\nMistakes happen, so it's important to fix them quickly. If you accidentally delete a purchase invoice or credit memo and can't link the incoming e-document to the correct document, you can now recreate the purchase document from the details in the e-document. Problem solved.\n\n### Feature details\n\nIf you accidentally delete a purchase invoice or credit memo, you can't connect the e-document with the regular purchase document in Business Central. To resolve the issue, run the Recreate Document action from the e-document. The action creates an unposted purchase invoice or credit memo based on the incoming document type. It uses the information in the incoming document, G/L mapping, and item references.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-e-documents-fix-unposted-purchase-credit-memos"
+    },
+    "da": {
+      "title": "Brug e-dokumenter til at rette ikke-bogførte købsdokumenter",
+      "summary": "Du kan genskabe ikke-bogførte købsfakturaer eller -kreditnotaer fra et indgående standard eller korrigerende e-dokument, hvis det er blevet slettet ved et uheld.",
+      "details": "### Forretningsværdi\n\nFejl sker, så det er vigtigt at rette dem hurtigt. Hvis du ved et uheld sletter en købsfaktura eller kreditnota og ikke kan knytte det indgående e-dokument til det korrekte bilag, kan du nu genskabe købsdokumentet ud fra detaljerne i e-dokumentet. Problemet er løst.\n\n### Detaljer om funktioner\n\nHvis du ved et uheld sletter en købsfaktura eller kreditnota, kan du ikke knytte e-dokumentet til det almindelige købsdokument i Business Central. Du kan løse problemet ved at køre handlingen Genskab dokument fra e-dokumentet. Handlingen opretter en ikke-bogført købsfaktura eller kreditnota, der er baseret på den indgående bilagstype. Den bruger oplysningerne i det indgående dokument, G/L-tilknytning og varereferencer.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-e-documents-fix-unposted-purchase-credit-memos"
+    },
+    "nl": {
+      "title": "E-documenten gebruiken om niet-geboekte inkoopdocumenten te corrigeren",
+      "summary": "U kunt niet-geboekte inkoopfacturen of creditnota's opnieuw maken op basis van een inkomend standaard of corrigerend e-document als een dergelijk e-document per ongeluk is verwijderd.",
+      "details": "### Zakelijke waarde\n\nFouten gebeuren, dus het is belangrijk om ze snel op te lossen. Als u per ongeluk een inkoopfactuur of creditnota verwijdert en het inkomende e-document niet aan het juiste document kunt koppelen, kunt u het inkoopdocument nu opnieuw maken op basis van de gegevens in het e-document. Probleem opgelost.\n\n### Details van functies\n\nAls u per ongeluk een inkoopfactuur of creditnota verwijdert, kunt u het e-document niet koppelen aan het reguliere inkoopdocument in Business Central. U kunt het probleem oplossen door de actie Document opnieuw maken uit te voeren vanuit het e-document. Met deze actie wordt een niet-geboekte inkoopfactuur of creditnota gemaakt op basis van het binnenkomende documenttype. Er wordt gebruikgemaakt van de informatie in het binnenkomende document, grootboektoewijzing en artikelverwijzingen.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-e-documents-fix-unposted-purchase-credit-memos"
+    },
+    "fr": {
+      "title": "Utiliser les documents électroniques pour corriger les documents achat non validés",
+      "summary": "Vous pouvez recréer des factures ou des avoirs achat non validés à partir d’un document électronique entrant standard ou de correction en cas de suppression accidentelle.",
+      "details": "### Valeur commerciale\n\nDes erreurs se produisent, il est donc important de les corriger rapidement. Si vous supprimez accidentellement une facture d’achat ou un avoir et que vous ne parvenez pas à lier le document électronique entrant au bon document, vous pouvez désormais recréer le document d’achat à partir des détails du document électronique. Problème résolu.\n\n### Détails des fonctionnalités\n\nSi vous supprimez accidentellement une facture d'achat ou un mémo de crédit, vous ne pouvez pas connecter le document électronique au document d'achat standard dans Business Central. Pour résoudre le problème, exécutez l’action Recréer le document à partir du document électronique. Cette action crée une facture d’achat ou une note de crédit non enregistrée en fonction du type de document entrant. Elle utilise les informations contenues dans le document entrant, le mappage G/L et les références d’article.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-e-documents-fix-unposted-purchase-credit-memos"
+    }
+  }
+}

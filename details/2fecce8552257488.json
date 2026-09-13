@@ -1,0 +1,30 @@
+{
+  "id": "2fecce8552257488",
+  "title": "Align Subscription Billing with standard user experience and terminology",
+  "languages": {
+    "en": {
+      "title": "Align Subscription Billing with standard user experience and terminology",
+      "summary": "Get started with Subscription Billing more easily by working with entities that have more meaningful names.",
+      "details": "### Business value\n\nWe're making it easier to work with Subscription Billing by updating the terminology we use for its features in the product and documentation.\n\n### Feature details\n\nSubscription Billing is a subscription-oriented module that also supports other valuable scenarios. Before this release, the module's broad and multipurpose applications and scenarios caused complexity in the underlying objects and user-facing elements. This release simplifies the user and developer experiences by focusing on the subscription-based nature of the module. Generally, we rename objects and user experience elements, such as captions, from \"Service\" to \"Subscription.\" For example, the \"Service Object\" entity is now the \"Subscription\" entity. This change improves the user experience, clarifies the documentation, and makes terminology more consistent across the application.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/align-subscription-billing-standard-user-experience-terminology"
+    },
+    "da": {
+      "title": "Justere abonnementsfakturering med standardbrugeroplevelse og -terminologi",
+      "summary": "Kom nemmere i gang med abonnementsfakturering ved at arbejde med enheder, der har mere meningsfulde navne.",
+      "details": "### Forretningsværdi\n\nVi gør det nemmere at arbejde med Abonnementsfakturering ved at opdatere den terminologi. vi bruger til dens funktioner i produktet og dokumentationen.\n\n### Detaljer om funktioner\n\nAbonnementsfakturering er et abonnementsorienteret modul, der også understøtter andre værdifulde scenarier. Før denne udgivelse forårsagede modulets brede og multifunktionelle applikationer og scenarier kompleksitet i de underliggende objekter og brugervendte elementer. Denne udgivelse forenkler bruger- og udvikleroplevelsen ved at fokusere på modulets abonnementsbaserede karakter. Generelt omdøber vi objekter og brugeroplevelseselementer, f.eks. billedtekster, fra \"Tjeneste\" til \"Abonnement\". Objektet \"Serviceobjekt\" er f.eks. nu objektet \"Abonnement\". Denne ændring forbedrer brugeroplevelsen, tydeliggør dokumentationen og gør terminologien mere ensartet på tværs af programmet.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/align-subscription-billing-standard-user-experience-terminology"
+    },
+    "nl": {
+      "title": "De facturering van abonnementen afstemmen op de standaardgebruikerservaring en -terminologie",
+      "summary": "Ga gemakkelijker aan de slag met de facturering van abonnementen door te werken met entiteiten die betekenisvollere namen hebben.",
+      "details": "### Zakelijke waarde\n\nWe maken het gemakkelijker om met facturering van abonnementen te werken door de terminologie voor de productfuncties en de documentatie bij te werken.\n\n### Details van functies\n\nSubscription Billing is een abonnementsgerichte module die ook andere waardevolle scenario's ondersteunt. Vóór deze release zorgden de brede en multifunctionele toepassingen en scenario's van de module voor complexiteit in de onderliggende objecten en gebruikersgerichte elementen. Deze release vereenvoudigt de gebruikers- en ontwikkelaarservaringen door zich te concentreren op het op abonnementen gebaseerde karakter van de module. Over het algemeen wijzigen we de naam van objecten en gebruikerservaringselementen, zoals bijschriften, van 'Service' naar 'Abonnement'. De entiteit 'Serviceobject' is nu bijvoorbeeld de entiteit 'Abonnement'. Deze wijziging verbetert de gebruikerservaring, verduidelijkt de documentatie en maakt de terminologie consistenter in de hele applicatie.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/align-subscription-billing-standard-user-experience-terminology"
+    },
+    "fr": {
+      "title": "Aligner la facturation de l’abonnement sur l’expérience utilisateur et la terminologie standard",
+      "summary": "Démarrez plus facilement avec la facturation de l’abonnement en utilisant des entités avec des noms plus explicites.",
+      "details": "### Valeur commerciale\n\nIl est désormais plus facile de travailler avec la Facturation de l’abonnement en mettant à jour la terminologie que nous utilisons pour ses fonctionnalités dans le produit et la documentation.\n\n### Détails des fonctionnalités\n\nLa facturation par abonnement est un module orienté abonnement qui prend également en charge d’autres scénarios utiles. Avant cette version, les applications et les scénarios vastes et polyvalents du module entraînaient une complexité dans les objets sous-jacents et les éléments destinés à l’utilisateur. Cette version simplifie l’expérience utilisateur et développeur en se concentrant sur la nature du module basée sur un abonnement. En règle générale, nous renommons les objets et les éléments de l’expérience utilisateur, tels que les légendes, de « Service » à « Abonnement ». Par exemple, l’entité « Objet de service » est désormais l’entité « Abonnement ». Cette modification améliore l’expérience utilisateur, clarifie la documentation et rend la terminologie plus cohérente dans l’application.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/align-subscription-billing-standard-user-experience-terminology"
+    }
+  }
+}

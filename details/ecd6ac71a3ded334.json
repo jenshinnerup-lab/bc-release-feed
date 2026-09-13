@@ -1,0 +1,30 @@
+{
+  "id": "ecd6ac71a3ded334",
+  "title": "Bookmarking a report",
+  "languages": {
+    "en": {
+      "title": "Add links to your navigation menu",
+      "summary": "Personalize your navigation menu by adding links to any page or report.",
+      "details": "### Business value\n\nBusiness Central is ready to adapt to the unique needs of each business, department, and user. Desktop users are fully empowered to optimize their workspace to support their daily tasks and the most common data or processes they work with.\n\n### Feature details\n\nBusiness Central 2019 release wave 2 introduces a new and simple way to quickly reach your favorite content and business tasks. Using the new bookmark icon, you can add a link to any page or report into the navigation menu of your Role Center. The bookmark icon is shown in the top right corner of the page and also in the Tell Me window where you can efficiently bookmark multiple links. Any page or report that is discoverable in the Tell Me window can be bookmarked. When you're satisfied with your bookmarks, start personalizing the navigation menu to reorder your bookmarks or group them by similarity. Bookmarking of pages is available from Update 15.0. Bookmarking of reports is available from Update 15.3 for all new environments, and to select environments upgrading from 15.2. Similar to other UI personalization, bookmarks roam with you no matter which device you sign in to.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/add-links-navigation-menu"
+    },
+    "da": {
+      "title": "Add links to your navigation menu",
+      "summary": "Personalize your navigation menu by adding links to any page or report.",
+      "details": "### Business value\n\nBusiness Central is ready to adapt to the unique needs of each business, department, and user. Desktop users are fully empowered to optimize their workspace to support their daily tasks and the most common data or processes they work with.\n\n### Feature details\n\nBusiness Central 2019 release wave 2 introduces a new and simple way to quickly reach your favorite content and business tasks. Using the new bookmark icon, you can add a link to any page or report into the navigation menu of your Role Center. The bookmark icon is shown in the top right corner of the page and also in the Tell Me window where you can efficiently bookmark multiple links. Any page or report that is discoverable in the Tell Me window can be bookmarked. When you're satisfied with your bookmarks, start personalizing the navigation menu to reorder your bookmarks or group them by similarity. Bookmarking of pages is available from Update 15.0. Bookmarking of reports is available from Update 15.3 for all new environments, and to select environments upgrading from 15.2. Similar to other UI personalization, bookmarks roam with you no matter which device you sign in to.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2019wave2/dynamics365-business-central/add-links-navigation-menu"
+    },
+    "nl": {
+      "title": "Add links to your navigation menu",
+      "summary": "Personalize your navigation menu by adding links to any page or report.",
+      "details": "### Business value\n\nBusiness Central is ready to adapt to the unique needs of each business, department, and user. Desktop users are fully empowered to optimize their workspace to support their daily tasks and the most common data or processes they work with.\n\n### Feature details\n\nBusiness Central 2019 release wave 2 introduces a new and simple way to quickly reach your favorite content and business tasks. Using the new bookmark icon, you can add a link to any page or report into the navigation menu of your Role Center. The bookmark icon is shown in the top right corner of the page and also in the Tell Me window where you can efficiently bookmark multiple links. Any page or report that is discoverable in the Tell Me window can be bookmarked. When you're satisfied with your bookmarks, start personalizing the navigation menu to reorder your bookmarks or group them by similarity. Bookmarking of pages is available from Update 15.0. Bookmarking of reports is available from Update 15.3 for all new environments, and to select environments upgrading from 15.2. Similar to other UI personalization, bookmarks roam with you no matter which device you sign in to.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2019wave2/dynamics365-business-central/add-links-navigation-menu"
+    },
+    "fr": {
+      "title": "Add links to your navigation menu",
+      "summary": "Personalize your navigation menu by adding links to any page or report.",
+      "details": "### Business value\n\nBusiness Central is ready to adapt to the unique needs of each business, department, and user. Desktop users are fully empowered to optimize their workspace to support their daily tasks and the most common data or processes they work with.\n\n### Feature details\n\nBusiness Central 2019 release wave 2 introduces a new and simple way to quickly reach your favorite content and business tasks. Using the new bookmark icon, you can add a link to any page or report into the navigation menu of your Role Center. The bookmark icon is shown in the top right corner of the page and also in the Tell Me window where you can efficiently bookmark multiple links. Any page or report that is discoverable in the Tell Me window can be bookmarked. When you're satisfied with your bookmarks, start personalizing the navigation menu to reorder your bookmarks or group them by similarity. Bookmarking of pages is available from Update 15.0. Bookmarking of reports is available from Update 15.3 for all new environments, and to select environments upgrading from 15.2. Similar to other UI personalization, bookmarks roam with you no matter which device you sign in to.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2019wave2/dynamics365-business-central/add-links-navigation-menu"
+    }
+  }
+}

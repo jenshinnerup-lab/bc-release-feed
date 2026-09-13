@@ -1,0 +1,30 @@
+{
+  "id": "ff0d0fdd1a0613fe",
+  "title": "Delete incorrect e-documents and avoid duplicates",
+  "languages": {
+    "en": {
+      "title": "Delete incorrect e-documents and avoid duplicates",
+      "summary": "Delete incorrect or duplicate e-documents, and avoid creating new duplicates.",
+      "details": "### Business value\n\nYou can easily discard incorrect or duplicate e-documents. You don't need to keep unprocessed e-documents, so you save space in data storage.\n\n### Feature details\n\nBusiness Central doesn't create new incoming e-documents if you import a batch that contains duplicates. Duplicates are documents with the same vendor, external document number, and date. If a duplicate or incorrect e-document exists in Business Central, administrators can delete it by running the Delete Related Document action. However, you can't delete e-documents that are already processed and connected with purchase documents.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/delete-incorrect-e-documents-avoid-duplicates"
+    },
+    "da": {
+      "title": "Slette forkerte e-dokumenter og undgå dubletter",
+      "summary": "Slette forkerte eller duplikerede e-dokumenter, og undgå at oprette nye dubletter.",
+      "details": "### Forretningsværdi\n\nDu kan nemt kassere forkerte eller duplikerede e-dokumenter. Du behøver ikke at opbevare ubehandlede e-dokumenter, så du sparer plads i datalagringen.\n\n### Detaljer om funktioner\n\nBusiness Central opretter ikke nye indgående e-dokumenter, hvis du importerer en batch, der indeholder dubletter. Dubletter er dokumenter med samme leverandør, eksternt dokumentnummer og dato. Hvis der findes et dublet eller forkert e-dokument i Business Central, kan administratorer slette det ved at køre handlingen Slet relateret dokument . Du kan dog ikke slette e-dokumenter, der allerede er behandlet og forbundet med købsdokumenter.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/delete-incorrect-e-documents-avoid-duplicates"
+    },
+    "nl": {
+      "title": "Onjuiste e-documenten verwijderen en duplicaten vermijden",
+      "summary": "Verwijder onjuiste of dubbele e-documenten en vermijd het maken van nieuwe duplicaten.",
+      "details": "### Zakelijke waarde\n\nU kunt eenvoudig onjuiste of dubbele e-documenten weggooien. U hoeft geen onverwerkte e-documenten te bewaren, dus u bespaart ruimte op gegevensopslag.\n\n### Details van functies\n\nBusiness Central maakt geen nieuwe binnenkomende e-documenten als u een batch importeert die duplicaten bevat. Duplicaten zijn documenten met dezelfde leverancier, hetzelfde externe documentnummer en dezelfde datum. Als er een duplicaat of onjuist e-document bestaat in Business Central, kunnen beheerders dit verwijderen door de actie Gerelateerd document verwijderen uit te voeren. U kunt echter geen e-documenten verwijderen die al zijn verwerkt en gekoppeld aan inkoopdocumenten.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/delete-incorrect-e-documents-avoid-duplicates"
+    },
+    "fr": {
+      "title": "Supprimez les documents électroniques incorrects et évitez les doublons",
+      "summary": "Supprimez les documents électroniques incorrects ou en double et évitez de créer de nouveaux doublons.",
+      "details": "### Valeur commerciale\n\nVous pouvez facilement supprimer les documents électroniques incorrects ou en double. Vous n’avez pas besoin de conserver des documents électroniques non traités, ce qui vous permet d’économiser de l’espace dans le stockage des données.\n\n### Détails des fonctionnalités\n\nBusiness Central ne crée pas de documents électroniques entrants si vous importez un lot contenant des doublons. Les doublons sont des documents portant le même fournisseur, le même numéro de document externe et la même date. Si un document électronique en double ou incorrect existe dans Business Central, les administrateurs peuvent le supprimer en exécutant l’action Delete Related Document. Cependant, vous ne pouvez pas supprimer les documents électroniques qui sont déjà traités et associés aux documents d’achat.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/delete-incorrect-e-documents-avoid-duplicates"
+    }
+  }
+}

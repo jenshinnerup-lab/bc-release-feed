@@ -1,0 +1,30 @@
+{
+  "id": "c462e86f08fd318b",
+  "title": "Extension lifecycle telemetry include signal from dependent extensions",
+  "languages": {
+    "en": {
+      "title": "Extension lifecycle telemetry include signal from dependent extensions",
+      "summary": "The server will emit telemetry about extension lifecycle events for dependent extensions.",
+      "details": "### Feature details\n\nThe Business Central server will emit telemetry about extension lifecycle events, such as successful or failed installations, for dependent extensions. The following events will be emitted: Dependent extension installed (success) Dependent extension uninstalled (success)\n\n### See also\n\nAnalyzing Extension Lifecycle Trace Telemetry (docs)\n\n### Additional resources\n\nLast updated on 2021-05-17 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/extension-lifecycle-telemetry-include-signal-dependent-extensions"
+    },
+    "da": {
+      "title": "Telemetri med forlængelseslivscyklus inkluderer signal fra afhængige udvidelser",
+      "summary": "Serveren udsender telemetri om hændelser for udvidelsens livscyklus for afhængige udvidelser.",
+      "details": "### Funktionsdetaljer\n\nBusiness Central Server udsender telemetri om hændelser for udvidelsens livscyklus, f.eks. vellykkede eller mislykkede installationer, for afhængige udvidelser. Følgende hændelser vil blive udsendt: Afhængig udvidelse installeret (vellykket) Afhængig udvidelse fjernet (vellykket)\n\n### Se også\n\nAnalyse af sporingstelemetri for udvidelsens livscyklus (dokumentation)\n\n### Yderligere ressourcer\n\nLast updated on 2022-09-05 I denne artikel da-dk Dine valg af beskyttelse af personlige oplysninger Tema Lys Mørk Høj kontrast AI-ansvarsfraskrivelse Tidligere versioner Blog Bidrag Beskyttelse af personlige oplysninger Beskyttelse af personlige oplysninger for forbrugerbeskyttelse Vilkår for anvendelse Varemærker © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/extension-lifecycle-telemetry-include-signal-dependent-extensions"
+    },
+    "nl": {
+      "title": "Extension lifecycle telemetry include signal from dependent extensions",
+      "summary": "The server will emit telemetry about extension lifecycle events for dependent extensions.",
+      "details": "### Feature details\n\nThe Business Central server will emit telemetry about extension lifecycle events, such as successful or failed installations, for dependent extensions. The following events will be emitted: Dependent extension installed (success) Dependent extension uninstalled (success)\n\n### See also\n\nAnalyzing Extension Lifecycle Trace Telemetry (docs)\n\n### Aanvullende resources\n\nLast updated on 2021-05-17 In dit artikel nl-nl Uw privacykeuzes Thema Licht Donker Hoog contrast AI-disclaimer Vorige versies Blog Bijdragen Privacy Privacy van gezondheidsdata Gebruiksvoorwaarden Handelsmerken © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/extension-lifecycle-telemetry-include-signal-dependent-extensions"
+    },
+    "fr": {
+      "title": "Extension lifecycle telemetry include signal from dependent extensions",
+      "summary": "The server will emit telemetry about extension lifecycle events for dependent extensions.",
+      "details": "### Feature details\n\nThe Business Central server will emit telemetry about extension lifecycle events, such as successful or failed installations, for dependent extensions. The following events will be emitted: Dependent extension installed (success) Dependent extension uninstalled (success)\n\n### See also\n\nAnalyzing Extension Lifecycle Trace Telemetry (docs)\n\n### Ressources supplémentaires\n\nLast updated on 2021-05-17 Dans cet article fr-fr Vos choix en matière de confidentialité Thème Clair Sombre Contraste élevé Clause d’exclusion de responsabilité sur l’IA Versions antérieures Blog Collaboration Confidentialité Confidentialité de la santé des consommateurs Conditions d’utilisation Accessibilité Marques © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/extension-lifecycle-telemetry-include-signal-dependent-extensions"
+    }
+  }
+}

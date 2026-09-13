@@ -1,0 +1,30 @@
+{
+  "id": "c961d44573e587bc",
+  "title": "Preview PDF attachments directly in web client",
+  "languages": {
+    "en": {
+      "title": "Preview PDF attachments directly in web client",
+      "summary": "Open PDF attachments directly in the web client without downloading.",
+      "details": "### Business value\n\nWhen you can easily work with attachments, report outputs, or incoming documents, you stay productive and focused on your work. This capability saves you time and effort.\n\n### Feature details\n\nWith this feature, you can open PDF attachments directly in the Business Central web client without downloading them first. The feature shows files in preview mode with a specialized viewer experience. This experience is similar to the print preview feature. You can always download a PDF file from the viewer. This feature works automatically across all areas of Business Central, including ISV code. However, extension developers need to add support for this feature. Two new AL methods capture this behavior. These methods follow the pattern of the File.Download method: File.ViewFromStream – for Business Central online File.View – for Business Central on-premises Various areas of Business Central use this feature. These areas include document attachments and incoming documents.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/preview-pdf-attachments-directly-web-client"
+    },
+    "da": {
+      "title": "Forhåndsversion af vedhæftede PDF-filer direkte i webklienten",
+      "summary": "Åbn vedhæftede PDF-filer direkte i webklienten uden at downloade.",
+      "details": "### Forretningsværdi\n\nNår du nemt kan arbejde med vedhæftede filer, rapportoutput eller indgående dokumenter, forbliver du produktiv og fokuseret på dit arbejde. Denne funktion sparer dig tid og kræfter.\n\n### Detaljer om funktioner\n\nMed denne funktion kan du åbne vedhæftede PDF-filer direkte i Business Central-webklienten uden at downloade dem først. Funktionen viser filer i forhåndsvisningstilstand med en specialiseret fremviseroplevelse. Denne oplevelse svarer til funktionen til forhåndsvisning af udskrift. Du kan altid downloade en PDF-fil fra fremviseren. Denne funktion fungerer automatisk på tværs af alle områder af Business Central, inklusive ISV-kode. Udvidelsesudviklere skal dog tilføje understøttelse af denne funktion. To nye AL-metoder fanger denne adfærd. Disse metoder følger mønsteret for File.Download-metoden : File.ViewFromStream – til Business Central Online File.View – til Business Central i det lokale miljø Forskellige områder af Business Central bruger denne funktion. Disse områder omfatter vedhæftede dokumenter og indgående dokumenter.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/preview-pdf-attachments-directly-web-client"
+    },
+    "nl": {
+      "title": "PDF-bijlagen rechtstreeks in de webclient bekijken",
+      "summary": "Open PDF-bijlagen rechtstreeks in de webclient zonder ze te hoeven downloaden.",
+      "details": "### Zakelijke waarde\n\nWanneer u gemakkelijk kunt werken met bijlagen, rapportuitvoer of binnenkomende documenten, blijft u productief en gefocust op uw werk. Deze mogelijkheid bespaart u tijd en moeite.\n\n### Details van functies\n\nMet deze functie kunt u PDF-bijlagen rechtstreeks in de Business Central-webclient openen zonder ze eerst te downloaden. De functie toont bestanden in voorbeeldmodus met een gespecialiseerde kijkervaring. Deze ervaring is vergelijkbaar met de functie voor afdrukvoorbeelden. U kunt altijd een PDF-bestand downloaden van de viewer. Deze functie werkt automatisch voor alle gebieden van Business Central, inclusief ISV-code. Ontwikkelaars van extensies moeten echter ondersteuning voor deze functie toevoegen. Twee nieuwe AL-methoden leggen dit gedrag vast. Deze methoden volgen het patroon van de methode File.Download : File.ViewFromStream – voor Business Central online File.View – voor Business Central on-premises Verschillende delen van Business Central maken gebruik van deze functie. Deze gebieden omvatten documentbijlagen en inkomende documenten.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/preview-pdf-attachments-directly-web-client"
+    },
+    "fr": {
+      "title": "Afficher un aperçu des pièces jointes au format PDF directement dans le client Web",
+      "summary": "Ouvrez les documents joints au format PDF directement dans le client Web sans les télécharger.",
+      "details": "### Valeur commerciale\n\nLorsque vous pouvez facilement travailler avec des pièces jointes, des sorties de rapports ou des documents entrants, vous restez productif et concentré sur votre travail. Cette capacité vous permet d’économiser du temps et des efforts.\n\n### Détails des fonctionnalités\n\nAvec cette fonctionnalité, vous pouvez ouvrir des pièces jointes PDF directement dans le client web Business Central sans les télécharger en premier. La fonctionnalité permet d'afficher les fichiers en mode aperçu avec une expérience de visionnage spécialisée. Cette expérience est similaire à la fonctionnalité d’aperçu avant impression. Vous pouvez toujours télécharger un fichier PDF à partir de la visionneuse. Cette fonctionnalité fonctionne automatiquement dans toutes les zones de Business Central, y compris le code ISV. Cependant, les développeurs d’extensions doivent ajouter la prise en charge de cette fonctionnalité. Deux nouvelles méthodes AL capturent ce comportement. Ces méthodes suivent le modèle de la méthode File.Download : File.ViewFromStream – pour Business Central Online File.View : pour Business Central localement Différents secteurs de Business Central utilisent cette fonctionnalité. Ces zones comprennent les pièces jointes et les documents entrants.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/preview-pdf-attachments-directly-web-client"
+    }
+  }
+}

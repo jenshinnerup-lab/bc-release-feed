@@ -1,0 +1,30 @@
+{
+  "id": "bf16290f36d75c7e",
+  "title": "Discover emails in the mailbox that have been processed by Payables Agent",
+  "languages": {
+    "en": {
+      "title": "Discover emails in the mailbox that have been processed by Payables Agent",
+      "summary": "Easily identify the emails in the monitored mailbox that the Payables Agent has picked up.",
+      "details": "### Business value\n\nWhen Payables Agent monitors a mailbox, it only picks up and works with emails that have one or more PDF documents attached. When it does so, it marks the email with a category that makes it clear that it has processed the message.\n\n### Feature details\n\nPayables Agent assigns the Processed by Payables Agent category to the emails it picks up. The category makes it easier for the people who work in the same mailboxes in Outlook to identify the messages that the agent has processed. This change is a direct result of user feedback and is an important improvement to the human-agent relationship.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/discover-emails-mailbox-that-have-been-processed-payables-agent"
+    },
+    "da": {
+      "title": "Find mails i postkassen, der er behandlet af Payables Agent",
+      "summary": "Identificer nemt de mails i den overvågede postkasse, som Payables Agent har behandlet.",
+      "details": "### Forretningsværdi\n\nNår Payables Agent overvåger en postkasse, opsamler og behandler den kun mails, hvor et eller flere PDF-dokumenter er vedhæftet. Når den gør det, mærker den mailen med en kategori, der tydeligt viser, at den har behandlet meddelelsen.\n\n### Funktionsdetaljer\n\nPayables Agent tildeler kategorien Behandlet af kreditoragent til de mails, den henter. Kategorien gør det nemmere for brugerne, der arbejder i de samme postkasser i Outlook, at identificere de mails, som agenten har behandlet. Denne ændring er et direkte resultat af brugerfeedback og er en vigtig forbedring af samarbejdet mellem brugere og agenten.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/discover-emails-mailbox-that-have-been-processed-payables-agent"
+    },
+    "nl": {
+      "title": "E-mails ontdekken in het postvak die door de Payables Agent zijn verwerkt",
+      "summary": "Identificeer eenvoudig de e-mails in het bewaakte postvak die door de Payables Agent zijn opgehaald.",
+      "details": "### Zakelijke waarde\n\nWanneer Payables Agent een postvak bewaakt, worden alleen e-mailberichten opgehaald en verwerkt waarbij een of meer PDF-documenten zijn bijgevoegd. Wanneer dit gebeurt, wordt het e-mailbericht zo gemarkeerd dat duidelijk is dat het bericht is verwerkt.\n\n### Functiedetails\n\nPayables Agent wijst de categorie Verwerkt door Payables Agent toe aan de e-mails die deze agent ophaalt. De categorie maakt het gemakkelijker voor gebruikers die in dezelfde postvakken in Outlook werken om de e-mails te herkennen die door de agent zijn verwerkt. Deze wijziging is een direct resultaat van feedback van gebruikers en is een belangrijke verbetering van de relatie tussen mens en agent.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/discover-emails-mailbox-that-have-been-processed-payables-agent"
+    },
+    "fr": {
+      "title": "Découvrez les courriers électroniques dans la boîte de réception qui ont été traités par Payables Agent",
+      "summary": "Identifiez facilement les e-mails dans la boîte aux lettres surveillée que l’agent Payables a pris en charge.",
+      "details": "### Valeur commerciale\n\nLorsque Payables Agent surveille une boîte aux lettres, il ne traite que les courriers électroniques comportant une ou plusieurs pièces jointes PDF. Lorsqu’il le fait, il attribue à l’e-mail une catégorie qui indique clairement qu’il a été traité.\n\n### Détails des fonctionnalités\n\nPayables Agent affecte la catégorie Traité par Payables Agent aux courriers électroniques qu’il récupère. La catégorie permet aux personnes qui travaillent dans les mêmes boîtes aux lettres Outlook d’identifier plus facilement les messages que l’assistant a traités. Ce changement est le résultat direct des retours des utilisateurs et constitue une amélioration importante de la relation humain-assistant.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/discover-emails-mailbox-that-have-been-processed-payables-agent"
+    }
+  }
+}

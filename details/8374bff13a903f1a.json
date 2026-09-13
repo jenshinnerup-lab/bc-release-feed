@@ -1,0 +1,30 @@
+{
+  "id": "8374bff13a903f1a",
+  "title": "Enable additional countries and regions (preview)",
+  "languages": {
+    "en": {
+      "title": "Enable additional countries and regions",
+      "summary": "More countries and regions are supported for Business Central online.",
+      "details": "### Business value\n\nWhen you enable extra countries and regions, you get all the benefits of Business Central’s cloud-based business management software solution.\n\n### Feature details\n\nBusiness Central expands to more countries and regions through partner-led localizations. Our partners create the relevant localization apps and publish them to AppSource. With the built-in language offerings, Business Central online serves customers in more than 170 countries and regions worldwide. This expansion enables the following countries and regions: Belize Burkina Faso French Polynesia Gabon Gambia Gibraltar Laos Mali Marshall Islands Moldova Monserrat Saint Kitts and Nevis Saint Lucia Saint Vincent and the Grenadines Turks and Caicos Islands U.S. Virgin Islands Uzbekistan Vatican City Yemen",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-additional-countries-regions"
+    },
+    "da": {
+      "title": "Få mulighed for flere lande og regioner",
+      "summary": "Flere lande og områder understøttes for Business Central online.",
+      "details": "### Forretningsværdi\n\nNår du aktiverer ekstra lande og områder, får du alle fordelene ved Business Central cloudbaserede softwareløsning til virksomhedsadministration.\n\n### Detaljer om funktioner\n\nBusiness Central udvides til flere lande og områder via partnerledede lokaliseringer. Vores partnere opretter de relevante lokaliseringsapps og udgiver dem til AppSource. Med de indbyggede sprogtilbud betjener Business Central online kunder i mere end 170 lande og områder over hele verden. Denne udvidelse muliggør følgende lande og områder: Belize Burkina Faso Fransk Polynesien Gabon Gambia Gibraltar Laos Mali Marshalløerne Moldova Monserrat Saint Kitts og Nevis Saint Lucia Saint Vincent og Grenadinerne Turks- og Caicosøerne De Amerikanske Jomfruøer Usbekistan Vatikanstaten Yemen",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-additional-countries-regions"
+    },
+    "nl": {
+      "title": "Extra landen en regio's inschakelen",
+      "summary": "Meer landen en regio's worden ondersteund voor Business Central online.",
+      "details": "### Zakelijke waarde\n\nWanneer u extra landen en regio's inschakelt, profiteert u van alle voordelen van de cloudoplossing voor bedrijfsbeheer van Business Central.\n\n### Details van functies\n\nBusiness Central wordt uitgebreid naar meer landen en regio's via door partners geleide lokalisaties. Onze partners maken de relevante lokalisatie-apps en publiceren deze naar AppSource. Met de ingebouwde taalaanbiedingen biedt Business Central online klanten in meer dan 170 landen en regio's wereldwijd. Deze uitbreiding maakt het mogelijk om de volgende landen en regio's te gebruiken: Belize Burkina Faso Frans-Polynesië Gabon Gambia Gibraltar Laos Mali Marshalleilanden Moldavië Monserrat Saint Kitts en Nevis Saint Lucia Saint Vincent en de Grenadines Turks- en Caicoseilanden Amerikaanse Maagdeneilanden Oezbekistan Vaticaanstad Jemen",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-additional-countries-regions"
+    },
+    "fr": {
+      "title": "Activer des pays et des régions supplémentaires",
+      "summary": "D’autres pays et régions sont pris en charge pour Business Central en ligne.",
+      "details": "### Valeur commerciale\n\nLorsque vous activez des pays et régions supplémentaires, vous bénéficiez de tous les avantages de la solution logicielle de gestion métier basée sur le cloud de Business Central.\n\n### Détails de la fonctionnalité\n\nBusiness Central s’étend à d’autres pays et régions par le biais de localisations dirigées par les partenaires. Nos partenaires créent les applications de localisation pertinentes et les publient dans AppSource. Grâce aux offres linguistiques intégrées, Business Central en ligne sert des clients dans plus de 170 pays et régions dans le monde entier. Cette extension permet aux pays et régions suivants : Belize Burkina Faso Polynésie française Gabon Gambie Gibraltar Laos Mali Îles Marshall Moldavie Monserrat Saint-Christophe et Nevis Sainte-Lucie Saint-Vincent-et-les Grenadines Îles Turks et Caicos Îles Vierges américaines Ouzbékistan Vatican Yémen",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-additional-countries-regions"
+    }
+  }
+}

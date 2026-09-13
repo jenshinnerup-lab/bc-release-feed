@@ -1,0 +1,30 @@
+{
+  "id": "337e67ba9d341ded",
+  "title": "Accessibility declaration for Italy available",
+  "languages": {
+    "en": {
+      "title": "Accessibility declaration for Italy available",
+      "summary": "Business Central conforms to Italian accessibility requirements.",
+      "details": "### Business value\n\nBusiness Central is committed to following accessibility standards such as WCAG 2.1 and EN 301 549 that ensure the experience is accessible to as many people as possible. As required by the local authorities in Italy, websites, web applications, and mobile apps must also publish an Accessibility Conformance Report (\"Dichiarazione di accessibilità\") that indicates the extent of accessibility conformance.\n\n### Feature details\n\nWhen the Business Central web client is viewed in the Italian language, a new link \"Dichiarazione di accessibilità\" is displayed in the help pane alongside links to Microsoft's privacy policy and terms of use. This link leads to a descriptive conformance report as required by authorities. The Business Central mobile app store listing also includes a similar link.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/accessibility-declaration-italy"
+    },
+    "da": {
+      "title": "Tilgængelighedserklæring for Italien er tilgængelig",
+      "summary": "Business Central overholder italienske tilgængelighedskrav.",
+      "details": "### Forretningsværdi\n\nBusiness Central har det mål at følge tilgængelighedsstandarder såsom WCAG 2.1 og EN 301 549, der sikrer, at oplevelsen er tilgængelig for så mange mennesker som muligt. Som krævet af de lokale myndigheder i Italien skal websteder, webapplikationer og mobilapps også publicere en tilgængelighedsoverensstemmelsesrapport (\"Dichiarazione di accessibilità\"), der angiver omfanget af tilgængelighedsoverensstemmelse.\n\n### Funktionsdetaljer\n\nNår Business Central-webklienten vises på italiensk, vises et nyt link \"Dichiarazione di accessibilità\" i hjælperuden sammen med links til Microsofts privatlivspolitik og brugsbetingelser. Dette link fører til en beskrivende overensstemmelsesrapport som krævet af myndighederne. Business Central-mobilappens butiksfortegnelse indeholder også et lignende link.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/accessibility-declaration-italy"
+    },
+    "nl": {
+      "title": "Toegankelijkheidsverklaring voor Italië beschikbaar",
+      "summary": "Business Central voldoet aan de Italiaanse toegankelijkheidseisen.",
+      "details": "### Zakelijke waarde\n\nBusiness Central streeft ernaar toegankelijkheidsnormen van WCAG 2.1 en EN 301 549 te volgen, die ervoor zorgen dat de ervaring voor zoveel mogelijk mensen toegankelijk is. De lokale autoriteiten in Italië eisen dat websites, webapplicaties en mobiele apps ook een Toegankelijkheidsconformiteitsrapport (\"Dichiarazione di accessibilità\") publiceren dat de mate van toegankelijkheidsconformiteit aangeeft.\n\n### Functiedetails\n\nWanneer de Business Central-webclient in het Italiaans wordt bekeken, wordt een nieuwe koppeling \"Dichiarazione di accessibilità\" weergegeven in het helpvenster naast koppelingen naar het privacybeleid en de gebruiksvoorwaarden van Microsoft. Deze koppeling leidt naar een beschrijvend conformiteitsrapport zoals vereist door de autoriteiten. De vermelding in de Business Central-store voor mobiele apps bevat ook een vergelijkbare koppeling.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/accessibility-declaration-italy"
+    },
+    "fr": {
+      "title": "Déclaration d’accessibilité pour l’Italie disponible",
+      "summary": "Business Central est conforme aux exigences d’accessibilité italiennes.",
+      "details": "### Valeur commerciale\n\nBusiness Central s’engage à respecter les normes d’accessibilité telles que WCAG 2.1 et EN 301 549 qui garantissent que l’expérience est accessible au plus grand nombre de personnes possible. Comme l’exigent les autorités locales en Italie, les sites web, les applications web et les applications mobiles doivent également publier un rapport de conformité d’accessibilité (« Dichiarazione di accessibilità ») qui indique l’étendue de la conformité d’accessibilité.\n\n### Détails de la fonctionnalité\n\nQuand le client web Business Central est affiché en italien, un nouveau lien « Dichiarazione di accessibilità » s’affiche dans le volet d’aide à côté des liens vers la politique de confidentialité et les conditions d’utilisation de Microsoft. Ce lien dirige vers un rapport de conformité descriptif tel que requis par les autorités. La liste de l’App Store d’applications mobiles Business Central inclut également un lien similaire.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/accessibility-declaration-italy"
+    }
+  }
+}

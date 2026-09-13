@@ -1,0 +1,30 @@
+{
+  "id": "9de000487996e6c2",
+  "title": "Calculate and post VAT settlement by Activity Code - Italy",
+  "languages": {
+    "en": {
+      "title": "Calculate and post VAT settlement by Activity Code - Italy",
+      "summary": "This feature allows users to calculate and post VAT settlements by Activity Code in the Italian localization.",
+      "details": "### Business value\n\nBy calculating VAT settlements based on activity codes, you ensure full compliance with Italian tax regulations.\n\n### Feature details\n\nThis feature enables you to set up different Activity Codes, like trade or service, for use in VAT Settlements. When you turn on this feature, Business Central lets you post multiple VAT settlements in the same period, with each settlement linked to a different activity code. The system also records these activity codes in the Periodic Settlement VAT Entry. When you post a VAT settlement for a specific period, the system automatically records the period in the related activity codes, so your reporting stays accurate and compliant.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allowing-calculation-posting-vat-settlement-activity-code-italy"
+    },
+    "da": {
+      "title": "Beregne og bogføre momsafregning efter aktivitetskode – Italien",
+      "summary": "Denne funktion giver brugerne mulighed for at beregne og bogføre momsafregninger efter aktivitetskode i den italienske lokalisering.",
+      "details": "### Forretningsværdi\n\nVed at beregne momsafregninger baseret på aktivitetskoder sikrer du fuld overholdelse af italienske skatteregler.\n\n### Funktionsoplysninger\n\nDenne funktion giver dig mulighed for at oprette forskellige aktivitetskoder, f.eks. handel eller service, til brug i momsafregninger. Når du aktiverer denne funktion, giver Business Central dig mulighed for at bogføre flere momsafregninger i samme periode, hvor hver udligning er knyttet til en anden aktivitetskode. Systemet registrerer også disse aktivitetskoder i momsposten Periodisk afregning. Når du bogfører en momsafregning for en bestemt periode, registrerer systemet automatisk perioden i de relaterede aktivitetskoder, så din rapportering forbliver nøjagtig og kompatibel.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allowing-calculation-posting-vat-settlement-activity-code-italy"
+    },
+    "nl": {
+      "title": "Btw-vereffening berekenen en boeken per activiteitscode - Italië",
+      "summary": "Met deze functie kunnen gebruikers btw-vereffeningen berekenen en boeken op basis van activiteitscode in de Italiaanse lokalisatie.",
+      "details": "### Zakelijke waarde\n\nDoor btw-afrekeningen te berekenen op basis van activiteitscodes, zorgt u ervoor dat u volledig voldoet aan de Italiaanse belastingregelgeving.\n\n### Functiedetails\n\nMet deze functie kunt u verschillende activiteitscodes instellen, zoals handel of service, voor gebruik in btw-afrekeningen. Wanneer u deze functie inschakelt, kunt u met Business Central meerdere btw-vereffeningen in dezelfde periode boeken, waarbij elke vereffening is gekoppeld aan een andere activiteitscode. Het systeem registreert deze activiteitscodes ook in de Periodieke Afwikkeling van BTW-invoeringen. Wanneer u een btw-afrekening voor een specifieke periode boekt, registreert het systeem de periode automatisch in de gerelateerde activiteitscodes, zodat uw rapportage nauwkeurig en compliant blijft.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allowing-calculation-posting-vat-settlement-activity-code-italy"
+    },
+    "fr": {
+      "title": "Calculer et valider la déclaration de TVA par code d’activité – Italie",
+      "summary": "Cette fonctionnalité permet aux utilisateurs de calculer et de valider les règlements de TVA par code d’activité dans la localisation italienne.",
+      "details": "### Valeur commerciale\n\nEn calculant les décomptes de TVA sur la base des codes d’activité, vous assurez le respect total de la réglementation fiscale italienne.\n\n### Détails de la fonctionnalité\n\nCette fonctionnalité vous permet de configurer différents codes d’activité, tels que commerce ou service, à utiliser dans les règlements de TVA. Lorsque vous activez cette fonctionnalité, Business Central vous permet de valider plusieurs règlements de TVA au cours de la même période, chaque règlement étant lié à un code d’activité différent. Le système enregistre également ces codes d’activité seront dans l’Écriture TVA de règlement périodique. Lorsque vous validez un règlement de TVA pour une période spécifique, le système enregistre automatiquement la période dans les codes d’activité associés, de sorte que votre déclaration reste précise et conforme.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allowing-calculation-posting-vat-settlement-activity-code-italy"
+    }
+  }
+}

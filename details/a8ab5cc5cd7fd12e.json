@@ -1,0 +1,30 @@
+{
+  "id": "a8ab5cc5cd7fd12e",
+  "title": "Enable sustainability features for integrations with APIs",
+  "languages": {
+    "en": {
+      "title": "Enable sustainability features for integrations with APIs",
+      "summary": "Enable sustainability features to integrate with other applications through APIs.",
+      "details": "### Business value\n\nYou can use sustainability features in Business Central with third-party software. For example, use data about your greenhouse gas emissions in Business Central to enrich data in another application.\n\n### Feature details\n\nSustainability pages have APIs. In the future, you can use Business Central data with other applications. For example, you can use sustainability features for collaboration with Power Automate or Power Apps, or for reporting in Power BI. APIs are available for the following pages: Sustainability Account Sust. Account Category Sust. Account Subcategory Sustainability Journal Line Sustainability Entry",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-sustainability-features-integrations-apis"
+    },
+    "da": {
+      "title": "Aktivér bæredygtighedsfunktioner for integrationer med API'er",
+      "summary": "Aktivér bæredygtighedsfunktioner til at integrere med andre applikationer via API'er.",
+      "details": "### Forretningsværdi\n\nDu kan bruge bæredygtighedsfunktioner i Business Central med tredjepartssoftware. Brug f.eks. data om dine drivhusgasemissioner i Business Central til at forbedre data i et andet program.\n\n### Detaljer om funktioner\n\nBæredygtighedssider har API'er. Fremover kan du bruge Business Central data sammen med andre programmer. Du kan f.eks. bruge bæredygtighedsfunktioner til samarbejde med Power Automate eller Power Apps eller til rapportering i Power BI. API'er er tilgængelige på følgende sider: Regnskab for bæredygtighed Kategori af bæredygtighedskonto Kategori af Underkategori af konto Bæredygtighed Journal Line Bæredygtighedsindgang",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-sustainability-features-integrations-apis"
+    },
+    "nl": {
+      "title": "Duurzaamheidsfuncties inschakelen voor integraties met API's",
+      "summary": "Schakel duurzaamheidsfuncties in om via API's te integreren met andere applicaties.",
+      "details": "### Zakelijke waarde\n\nU kunt duurzaamheidsfuncties gebruiken in Business Central met software van derden. Gebruik bijvoorbeeld gegevens over uw uitstoot van broeikasgassen in Business Central om gegevens in een andere toepassing te verrijken.\n\n### Details van functies\n\nDuurzaamheidspagina's hebben API's. In de toekomst kunt u Business Central gegevens gebruiken met andere toepassingen. U kunt bijvoorbeeld duurzaamheidsfuncties gebruiken voor samenwerking met Power Automate of Power Apps, of voor rapportage in Power BI. API's zijn beschikbaar voor de volgende pagina's: Duurzaamheidsaccount Subcategorie van Rekeningcategorie Subcategorie van duurzaamheidsrekening Regel van duurzaamheidsjournaal Inschrijving duurzaamheid",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-sustainability-features-integrations-apis"
+    },
+    "fr": {
+      "title": "Activer les fonctionnalités de durabilité pour les intégrations avec des API",
+      "summary": "Activez l’intégration des fonctionnalités de durabilité avec d’autres applications via des API.",
+      "details": "### Valeur commerciale\n\nVous pouvez utiliser des fonctionnalités de durabilité dans Business Central avec des logiciels tiers. Par exemple, utilisez des données sur vos émissions de gaz à effet de serre dans Business Central pour enrichir des données dans une autre application.\n\n### Détails de la fonctionnalité\n\nLes pages sur le développement durable ont des API. À l’avenir, vous pouvez utiliser Business Central données avec d’autres applications. Par exemple, vous pouvez utiliser des fonctionnalités de durabilité pour la collaboration avec Power Automate ou Power Apps, ou pour créer des rapports dans Power BI. Les API sont disponibles pour les pages suivantes : Compte de durabilité Catégorie Catégorie du compte Catégorie Sous-catégorie du compte Ligne de revues sur le développement durable Écriture durabilité",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-sustainability-features-integrations-apis"
+    }
+  }
+}

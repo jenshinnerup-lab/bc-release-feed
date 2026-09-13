@@ -1,0 +1,30 @@
+{
+  "id": "a6a3d98d4a70a25c",
+  "title": "Sort lines by type and number in sales and purchase postings",
+  "languages": {
+    "en": {
+      "title": "Sort lines by type in sales and purchase postings",
+      "summary": "To reduce deadlocks, when you enable concurrent inventory posting, sales and purchase posting will sort and process lines by type (and line number).",
+      "details": "### Business value\n\nWith this feature, you get better concurrency in inventory posting.\n\n### Feature details\n\nPreviously, Business Central processed sales and purchase document lines in the order of their line numbers. Now, if you enable concurrent inventory posting, it processes lines by type (and line number). If two sessions post at the same time, they lock resources in the same order to reduce the likelihood of deadlocks. Otherwise, the process for posting sales and purchase documents is unchanged. However, this change might affect extensions that rely on an expected value in the next line or previous line.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/sort-lines-type-number-sales-purchase-postings"
+    },
+    "da": {
+      "title": "Sortér linjer efter type i salgs- og købsbogføringer",
+      "summary": "Hvis du vil reducere blokeringer, når du aktiverer samtidig lagerbogføring, sorterer og behandler salgs- og købsbogføring linjer efter type (og linjenummer).",
+      "details": "### Forretningsværdi\n\nMed denne funktion får du bedre samtidighed i lagerbogføring.\n\n### Detaljer om funktioner\n\nTidligere behandlede Business Central salgs- og købsdokumentlinjer i rækkefølgen af deres linjenumre. Hvis du nu aktiverer samtidig lagerbogføring, behandles linjer efter type (og linjenummer). Hvis to sessioner foretager posteringer samtidig, låser de ressourcer i samme rækkefølge for at reducere sandsynligheden for deadlocks. Ellers er processen til bogføring af salgs- og købsdokumenter uændret. Denne ændring kan dog påvirke udvidelser, der er afhængige af en forventet værdi i næste linje eller forrige linje.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/sort-lines-type-number-sales-purchase-postings"
+    },
+    "nl": {
+      "title": "Lijnen sorteren op type in verkoop- en inkoopposteringen",
+      "summary": "Wanneer u gelijktijdige voorraadboeking inschakelt, worden regels bij verkoop- en inkoopboeking op type (en regelnummer) gesorteerd en verwerkt om deadlocks te verminderen.",
+      "details": "### Zakelijke waarde\n\nMet deze functie krijgt u betere gelijktijdigheid bij het boeken van voorraad.\n\n### Details van functies\n\nEerder verwerkte Business Central regels van verkoop- en inkoopdocumenten in de volgorde van de regelnummers ervan. Als u gelijktijdige voorraadboeking inschakelt, worden regels nu verwerkt op basis van type (en regelnummer). Als twee sessies tegelijkertijd boeken, vergrendelen ze resources in dezelfde order om de kans op deadlocks te verkleinen. Anders is het proces voor het boeken van verkoop- en aankoopdocumenten ongewijzigd. Deze wijziging kan echter van invloed zijn op extensies die afhankelijk zijn van een verwachte waarde in de volgende regel of vorige regel.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/sort-lines-type-number-sales-purchase-postings"
+    },
+    "fr": {
+      "title": "Trier les lignes par type dans les publications de ventes et d’achat",
+      "summary": "Pour réduire les interblocages, lorsque la comptabilisation simultanée des stocks est activée, les écritures de vente et d’achat trient et traitent les lignes par type (et par numéro de ligne).",
+      "details": "### Valeur commerciale\n\nAvec cette fonctionnalité, vous bénéficiez d’une meilleure concurrence dans la publication d’inventaire.\n\n### Détails de la fonctionnalité\n\nAuparavant, Business Central a traité les lignes de documents de vente et d’achat dans l’ordre de leurs numéros de ligne. À présent, si vous activez la publication d’inventaire simultanée, elle traite les lignes par type (et numéro de ligne). Si deux sessions publient en même temps, elles verrouillent les ressources dans le même ordre afin de réduire le risque de blocages. Dans le cas contraire, le processus de publication des documents de vente et d’achat n’est pas modifié. Toutefois, cette modification peut affecter les extensions qui s’appuient sur une valeur attendue dans la ligne suivante ou la ligne précédente.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/sort-lines-type-number-sales-purchase-postings"
+    }
+  }
+}

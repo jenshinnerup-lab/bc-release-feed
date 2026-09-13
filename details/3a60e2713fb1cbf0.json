@@ -1,0 +1,30 @@
+{
+  "id": "3a60e2713fb1cbf0",
+  "title": "Migrate record links and notes with cloud migration tooling",
+  "languages": {
+    "en": {
+      "title": "Migrate record links and notes with cloud migration tooling",
+      "summary": "Replicate links and notes on records from your Business Central on-premises environment to a Business Central online environment.",
+      "details": "### Business value\n\nBusiness users often attach links and notes to records in Business Central to add context and extra information. For businesses transitioning from on-premises to cloud environments, this feature ensures the migration of these links and notes on records without the need for external tooling. The feature saves time and reduces the risk of errors with manual data transfer.\n\n### Feature details\n\nPreviously, the cloud migration process didn't automatically migrate record links and notes to the online tenant. To move this data, you needed to use manual methods. Now, the cloud migration setup and replication tooling automatically migrate links and notes on records with minimal effort.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/migrate-record-links-notes-cloud-migration-tooling"
+    },
+    "da": {
+      "title": "Migrer posttilknytninger og noter med cloud-migreringsværktøjer",
+      "summary": "Repliker links og noter på poster fra dit Business Central lokale miljø til et Business Central onlinemiljø.",
+      "details": "### Forretningsværdi\n\nErhvervsbrugere vedhæfter ofte links og noter til poster i Business Central for at tilføje kontekst og ekstra oplysninger. For virksomheder, der skifter fra lokale miljøer til cloudmiljøer, sikrer denne funktion migrering af disse links og noter om poster uden behov for eksterne værktøjer. Funktionen sparer tid og reducerer risikoen for fejl ved manuel dataoverførsel.\n\n### Detaljer om funktioner\n\nTidligere overførte cloudoverførselsprocessen ikke automatisk datalinks og noter til den online lejer. For at flytte disse data skal du bruge manuelle metoder. Nu overfører cloudmigreringskonfigurationen og replikeringsværktøjerne automatisk links og noter til poster med minimal indsats.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/migrate-record-links-notes-cloud-migration-tooling"
+    },
+    "nl": {
+      "title": "Recordkoppelingen en notities migreren met cloudmigratietools",
+      "summary": "Repliceer koppelingen en notities over records vanuit uw Business Central on-premises omgeving naar een Business Central onlineomgeving.",
+      "details": "### Zakelijke waarde\n\nZakelijke gebruikers voegen vaak koppelingen en notities toe aan records in Business Central om context en extra informatie toe te voegen. Voor bedrijven die overstappen van on-premises naar cloudomgevingen, zorgt deze functie voor de migratie van deze koppelingen en notities in records zonder dat er externe tooling nodig is. De functie bespaart tijd en vermindert het risico op fouten bij handmatige gegevensoverdracht.\n\n### Details van functies\n\nVoorheen migreerde het cloudmigratieproces niet automatisch recordkoppelingen en notities naar de online tenant. Om deze gegevens te verplaatsen, moest u handmatige methoden gebruiken. De cloudmigratie-instellingen en replicatietools migreren nu automatisch koppelingen en notities op records met minimale inspanning.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/migrate-record-links-notes-cloud-migration-tooling"
+    },
+    "fr": {
+      "title": "Migrer les liens et les notes d’enregistrement à l’aide des outils de migration vers le cloud",
+      "summary": "Répliquez les liens et les notes des enregistrements de votre environnement Business Central sur site vers un environnement Business Central Online.",
+      "details": "### Valeur commerciale\n\nLes utilisateurs professionnels attachent souvent des liens et des notes à des enregistrements dans Business Central pour ajouter du contexte et des informations supplémentaires. Pour les entreprises qui passent d’un environnement sur site à un environnement cloud, cette fonctionnalité garantit la migration de ces liens et notes sur les enregistrements sans avoir besoin d’outils externes. Cette fonctionnalité permet de gagner du temps et de réduire le risque d’erreurs grâce au transfert manuel des données.\n\n### Détails des fonctionnalités\n\nAuparavant, le processus de migration vers le cloud ne transférait pas automatiquement les liens d’enregistrement et les notes vers le client en ligne. Pour déplacer ces données, vous deviez utiliser des méthodes manuelles. Désormais, les outils de configuration et de réplication de la migration vers le cloud migrent automatiquement les liens et les notes sur les enregistrements avec un minimum d’effort.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/migrate-record-links-notes-cloud-migration-tooling"
+    }
+  }
+}

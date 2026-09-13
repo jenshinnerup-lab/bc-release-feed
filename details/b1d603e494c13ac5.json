@@ -1,0 +1,30 @@
+{
+  "id": "b1d603e494c13ac5",
+  "title": "Integration of Word templates",
+  "languages": {
+    "en": {
+      "title": "Integration of Word templates with interaction templates",
+      "summary": "Word templates can be used when you log an interaction with the new interaction templates.",
+      "details": "### Business value\n\nWord templates are a great way to speed up and ensure high-quality, in-bulk communication with your customers and business partners. Now, you can use Word templates when you log interactions with the new interaction templates.\n\n### Feature details\n\nIn 2021 release wave 1, we added Word templates so you can use Business Central as the data source for mail merge documents in Word. With the July update, users will be able to add a Word template to interactions, and then log the interactions to a segmented audience.\n\n### See also\n\nRecord Interactions With Contacts (docs)\n\n### Additional resources\n\nLast updated on 2021-08-13 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/integration-word-templates-interaction-templates"
+    },
+    "da": {
+      "title": "Integration af Word-skabeloner med interaktionsskabeloner",
+      "summary": "Word-skabeloner kan bruges, når du registrerer en interaktion med de nye interaktionsskabeloner.",
+      "details": "### Forretningsværdi\n\nWord-skabeloner er en fantastisk måde at fremskynde og sikre kommunikation af høj kvalitet i bulk med dine kunder og forretningspartnere. Nu kan du bruge Word-skabeloner, når du registrerer en interaktion med de nye interaktionsskabeloner.\n\n### Funktionsdetaljer\n\nI udgivelsesbølge 1 i 2021 har vi tilføjet Word-skabeloner, så du kan bruge Business Central som datakilde til brevfletningsdokumenter i Word. Med opdateringen fra juli kan brugerne føje en Word-skabelon til interaktioner og derefter registrere interaktionerne under en segmenteret målgruppe.\n\n### Se også\n\nOptage interaktioner med kontakter (dokumentation)\n\n### Yderligere ressourcer\n\nLast updated on 2022-09-05 I denne artikel da-dk Dine valg af beskyttelse af personlige oplysninger Tema Lys Mørk Høj kontrast AI-ansvarsfraskrivelse Tidligere versioner Blog Bidrag Beskyttelse af personlige oplysninger Beskyttelse af personlige oplysninger for forbrugerbeskyttelse Vilkår for anvendelse Varemærker © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/integration-word-templates-interaction-templates"
+    },
+    "nl": {
+      "title": "Integration of Word templates with interaction templates",
+      "summary": "Word templates can be used when you log an interaction with the new interaction templates.",
+      "details": "### Business value\n\nWord templates are a great way to speed up and ensure high-quality, in-bulk communication with your customers and business partners. Now, you can use Word templates when you log interactions with the new interaction templates.\n\n### Feature details\n\nIn 2021 release wave 1, we added Word templates so you can use Business Central as the data source for mail merge documents in Word. With the July update, users will be able to add a Word template to interactions, and then log the interactions to a segmented audience.\n\n### See also\n\nRecord Interactions With Contacts (docs)\n\n### Aanvullende resources\n\nLast updated on 2021-08-13 In dit artikel nl-nl Uw privacykeuzes Thema Licht Donker Hoog contrast AI-disclaimer Vorige versies Blog Bijdragen Privacy Privacy van gezondheidsdata Gebruiksvoorwaarden Handelsmerken © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/integration-word-templates-interaction-templates"
+    },
+    "fr": {
+      "title": "Integration of Word templates with interaction templates",
+      "summary": "Word templates can be used when you log an interaction with the new interaction templates.",
+      "details": "### Business value\n\nWord templates are a great way to speed up and ensure high-quality, in-bulk communication with your customers and business partners. Now, you can use Word templates when you log interactions with the new interaction templates.\n\n### Feature details\n\nIn 2021 release wave 1, we added Word templates so you can use Business Central as the data source for mail merge documents in Word. With the July update, users will be able to add a Word template to interactions, and then log the interactions to a segmented audience.\n\n### See also\n\nRecord Interactions With Contacts (docs)\n\n### Ressources supplémentaires\n\nLast updated on 2021-08-13 Dans cet article fr-fr Vos choix en matière de confidentialité Thème Clair Sombre Contraste élevé Clause d’exclusion de responsabilité sur l’IA Versions antérieures Blog Collaboration Confidentialité Confidentialité de la santé des consommateurs Conditions d’utilisation Accessibilité Marques © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/integration-word-templates-interaction-templates"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "c8759d659148dd0b",
+  "title": "Alternative posting groups for employees in Czechia",
+  "languages": {
+    "en": {
+      "title": "Alternative posting groups for employees in Czechia",
+      "summary": "This feature corrects G/L entries to prevent turnover inflation on employee balance accounts, supporting accurate financial analysis.",
+      "details": "### Business value\n\nWith this modification, turnovers on employee balance accounts will remain unchanged and values will be preserved during analysis.\n\n### Feature details\n\nIf different employee posting groups are used in a general journal or payment document, the G/L entries are automatically reallocated among the accounts of each posting group when employee entries are applied. The previous posting method for applying items increased turnover on both the debit and credit sides by the same amount. With this modification, the balancing is treated as a correction—meaning that postings are made to only one side, either debit or credit account. This approach prevents turnover from increasing on balance accounts and ensures that values remain accurate in analysis.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/alternative-posting-groups-employees-czechia"
+    },
+    "da": {
+      "title": "Alternative bogføringsgrupper for medarbejdere i Tjekkiet",
+      "summary": "Denne funktion korrigerer finansposter for at forhindre omsætningsinflation på medarbejdersaldokonti, der understøtter nøjagtige økonomiske analyser.",
+      "details": "### Forretningsværdi\n\nMed denne ændring forbliver omsætningen på medarbejdersaldokonti uændret, og værdierne bevares under analysen.\n\n### Detaljer om funktioner\n\nHvis der bruges forskellige medarbejderbogføringsgrupper i en finanskladde eller et betalingsdokument, fordeles finansposterne automatisk mellem kontiene for hver bogføringsgruppe, når medarbejderposterne bogføres. Den tidligere bogføringsmetode til anvendelse af varer øgede omsætningen på både debet- og kreditsiden med det samme beløb. Med denne ændring behandles afvejningen som en rettelse – hvilket betyder, at posteringer kun foretages på én side, enten debet- eller kreditkonto. Denne fremgangsmåde forhindrer, at omsætningen stiger på balancekonti og sikrer, at værdierne forbliver nøjagtige i analysen.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/alternative-posting-groups-employees-czechia"
+    },
+    "nl": {
+      "title": "Alternatieve plaatsingsgroepen voor werknemers in Tsjechië",
+      "summary": "Deze functie corrigeert G/L-posten om de inflatie van de omzet op de balansrekeningen van werknemers te voorkomen, ter ondersteuning van een nauwkeurige financiële analyse.",
+      "details": "### Zakelijke waarde\n\nMet deze wijziging blijven de omzet op de balansrekeningen van werknemers ongewijzigd en blijven de waarden behouden tijdens de analyse.\n\n### Details van functies\n\nAls verschillende boekingsgroepen van werknemers worden gebruikt in een algemeen dagboek of betalingsdocument, worden de G/L-vermeldingen automatisch opnieuw toegewezen aan de rekeningen van elke boekingsgroep wanneer werknemersposten worden toegepast. Met de vorige boekingsmethode voor het toewijzen van posten werd de omzet aan zowel de debet- als de creditzijde met hetzelfde bedrag verhoogd. Met deze wijziging wordt de balansboeking behandeld als een correctie, wat betekent dat er slechts aan één zijde wordt geboekt, of op de debiteuren- of op de crediteurenrekening. Deze aanpak voorkomt dat de omzet op saldorekeningen toeneemt en zorgt ervoor dat de waarden in analyse nauwkeurig blijven.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/alternative-posting-groups-employees-czechia"
+    },
+    "fr": {
+      "title": "Autres groupes d’affichage pour les employés en République tchèque",
+      "summary": "Cette fonctionnalité corrige les écritures comptables afin d’éviter une inflation du chiffre d’affaires sur les comptes de bilan des employés, ce qui rend toute analyse financière plus précise.",
+      "details": "### Valeur commerciale\n\nAvec cette modification, les rotations sur les comptes de solde des employés resteront inchangées et les valeurs seront conservées pendant l’analyse.\n\n### Détails des fonctionnalités\n\nSi des groupes de publication d’employés différents sont utilisés dans un journal général ou un document de paiement, les entrées G/L sont automatiquement réalloués entre les comptes de chaque groupe de publication lorsque les entrées des employés sont appliquées. L’ancienne méthode de comptabilisation des éléments augmentait le chiffre d’affaires à la fois du côté débit et du côté crédit du même montant. Avec cette modification, le rapprochement est considéré comme une correction, ce qui signifie que les écritures sont passées d’un seul côté, soit au débit, soit au crédit. Cette approche empêche l’augmentation du chiffre d’affaires sur les comptes d’équilibre et garantit que les valeurs restent précises dans l’analyse.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/alternative-posting-groups-employees-czechia"
+    }
+  }
+}

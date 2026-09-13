@@ -1,0 +1,30 @@
+{
+  "id": "4305d6d6fb71e555",
+  "title": "Use new Contoso Coffee Demo dataset for Intrastat",
+  "languages": {
+    "en": {
+      "title": "Use new Contoso Coffee Demo dataset for Intrastat",
+      "summary": "The Contoso Coffee app’s demo tool uses Business Central data, letting presales specialists easily showcase features in any environment.",
+      "details": "### Business value\n\nWe are developing a demonstration tool featuring Intrastat configuration and data in Business Central. This solution is designed to assist users in thoroughly understanding and streamlining their Intrastat processes.\n\n### Feature details\n\nThe Contoso Coffee app includes a demo tool and an associated set of sample data. The extension can be installed in any environment. Presales specialists can use the tool on either Cronus or MyCompany to obtain the required setup and demo data needed to showcase Intrastat features for a range of scenarios. For Business Central on-premises, the demo tool and its corresponding data are included as source code in the product media.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/new-contoso-coffee-demo-dataset-intrastat"
+    },
+    "da": {
+      "title": "Brug nyt Contoso Coffee Demo-datasæt til Intrastat",
+      "summary": "Demoværktøjet til Contoso Coffee-appen bruger Business Central-data, så presales-specialister nemt kan fremvise funktioner i ethvert miljø.",
+      "details": "### Forretningsværdi\n\nVi er ved at udvikle et demonstrationsværktøj med Intrastat-konfiguration og data i Business Central. Denne løsning er designet til at hjælpe brugerne med en grundig forståelse og strømlining af deres Intrastat-processer.\n\n### Funktionsdetaljer\n\nContoso Coffee-appen indeholder et demoværktøj og et tilknyttet sæt eksempeldata. Udvidelsen kan installeres i et hvilket som helst miljø. Presales-specialister kan bruge værktøjet på enten Cronus eller MyCompany til at hente de påkrævede konfigurations- og demodata, der er nødvendige for at vise Intrastat-funktioner til en række scenarier. For Business Central i det lokale miljø er demoværktøjet og de tilhørende data inkluderet som kildekode i produktmediet.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/new-contoso-coffee-demo-dataset-intrastat"
+    },
+    "nl": {
+      "title": "Nieuwe Contoso Coffee Demo-gegevensset gebruiken voor Intrastat",
+      "summary": "Het demohulpprogramma van de Contoso Coffee-app gebruikt Business Central-gegevens, zodat presales-specialisten functies eenvoudig in elke omgeving kunnen presenteren.",
+      "details": "### Zakelijke waarde\n\nWe ontwikkelen een demonstratieprogramma met Intrastat-configuratie en -gegevens in Business Central. Deze oplossing is ontworpen om gebruikers te helpen hun Intrastat-processen goed te begrijpen en te stroomlijnen.\n\n### Functiedetails\n\nDe Contoso Coffee-app bevat een demohulpprogramma en een bijbehorende set voorbeeldgegevens. De extensie kan in elke omgeving worden geïnstalleerd. Presales-specialisten kunnen het hulpprogramma op Cronus of MyCompany gebruiken om de vereiste installatie- en demogegevens te krijgen die nodig zijn om Intrastat-functies voor een reeks scenario's te presenteren. Voor Business Central on-premises zijn het demohulpprogramma en de bijbehorende gegevens als broncode opgenomen in de productmedia.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/new-contoso-coffee-demo-dataset-intrastat"
+    },
+    "fr": {
+      "title": "Utiliser un nouveau jeu de données de démonstration de café Contoso pour Intrastat",
+      "summary": "L’outil de démonstration de l’application Contoso Coffee utilise des données Business Central, permettant aux spécialistes des préventes de présenter facilement des fonctionnalités dans n’importe quel environnement.",
+      "details": "### Valeur commerciale\n\nNous développons un outil de démonstration mettant en évidence la configuration et les données Intrastat dans Business Central. Cette solution est conçue pour aider les utilisateurs à bien comprendre et à rationaliser leurs processus Intrastat.\n\n### Détails de la fonctionnalité\n\nL’application Contoso Coffee inclut un outil de démonstration et un ensemble associé d’exemples de données. L’extension peut être installée dans n’importe quel environnement. Les spécialistes des préventes peuvent utiliser l’outil sur Cronus ou MyCompany pour obtenir les données d’installation et de démonstration requises pour présenter les fonctionnalités Intrastat pour une gamme de scénarios. Pour Business Central local, l’outil de démonstration et ses données correspondantes sont inclus en tant que code source dans le média de produit.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/new-contoso-coffee-demo-dataset-intrastat"
+    }
+  }
+}

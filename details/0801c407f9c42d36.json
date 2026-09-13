@@ -1,0 +1,30 @@
+{
+  "id": "0801c407f9c42d36",
+  "title": "Calculate values only for visible FlowFields",
+  "languages": {
+    "en": {
+      "title": "Calculate values only for visible FlowFields",
+      "summary": "Improve performance by calculating values only for FlowFields that are shown on a page.",
+      "details": "### Business value\n\nThe Calculate only visible FlowFields feature improves system performance by calculating values only for FlowFields that pages display. It reduces unnecessary computations, so pages load faster and efficiency improves. When you enable this feature, you optimize resource usage for a more responsive and streamlined user experience. This change boosts performance and helps manage system resources more effectively, so your business operations benefit.\n\n### Feature details\n\nWhen you add a FlowField to a page or page extension and set the Visible property to false, the FlowField doesn't appear on the page. However, the AL runtime still calculates the value, which leads to unnecessary computations and performance issues. As an administrator, you can change this behavior by enabling the Calculate only visible FlowFields feature on the Feature Management page. When enabled, the AL runtime calculates values only for FlowFields that are visible on pages.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/calculate-values-only-visible-flowfields"
+    },
+    "da": {
+      "title": "Beregne kun værdier til synlige FlowFields",
+      "summary": "Forbedre ydeevnen ved kun at beregne værdier for FlowFields, der vises på en side.",
+      "details": "### Forretningsværdi\n\nFunktionen Beregn kun synlige FlowFields forbedrer systemets ydeevne ved kun at beregne værdier for FlowFields, som sider viser. Det reducerer unødvendige beregninger, så siderne indlæses hurtigere, og effektiviteten forbedres. Når du aktiverer denne funktion, optimerer du ressourceforbruget for at give en mere responsiv og strømlinet brugeroplevelse. Denne ændring øger ydeevnen og hjælper med at administrere systemressourcer mere effektivt, så din forretningsdrift drager fordel af det.\n\n### Detaljer om funktioner\n\nNår du føjer et FlowField til en side eller sideudvidelse og indstiller egenskaben Visible til false, vises FlowField ikke på siden. AL-kørslen beregner dog stadig værdien, hvilket fører til unødvendige beregninger og problemer med ydeevnen. Som administrator kan du ændre denne funktionsmåde ved at aktivere funktionen Beregn kun synlige flowfelter på siden Funktionsstyring . Når AL runtime er aktiveret, beregner den kun værdier for FlowFields, der er synlige på sider.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/calculate-values-only-visible-flowfields"
+    },
+    "nl": {
+      "title": "Alleen waarden voor zichtbare FlowFields berekenen",
+      "summary": "Prestaties verbeteren door alleen waarden te berekenen voor FlowFields die op een pagina worden weergegeven.",
+      "details": "### Zakelijke waarde\n\nDe functie Alleen zichtbare FlowFields berekenen verbetert de systeemprestaties door alleen waarden te berekenen voor FlowFields die op pagina's worden weergegeven. Het vermindert onnodige berekeningen, zodat pagina's sneller laden en de efficiëntie verbetert. Wanneer u deze functie inschakelt, optimaliseert u het resourcegebruik voor een responsievere en gestroomlijnde gebruikerservaring. Deze verandering verbetert de prestaties en helpt systeembronnen effectiever te beheren, zodat uw bedrijfsactiviteiten hiervan profiteren.\n\n### Details van functies\n\nWanneer u een FlowField toevoegt aan een pagina of pagina-extensie en de eigenschap Visible instelt op false, wordt het FlowField niet weergegeven op de pagina. De AL-runtime berekent echter nog steeds de waarde, wat leidt tot onnodige berekeningen en prestatieproblemen. Als beheerder kunt u dit gedrag wijzigen door de functie Alleen zichtbare FlowFields berekenen in te schakelen op de pagina Functiebeheer . Als de functie is ingeschakeld, worden met de AL-runtime alleen waarden berekend voor FlowFields die zichtbaar zijn op pagina's.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/calculate-values-only-visible-flowfields"
+    },
+    "fr": {
+      "title": "Calculer les valeurs uniquement pour les FlowFields visibles",
+      "summary": "Améliorez les performances en calculant les valeurs uniquement pour les FlowFields affichés sur une page.",
+      "details": "### Valeur commerciale\n\nLa fonctionnalité Calculer uniquement les FlowFields visibles améliore les performances du système en calculant les valeurs uniquement pour les FlowFields affichés par les pages. Il réduit les calculs inutiles, ce qui accélère le chargement des pages et améliore l’efficacité. Lorsque vous activez cette fonctionnalité, vous optimisez l’utilisation des ressources pour une expérience utilisateur plus réactive et rationalisée. Cette modification améliore les performances et permet de gérer plus efficacement les ressources système, ce qui profite à vos opérations commerciales.\n\n### Détails des fonctionnalités\n\nLorsque vous ajoutez un FlowField à une page ou à une extension de page et que vous définissez la propriété Visible sur false, le FlowField n’apparaît pas sur la page. Cependant, le runtime AL calcule toujours la valeur, ce qui entraîne des calculs inutiles et des problèmes de performances. En tant qu’administrateur, vous pouvez modifier ce comportement en activant la fonctionnalité Calculer uniquement les FlowFields visibles sur la page Gestion des fonctionnalités . Quand elle est activée, le runtime AL calcule les valeurs uniquement pour les FlowFields visibles sur les pages.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/calculate-values-only-visible-flowfields"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "f6f0ebf1da3d6808",
+  "title": "E-invoicing with NemHandel in Denmark",
+  "languages": {
+    "en": {
+      "title": "E-invoicing with NemHandel in Denmark",
+      "summary": "Use e-invoicing with NemHandel in Denmark.",
+      "details": "### Business value\n\nDanish companies can use e-invoicing with the NemHandel as required by the new Danish Bookkeeping Act.\n\n### Feature details\n\nBecause the new Danish Bookkeeping Act requires an embedded feature for e-invoicing that's connected with the NemHandel service, a new e-invoicing app has been created on top of our new global e-documents core app. This new app enables all the features that are required by Danish authorities and provide OIOUBL and PEPPOL formats. The app also enables the connection of e-documents in Business Central with NemHandel by using certified access points.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/e-invoicing-nemhandel-denmark"
+    },
+    "da": {
+      "title": "E-fakturering med NemHandel i Danmark",
+      "summary": "Brug elektronisk fakturering med NemHandel i Danmark.",
+      "details": "### Forretningsværdi\n\nDanske virksomheder kan bruge elektronisk fakturering med NemHandel i henhold til kravet i den nye danske bogføringslov.\n\n### Funktionsdetaljer\n\nDa den nye danske bogføringslov kræver en integreret funktion til elektronisk fakturering, der er forbundet med NemHandel-tjenesten, er der lavet en ny e-faktura-app oven på vores nye globale kerne-app til e-fakturaer. Denne nye app aktiverer alle de funktioner, som er påkrævet af danske myndigheder og leverer OIOUBL- og PEPPOL-formater. Appen muliggør også tilslutning af e-dokumenter i Business Central med NemHandel ved at bruge certificerede adgangspunkter.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/e-invoicing-nemhandel-denmark"
+    },
+    "nl": {
+      "title": "Elektronische facturen met NemHandel in Denemarken",
+      "summary": "Elektronische facturering gebruiken met NemHandel in Denemarken.",
+      "details": "### Zakelijke waarde\n\nDeense bedrijven kunnen gebruikmaken van e-facturering met NemHandel, zoals vereist door de nieuwe Deense boekhoudwet.\n\n### Functiedetails\n\nOmdat de nieuwe Deense boekhoudwet een ingesloten functie vereist voor e-facturering die is verbonden met de NemHandel-service, is er een nieuwe app voor e-facturering gemaakt bovenop onze nieuwe wereldwijde kernapp voor e-documenten. Deze nieuwe app maakt alle functies mogelijk die door de Deense autoriteiten worden vereist en biedt OIOUBL- en PEPPOL-indelingen. De app maakt ook de koppeling van e-documenten in Business Central met NemHandel mogelijk door gebruik te maken van gecertificeerde toegangspunten.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/e-invoicing-nemhandel-denmark"
+    },
+    "fr": {
+      "title": "Facturation électronique avec NemHandel au Danemark",
+      "summary": "Utilisez la facturation électronique avec NemHandel au Danemark.",
+      "details": "### Valeur commerciale\n\nLes entreprises danoises peuvent utiliser la facturation électronique avec NemHandel comme l’exige la nouvelle loi danoise sur la comptabilité.\n\n### Détails de la fonctionnalité\n\nComme la nouvelle loi danoise sur la comptabilité exige une fonctionnalité intégrée pour la facturation électronique qui est connectée au service NemHandel, une nouvelle application de facturation électronique a été créée en plus de notre nouvelle application principale de documents électroniques mondiale. Cette nouvelle application active toutes les fonctionnalités requises par les autorités danoises et fournit des formats OIOUBL et PEPPOL. L’application permet également la connexion de documents électroniques dans Business Central avec NemHandel via les points d’accès certifiés.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/e-invoicing-nemhandel-denmark"
+    }
+  }
+}

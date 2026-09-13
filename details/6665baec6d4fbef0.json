@@ -1,0 +1,30 @@
+{
+  "id": "6665baec6d4fbef0",
+  "title": "Use SharePoint Connector module in System Application to build integration between Business Central and Sharepoint",
+  "languages": {
+    "en": {
+      "title": "Integrate Business Central with SharePoint",
+      "summary": "You can use the SharePoint Connector module in System Application to integrate SharePoint with Business Central.",
+      "details": "### Business value\n\nTo prepare Business Central for integrating with SharePoint, a System Application module handles the connection and operations with SharePoint REST APIs.\n\n### Feature details\n\nYou can use the SharePoint module in System Application to connect, authenticate, and perform basic operations with SharePoint files, folders, lists, list items, and list attachments through SharePoint REST APIs.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-sharepoint-module-system-application-build-integrations-between-business-central-sharepoint"
+    },
+    "da": {
+      "title": "Integrere Business Central med SharePoint",
+      "summary": "Du kan bruge SharePoint Connector-modulet i System Application til at integrere SharePoint med Business Central.",
+      "details": "### Forretningsværdi\n\nHvis du vil forberede Business Central til integration med SharePoint, håndterer et systemapplikationsmodul forbindelsen og operationerne med SharePoint REST API'er.\n\n### Funktionsdetaljer\n\nDu kan bruge SharePoint-modulet i systemapplikationen til at forbinde, godkende og udføre grundlæggende handlinger med SharePoint-filer, -mapper, -lister, -listeelementer og -listevedhæftede filer gennem SharePoint REST API'er.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-sharepoint-module-system-application-build-integrations-between-business-central-sharepoint"
+    },
+    "nl": {
+      "title": "Business Central integreren met SharePoint",
+      "summary": "U kunt de SharePoint Connector-module in Systeemtoepassing gebruiken om SharePoint te integreren met Business Central.",
+      "details": "### Zakelijke waarde\n\nOm Business Central voor te bereiden op de integratie met SharePoint, zorgt een module in Systeemtoepassing voor de verbinding en bewerkingen met SharePoint REST API's.\n\n### Functiedetails\n\nU kunt de SharePoint-module in Systeemtoepassing gebruiken om via SharePoint REST API's verbinding te maken, gegevens te verifiëren en basisbewerkingen uit te voeren met SharePoint-bestanden, -mappen, lijsten, lijstitems en lijstbijlagen.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-sharepoint-module-system-application-build-integrations-between-business-central-sharepoint"
+    },
+    "fr": {
+      "title": "Intégration de Business Central avec SharePoint",
+      "summary": "Vous pouvez utiliser le module du connecteur SharePoint dans l’application système pour intégrer SharePoint avec Business Central.",
+      "details": "### Valeur commerciale\n\nPour préparer Business Central à l’intégration avec SharePoint, un module d’application système gère la connexion et les opérations avec les API REST SharePoint.\n\n### Détails de la fonctionnalité\n\nVous pouvez utiliser le module SharePoint dans l’application système pour vous connecter, vous authentifier et effectuer des opérations de base avec les fichiers, dossiers, listes, éléments de liste et documents joints de liste SharePoint via les API REST SharePoint.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-sharepoint-module-system-application-build-integrations-between-business-central-sharepoint"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "48c53d9136a3ef6f",
+  "title": "Adjust the FactBox pane width",
+  "languages": {
+    "en": {
+      "title": "Adjust the FactBox pane width",
+      "summary": "You can resize the FactBox pane on all pages and page types that support the FactBox pane.",
+      "details": "### Business value\n\nCustomers want to work optimally with Business Central, even when they need extra room for the information on the FactBox pane. You can resize the FactBox pane to see the details more clearly.\n\n### Feature details\n\nThe user experience in Business Central now lets you resize the FactBox pane on all pages and page types that support the FactBox pane. With this feature, you can: Resize the FactBox pane within certain proportions, so the main part of the page stays visible. See the content in the FactBox pane reflow smoothly to fill the available space. Have the browser remember the size of the FactBox for each user and page, just like with other lightweight adjustments. Double-click the divider to reset the size of the FactBox pane to default.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allow-adjusting-factbox-pane-width"
+    },
+    "da": {
+      "title": "Juster faktaboksrudens bredde",
+      "summary": "Du kan ændre størrelsen på faktaboksruden på alle sider og sidetyper, der understøtter faktaboksruden.",
+      "details": "### Forretningsværdi\n\nKunderne ønsker at arbejde optimalt med Business Central, selv når de har brug for ekstra plads til oplysningerne i faktaboksruden. Du kan ændre størrelsen på faktaboksruden for at se detaljerne tydeligere.\n\n### Detaljer om funktioner\n\nBrugeroplevelsen i Business Central giver dig nu mulighed for at ændre størrelsen på faktaboksruden på alle sider og sidetyper, der understøtter faktaboksruden. Med denne funktion kan du: Tilpas størrelsen på faktaboksruden inden for bestemte proportioner, så hoveddelen af siden forbliver synlig. Se indholdet i ruden Faktaboks ombryde jævnt for at udfylde den ledige plads. Få browseren til at huske størrelsen på faktaboksen for hver bruger og side, ligesom med andre lette justeringer. Dobbeltklik på skillelinjen for at nulstille størrelsen på faktaboksruden til standard.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allow-adjusting-factbox-pane-width"
+    },
+    "nl": {
+      "title": "De breedte van het deelvenster Feitenblok aanpassen",
+      "summary": "U kunt het formaat van het deelvenster Feitenblok wijzigen op alle pagina's en paginatypen die het deelvenster Feitenblok ondersteunen.",
+      "details": "### Zakelijke waarde\n\nKlanten willen optimaal werken met Business Central, ook als ze extra ruimte nodig hebben voor de informatie in het FactBox-venster. U kunt het formaat van het FactBox-paneel wijzigen om de details duidelijker te zien.\n\n### Details van functies\n\nMet de gebruikerservaring in Business Central kunt u nu het formaat van het deelvenster FactBox wijzigen op alle pagina's en paginatypen die ondersteuning bieden voor het deelvenster FactBox. Met deze functie kunt u het volgende doen: Wijzig het formaat van het FactBox-paneel binnen bepaalde verhoudingen, zodat het grootste deel van de pagina zichtbaar blijft. Zie hoe de inhoud in het FactBox-deelvenster soepel wordt aangepast om de beschikbare ruimte te vullen. Laat de browser de grootte van de FactBox voor elke gebruiker en pagina onthouden, net als bij andere lichtgewicht aanpassingen. Dubbelklik op de scheidingslijn om de grootte van het FactBox-deelvenster terug te zetten naar de standaardinstelling.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allow-adjusting-factbox-pane-width"
+    },
+    "fr": {
+      "title": "Ajuster la largeur du volet Récapitulatif",
+      "summary": "Vous pouvez redimensionner le volet Récapitulatif sur l’ensemble des pages et types de pages qui prennent en charge le volet Récapitulatif.",
+      "details": "### Valeur commerciale\n\nLes clients souhaitent travailler de manière optimale avec Business Central, même s’ils ont besoin d’espace supplémentaire pour les informations sur le volet FactBox. Vous pouvez redimensionner le volet Récapitulatif pour voir les détails plus clairement.\n\n### Détails des fonctionnalités\n\nL’expérience utilisateur dans Business Central vous permet désormais de redimensionner le volet Récapitulatif sur toutes les pages et tous les types de pages qui prennent en charge le volet Récapitulatif. Avec cette fonctionnalité, vous pouvez effectuer les opérations suivantes : Redimensionnez le volet Récapitulatif dans certaines proportions, afin que la partie principale de la page reste visible. Regardez le contenu du volet Encadré Factuel se redistribuer en douceur pour remplir l’espace disponible. Faites en sorte que le navigateur se souvienne de la taille du FactBox pour chaque utilisateur et chaque page, comme pour d’autres ajustements légers. Double-cliquez sur le séparateur pour réinitialiser la taille par défaut du volet Récapitulatif.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allow-adjusting-factbox-pane-width"
+    }
+  }
+}

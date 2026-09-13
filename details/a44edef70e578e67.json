@@ -1,0 +1,30 @@
+{
+  "id": "a44edef70e578e67",
+  "title": "Use enhanced Excel reports for sustainability",
+  "languages": {
+    "en": {
+      "title": "Use enhanced Excel reports for sustainability",
+      "summary": "The enhanced reporting and analytics for sustainability offer new, powerful insights with Excel layouts.",
+      "details": "### Business value\n\nThe improvements in reporting and analytics for sustainability help your business analyze sustainability scenarios with Excel.\n\n### Feature details\n\nWe improved reporting and analytics for sustainability. The following Excel reports have new layouts that work well both for print and for pivot analysis in Excel. Emission By Category Emission Per Facility Total Emissions",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-excel-reports-sustainability"
+    },
+    "da": {
+      "title": "Brug forbedrede Excel-rapporter til bæredygtighed",
+      "summary": "Den forbedrede rapportering og analyse for bæredygtighed giver ny, effektiv indsigt med Excel-layout.",
+      "details": "### Forretningsværdi\n\nForbedringerne i rapportering og analyse af bæredygtighed hjælper din virksomhed med at analysere bæredygtighedsscenarier med Excel.\n\n### Detaljer om funktioner\n\nVi forbedrede rapportering og analyser med henblik på bæredygtighed. Følgende Excel-rapporter har nye layout, der fungerer godt både til udskrivning og til pivotanalyse i Excel. Emission efter kategori Udledning pr. anlæg Samlede emissioner",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-excel-reports-sustainability"
+    },
+    "nl": {
+      "title": "Verbeterde Excel-rapporten gebruiken voor duurzaamheid",
+      "summary": "De verbeterde rapportage en analyses voor duurzaamheid bieden nieuwe, krachtige inzichten met Excel-indelingen.",
+      "details": "### Zakelijke waarde\n\nDe verbeteringen in rapportage en analyse voor duurzaamheid helpen uw bedrijf bij het analyseren van duurzaamheidsscenario's met Excel.\n\n### Details van functies\n\nWe hebben de rapportage en analyses voor duurzaamheid verbeterd. De volgende Excel-rapporten hebben nieuwe lay-outs die goed werken voor zowel afdrukken als voor draaipuntanalyse in Excel. Emissie per categorie Emissies per faciliteit Totale emissies",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-excel-reports-sustainability"
+    },
+    "fr": {
+      "title": "Utilisez des rapports Excel améliorés pour la durabilité",
+      "summary": "Les rapports et l’analyse améliorés pour la durabilité offrent de nouvelles perspectives puissantes avec des mises en page Excel.",
+      "details": "### Valeur commerciale\n\nLes améliorations apportées aux rapports et aux analyses pour le développement durable aident votre entreprise à analyser les scénarios de développement durable avec Excel.\n\n### Détails des fonctionnalités\n\nNous avons amélioré les rapports et les analyses pour la durabilité. Les rapports Excel suivants ont de nouvelles mises en page qui fonctionnent bien à la fois pour l’impression et pour l’analyse de pivot dans Excel. Émissions par catégorie Émissions par site Émissions totales",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-excel-reports-sustainability"
+    }
+  }
+}

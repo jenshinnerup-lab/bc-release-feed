@@ -1,0 +1,30 @@
+{
+  "id": "212dddd59eff6e7d",
+  "title": "Media/image support for Business Central connectors",
+  "languages": {
+    "en": {
+      "title": "Add media/image support for Business Central connectors",
+      "summary": "Citizen developers and makers accessing Business Central online data via the Power Platform and Logic Apps connector can manipulate media files, like item or customer images.",
+      "details": "### Business value\n\nWhen accessing Business Central online data via the Power Platform and Azure Logic Apps connector, you can manipulate media files.\n\n### Feature details\n\nCitizen developers and decision makers accessing Business Central online data via the Power Platform and Logic Apps connector can manipulate media files like item or customer images. This capability opens up additional business scenarios with Power Apps and Power Automate.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/add-mediaimage-support-business-central-connectors"
+    },
+    "da": {
+      "title": "Føje medie/billedunderstøttelse til Business Central-connectorer",
+      "summary": "Selvlærte udviklere og producenter, der får adgang til Business Central Online-data via Power Platform- og Logic Apps-connectoren, kan manipulere mediefiler, som f.eks. vare- eller kundebilleder.",
+      "details": "### Forretningsværdi\n\nNår du får adgang til Business Central Online-data via Power Platform- og Azure Logic Apps-connectoren, kan du manipulere mediefiler.\n\n### Funktionsdetaljer\n\nSelvlærte udviklere og beslutningstagere, der får adgang til Business Central Online-data via Power Platform- og Logic Apps-connectoren, kan manipulere mediefiler, som f.eks. vare- eller kundebilleder. Denne mulighed åbner for yderligere forretningsscenarier med Power Apps og Power Automate.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/add-mediaimage-support-business-central-connectors"
+    },
+    "nl": {
+      "title": "Ondersteuning voor media of afbeeldingen toevoegen voor Business Central-connectors",
+      "summary": "Citizen developers en makers die toegang hebben tot Business Central Online-gegevens via de Power Platform- en Logic Apps-connector kunnen mediabestanden bewerken, zoals afbeeldingen van artikelen of klanten.",
+      "details": "### Zakelijke waarde\n\nBij toegang tot Business Central Online-gegevens via de Power Platform- en Azure Logic Apps-connector kunt u mediabestanden bewerken.\n\n### Functiedetails\n\nCitizen developers en beslissers die toegang hebben tot Business Central Online-gegevens via de Power Platform- en Logic Apps-connector kunnen mediabestanden bewerken, zoals afbeeldingen van artikelen of klanten. Deze mogelijkheid voorziet in extra bedrijfsscenario's met Power Apps en Power Automate.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/add-mediaimage-support-business-central-connectors"
+    },
+    "fr": {
+      "title": "Ajout de la prise en charge multimédias/images pour les connecteurs Business Central",
+      "summary": "Les développeurs et les créateurs citoyens accédant aux données de Business Central Online via le connecteur Power Platform et Logic Apps peuvent manipuler des fichiers multimédias, comme des images d’articles ou de clients.",
+      "details": "### Valeur commerciale\n\nAu moment de l’accès aux données de Business Central Online via le connecteur Power Platform et Azure Logic Apps, vous pouvez manipuler des fichiers multimédias.\n\n### Détails de la fonctionnalité\n\nLes développeurs citoyens et les décisionnaires accédant aux données de Business Central Online via le connecteur Power Platform et Logic Apps peuvent manipuler des fichiers multimédias, comme des images d’articles ou de clients. Cette capacité ouvre des scénarios métier supplémentaires avec Power Apps et Power Automate.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/add-mediaimage-support-business-central-connectors"
+    }
+  }
+}

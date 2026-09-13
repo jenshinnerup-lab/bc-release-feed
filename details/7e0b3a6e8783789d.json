@@ -1,0 +1,30 @@
+{
+  "id": "7e0b3a6e8783789d",
+  "title": "Shipping agent information is copied from sales orders to warehouse shipments",
+  "languages": {
+    "en": {
+      "title": "Shipping agent information is copied from sales orders to warehouse shipments",
+      "summary": "Information about your shipping agent can be copied from a sales order to a warehouse shipment.",
+      "details": "### Business value\n\nYou can create warehouse shipments from sales orders faster and with less friction by automatically copying information about the shipping agent from the order to the shipment. This helps ensure that warehouse workers get this important information, and that your goods get to where they need to be.\n\n### Feature details\n\nSales orders and warehouse shipments both contain information about the shipping agent. This includes the External Document No., Shipping Agent Code, and the Shipping Agent Service Code fields. To save you time, when you use the Create Warehouse Shipment action to create a warehouse shipment from a sales order, Business Central will copy the information in those fields from the sales order to the shipment.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/shipping-agent-information-copied-sales-orders-warehouse-shipments"
+    },
+    "da": {
+      "title": "Speditøroplysninger kopieres fra salgsordrer til lagerstedsforsendelser",
+      "summary": "Oplysninger om din speditør kan kopieres fra en salgsordre til en lagerstedsforsendelse.",
+      "details": "### Forretningsværdi\n\nDu kan oprette lagerforsendelser fra salgsordrer hurtigere og med mindre friktion ved automatisk at kopiere oplysninger om speditøren fra ordren til forsendelsen. Det er med til at sikre, at lagermedarbejdere får disse vigtige oplysninger, og at dine varer når den rette destination.\n\n### Funktionsdetaljer\n\nBåde salgsordrer og lagerforsendelser indeholder oplysninger om speditøren. Dette omfatter felterne Eksternt dokumentnummer, Speditørkode og Speditørservicekode. For at spare tid, når du bruger handlingen Opret lagerleverance til at oprette en lagerleverance ud fra en salgsordre, kopierer Business Central oplysningerne i disse felter fra salgsordren til forsendelsen.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/shipping-agent-information-copied-sales-orders-warehouse-shipments"
+    },
+    "nl": {
+      "title": "Gegevens van de expediteur worden gekopieerd van verkooporders naar magazijnverzendingen",
+      "summary": "Gegevens van de expediteur kunnen worden gekopieerd van een verkooporder naar een magazijnverzending.",
+      "details": "### Zakelijke waarde\n\nU kunt sneller en met minder problemen magazijnverzendingen maken van verkooporders door automatisch informatie over de expediteur van de order naar de zending te kopiëren. Dit helpt ervoor te zorgen dat magazijnmedewerkers deze belangrijke informatie ontvangen en dat uw goederen op de juiste plaats terechtkomen.\n\n### Functiedetails\n\nVerkooporders en magazijnverzendingen bevatten beide informatie over de expediteur. Dit omvat de velden Extern documentnummer, Code expediteur en de velden Servicecode expediteur. Om tijd te besparen kopieert Business Central de informatie in die velden van de verkooporder naar de zending wanneer u de actie Magazijnverzending maken gebruikt om een magazijnverzending te maken op basis van een verkooporder.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/shipping-agent-information-copied-sales-orders-warehouse-shipments"
+    },
+    "fr": {
+      "title": "Copie des informations du transporteur entre les commandes client et les expéditions de l’entrepôt",
+      "summary": "Les informations relatives au transporteur peuvent être copiées d’une commande client à une expédition de l’entrepôt.",
+      "details": "### Valeur commerciale\n\nVous pouvez créer des expéditions d’entrepôt plus rapidement et de façon plus transparente à partir de commandes client en copiant automatiquement les informations sur le transporteur de la commande à l’expédition. Cela permet de garantir que les magasiniers obtiennent ces informations importantes et que vos marchandises arrivent à destination.\n\n### Détails de la fonctionnalité\n\nLes commandes client et les expéditions en entrepôt contiennent toutes deux des informations sur le transporteur. Cela inclut les champs N° doc. externe, Code transporteur et Code prestation transporteur. Pour gagner du temps, lorsque vous utilisez l’action Créer une expédition en entrepôt à partir d’une commande client, Business Central copie les informations de ces champs de la commande client à l’expédition.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/shipping-agent-information-copied-sales-orders-warehouse-shipments"
+    }
+  }
+}

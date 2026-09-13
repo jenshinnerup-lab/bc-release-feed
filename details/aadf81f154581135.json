@@ -1,0 +1,30 @@
+{
+  "id": "aadf81f154581135",
+  "title": "Enable additional countries/regions",
+  "languages": {
+    "en": {
+      "title": "Enable additional countries and regions",
+      "summary": "Business Central is available in more countries and regions.",
+      "details": "### Business value\n\nBusiness Central is available in more countries and regions, so more businesses around the world can leverage the benefits of its cloud-based business management features.\n\n### Feature details\n\nWe're expanding the availability of Business Central to include more countries and regions through partner-led localizations. Our partners create the relevant localization apps and publish them to AppSource. In combination with the built-in language offerings, Business Central online is currently available in over 170 countries and regions, and we're actively working toward achieving full global availability.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/enable-additional-countries-regions"
+    },
+    "da": {
+      "title": "Aktivere yderligere lande/områder og regioner",
+      "summary": "Business Central er tilgængelig i flere lande og områder.",
+      "details": "### Forretningsværdi\n\nBusiness Central er tilgængelig i flere lande/områder og regioner, så flere virksomheder rundt om i verden kan udnytte fordelene ved dets cloud-baserede virksomhedsstyringsfunktioner.\n\n### Detaljer om funktioner\n\nVi udvider tilgængeligheden af Business Central til flere lande/områder og regioner vha. partnerstyret lokalisering. Vores partnere opretter de relevante lokaliseringsapps og udgiver dem til AppSource. I kombination med de indbyggede sprogtilbud er Business Central online i øjeblikket tilgængelig i mere end 170 lande og områder, og vi arbejder aktivt på at opnå fuld global tilgængelighed.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/enable-additional-countries-regions"
+    },
+    "nl": {
+      "title": "Extra landen en regio's inschakelen",
+      "summary": "Business Central is beschikbaar in meer landen en regio's.",
+      "details": "### Zakelijke waarde\n\nBusiness Central is beschikbaar in meer landen en regio's, zodat meer bedrijven over de hele wereld kunnen profiteren van de voordelen van de cloudfuncties voor bedrijfsbeheer.\n\n### Details van functies\n\nWe breiden de beschikbaarheid van Business Central uit om meer landen en regio's toe te voegen via door partners geleide lokalisaties. Onze partners maken de relevante lokalisatie-apps en publiceren deze naar AppSource. In combinatie met de ingebouwde taalaanbiedingen is Business Central online momenteel beschikbaar in meer dan 170 landen en regio's, en we werken actief aan het bereiken van volledige wereldwijde beschikbaarheid.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/enable-additional-countries-regions"
+    },
+    "fr": {
+      "title": "Activer des pays et des régions supplémentaires",
+      "summary": "Business Central est disponible dans plus de pays et de régions.",
+      "details": "### Valeur commerciale\n\nBusiness Central est disponible dans d’autres pays et régions, afin que d’autres entreprises du monde entier puissent tirer parti des avantages de ses fonctionnalités de gestion commerciale basées sur le cloud.\n\n### Détails des fonctionnalités\n\nNous développons la disponibilité de Business Central pour inclure davantage de pays et de régions par le biais de localisations dirigées par les partenaires. Nos partenaires créent les applications de localisation pertinentes et les publient dans AppSource. En combinaison avec les offres linguistiques intégrées, Business Central Online est actuellement disponible dans plus de 170 pays et régions, et nous travaillons activement à atteindre une disponibilité mondiale complète.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/enable-additional-countries-regions"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "f94553c12615c152",
+  "title": "Use the new Out of Scope emission category",
+  "languages": {
+    "en": {
+      "title": "Use the new Out of Scope emission category",
+      "summary": "Configure a sustainability account to use an Out of Scope emission type, so you can post emissions without choosing a specific scope.",
+      "details": "### Business value\n\nThis feature improves productivity by helping you avoid blocks when posting emissions. Use this feature when you want to post emissions but aren't sure which emission scope to use. It's also useful when you need to post a carbon credit that isn't related to a scope.\n\n### Feature details\n\nTo post emissions without a scope, on the Sustainability Account Category page, in the Emission Scope field, select Out of Scope. Then, assign the account category to a sustainability account or create a new account and assign the category. Use a sustainability account with this setup on a sustainability journal when you configure the sustainability journal batch to use this emission scope or allow all scopes. After you post the journal, the entries marked as Out of Scope are recorded in sustainability ledger entries.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-out-scope-emission-category"
+    },
+    "da": {
+      "title": "Brug den nye emissionskategori uden for området",
+      "summary": "Konfigurer en bæredygtighedskonto til at bruge en udledningstype Uden for omfang, så du kan bogføre udledninger uden at vælge et specifikt omfang.",
+      "details": "### Forretningsværdi\n\nDenne funktion forbedrer produktiviteten ved at hjælpe dig med at undgå blokeringer, når du bogfører emissioner. Brug denne funktion, når du vil bogføre emissioner, men ikke er sikker på, hvilket emissionsomfang du skal bruge. Det er også nyttigt, når du skal bogføre en CO2-kredit, der ikke er relateret til et omfang.\n\n### Detaljer om funktioner\n\nHvis du vil bogføre emissioner uden et område, skal du vælge Uden for omfang i feltet Emissionsomfang på siden Kategori for bæredygtighedskonto. Tildel derefter kontokategorien til en bæredygtighedskonto, eller opret en ny konto, og tildel kategorien. Brug en bæredygtighedskonto med denne opsætning på en bæredygtighedskladde, når du konfigurerer bæredygtighedskladdebatchen til at bruge dette udledningsomfang eller tillade alle omfang. Når du har bogført kladden, registreres posteringerne markeret som Uden for omfang i bæredygtighedsbogføringsposter.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-out-scope-emission-category"
+    },
+    "nl": {
+      "title": "De nieuwe emissiecategorie Buiten bereik gebruiken",
+      "summary": "Configureer een duurzaamheidsrekening om een emissietype buiten bereik te gebruiken, zodat u emissies kunt boeken zonder een specifiek bereik te kiezen.",
+      "details": "### Zakelijke waarde\n\nDeze functie verbetert de productiviteit door u te helpen blokkades te voorkomen bij het boeken van emissies. Gebruik deze functie als u emissies wilt boeken, maar niet zeker weet welk emissiebereik u moet gebruiken. Het is ook handig wanneer u een CO2-credit moet boeken die niet gerelateerd is aan een bereik.\n\n### Details van functies\n\nAls u emissies zonder bereik wilt boeken, selecteert u op de pagina Categorie duurzaamheidsaccount in het veld Emissiebereikde optie Buiten bereik. Wijs vervolgens de accountcategorie toe aan een duurzaamheidsaccount of maak een nieuw account aan en wijs de categorie toe. Gebruik een duurzaamheidsrekening met deze instelling in een duurzaamheidsjournaal wanneer u de batch met duurzaamheidsjournaal configureert om dit uitstootbereik te gebruiken of als u alle bereiken toestaat. Nadat u het journaal hebt geboekt, worden de posten die zijn gemarkeerd als Buiten bereik, vastgelegd in duurzaamheidsposten.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-out-scope-emission-category"
+    },
+    "fr": {
+      "title": "Utiliser la nouvelle catégorie d’émission Hors champ d’application",
+      "summary": "Configurez un compte de durabilité pour utiliser un type d’émission Out of Scope (hors étendue), afin de pouvoir publier des émissions sans choisir d’étendue spécifique.",
+      "details": "### Valeur commerciale\n\nCette fonctionnalité améliore la productivité en vous aidant à éviter les blocages lors de l’affichage des émissions. Utilisez cette fonctionnalité lorsque vous souhaitez publier des émissions, mais que vous n’êtes pas sûr de la portée d’émission à utiliser. C’est également utile lorsque vous devez valider un crédit carbone qui n’est pas lié à une étendue.\n\n### Détails des fonctionnalités\n\nPour afficher les émissions sans portée, sur la page Catégorie du compte de durabilité , dans le champ Portée des émissions , sélectionnez Hors portée. Ensuite, attribuez la catégorie de compte à un compte de durabilité ou créez un nouveau compte et attribuez la catégorie. Utilisez un compte de durabilité avec cette configuration sur un journal de durabilité quand vous configurez la feuille de durabilité pour qu’elle utilise cette étendue d’émission ou autorise toutes les étendues. Une fois que vous avez validé le journal, les écritures marquées comme Hors du périmètre sont enregistrées dans les écritures comptables de durabilité.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-out-scope-emission-category"
+    }
+  }
+}

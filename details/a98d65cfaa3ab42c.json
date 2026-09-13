@@ -1,0 +1,30 @@
+{
+  "id": "a98d65cfaa3ab42c",
+  "title": "Report sustainability entries with financial reports (general availability)",
+  "languages": {
+    "en": {
+      "title": "Report sustainability entries with financial reports",
+      "summary": "Use sustainability metrics in your financial reports.",
+      "details": "### Business value\n\nIntegrating sustainability metrics, especially greenhouse gas emissions, into financial reports greatly enhances business value. This integration shows your commitment to transparency and accountability, and it builds trust with stakeholders.\n\n### Feature details\n\nUsers can choose a new Totaling Type on the Financial Reports Line - Sust. Account that refers to the Sustainability Ledger Entries. With this model, users can combine values based on General Ledger Entries or Statistical Account Ledger Entries with the following sustainability values: Emission Fees, CO2 Emission, CH4 Emission, and N2O Emission.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/reporting-sustainability-entries-financial-reports"
+    },
+    "da": {
+      "title": "Rapportere bæredygtighedsposter med økonomiske rapporter",
+      "summary": "Brug målepunkter for bæredygtighed i dine økonomiske rapporter.",
+      "details": "### Forretningsværdi\n\nIntegration af bæredygtighedsmålinger, især drivhusgasemissioner, i finansielle rapporter øger forretningsværdien betydeligt. Denne integration viser din forpligtelse til gennemsigtighed og ansvarlighed, og den opbygger tillid hos interessenter.\n\n### Detaljer om funktioner\n\nBrugere kan vælge en ny sammentællingstype på finansrapportlinje - Resultatkonto, der refererer til bæredygtighedshovedbogsposter. Med denne model kan brugere kombinere værdier baseret på Hovedbogsposteringer eller Statistiske kontoposteringer med følgende bæredygtighedsværdier: Udledningsgebyrer, CO2-udledning, CH4-udledning og N2O-udledning.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/reporting-sustainability-entries-financial-reports"
+    },
+    "nl": {
+      "title": "Duurzaamheidsposten rapporteren met financiële rapporten",
+      "summary": "Gebruik duurzaamheidsstatistieken in uw financiële rapporten.",
+      "details": "### Zakelijke waarde\n\nHet integreren van duurzaamheidsstatistieken, met name de uitstoot van broeikasgassen, in financiële rapporten verhoogt de bedrijfswaarde aanzienlijk. Deze integratie toont uw toewijding aan transparantie en verantwoording, en bouwt vertrouwen op bij belanghebbenden.\n\n### Details van functies\n\nGebruikers kunnen een nieuw Samentellingssoort kiezen op de regel Financiële rapporten - Duurzaamheidsrekening waarmee wordt verwezen naar Duurzaamheidsposten. Met dit model kunnen gebruikers waarden die zijn gebaseerd op Grootboekposten of Posten van statistiekrekening, combineren met de volgende waarden voor duurzaamheid: Uitstootheffingen, CO2-uitstoot, CH4-uitstoot en N2O-uitstoot.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/reporting-sustainability-entries-financial-reports"
+    },
+    "fr": {
+      "title": "Consigner les écritures de durabilité avec les rapports financiers",
+      "summary": "Utilisez des mesures de durabilité dans vos rapports financiers.",
+      "details": "### Valeur commerciale\n\nL’intégration de mesures de durabilité, en particulier les émissions de gaz à effet de serre, dans les rapports financiers améliore considérablement la valeur commerciale. Cette intégration témoigne de votre engagement en faveur de la transparence et de la responsabilité, et renforce la confiance avec les parties prenantes.\n\n### Détails des fonctionnalités\n\nLes utilisateurs peuvent choisir un nouveau type de totalisation sur la ligne des rapports financiers - Compte sust. qui fait référence aux écritures du grand livre de durabilité. Avec ce modèle, les utilisateurs peuvent combiner des valeurs basées sur les Écritures comptables ou les Écritures comptables de compte statistique avec les valeurs de durabilité suivantes : Taxes d’émission, Émissions de CO2, Émissions de CH4 et Émissions de N2O.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/reporting-sustainability-entries-financial-reports"
+    }
+  }
+}

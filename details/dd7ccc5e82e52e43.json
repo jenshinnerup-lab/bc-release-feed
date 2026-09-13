@@ -1,0 +1,30 @@
+{
+  "id": "dd7ccc5e82e52e43",
+  "title": "Operations log enhancements",
+  "languages": {
+    "en": {
+      "title": "Operations log enhancements",
+      "summary": "Show additional operations in the Operation log section of the Business Central admin center.",
+      "details": "### Business value\n\nBetter traceability of the admin operations.\n\n### Feature details\n\nThe Operations log in the Business Central admin center provides an overview of the admin operations in the relevant Business Central online environments, such as restoring, renaming, installing, and uninstalling apps, exporting databases, and moving environments between different Azure Active Directory (Azure AD) tenants. In this release wave, we're adding more operation logs to this view. Administrators will be able to see the following new operations: Environment was created Environment was deleted Environment was copied Environment properties were updated The administrators will also be able to truncate the log to remove old operations that are no longer relevant.\n\n### Additional resources\n\nLast updated on 2021-12-14 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/operations-log-enhancements"
+    },
+    "da": {
+      "title": "Forbedringer af driftslog",
+      "summary": "Vise yderligere handlinger i Driftslog-sektionen i Business Central Administration.",
+      "details": "### Forretningsværdi\n\nBedre sporbarhed af administratorhandlinger.\n\n### Funktionsdetaljer\n\nOperationsloggen i Business Central Administration giver en oversigt over admin-operationer i de relevante Business Central Online-miljøer, såsom gendannelse, omdøbning, installation og afinstallation af apps, eksport af databaser og flytning af miljøer mellem forskellige Azure Active Directory (Azure AD)-lejere. I denne udgivelsesbølge tilføjer vi flere driftslogfiler til denne visning. Administratorer kan se følgende nye operationer: Miljøet blev oprettet Miljøet blev slettet Miljøet blev kopieret Miljøegenskaber blev opdateret Administratorerne vil også være i stand til at afkorte loggen for at fjerne gamle handlinger, der ikke længere er relevante.\n\n### Yderligere ressourcer\n\nLast updated on 2022-03-25 I denne artikel da-dk Dine valg af beskyttelse af personlige oplysninger Tema Lys Mørk Høj kontrast AI-ansvarsfraskrivelse Tidligere versioner Blog Bidrag Beskyttelse af personlige oplysninger Beskyttelse af personlige oplysninger for forbrugerbeskyttelse Vilkår for anvendelse Varemærker © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/operations-log-enhancements"
+    },
+    "nl": {
+      "title": "Verbeteringen in het logboek van beheerdersbewerkingen",
+      "summary": "Geef aanvullende bewerkingen weer in het gedeelte Bewerkingslogboek van het Business Central-beheercentrum.",
+      "details": "### Zakelijke waarde\n\nBetere traceerbaarheid van de beheerdersactiviteiten.\n\n### Functiedetails\n\nHet Bewerkingslogboek in het Business Central-beheercentrum biedt een overzicht van de beheerbewerkingen in de relevante online Business Central-omgevingen, zoals het herstellen, naam wijzigen, installeren en verwijderen van apps, het exporteren van databases en het verplaatsen van omgevingen tussen verschillende Azure Active Directory-tenants (Azure AD). In deze releasewave voegen we meer bewerkingslogboeken toe aan deze weergave. Beheerders kunnen de volgende nieuwe bewerkingen zien: Omgeving is gemaakt Omgeving is verwijderd Omgeving is gekopieerd Omgevingseigenschappen zijn bijgewerkt De beheerders kunnen het logboek ook afkappen om oude bewerkingen te verwijderen die niet langer relevant zijn.\n\n### Aanvullende resources\n\nLast updated on 2022-03-25 In dit artikel nl-nl Uw privacykeuzes Thema Licht Donker Hoog contrast AI-disclaimer Vorige versies Blog Bijdragen Privacy Privacy van gezondheidsdata Gebruiksvoorwaarden Handelsmerken © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/operations-log-enhancements"
+    },
+    "fr": {
+      "title": "Améliorations du journal des opérations",
+      "summary": "Afficher des opérations supplémentaires dans la section Journal des opérations du centre d’administration de Business Central.",
+      "details": "### Valeur commerciale\n\nOptimisation de la traçabilité des opérations d’administration.\n\n### Détails de la fonctionnalité\n\nLe journal des opérations du centre d’administration Business Central fournit un aperçu des opérations d’administration dans les environnements Business Central Online pertinents, telles que la restauration, le changement de nom, l’installation et la désinstallation d’applications, l’exportation de bases de données et le déplacement d’environnements entre différents abonnés Azure Active Directory (Azure AD). Dans cette vague de lancement, nous ajoutons davantage de journaux d’opérations à cette vue. Les administrateurs pourront voir les nouvelles opérations suivantes : Environnement créé Environnement supprimé Environnement copié Propriétés de l’environnement mises à jour Les administrateurs pourront également tronquer le journal pour supprimer les anciennes opérations qui ne sont plus pertinentes.\n\n### Ressources supplémentaires\n\nLast updated on 2022-03-25 Dans cet article fr-fr Vos choix en matière de confidentialité Thème Clair Sombre Contraste élevé Clause d’exclusion de responsabilité sur l’IA Versions antérieures Blog Collaboration Confidentialité Confidentialité de la santé des consommateurs Conditions d’utilisation Accessibilité Marques © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/operations-log-enhancements"
+    }
+  }
+}

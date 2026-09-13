@@ -1,0 +1,30 @@
+{
+  "id": "6a3862c047c6d0d5",
+  "title": "Use e-documents for shipment and transfer shipment document types",
+  "languages": {
+    "en": {
+      "title": "Use e-documents for shipment and transfer shipment document types",
+      "summary": "Document types for shipments and transfer shipments in e-documents enable mapping as outbound documents from sales or transfer orders.",
+      "details": "### Business value\n\nThe new E-Documents document types for shipments and transfer shipments help you comply with regulatory requirements in certain countries and simplify the documentation process. When you enable these document types, you can map them as outbound documents from sales orders or transfer orders. This setup helps your business handle shipments accurately and efficiently.\n\n### Feature details\n\nThis feature adds new document types in e-documents for shipments and transfer shipments to comply with regulatory requirements. You can map these documents as outbound documents when you ship from Sales Orders or Transfer Orders. Some countries require this mapping by law. When you enable this feature in a framework, you complete the E-Documents localizations for these countries.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-e-documents-shipment-transfer-shipment-document-types"
+    },
+    "da": {
+      "title": "Brug e-dokumenter til forsendelses- og overførselsdokumenttyper",
+      "summary": "Dokumenttyper for forsendelser og overførselsforsendelser i e-dokumenter muliggør tilknytning som udgående dokumenter fra salgs- eller flytteordrer.",
+      "details": "### Forretningsværdi\n\nDe nye E-Documents-dokumenttyper til forsendelser og overførselsforsendelser hjælper dig med at overholde lovkrav i visse lande og forenkle dokumentationsprocessen. Når du aktiverer disse dokumenttyper, kan du knytte dem som udgående dokumenter fra salgsordrer eller flytteordrer. Denne opsætning hjælper din virksomhed med at håndtere forsendelser nøjagtigt og effektivt.\n\n### Detaljer om funktioner\n\nDenne funktion tilføjer nye dokumenttyper i e-dokumenter til forsendelser og overførselsforsendelser for at overholde lovmæssige krav. Du kan knytte disse dokumenter som udgående dokumenter, når du leverer fra salgsordrer eller flytteordrer. Nogle lande kræver denne kortlægning ved lov. Når du aktiverer denne funktion i en struktur, fuldfører du lokaliseringerne af e-dokumenter for disse lande.",
+      "source_url": "https://learn.microsoft.com/da-dk/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-e-documents-shipment-transfer-shipment-document-types"
+    },
+    "nl": {
+      "title": "Gebruik e-documenten voor verzend- en transferdocumenttypen",
+      "summary": "Documenttypen voor zendingen en overslagzendingen in e-documenten maken het mogelijk om verkoop- of overboekingsorders als uitgaande documenten in kaart te brengen.",
+      "details": "### Zakelijke waarde\n\nDe nieuwe documenttypen E-Documents voor zendingen en transferzendingen helpen u te voldoen aan de wettelijke vereisten in bepaalde landen en vereenvoudigen het documentatieproces. Wanneer u deze documenttypen inschakelt, kunt u ze relateren als uitgaande documenten vanuit verkooporders of overboekingsopdrachten. Deze opzet helpt uw bedrijf om zendingen nauwkeurig en efficiënt af te handelen.\n\n### Details van functies\n\nDeze functie voegt nieuwe documenttypen toe in e-documenten voor zendingen en overdrachtszendingen om te voldoen aan wettelijke vereisten. U kunt deze documenten toewijzen als uitgaande documenten wanneer u verzendt vanuit verkooporders of overboekingsorders. Sommige landen vereisen deze toewijzing bij wet. Wanneer u deze functie in een framework inschakelt, voltooit u de lokalisaties van E-Documents voor deze landen.",
+      "source_url": "https://learn.microsoft.com/nl-nl/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-e-documents-shipment-transfer-shipment-document-types"
+    },
+    "fr": {
+      "title": "Utiliser des documents électroniques pour les types de documents d’expédition et de transfert",
+      "summary": "Les types de documents pour les expéditions et les transferts dans les documents électroniques permettent de cartographier les documents sortants provenant des ordres de vente ou de transfert.",
+      "details": "### Valeur commerciale\n\nLes nouveaux types de documents E-Documents pour les envois et les envois par transfert vous aident à vous conformer aux exigences réglementaires de certains pays et simplifient le processus de documentation. Lorsque vous activez ces types de documents, vous pouvez les mapper en tant que documents sortants à partir de commandes client ou d’ordres de transfert. Cette configuration permet à votre entreprise de gérer les expéditions avec précision et efficacité.\n\n### Détails des fonctionnalités\n\nCette fonctionnalité ajoute de nouveaux types de documents dans les documents électroniques pour les expéditions et les expéditions de transfert afin de se conformer aux exigences réglementaires. Vous pouvez mapper ces documents en tant que documents sortants lorsque vous expédiez à partir de commandes client ou d’ordres de transfert. Certains pays exigent cette cartographie par la loi. Lorsque vous activez cette fonctionnalité dans un cadre, vous terminez la localisation des documents électroniques pour ces pays.",
+      "source_url": "https://learn.microsoft.com/fr-fr/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-e-documents-shipment-transfer-shipment-document-types"
+    }
+  }
+}
