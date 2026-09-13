@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12",
+  "generated_at": "2026-09-13",
   "source": "Derived from Microsoft's public Business Central release notes. Titles and links are Microsoft's.",
   "features": [
     {
@@ -4431,10 +4431,10 @@
       "doc_url": ""
     },
     {
-      "id": "729fd95d75223640",
+      "id": "7ebfdf7deddcaa21",
       "version": "28.2",
       "area": "Supply chain management",
-      "title": "Quality management features:Word report layouts - The three printable quality management reports (Certificate of Analysis, Non-Conformance, and General Purpose Inspection) now ship with Word layouts as the default rendering option. Alternate RDLC layouts are also available. You can print reports from the Quality Inspection card and the Quality Inspections list. You manage default assignments on the Report Selection - Quality Management page, which is now accessible from the Quality Manager Role Center and the Manual Setup list page.Demo data and checklist - The Quality Management Setup page includes an Install Demo Data action that installs the Contoso Coffee Demo Dataset from Marketplace and opens the Contoso Demo Tool. Demo data installation is also the first step in the Quality Manager Role Center checklist, which registers automatically when a quality manager first signs in.",
+      "title": "Quality management features",
       "enabled_for": "",
       "general_availability": "",
       "doc_url": ""
@@ -4494,10 +4494,10 @@
       "doc_url": "/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/enable-electronic-invoicing-france"
     },
     {
-      "id": "3c7dc2c14bb27705",
+      "id": "a5aa874ffe3cabad",
       "version": "28.3",
       "area": "Ecommerce",
-      "title": "Sell to business customers on more Shopify plans with B2B company syncMarket catalogs, payment terms, and B2B order processing are available on all plans, not just the Plus plan.",
+      "title": "Sell to business customers on more Shopify plans with B2B company sync Market catalogs, payment terms, and B2B order processing are available on all plans, not just the Plus plan.",
       "enabled_for": "",
       "general_availability": "",
       "doc_url": ""
