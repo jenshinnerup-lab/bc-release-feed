@@ -2,6 +2,12 @@
   "id": "7c8e7003e6fefd20",
   "title": "Use Payables Agent in more countries/regions",
   "languages": {
+    "en": {
+      "title": "Use Payables Agent in more countries and regions",
+      "summary": "Experience AI-powered invoice processing with the Payables Agent preview now available in six new countries or regions.",
+      "details": "### Business value\n\nIf you’re using Business Central in Canada, Denmark, Germany, Italy, France, or Spain, you can now use the Payables Agent to automate payables workflows. The agent reduces manual data entry and improves your invoice processing, letting you focus on other tasks while it handles routine invoice management.\n\n### Feature details\n\nThe Payables Agent preview was released with the July update (26.3) of the 2025 release wave 1 in the United States, United Kingdom, Australia, and New Zealand. The agent has since become generally available, meaning it is no longer in preview. This release expands Payables Agent availability to Canada, Denmark, Germany, Italy, France, and Spain, allowing customers and partners in these countries and regions to use the agent in their business and experience the value of AI-powered invoice processing in Business Central. To enable the Payables Agent in your country or region, follow the instructions in Set up Payables Agent.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-payables-agent-more-countries-regions"
+    },
     "da": {
       "title": "Brug Payables Agent i flere lande/områder",
       "summary": "Oplev ai-drevet fakturabehandling med prøveversionen af Payables Agent, der nu er tilgængelig i seks nye lande eller områder.",

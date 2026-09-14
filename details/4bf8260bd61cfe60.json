@@ -2,6 +2,12 @@
   "id": "4bf8260bd61cfe60",
   "title": "Use new SEPA file CAMT0530008",
   "languages": {
+    "en": {
+      "title": "Use new SEPA file CAMT0530008",
+      "summary": "Support for SEPA CAMT.053.001.08 format ensures compliance with updated ISO 20022 standards for bank statement imports in Business Central.",
+      "details": "### Business value\n\nThis feature enables businesses to stay compliant with evolving SEPA and ISO 20022 banking standards by supporting the new CAMT.053.001.08 format for electronic bank statements. It ensures smooth financial operations, improves data structure and traceability, and allows for flexible partner-specific configurations, all while maintaining compatibility with existing formats.\n\n### Feature details\n\nTo meet regulatory changes taking effect in November 2025, Business Central introduces support for the SEPA CAMT.053.001.08 format alongside the existing CAMT.053.001.02. This ensures compatibility with banks transitioning to the updated ISO 20022 XML standard. Key enhancements include: New Data Exchange Definition for CAMT.053.001.08 aligned with SEPA implementation guidelines. Backward Compatibility: The existing CAMT.053.001.02 format remains supported to accommodate phased rollouts across banks and countries/regions. Structured Postal Address: New sub-elements improve address clarity and regulatory compliance. Unique End-to-End Transaction Reference (UETR) enables global traceability of payment chains. Structured Remittance Information: Standardized invoice references for better reconciliation. Party vs. Agent Distinction: Clear separation between companies and financial institutions. Considerations: Some banks may require UETR and structured remittance elements—these will be conditionally required based on partner configuration. Business Central currently supports a hybrid address model, which remains compliant. However, a review is underway to assess potential changes for full structured address support. This update ensures readiness for future banking requirements while preserving flexibility for diverse partner and country/region-specific needs.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-new-sepa-file-camt0530008"
+    },
     "da": {
       "title": "Brug den nye SEPA-fil CAMT0530008",
       "summary": "Understøttelse af SEPA CAMT.053.001.08-formatet sikrer overholdelse af opdaterede ISO 20022-standarder for import af bankudtog i Business Central.",

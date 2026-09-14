@@ -2,6 +2,12 @@
   "id": "e9ffc6f0ec72f0fa",
   "title": "Business Central virtual tables fully supported on Microsoft Dataverse",
   "languages": {
+    "en": {
+      "title": "Business Central virtual tables fully supported on Microsoft Dataverse",
+      "summary": "General availability of Business Central virtual tables on Microsoft Dataverse.",
+      "details": "### Business value\n\nBusiness Central virtual tables allow for inbound interactions from apps, flows, and pages running on Microsoft Dataverse to perform create, read, update, and delete (CRUD) operations on Business Central physical tables without the need to replicate data into Dataverse.\n\n### Feature details\n\nWith Business Central virtual tables, your apps, flows, and pages built using Power Apps, Power Automate, and Power Pages on Power Platform can easily interact with Business Central physical tables. Synthetic relations can be created between native Dataverse tables and Business Central virtual tables, allowing related data to be presented together on Power Apps and Power Pages. Additionally, changes made to Business Central physical tables can trigger outbound interactions from Business Central into Dataverse by emitting create, update, and delete (CUD) events that start Power Automate flows with the When a row is added, modified, or deleted trigger set to the corresponding Business Central virtual tables.\n\n### See also\n\nMicrosoft Power Platform integration with Business Central via virtual tables (docs)\n\n### Additional resources\n\nLast updated on 2024-03-26 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/business-central-virtual-tables-fully-supported-dataverse"
+    },
     "da": {
       "title": "Virtuelle Business Central-tabeller understøttes fuldt ud på Microsoft Dataverse",
       "summary": "Generel tilgængelighed af virtuelle Business Central-tabeller på Microsoft Dataverse.",

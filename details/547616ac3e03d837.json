@@ -2,6 +2,12 @@
   "id": "547616ac3e03d837",
   "title": "Create demo data for Subscription Billing with demo data tool",
   "languages": {
+    "en": {
+      "title": "Create demo data for Subscription Billing with demo data tool",
+      "summary": "The Subscription Billing module is now supported by the Contoso demo data tool so you can easily create demo and setup data.",
+      "details": "### Business value\n\nWith the Contoso demo data tool, you can now get demonstration data for the Subscription Billing module. This feature saves you time when setting up use cases, especially during evaluation.\n\n### Feature details\n\nWe considered various aspects of the Subscription Billing module's use cases when we created the Contoso demo data. For example, we included items with the subscription option, subscription packages, and G/L accounts for deferrals. Additionally, as usual for Contoso demo data, you can distinguish between creating only setup data and creating extra transaction data. The Contoso demo data tool can now create the following types of demo and setup data for the Subscription Billing module: Setup data in the following tables G/L Account Source Code Source Code Setup General Posting Setup Item Template Price Update Template Subscription Contract Setup Subscription Contract Type Billing Template Master data for the following tables Item Item Vendor Item Unit of Measure Item Reference Usage Data Supplier Usage Data Supp. Reference Generic Import Settings Sub. Package Line Template Subscription Package Subscription Package Line Item Subscription Package Transactional data for the following tables Usage Data Billing Usage Data Blob Usage Data Import Usage Data Supp. Subscription Usage Data Generic Import Customer Subscription Contract Subscription Header Subscription Line Cust. Sub. Contract Line Vendor Subscription Contract Vend. Sub. Contract Line",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/create-demo-data-subscription-billing-contoso-demo-data-tool"
+    },
     "da": {
       "title": "Opret demodata til abonnementsfakturering med demodataværktøj",
       "summary": "Modulet Abonnementsfakturering understøttes nu af demodataværktøjet Contoso, så du nemt kan oprette demo- og opsætningsdata.",

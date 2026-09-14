@@ -2,6 +2,12 @@
   "id": "022d7aaa69db82af",
   "title": "Match purchase invoices to orders with Payables Agent",
   "languages": {
+    "en": {
+      "title": "Match purchase invoices to orders with Payables Agent",
+      "summary": "The Payables Agent uses AI to assist accounts payables departments do 3-way matching of invoices for products and services with open purchase orders.",
+      "details": "### Business value\n\nThe Payables Agent makes it easier for the accounts payables department to do 3-way matching among purchase invoices, orders, and receipts for expense types, products, and services. The agent uses AI to intelligently find matching orders and order lines that aren’t identified by a unique reference on the vendor's invoice. This capability reduces manual effort and saves processing time.\n\n### Feature details\n\nWith this release, the Payables Agent matches open purchase orders to incoming invoices to help accounts payable professionals fully process invoices. Matching purchase orders with invoices often requires verifying warehouse or purchasing information, such as whether products have been received. Many companies also use purchase orders for services delivered. For example, consultant services or overhead expenses are often subject to purchase order creation but have no clear indication of delivery—there are no warehouse receipts or any way to link them to the purchase invoice. The 2-way matching without the need for inventory receipts is planned for a later release. This release supports 3-way matching. The agent uses AI to intelligently identify matching orders and order lines even when vendor invoices don't include unique references, eliminating the manual work typically required for cases like missing warehouse receipts.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/match-purchase-invoices-orders-payables-agent"
+    },
     "da": {
       "title": "Afstem købsfakturaer med ordrer med betalingsagent",
       "summary": "Kreditoragenten bruger AI til at hjælpe kreditorafdelinger med at udføre trevejsmatchning af fakturaer for produkter og tjenester med åbne indkøbsordrer.",

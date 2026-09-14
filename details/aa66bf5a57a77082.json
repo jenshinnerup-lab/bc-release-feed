@@ -2,6 +2,12 @@
   "id": "aa66bf5a57a77082",
   "title": "Use new APIs for analyzing permissions for auditors and IT staff",
   "languages": {
+    "en": {
+      "title": "Use new APIs for analyzing permissions for auditors and IT staff",
+      "summary": "Enable secure, read-only permission APIs for Business Central to boost compliance, auditing, and analytics with Power BI and Copilot.",
+      "details": "### Business value\n\nThe new read-only permission APIs empower businesses to strengthen security and compliance by enabling external auditing and analytics without compromising system integrity. With seamless integration into tools like Power BI and Microsoft Copilot Studio, organizations can create advanced reports and intelligent agents for deeper insights. This capability enhances transparency, supports regulatory requirements, and accelerates decision-making by providing secure, real-time access to permission data. Ultimately, it helps businesses maintain robust governance while unlocking new opportunities for automation and analytics.\n\n### Feature details\n\nIn this release wave, we're introducing read-only APIs on the permission system. This allows for establishing security and auditing analytics and reporting outside Business Central—for example, creating reports with Power BI or agents with Microsoft Copilot Studio and MCP Server for Business Central. The APIs are read-only and allow querying for: Permission Set Object, Scope, Extension info, and Permission Set Permission Set and Security Group mappings Permission Set and User mappings We're also introducing a new permission set that allows you to use the new permission APIs. This shouldn't be granted to standard users, but might be included in security-related permission sets.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-new-apis-analyzing-permissions-auditors-it-staff"
+    },
     "da": {
       "title": "Brug nye API'er til analyse af tilladelser for revisorer og it-medarbejdere",
       "summary": "Aktivér sikre, skrivebeskyttede tilladelses-API'er for Business Central for at styrke overholdelse, revision og analyse med Power BI og Copilot.",

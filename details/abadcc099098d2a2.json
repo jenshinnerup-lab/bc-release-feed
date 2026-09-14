@@ -2,6 +2,12 @@
   "id": "abadcc099098d2a2",
   "title": "Reconciliation feature in cash documents for Czechia",
   "languages": {
+    "en": {
+      "title": "Reconciliation feature in cash documents for Czechia",
+      "summary": "Preview net change and balance for all accounts in cash documents with new reconciliation, including banks, vendors, assets, and more.",
+      "details": "### Business value\n\nThe new reconciliation feature in cash documents enhances financial transparency and control by allowing users to preview the net change and balance across all relevant accounts before posting. It supports more accurate and efficient financial reviews by including not only general ledger accounts marked for reconciliation, but all financial accounts and related account types such as bank accounts, customers, vendors, employees, and fixed assets. By providing a clear overview of the financial impact directly from the document, this functionality helps users identify discrepancies early and reduce posting errors.\n\n### Feature details\n\nThe new reconciliation feature for cash documents allows users to preview net change and balance after posting. When this function is used on a cash document, the system displays a preview of the net change and balance not only for the selected cash account, but also for all accounts used in the document lines. Reconciliation is performed not only for general ledger accounts marked as Reconciliation Account, but for all financial accounts as well as accounts of other types, including: Bank accounts Customers Vendors Employees Fixed assets The function works exclusively with the amounts entered in the document lines and doesn't calculate VAT amounts for VAT accounts.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/reconciliation-feature-cash-documents-czechia"
+    },
     "da": {
       "title": "Afstemningsfunktion i pengedokumenter for Tjekkiet",
       "summary": "Få vist et eksempel på nettoændring og saldo for alle konti i kontantdokumenter med ny afstemning, herunder banker, kreditorer, aktiver og meget mere.",

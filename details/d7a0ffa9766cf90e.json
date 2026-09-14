@@ -2,6 +2,12 @@
   "id": "d7a0ffa9766cf90e",
   "title": "Send posted sales shipments and return receipts by email",
   "languages": {
+    "en": {
+      "title": "Send posted sales shipments and return receipts by email",
+      "summary": "You can send posted sales shipment and return receipt documents by email directly from Business Central.",
+      "details": "### Business value\n\nSales shipments are critical documents for customers, and often need to be delivered promptly and accurately. By sending posted shipments and return receipts by email, you reduce reliance on manual printing and mailing. This streamlined process improves communication with customers, and supports scenarios where you want to share shipment details with different contacts than the ones specified on the invoices.\n\n### Feature details\n\nWe're introducing the ability to send posted sales shipments and posted return receipts by email, which complements the Print option and aligns the experience of handling these documents with that of posted sales invoices and credit memos. This enhancement gives you several options: Send by Email: Send the posted document by email to the customer. Send: Use the standard sending options that are available for other posted documents. Attach as PDF: Generate and add the generated document in PDF format to the Attachment part. The Attachment part allows you to store and manage printed document versions for future reference, and is now also available on the following pages: Posted Return Receipt (page 6660) Posted Return Receipts (page 6662) Posted Sales Shipment (page 130) Posted Sales Shipments (page 142)",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/send-posted-sales-shipments-return-receipts-email"
+    },
     "da": {
       "title": "Send bogførte salgsforsendelser og returkvitteringer via mail",
       "summary": "Du kan sende bogførte salgsforsendelses- og returkvitteringsdokumenter via mail direkte fra Business Central.",

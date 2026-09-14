@@ -2,6 +2,12 @@
   "id": "6e48aa00f5f3cc12",
   "title": "Create multiple fixed asset cards",
   "languages": {
+    "en": {
+      "title": "Create multiple fixed asset cards",
+      "summary": "Automatically create fixed asset cards when you post purchase invoices to simplify the process.",
+      "details": "### Business value\n\nAutomatically creating multiple fixed asset cards when you post a purchase invoice streamlines asset management processes. You can reduce manual effort, increase accuracy, and improve operational efficiency. With this feature, businesses can easily handle bulk purchases and make sure each asset is recorded and tracked without manual entry.\n\n### Feature details\n\nThis feature automatically creates one or more fixed assets when you post purchase invoices. For example, if your company purchases 200 computers from the same vendor, Business Central automatically generates a fixed asset for each computer. You don't need to create the cards manually. This feature optimizes asset management processes by helping you handle bulk asset purchases accurately and efficiently. To create multiple fixed assets from a purchase order, follow these steps: Open the Fixed Assets List page, and then select the New action. On the Fixed Asset Card page, fill in the relevant fields. Create a new Purchase Order, or open the existing purchase order. Expand the Lines FastTab. Fill in the following fields: a. In the Type field, select Fixed Asset. b. In the No. field, specify the same fixed asset number that you entered in the Fixed Asset list. c. In the No. of Fixed Asset Cards field, specify the relevant number of duplicates for your fixed asset. When you post the invoice, duplicate fixed asset cards are automatically generated and added to the fixed asset list. The only difference between the duplicate fixed asset cards is the number assigned to each fixed asset.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/create-multiple-fixed-asset-cards"
+    },
     "da": {
       "title": "Oprette flere anlægskort",
       "summary": "Opret automatisk anlægskort, når du bogfører købsfakturaer for at forenkle processen.",

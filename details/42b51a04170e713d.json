@@ -2,6 +2,12 @@
   "id": "42b51a04170e713d",
   "title": "Use an updated Sustainability Manager Role Center",
   "languages": {
+    "en": {
+      "title": "Use an updated Sustainability Manager Role Center",
+      "summary": "Use the Sustainability Manager Role Center to control sustainability data and get insights into value chain, and water and waste management.",
+      "details": "### Business value\n\nThis Sustainability Manager Role Center gives you efficient and comprehensive control over sustainability operations. By integrating social and governance features, as well as value chain functionalities across all operations, you get a holistic approach to sustainability. The role center includes water and waste management insights that help you monitor and manage environmental impact. With this role center, you can improve compliance, operational efficiency, and strategic decision-making.\n\n### Feature details\n\nThe updated Sustainability Manager Role Center gives you better control and smoother transitions across the sustainability features. This update includes social and governance features such as Employees, Qualifications, and Absences. It also includes value chain functionalities for all operations related to scope 3 emissions, such as: Work Centers Machine Centers Production BOM Routings Released Production Orders Finished Production Orders Transfer Orders Assembly Orders Projects The role center includes the standard Set Up Cue feature for easy personalization. It offers cues and insights that cover water and waste management. You can access all data for greenhouse gas emissions, water footprint, and waste management within your organization. The role center provides a specific menu with sustainability-related information, charts, and cues for all important data about emissions. The role center integrates purchase documents that have emission-related lines and goals, so you get real-time updates and adjustments. This comprehensive update ensures that sustainability managers can monitor initiatives in real time, make timely adjustments to meet regulatory standards, and drive more sustainable business practices.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-updated-sustainability-admin-role-center"
+    },
     "da": {
       "title": "Brug et opdateret rollecenter for bæredygtighedschef",
       "summary": "Brug rollecenteret Sustainability Manager til at kontrollere bæredygtighedsdata og få indsigt i værdikæden og vand- og affaldshåndtering.",

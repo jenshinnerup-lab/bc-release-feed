@@ -2,6 +2,12 @@
   "id": "c2ee239fa9868899",
   "title": "Use modern search to access data in Czech localization",
   "languages": {
+    "en": {
+      "title": "Use modern search to access data in Czech localization",
+      "summary": "Access fast, precise data with modern search in Czech localization. Switch between legacy and optimized full-text search for user satisfaction and productivity.",
+      "details": "### Business value\n\nFast access to data is key. The Czech localized version of Business Central provides a modern search option on lists that focuses exclusively on columns enhanced with full-text search capability. At the same time, the version keeps the option to use the older method. Modern search speeds up the search process and delivers more precise, relevant results. This improvement boosts user satisfaction and productivity.\n\n### Feature details\n\nYou can switch between the \"legacy\" search, which searches across all columns, and the \"modern\" search, which searches only in columns optimized for full-text search matching. The modern search is available for selected tables and lists. Turn on modern search by selecting Use optimized text search on the Feature Management page. When enabled, modern search is the default search method on list pages that include full-text search columns. To switch between modern and legacy search methods on pages, use the Use legacy search and Use modern search (faster) options in the search box.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-modern-search-access-data-czech-localization"
+    },
     "da": {
       "title": "Bruge moderne søgning til at få adgang til data i tjekkisk lokalisering",
       "summary": "Få adgang til hurtige, præcise data med moderne søgning i tjekkisk lokalisering. Skift mellem ældre og optimeret fuldtekstsøgning af hensyn til brugertilfredshed og produktivitet.",

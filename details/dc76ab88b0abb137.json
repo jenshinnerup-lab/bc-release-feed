@@ -2,6 +2,12 @@
   "id": "dc76ab88b0abb137",
   "title": "Filter receipt and shipment lines to quickly find documents you want to invoice",
   "languages": {
+    "en": {
+      "title": "Filter receipt and shipment lines to quickly find documents you want to invoice",
+      "summary": "You can filter fields on the Get Receipt and Get Shipment Line pages to find the correct document lines faster.",
+      "details": "### Business value\n\nThis improvement helps you locate the correct document lines more quickly, especially in environments with a large number of receipts or shipments. By filtering on recognizable business fields such as order number or references from vendors or customers, you reduce time spent searching and lower the risk of bringing in the wrong lines.\n\n### Feature details\n\nThere are new filters on the Get Receipt Lines, Get Shipment Lines, and Get Service Shipment Lines pages. When you bring receipt or shipment lines into documents such as purchase, sales, or service invoices, you can now narrow the list by filtering on the following fields: All documents: Order No. Your Reference Sales and service shipments only: External Document No. Purchase receipts only: Vendor Order No. Vendor Shipment No. Item Reference No. These fields come from the related document header and are now stored on the receipt or shipment line, so you can apply filters directly on the lookup pages. To use the new filters, follow these steps: Open a purchase, sales, or service invoice. Choose the Get Receipt Lines, Get Shipment Lines, or Get Service Shipment Lines action. On the lookup page, use the filters on fields to narrow the list to the specific order or reference you're working with. Select the matching lines and bring them into your document.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/filter-receipt-shipment-lines-quickly-find-documents-want-invoice"
+    },
     "da": {
       "title": "Filtrer modtagelses- og forsendelseslinjer for hurtigt at finde dokumenter, du vil fakturere",
       "summary": "Du kan filtrere felter på siderne Hent modtagelseslinjer og Hent leverancelinjer og finde de korrekte dokumentlinjer hurtigere.",

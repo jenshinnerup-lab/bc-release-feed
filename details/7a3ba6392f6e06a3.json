@@ -2,6 +2,12 @@
   "id": "7a3ba6392f6e06a3",
   "title": "Configure the default calculation for the Calculate Consumption report",
   "languages": {
+    "en": {
+      "title": "Configure the default calculation for the Calculate Consumption report",
+      "summary": "On the Manufacturing Setup page, you can configure the Calculate Consumption report to show either the expected output or actual output values by default.",
+      "details": "### Business value\n\nTo save time, set the default consumption calculation in Manufacturing Setup so the Calculate Consumption report matches your preferred process automatically, eliminating the need for manual changes.\n\n### Feature details\n\nTo specify what you want the Calculate Consumption report to show by default, on the Manufacturing Setup page, in the Default Consumption Calculation Based on field, select either Expected Output or Actual Output. To view the report, on the Consumption Journal page, choose the Calc. Consumption action to open the Calculate Consumption report. The Calculate Based On field defaults to your selection in the Manufacturing Setup page, but you can change the selection. The Default Consumption Calculation Based on field is also considered when you calculate consumption lines on production journals, which you can open from the Released Production Order page.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/configure-default-calculation-calculate-consumption-report"
+    },
     "da": {
       "title": "Konfigurer standardberegningen for rapporten Beregn forbrug",
       "summary": "På siden Produktionsopsætning kan du konfigurere rapporten Beregn forbrug til enten at vise de forventede outputværdier eller de faktiske outputværdier som standard.",

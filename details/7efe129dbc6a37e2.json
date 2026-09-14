@@ -2,6 +2,12 @@
   "id": "7efe129dbc6a37e2",
   "title": "Improved data upgrade troubleshooting for Dynamics GP migration",
   "languages": {
+    "en": {
+      "title": "Improved data upgrade troubleshooting for Dynamics GP migration",
+      "summary": "Identify and resolve problems that occur during data migration from Dynamics GP on-premises to Dynamics 365 Business Central online.",
+      "details": "### Business value\n\nTroubleshoot data upgrade for Dynamics GP migrations with ease and accuracy.\n\n### Feature details\n\nWe've improved the cloud migration tooling for Dynamics 365 Business Central to make it easier to troubleshoot data upgrade issues for migrations from Dynamics GP. This feature helps you identify and resolve errors that occur during the data upgrade process. This feature includes the following enhancements: View a summary of all the companies that have data upgrade failures. This will help you quickly identify the ones that need your attention. Drill down into each company and identify the exact record on which the data upgrade failed. This will help you pinpoint the root cause of the error and take appropriate actions. Access a log of the last 100 records that successfully upgraded before the error occurred. This will help you verify the integrity of your data and resume the data upgrade process.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/improved-data-upgrade-troubleshooting-dynamic-gp-migration"
+    },
     "da": {
       "title": "Forbedret dataopgraderingsfejlfinding til Dynamics GP-migrering",
       "summary": "Identificer og løs problemer, der opstår under datamigrering fra Dynamics GP i det lokale miljø til Dynamics 365 Business Central online.",

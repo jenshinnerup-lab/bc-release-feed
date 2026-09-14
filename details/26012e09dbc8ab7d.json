@@ -2,6 +2,12 @@
   "id": "26012e09dbc8ab7d",
   "title": "Link to Power Platform to use Copilot Studio messages",
   "languages": {
+    "en": {
+      "title": "Link to Power Platform to use Copilot Studio messages",
+      "summary": "Consume prepaid and pay-as-you-go Microsoft Copilot Studio messages by linking your Business Central environment to the Power Platform environment.",
+      "details": "### Business value\n\nLink your Business Central and Power Platform environments to use Copilot Studio messages. With AI-driven automation, you get greater efficiency and stronger customer relationships.\n\n### Feature details\n\nThis release wave expands Business Central with powerful Copilot features and tools that boost user creativity and save time. For example, the Sales Order Agent helps small and medium business organizations improve efficiency and customer relations by automating the process of capturing sales quotes and orders using AI. Some Copilot and agent capabilities, like the Sales Order Agent, charge for using Microsoft Copilot Studio messages. This feature introduces a consumption-based billing model for select capabilities, including the Sales Order Agent and AI features built with Development Tools for Copilot for Business Central. To use these features, link the Business Central environment to a Power Platform environment from the Business Central admin center. When you link the environments, the Business Central environment can use Microsoft Copilot Studio messages from any prepaid message capacity that you assign to the Power Platform environment. It also uses the billing policy for pay-as-you-go billing through an Azure subscription.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/link-power-platform-use-copilot-studio-messages"
+    },
     "da": {
       "title": "Link til Power Platform for at bruge Copilot Studio-meddelelser",
       "summary": "Forbrug forudbetalte og forbrugsbaserede meddelelser fra Microsoft Copilot Studio ved at sammenkæde dit Business Central-miljø med Power Platform-miljøet.",

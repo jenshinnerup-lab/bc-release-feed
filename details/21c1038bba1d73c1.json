@@ -2,6 +2,12 @@
   "id": "21c1038bba1d73c1",
   "title": "Modernizing analytical reports for inventory",
   "languages": {
+    "en": {
+      "title": "Modernizing analytical reports for inventory",
+      "summary": "Modernized inventory reports with Excel and Word layouts simplify analysis, improve usability, and provide deeper insights for better decisions.",
+      "details": "### Business value\n\nModernized inventory reports deliver a more intuitive experience by replacing outdated RDL layouts with familiar Excel and Word formats, making analysis and editing easier. Updated documentation helps you quickly learn about and apply these reports. The addition of the new Item Age Composition by Quantity and Value report provides deeper insights into ageing inventory. Deprecating older reports reduces redundancy and streamlines reporting for better decision-making and operational efficiency.\n\n### Feature details\n\nWe've added modernized versions of the following inventory reports: Inventory Top 10 List Item Availability Inventory Purchase Orders Item/Vendor Catalog Inventory Availability Plan Item Age Composition by Quantity and Value (new report) Inventory - Transaction Detail Item Expiration - Quantity By modernizing a report, we mean: We replaced RDL layouts with Excel and Word layouts. We updated our documentation in Microsoft Learn. We're also deprecating the following reports: Item Age Composition - Value Item Age Composition - Quantity Items with Negative Inventory",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/modernizing-analytical-reports-inventory"
+    },
     "da": {
       "title": "Modernisering af analyserapporter for lager",
       "summary": "Moderniserede lagerrapporter med Excel- og Word-layouts gør det lettere at analysere, forbedrer brugervenligheden og giver dybere indsigt og dermed bedre beslutningstagning.",

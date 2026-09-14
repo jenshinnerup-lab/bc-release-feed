@@ -2,6 +2,12 @@
   "id": "a74a75021bdd2795",
   "title": "Create purchase orders from drop shipments",
   "languages": {
+    "en": {
+      "title": "Create purchase orders from drop shipments",
+      "summary": "There are multiple ways to create purchase orders for sales orders marked for drop shipment.",
+      "details": "### Business value\n\nThis feature simplifies the drop shipment process by reducing manual steps and the need to switch between pages. Integrating drop shipment handling into standard planning and the process of creating purchase orders can save you time and improve accuracy on your back orders.\n\n### Feature details\n\nYou can create purchase orders directly from sales orders that are set up for drop shipment by choosing the Create Purchase Orders action. Drop shipment orders are taken into consideration by the Order Planning page, so drop shipment lines are included when calculating plans. Also, the Planning Worksheet page now includes a dedicated Drop Shipment action group with the Get Sales Orders and Sales Orders actions, similar to the requisition worksheet. Create a purchase order from a drop shipment You can create purchase orders from drop shipments from several pages. From a sales order: Open a sales order that has lines marked as Drop Shipment. Choose the Create Purchase Orders action. On the Create Purchase Orders page, review the suggested lines. The vendor is added based on information from the Item Card or the Stockkeeping Unit Card pages. You can change the vendor if needed. From order planning: On the Order Planning page, use the Calculate Plan action. Drop shipment lines are included. From a planning worksheet: On the Planning Worksheet page, use the new Drop Shipment action group and the Get Sales Orders action to include sales orders.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/create-purchase-orders-drop-shipments"
+    },
     "da": {
       "title": "Opret indkøbsordrer fra direkte leverancer",
       "summary": "Der er flere måder at oprette indkøbsordrer for salgsordrer, der er markeret til direkte levering.",

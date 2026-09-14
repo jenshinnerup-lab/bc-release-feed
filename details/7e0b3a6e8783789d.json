@@ -2,6 +2,12 @@
   "id": "7e0b3a6e8783789d",
   "title": "Shipping agent information is copied from sales orders to warehouse shipments",
   "languages": {
+    "en": {
+      "title": "Shipping agent information is copied from sales orders to warehouse shipments",
+      "summary": "Information about your shipping agent can be copied from a sales order to a warehouse shipment.",
+      "details": "### Business value\n\nYou can create warehouse shipments from sales orders faster and with less friction by automatically copying information about the shipping agent from the order to the shipment. This helps ensure that warehouse workers get this important information, and that your goods get to where they need to be.\n\n### Feature details\n\nSales orders and warehouse shipments both contain information about the shipping agent. This includes the External Document No., Shipping Agent Code, and the Shipping Agent Service Code fields. To save you time, when you use the Create Warehouse Shipment action to create a warehouse shipment from a sales order, Business Central will copy the information in those fields from the sales order to the shipment.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/shipping-agent-information-copied-sales-orders-warehouse-shipments"
+    },
     "da": {
       "title": "Speditøroplysninger kopieres fra salgsordrer til lagerstedsforsendelser",
       "summary": "Oplysninger om din speditør kan kopieres fra en salgsordre til en lagerstedsforsendelse.",

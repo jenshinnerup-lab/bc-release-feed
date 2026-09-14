@@ -2,6 +2,12 @@
   "id": "07f08ef681066902",
   "title": "Create contract service orders with One Service Item Line/Order setting",
   "languages": {
+    "en": {
+      "title": "Create contract service orders with One Service Item Line/Order setting",
+      "summary": "Batch creation of service orders from service contracts with multiple service items.",
+      "details": "### Business value\n\nOn the Service Management Setup page, the One Service Item Line/Order field enforces a business rule that restricts service orders to contain only one service item line per order. The restriction can help sharpen focus in service workflow because it means you handle and track each service item individually. Now, the same logic applies to orders that you create in bulk from service contracts. You can run the batch process without manual intervention or workarounds, which helps ensure consistency with your service management policies.\n\n### Feature details\n\nBased on service contracts, you can automatically create service orders for the maintenance of service items. Select Search (Alt+Q), enter Create Contract Service Orders, and then choose the related link. Fill in the Starting Date and Ending Date fields with the starting date and ending date for the period that you want to create contract service orders for. The batch job creates service orders that include service items in service contracts with next planned service dates within this period. Optionally, set more filters that apply to the Service Contract Header. Choose OK. Service orders will be created. The One Service Item Line/Order setting on the Service Management Setup page determines how orders are created for service contracts with several service items: If the One Service Item Line/Order is enabled, the batch process creates one service order per service item in the contract. For example, a contract with four service items results in four separate service orders. If the One Service Item Line/Order is disabled, the batch process creates a single service order containing all service items from the contract. We'd like to thank our community for making this valuable contribution.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/create-contract-service-orders-respect-one-service-item-lineorder-setting"
+    },
     "da": {
       "title": "Opret kontraktserviceordrer med indstillingen Én servicevarelinje/ordre",
       "summary": "Batchoprettelse af serviceordrer fra servicekontrakter med flere servicevarer.",

@@ -2,6 +2,12 @@
   "id": "2dfb3ec1c35d6df4",
   "title": "Generate multiple incoming e-documents for multiple attachments",
   "languages": {
+    "en": {
+      "title": "Generate multiple incoming e-documents for multiple attachments",
+      "summary": "Create multiple incoming e-documents when you manually upload multiple attachments.",
+      "details": "### Business value\n\nIf you don't use an external endpoint to receive e-documents, you can save significant time when you generate multiple incoming e-documents and manually upload multiple attachments instead of uploading each attachment one by one.\n\n### Feature details\n\nYou can create multiple new incoming electronic documents by selecting New From File on the E-Documents page. Choose the right service for the correct Document Format, and then upload multiple documents. Business Central processes all uploaded documents. If a document's format matches the chosen Document Format, Business Central creates a new incoming E-Document for that file.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/generate-multiple-incoming-e-documents-multiple-attachments"
+    },
     "da": {
       "title": "Generere flere indgående e-dokumenter til flere vedhæftede filer",
       "summary": "Opret flere indgående e-dokumenter, når du manuelt uploader flere vedhæftede filer.",

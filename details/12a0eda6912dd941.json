@@ -2,6 +2,12 @@
   "id": "12a0eda6912dd941",
   "title": "Adjust width of Copilot, help, and page scripting panes",
   "languages": {
+    "en": {
+      "title": "Adjust width of Copilot, help, and page scripting panes",
+      "summary": "Easily resize Copilot (including Chat and agents), help, and page scripting panes in Business Central to optimize workspace and view more details.",
+      "details": "### Business value\n\nYou want to work optimally with Business Central, especially when you need extra room for information in side panes like Copilot, help, and page scripting. You can now resize these panes, which assist with tasks and provide guidance, allowing you to easily and clearly view more details whenever necessary.\n\n### Feature details\n\nYou can resize the Copilot pane, used for chat and agents, the help pane, and the page scripting pane in Business Central by dragging the divider between the main content area. Key capabilities include: Panes resize to specific proportions, so the main content area stays visible. Content in panes reflows smoothly to fill the available space. The browser remembers your adjustments the next time you open the pane, similar to other lightweight adjustments like changing the width of FactBoxes. Double-clicking the divider resets the pane to its default width.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/adjust-width-copilot-help-page-scripting-panes"
+    },
     "da": {
       "title": "Juster bredden på ruderne Copilot, Hjælp og Sidescripting",
       "summary": "Tilpas nemt størrelsen på Copilot (herunder Chat og agenter), hjælp og sidescriptingruder i Business Central for at optimere arbejdsområdet og få vist flere oplysninger.",

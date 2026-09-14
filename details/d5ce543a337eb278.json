@@ -2,6 +2,12 @@
   "id": "d5ce543a337eb278",
   "title": "Convert simple type values to text using new ToText method",
   "languages": {
+    "en": {
+      "title": "Convert simple type values to text using new ToText method",
+      "summary": "Easily convert the value of simple types to text using the new ToText method on these types.",
+      "details": "### Business value\n\nEasily convert the value of simple types to text by using the new ToText method on the type. For example, use this method on a Date type.\n\n### Feature details\n\nThe ToText method is now available for simple types such as BigInteger, Boolean, Byte, Date, DateTime, Decimal, Duration, Guid, Integer, Time, and Version. Use this method to easily convert these types to text. For advanced formatting options, use the FORMAT method.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/convert-simple-type-values-text-using-new-totext-method"
+    },
     "da": {
       "title": "Konvertere simple typeværdier til tekst ved hjælp af den nye ToText-metode",
       "summary": "Konverter nemt værdien af enkle typer til tekst ved hjælp af den nye ToText-metode på disse typer.",

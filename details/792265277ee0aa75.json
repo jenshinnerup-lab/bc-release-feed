@@ -2,6 +2,12 @@
   "id": "792265277ee0aa75",
   "title": "Control the lifecycle of report layouts",
   "languages": {
+    "en": {
+      "title": "Control the lifecycle of report layouts",
+      "summary": "Control the report layout lifecycle with statuses like Draft, Approved, or Retired to ensure accuracy, compliance, and efficiency.",
+      "details": "### Business value\n\nReport layout administrators gain full control over the lifecycle of report layouts by assigning statuses such as Draft, Pending Approval, Approved, or Retired. These statuses ensure that only approved layouts are available to users, reducing errors and improving compliance with internal standards. By managing layouts through clear stages, businesses can streamline governance, accelerate approvals, and maintain consistency across reporting. Ultimately, this feature enhances operational efficiency and supports better decision-making through reliable, well-managed layouts.\n\n### Feature details\n\nReport layout administrators can set the status of report layouts to control their lifecycle stages. The following statuses are available: Draft: Layout is under development and not available to users. Pending approval: Layout is awaiting approval. Approved: Layout is approved and available to users. Retired: Layout is phased out and no longer available.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/control-lifecycle-report-layouts"
+    },
     "da": {
       "title": "Administrer livscyklussen for rapportlayout",
       "summary": "Kontrollér livscyklussen for rapportlayouts med statusser som Kladde, Afventer godkendelse, Godkendt eller Udgået for at sikre nøjagtighed, overholdelse og effektivitet.",

@@ -2,6 +2,12 @@
   "id": "f26f12552c56aa78",
   "title": "Create e-documents from posted sales invoices",
   "languages": {
+    "en": {
+      "title": "Create e-documents from posted sales invoices",
+      "summary": "If posted sales invoices don't already have related e-documents, you can generate new e-documents for them.",
+      "details": "### Business value\n\nElectronic documents (e-documents) include documents such as invoices and receipts for directions, delivery, and receipt. Using e-documents requires some configuration, and sometimes things go wrong. If a problem occurs when you post sales documents and Business Central doesn't create e-documents for them, you can generate new e-documents from the posted documents. For example, generating related e-documents helps you stay compliant with local or industry requirements.\n\n### Feature details\n\nIf there's a problem with your setup for e-documents, and Business Central doesn't create a related e-document when you post a sales invoice, for example, you can quickly create the e-document yourself. To check whether Business Central created an e-document, open the Posted Sales Invoice page and select the Open E-Document action. If you don't find a related e-document, run the Create New E-Document action to generate one based on the workflow rules. If a related e-document exists, you can't use the action.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/create-e-documents-posted-sales-invoices"
+    },
     "da": {
       "title": "Oprette e-dokumenter fra bogførte salgsfakturaer",
       "summary": "Hvis bogførte salgsfakturaer ikke allerede har relaterede e-dokumenter, kan du generere nye e-dokumenter til dem.",

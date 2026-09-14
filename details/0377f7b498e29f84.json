@@ -2,6 +2,12 @@
   "id": "0377f7b498e29f84",
   "title": "Do ad hoc analysis on fixed assets, projects, and services (general availability)",
   "languages": {
+    "en": {
+      "title": "Do ad hoc analysis on fixed assets, projects, and services",
+      "summary": "These out-of-the-box queries are designed to make ad hoc analysis easier for fixed assets, projects, and services.",
+      "details": "### Business value\n\nYou can create reports and do ad hoc data analysis on transactions from fixed assets, projects, and service management. You can group, summarize, and pivot data to get the insights you need without running a report.\n\n### Feature details\n\nIn 2023 release wave 2, we introduced the ability to do data analysis on an AL query. Now, 2024 release wave 2 has out-of-the-box queries that make ad hoc analysis easier for fixed assets, projects, and services. The query for fixed assets is available in version 25.0. The query for service management is available in version 25.1. Many of the first examples are ledger entry tables, such as fixed assets ledger entries or project ledger entries, joined to relevant tables. Typically, these relevant tables are the tables where a code field on the ledger connects to other tables. By adding extra fields, you enrich the analysis scenarios that people usually do on ledger entry list pages. Example: fixed assets ad hoc analysis The fixed assets ad hoc analysis query combines data from fixed asset ledger entries with data from master tables, such as the Fixed Asset, Fixed Asset Class, Fixed Asset Subclass, Fixed Asset Location, and Depreciation Book tables. When you open the query, you can explore and analyze data about fixed assets in any way you want. The following image shows the available options.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/do-ad-hoc-analysis-fixed-assets-projects-services"
+    },
     "da": {
       "title": "Lav ad hoc-analyser af anlægsaktiver, projekter og services",
       "summary": "Disse køreklare forespørgsler er designet til at gøre ad hoc-analyse lettere for anlægsaktiver, projekter og services.",

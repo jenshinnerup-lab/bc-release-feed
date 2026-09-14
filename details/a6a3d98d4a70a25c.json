@@ -2,6 +2,12 @@
   "id": "a6a3d98d4a70a25c",
   "title": "Sort lines by type and number in sales and purchase postings",
   "languages": {
+    "en": {
+      "title": "Sort lines by type in sales and purchase postings",
+      "summary": "To reduce deadlocks, when you enable concurrent inventory posting, sales and purchase posting will sort and process lines by type (and line number).",
+      "details": "### Business value\n\nWith this feature, you get better concurrency in inventory posting.\n\n### Feature details\n\nPreviously, Business Central processed sales and purchase document lines in the order of their line numbers. Now, if you enable concurrent inventory posting, it processes lines by type (and line number). If two sessions post at the same time, they lock resources in the same order to reduce the likelihood of deadlocks. Otherwise, the process for posting sales and purchase documents is unchanged. However, this change might affect extensions that rely on an expected value in the next line or previous line.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/sort-lines-type-number-sales-purchase-postings"
+    },
     "da": {
       "title": "Sortér linjer efter type i salgs- og købsbogføringer",
       "summary": "Hvis du vil reducere blokeringer, når du aktiverer samtidig lagerbogføring, sorterer og behandler salgs- og købsbogføring linjer efter type (og linjenummer).",

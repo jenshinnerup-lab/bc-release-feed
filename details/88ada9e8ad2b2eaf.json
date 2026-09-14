@@ -2,6 +2,12 @@
   "id": "88ada9e8ad2b2eaf",
   "title": "Signal from the retention policy feature added to Application Insights telemetry for partners",
   "languages": {
+    "en": {
+      "title": "Signal from the retention policy feature added to Application Insights telemetry for partners",
+      "summary": "If a telemetry key for an environment has been specified in the Business Central administration center or in the app.json file, the server will emit telemetry about retention policy events.",
+      "details": "### Feature details\n\nThe Business Central server will emit telemetry about retention policy events, such as: A table was added to the list of allowed tables. The first retention policy was enabled. The last retention policy was enabled. Data was deleted. Partners and customers can use this data to monitor their environments on the usage of the retention policy feature.\n\n### See also\n\nMonitoring and Analyzing Telemetry (docs)\n\n### Additional resources\n\nLast updated on 2020-11-20 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/signal-retention-policy-feature-added-application-insights-telemetry-partners"
+    },
     "da": {
       "title": "Signal from the retention policy feature added to Application Insights telemetry for partners",
       "summary": "If a telemetry key for an environment has been specified in the Business Central administration center or in the app.json file, the server will emit telemetry about retention policy events.",

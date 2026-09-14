@@ -2,6 +2,12 @@
   "id": "8f9cec08f6129d6a",
   "title": "Generate launch json file from the web client",
   "languages": {
+    "en": {
+      "title": "Generate launch json file from the web client",
+      "summary": "Generate launch json file to use in Visual Studio Code from the web client.",
+      "details": "### Business value\n\nOne request for the Open in Visual Studio Code feature was the ability to quickly generate a launch configuration that matches the specific environment. In this release, we added actions in the web client that add this capability. With these actions, you can more easily create a launch configuration to investigate or debug a specific environment in Visual Studio Code.\n\n### Feature details\n\nNow, directly within the web client, you can generate a matching launch.json configuration for the specific environment. With this configuration, you can more easily investigate or debug a specific environment from Visual Studio Code. The Business Central web client offers two options to generate the launch.json configuration. Use the Generate launch configurations for this environment action in the Troubleshooting section of the Help & Support page. Use the Generate launch configurations action in the Develop in VS Code action group on the Extension Management page menu.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/generate-launchjson-file-web-clientjson-file-from-the-web-client"
+    },
     "da": {
       "title": "Generere start json-fil fra webklienten",
       "summary": "Generér start json-filen, der skal bruges i Visual Studio Code fra webklienten.",

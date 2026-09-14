@@ -2,6 +2,12 @@
   "id": "09a9b9d520617ab2",
   "title": "Require approvals for sustainability journals",
   "languages": {
+    "en": {
+      "title": "Require approvals for sustainability journals",
+      "summary": "Enable approval workflow for sustainability journals and add actions for sending and canceling approval requests.",
+      "details": "### Business value\n\nThis feature streamlines the approval process for sustainability journals. The approval process for sustainability journals works the same way as the process for general journals. Customers get a unified and efficient approval process that reduces administrative overhead and keeps compliance with internal controls and regulations.\n\n### Feature details\n\nUse an approval workflow for both standard and recurring sustainability journals. The workflow uses the same approval process that you might already use for general journals. When you align the process for sustainability journals, you ensure consistency and compliance across all types of journals. Use actions on the journals to send and cancel approval requests directly from the journals. This enhancement simplifies the approval process and makes it more intuitive and efficient to manage journal entries. By integrating these actions, businesses can maintain a streamlined workflow, reduce the risk of errors, and ensure that all journal entries are properly reviewed and approved before posting.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/require-approvals-sustainability-journals"
+    },
     "da": {
       "title": "Kræv godkendelser for bæredygtighedstidsskrifter",
       "summary": "Aktivér godkendelsesprocesser for bæredygtighedsjournaler, og tilføj handlinger til afsendelse og annullering af godkendelsesanmodninger.",

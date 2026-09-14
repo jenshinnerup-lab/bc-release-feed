@@ -2,6 +2,12 @@
   "id": "16abc8fe29c9703f",
   "title": "Use the Admin permission set with e-documents",
   "languages": {
+    "en": {
+      "title": "Use the Admin permission set with e-documents",
+      "summary": "Add the Admin permission set to Microsoft 365 to let admins create and change services and setups to ensure secure and efficient management.",
+      "details": "### Business value\n\nThe new Admin permission set for e-documents improves security and efficiency by making sure only authorized admins can create and change services and configurations. With this feature, businesses keep control over their e-document features and lower the risk of unauthorized changes and security breaches.\n\n### Feature details\n\nThe new feature adds an admin permission set to the e-documents framework. With this permission set, administrators can create and change E-Documents Services and related setups. This control ensures that only authorized personnel manage critical aspects of your e-documents setup. To activate the permission set for e-document administrators, run the Permission Set action for the dedicated user, and select E-Documents Admin.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-admin-permission-set-e-documents"
+    },
     "da": {
       "title": "Brug administratorrettighedssættet med e-dokumenter",
       "summary": "Føj tilladelsessættet Administrator til Microsoft 365 for at give administratorer mulighed for at oprette og ændre tjenester og konfigurationer for at sikre sikker og effektiv administration.",

@@ -2,6 +2,12 @@
   "id": "2a37c9aac9136507",
   "title": "Install UK localization as an extension to the base app",
   "languages": {
+    "en": {
+      "title": "Install UK localization as an extension to the base app",
+      "summary": "The UK localization is provided as an extension built on top of the W1 base app.",
+      "details": "### Business value\n\nThe upgraded localized version for the United Kingdom is available as an extension. Removing country-based customizations from the base app helps organizations save time and reduce costs during implementation. This change benefits organizations that operate in multiple regions with different regulations by making it easier to build PTEs and connect environments. Delocalization also helps organizations access ISV solutions without restrictions.\n\n### Feature details\n\nThe localized version for the UK is now available as a set of extensions on the W1 base app. This version includes a data upgrade feature to simplify the transition from the previous localization. This release moves the product closer to full delocalization, so ISVs can reach a wider market. Some features move to the base app or become global apps, while others stay specific to the GB market.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/install-uk-localization-as-app"
+    },
     "da": {
       "title": "Installere UK-lokalisering som en udvidelse til basisappen",
       "summary": "Den engelske lokalisering leveres som en udvidelse bygget oven på W1-basisappen.",

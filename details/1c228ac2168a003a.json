@@ -2,6 +2,12 @@
   "id": "1c228ac2168a003a",
   "title": "New Contoso Coffee Demo Dataset for Intrastat in Czechia",
   "languages": {
+    "en": {
+      "title": "New Contoso Coffee Demo Dataset for Intrastat in Czechia",
+      "summary": "The Contoso Coffee app includes a demo tool with Czech localization, allowing presales specialists to demonstrate features in any environment.",
+      "details": "### Business value\n\nWe are creating a demonstration tool that includes Intrastat configuration and data, tailored specifically for Czech localization in Business Central. This tool aims to help users more effectively comprehend and optimize their Intrastat workflows within the Czech localization context.\n\n### Feature details\n\nThe demo dataset for the Czech localization adds country-specific content on top of the base application. The Contoso Coffee app provides a demo tool and a related set of demo data. You can install the extension in any environment. Presales specialists can run the tool on Cronus or MyCompany and get the setup and demo data they need to demonstrate Intrastat features for various scenarios in the Czech localization. For Business Central on-premises, the demo tool and data are available on the product media as source code.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/new-contoso-coffee-demo-dataset-intrastat-czechia"
+    },
     "da": {
       "title": "Nyt Contoso Coffee Demo-datasæt til Intrastat i Tjekkiet",
       "summary": "Contoso Coffee-appen indeholder et demoværktøj med tjekkisk lokalisering, der gør det muligt for presales-specialister at demonstrere funktioner i ethvert miljø.",

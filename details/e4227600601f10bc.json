@@ -2,6 +2,12 @@
   "id": "e4227600601f10bc",
   "title": "Use new IncStr parameter to change integers by more than 1 in string variables",
   "languages": {
+    "en": {
+      "title": "Use new IncStr parameter to change integers by more than 1 in string variables",
+      "summary": "Use new IncStr overload to do arbitrary positive increments of decrements of integers in string variables.",
+      "details": "### Business value\n\nThe IncStr method on Text types lets you increase a positive number or decrease a negative number inside a string variable by 1. This method is useful when you handle iterations that involve number series. If you wanted to change the number by more than 1, you had to write extensive custom logic. To simplify these scenarios, the IncStr method now supports an optional increments parameter to change the number by more than 1.\n\n### Feature details\n\nThe new overload of the IncStr method supports increasing or decreasing a number in a string variable by any amount. With this method, you can increment number series or similar series by more than one position in a single step. To decrease a positive number, use a try function to handle cases where the string can't decrease further. When you decrease a number, the method adds leading zeros as needed. The following example shows how to increment the integer 99 in the AText string variable to 109 in one call by using the new IncStr method overload with an increment value of 10.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-incstr-parameter-change-integers-more-than-1-string-variables"
+    },
     "da": {
       "title": "Bruge ny IncStr-parameter til at ændre heltal med mere end 1 i strengvariabler",
       "summary": "Brug ny IncStr-overbelastning til at udføre tilfældige positive trin af fald af heltal i strengvariabler.",

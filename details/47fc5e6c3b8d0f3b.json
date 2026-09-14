@@ -2,6 +2,12 @@
   "id": "47fc5e6c3b8d0f3b",
   "title": "Export reminders and finance charges as PEPPOL files",
   "languages": {
+    "en": {
+      "title": "Export reminders and finance charges as PEPPOL files",
+      "summary": "You can export financial details from reminders and finance charges as PEPPOL-formatted files with e-documents.",
+      "details": "### Business value\n\nBusiness Central supports sending electronic documents in the PEPPOL format. This format is widely used and supported by the largest document exchange service providers. By adding more types of documents that you can export in the PEPPOL format, you improve your ability to exchange information with your customers and business partners. You can enhance your work with e-documents in Business Central by exporting financial details from reminders and finance charges in the PEPPOL format.\n\n### Feature details\n\nPreviously, you couldn't create e-documents for reminders and finance charges. Now, the PEPPOL format accepts financial values from issued finance charges and issued reminders. To activate these types of documents, on the E-Document Service page, run the Supported Document Types action. Add the finance charge and reminder document types on the E-Document Service Supported Source Document Types page. Business Central then generates a file that's formatted as an invoice and contains the financial values from these documents.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/export-reminders-finance-charges-as-peppol-files"
+    },
     "da": {
       "title": "Eksportere rykkere og rentegebyrer som PEPPOL-filer",
       "summary": "Du kan eksportere finansielle oplysninger fra rykkere og rentegebyrer som PEPPOL-formaterede filer med e-dokumenter.",

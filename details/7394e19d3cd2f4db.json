@@ -2,6 +2,12 @@
   "id": "7394e19d3cd2f4db",
   "title": "View the number of general journal lines",
   "languages": {
+    "en": {
+      "title": "View the number of general journal lines",
+      "summary": "The number of journal lines is now shown in a field at the bottom of general journal pages.",
+      "details": "### Business value\n\nWhen you use the general journal to migrate data to Business Central or otherwise work with hundreds or thousands of journal lines, being able to quickly verify that the correct number of journal lines were imported is very useful.\n\n### Feature details\n\nYou can now see the number of journal lines at the bottom of the journal page and quickly verify that all journal lines were imported. Checking the number of journal lines next to the balances is useful when you import opening balances, for example. This is because balancing journal lines to zero doesn't always mean that all journal lines were imported because some journal lines might already have been balanced using balancing accounts.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/view-number-general-journal-lines"
+    },
     "da": {
       "title": "View the number of general journal lines",
       "summary": "The number of journal lines is now shown in a field at the bottom of general journal pages.",

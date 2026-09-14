@@ -2,6 +2,12 @@
   "id": "6c55819fe86c02d5",
   "title": "Use enhanced analytics for Sustainability",
   "languages": {
+    "en": {
+      "title": "Use enhanced analytics for Sustainability",
+      "summary": "The enhanced reporting and analytics for sustainability offer new KPIs in Power BI, customizable Excel layouts, and comprehensive documentation.",
+      "details": "### Business value\n\nThe improvements in reporting and analytics for Sustainability help your business track new key performance indicators (KPIs) and scenarios in Power BI. Comprehensive documentation and teaching tips help you fully leverage these new features.\n\n### Feature details\n\nWe've greatly improved reporting and analytics for our sustainability features. In addition to the three existing reports with the Excel layout, you get new tools for Power BI and data analysis. Track new KPIs and scenarios in the updated Power BI Sustainability app, such as emissions by category and scope, CO2e analysis, journey to net-zero carbon, realized vs. baseline vs. target, water and waste analysis, and more. Track new KPIs and scenarios related to social and governance factors, such as gender or age distribution, qualifications, and more. Access teaching tips and documentation for all reports. Learn more in the new Sustainability analytics section in the documentation.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-analytics-sustainability"
+    },
     "da": {
       "title": "Bruge forbedret analyse til bæredygtighed",
       "summary": "Den forbedrede rapportering og analyse af bæredygtighed tilbyder nye KPI'er i Power BI, Excel layout, der kan tilpasses, og omfattende dokumentation.",

@@ -2,6 +2,12 @@
   "id": "5df004e10bb4ac53",
   "title": "Extension validation on upgrade",
   "languages": {
+    "en": {
+      "title": "Extension validation on upgrade",
+      "summary": "Identify common per-tenant extension validation issues before initiating tenant upgrade",
+      "details": "### Business value\n\nUpgrading a tenant environment to a new version can fail for a number of reasons, such as lack of application dependencies, compilation errors, and duplicate object IDs. When these surface at the end of the flow—for example, when the customer is already down for maintenance—failures are costly both for the customer and for Microsoft. This delays the upgrade process unnecessarily as most of these failures could be found earlier in the flow—for example, when scheduling the update or even when new updates become available.\n\n### Feature details\n\nA new per-tenant extension (PTE) validation service will be created that validates applications on different aspects, such as the following: Whether all dependencies have been provided. That code compiles both up and downstream (for example, checking that both required symbols are available, and that there are no breaking changes downstream). That there are no breaking schema changes. That there are no duplicate IDs. Initially, validation will be triggered on upgrade, and only proceed if passing validation.\n\n### Additional resources\n\nLast updated on 2021-09-07 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/extension-validation-upgrade"
+    },
     "da": {
       "title": "Validere udvidelse ved opgradering",
       "summary": "Identificere almindelige valideringsproblemer pr. lejerudvidelse, inden lejeropgraderingen påbegyndes",

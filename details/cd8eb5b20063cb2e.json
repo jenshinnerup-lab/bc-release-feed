@@ -2,6 +2,12 @@
   "id": "cd8eb5b20063cb2e",
   "title": "Use new properties on a report layout",
   "languages": {
+    "en": {
+      "title": "Use new properties on a report layout",
+      "summary": "The new properties in report layouts enhance functionality, streamline reporting processes, and reduce errors, saving time and resources for businesses",
+      "details": "### Business value\n\nThe new properties that you add to report layouts give you more flexibility and functionality in your reporting. With the ObsoleteState property, you can mark layouts as deprecated. This property helps ensure a smoother transition and better management of future updates. The ExcelLayoutMultipleDataSheets property enables you to create more complex and customized Excel reports without affecting existing layouts. These enhancements make your reporting processes more efficient, reduce the risk of errors, and save time and resources for your business.\n\n### Feature details\n\nThe following new properties are available for report layouts: ObsoleteState ExcelLayoutMultipleDataSheets With the ObsoleteState property, you can mark a layout as deprecated and specify that the layout is removed in a future release. The property appears on the Report Layouts page. With the ExcelLayoutMultipleDataSheets property, you can set the property for the layout to override the global property on the report object. For reports where you didn't set the global property ExcelLayoutMultipleDataSheets (which the system interprets as false), you can add Excel layouts that use the ExcelLayoutMultipleDataSheets property without risking breaking existing Excel layouts that users added.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-properties-report-layout"
+    },
     "da": {
       "title": "Brug nye egenskaber i et rapportlayout",
       "summary": "De nye egenskaber i rapportlayout forbedrer funktionaliteten, strømliner rapporteringsprocesser og reducerer fejl, hvilket sparer tid og ressourcer for virksomheder",

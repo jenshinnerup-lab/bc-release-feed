@@ -2,6 +2,12 @@
   "id": "fd4f53e155e86a66",
   "title": "Use the new continue keyword for AL loops",
   "languages": {
+    "en": {
+      "title": "Use the new continue keyword for AL loops",
+      "summary": "Use continue keyword in AL loops to write more efficient and readable code.",
+      "details": "### Business value\n\nTo make AL loops easier to write and read, you can now use the continue keyword in AL loops to go to the next iteration. This behavior is like other major programming languages.\n\n### Feature details\n\nLike many other programming languages, AL now supports using continue in loops to trigger the next loop iteration. Before, only the break keyword was supported. The break keyword cancels the whole loop. The continue keyword skips the current loop iteration and goes to the next iteration. To avoid a breaking change, the compiler doesn't support the continue keyword in loops if the context has a member called continue member, such as a method or field. The compiler warns about this restriction but still lets you declare object types with the name continue.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-continue-keyword-al-loops"
+    },
     "da": {
       "title": "Brug det nye nøgleord fortsæt til AL-løkker",
       "summary": "Brug continue nøgleord i AL-løkker til at skrive mere effektiv og læsbar kode.",

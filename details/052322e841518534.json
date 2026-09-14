@@ -2,6 +2,12 @@
   "id": "052322e841518534",
   "title": "Support authentication of an SMTP connection using OAuth2",
   "languages": {
+    "en": {
+      "title": "Support authentication of an SMTP connection using OAuth 2.0",
+      "summary": "You can use the OAuth 2.0 authentication service provided by Azure Active Directory to enable Dynamics 365 Business Central to connect with IMAP, POP or SMTP protocols to access Exchange Online in Microsoft 365.",
+      "details": "### Feature details\n\nThe OAuth 2.0 protocol is an industry standard for handling authentication. If you use SMTP to connect to your Exchange Online mail server, you can set up and authenticate an email account in Business Central using the OAuth 2.0 protocol to leverage the security capabilities of Azure Active Directory.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/support-authentication-smtp-connection-using-oauth2"
+    },
     "da": {
       "title": "Understøtter godkendelse af en SMTP-forbindelse ved hjælp af OAuth 2.0",
       "summary": "Du kan bruge OAuth 2.0-godkendelsestjeneste, som leveres af Azure Active Directory, til at gøre det muligt for Dynamics 365 Business Central at oprette forbindelse til IMAP-, POP- eller SMTP-protokoller for at få adgang Exchange Online i Microsoft 365.",

@@ -2,6 +2,12 @@
   "id": "1d53443168b4e96b",
   "title": "Use purchase draft page to preview Peppol electronic invoices",
   "languages": {
+    "en": {
+      "title": "Use purchase draft page to preview Peppol electronic invoices",
+      "summary": "Preview and validate e-invoices before posting in Business Central with the Purchase Draft page, now supporting Peppol for greater flexibility.",
+      "details": "### Business value\n\nThe purchase draft feature lets you review and refine incoming e-invoices, especially those lacking item references or G/L mappings, before finalizing them. Enable this feature for Peppol e-invoices to improve control, reduce posting errors, and streamline invoice creation, even when data is incomplete. This feature enhances accuracy, boosts operational efficiency, and supports compliance with evolving e-invoicing standards.\n\n### Feature details\n\nThe purchase draft concept in e-documents lets you preview and interact with incoming e-documents before you post them. This concept improves control, accuracy, and flexibility in how you process electronic documents before matching them to purchase invoices. Originally, you could only use purchase drafts for documents that were created from a PDF document, but now it's enabled for Peppol e-invoices as well. The idea is to make it easier to create new purchase invoices when you don't have GL account mappings or item references for lines in inbound e-documents. You can view a draft version of the e-invoice to inspect and validate the data before you post it. If the vendor is configured to receive invoices, you can manually map e-invoice lines to items, general ledger accounts, or other relevant types directly from the draft page to ensure accurate posting and accounting.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-purchase-draft-page-preview-peppol-electronic-invoices"
+    },
     "da": {
       "title": "Brug købskladdesiden til at forhåndsvise Peppol elektroniske fakturaer",
       "summary": "Forhåndsvis og valider e-fakturaer, før de bogføres i Business Central, ved hjælp af siden Købskladde, som nu understøtter Peppol for øget fleksibilitet.",

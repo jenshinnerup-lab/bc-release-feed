@@ -2,6 +2,12 @@
   "id": "0056ec8627683721",
   "title": "Use drill-back and dynamic dimension names in Power BI apps",
   "languages": {
+    "en": {
+      "title": "Use drill-back and dynamic dimension names in Power BI apps",
+      "summary": "Quickly drill into report data and use dynamic dimension naming in Power BI for deeper insights, flexible analysis, and faster decisions.",
+      "details": "### Business value\n\nThe new drill-back capability in Power BI lets you quickly investigate the details behind any number in your reports, helping you validate figures, uncover insights, and build greater trust in your data. To make it easier to analyze performance from multiple perspectives without manual setup, dynamic dimension naming lets you bring the flexible, user-friendly dimension structures from Business Central directly into Power BI. Together, these features streamline analysis, reduce time spent reconciling data, and enable faster, more confident decision-making. You can go from high-level KPIs to actionable insights in just a few clicks, keeping your business agile and informed.\n\n### Feature details\n\nWe're introducing two new concepts in Power BI for Business Central: drill-back and dynamic dimension naming. Use drill-back in situations where you want to go to Business Central to dive into the specifics of a number shown in Power BI. Maybe you want to understand how a number is calculated and gain trust in your reporting, or maybe you need to dig into the background of a certain number. Can it really be true that your COGS is that high? You can investigate. Dimensions are a very popular analysis feature in Business Central that have been available for many years. Dimensions offer a dynamic way to define dimension names and values, both with code fields and with user-friendly names. With dynamic dimension naming in Power BI, we extend this flexibility to your Business Intelligence reports so you can analyze your data by dimensions.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-drill-back-dynamic-dimension-names-power-bi-apps"
+    },
     "da": {
       "title": "Brug detailudledningsnavne og dynamiske dimensionsnavne i Power BI-apps",
       "summary": "Analysér hurtigt rapportdata, og brug navngivning af dynamiske dimensioner i Power BI for at få dybere indsigt, fleksibel analyse og hurtigere beslutninger.",

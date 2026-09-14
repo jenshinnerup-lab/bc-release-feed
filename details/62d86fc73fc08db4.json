@@ -2,6 +2,12 @@
   "id": "62d86fc73fc08db4",
   "title": "Showcase analytics with enhanced demo data",
   "languages": {
+    "en": {
+      "title": "Showcase analytics with enhanced demo data",
+      "summary": "New demo data for the Sales, Purchasing, and Fixed Assets modules helps you showcase analytics, speeds up product adoption, and improves business insights.",
+      "details": "### Business value\n\nWe're giving our partners richer demo data across the Sales, Purchasing, and Fixed Assets modules to enable you to showcase realistic business scenarios without manual setup. The data can help you demonstrate advanced reporting and analytics capabilities, making it easier for stakeholders to experience how Business Central drives informed decisions. By reducing preparation time and making demos more relevant, you accelerate adoption and highlight the solution’s value for finance and operations teams.\n\n### Feature details\n\nWe're enhancing the demo data for the Sales, Purchasing, and Fixed Assets modules to make it easier to demonstrate the reporting and analytics in those areas. The following lists briefly describe the enhancements in each area. Sales Salespersons: Distributed sales documents across more salespeople. Open orders: Added more open sales orders. Backorders: Added more sales backorders. Due dates: Spread out the due date of existing sales documents. Deferral codes: Added deferral codes to posted and unposted sales documents. Discounts: Added line discounts to posted sales invoices. Purchasing Added new purchasing department dimension and used that on purchase documents before posting. Purchasing Module: Added purchasers and return reasons to existing purchase documents. Analytics Module: Added purchasers and return reasons to existing purchase documents. Fixed Assets Added dimension setup and posted entries for fixed assets.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/enhanced-demo-data-sales-purchasing-fixed-assets-analytics"
+    },
     "da": {
       "title": "Fremvis analysefunktioner med forbedrede demodata",
       "summary": "Nye demodata til modulerne Salg, Indkøb og Anlægsaktiver hjælper dig med at fremvise analyser, fremskynde produktindføring og forbedre forretningsindsigt.",

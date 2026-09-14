@@ -2,6 +2,12 @@
   "id": "f94553c12615c152",
   "title": "Use the new Out of Scope emission category",
   "languages": {
+    "en": {
+      "title": "Use the new Out of Scope emission category",
+      "summary": "Configure a sustainability account to use an Out of Scope emission type, so you can post emissions without choosing a specific scope.",
+      "details": "### Business value\n\nThis feature improves productivity by helping you avoid blocks when posting emissions. Use this feature when you want to post emissions but aren't sure which emission scope to use. It's also useful when you need to post a carbon credit that isn't related to a scope.\n\n### Feature details\n\nTo post emissions without a scope, on the Sustainability Account Category page, in the Emission Scope field, select Out of Scope. Then, assign the account category to a sustainability account or create a new account and assign the category. Use a sustainability account with this setup on a sustainability journal when you configure the sustainability journal batch to use this emission scope or allow all scopes. After you post the journal, the entries marked as Out of Scope are recorded in sustainability ledger entries.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-out-scope-emission-category"
+    },
     "da": {
       "title": "Brug den nye emissionskategori uden for området",
       "summary": "Konfigurer en bæredygtighedskonto til at bruge en udledningstype Uden for omfang, så du kan bogføre udledninger uden at vælge et specifikt omfang.",

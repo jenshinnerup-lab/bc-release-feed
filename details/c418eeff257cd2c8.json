@@ -2,6 +2,12 @@
   "id": "c418eeff257cd2c8",
   "title": "Print IRS 1099 form copies in bulk in the US",
   "languages": {
+    "en": {
+      "title": "Print IRS 1099 form copies in bulk in the US",
+      "summary": "Print IRS 1099 form copies in bulk to save time and simplify compliance when vendors require physical copies.",
+      "details": "### Business value\n\nBusinesses often need to provide IRS 1099 substitution copies to vendors who haven’t consented to receive them electronically. Printing these forms one by one is time-consuming and inefficient, especially for companies with many vendors. Bulk printing streamlines this process, reduces manual effort, and ensures timely compliance with IRS requirements.\n\n### Feature details\n\nThe 1099 features now support bulk printing of IRS 1099 substitution copies. Previously, you could only print these forms individually, which was impractical for large volumes of forms. With this enhancement, you can select multiple 1099 forms and print them in one batch. This feature complements existing capabilities for direct submission to the IRS via the IRIS portal and emailing PDF copies to vendors who provided consent. Bulk printing ensures that businesses can handle all scenarios efficiently, maintaining compliance and improving operational productivity.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/print-irs-1099-form-copies-bulk-usa"
+    },
     "da": {
       "title": "Udskriv IRS 1099-formularkopier samlet i USA",
       "summary": "Udskriv IRS 1099-formularkopier samlet for at spare tid og forenkle overholdelse, når leverandører kræver fysiske kopier.",

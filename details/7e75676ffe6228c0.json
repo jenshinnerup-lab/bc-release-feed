@@ -2,6 +2,12 @@
   "id": "7e75676ffe6228c0",
   "title": "Self-service App Key Vault onboarding for Marketplace apps",
   "languages": {
+    "en": {
+      "title": "Self-service App Key Vault onboarding for AppSource apps",
+      "summary": "AppSource publishers can now register an Azure Key Vault for their apps themselves, reducing the time until available.",
+      "details": "### Business value\n\nAppSource apps for Business Central can read secrets from Azure Key Vault that the publishing partner owns. To make this feature available to a partner's AppSource app, the partner previously needed to complete a manual process that involved contacting Microsoft. This process could cause waiting times. The process also required a new version of the app to ensure Azure Key Vault availability. To simplify the process, you now onboard to Azure Key Vault as part of the AppSource submission. The app can use its Azure Key Vault right away.\n\n### Feature details\n\nTo register a key vault for an app, partners no longer need to send an email and wait for us to register their Entra Tenant ID. Instead, partners must: Grant read permission to the Dynamics 365 Business Central ISV Key Vault Reader app. Create a special secret named AllowedBusinessCentralAppIds in their key vault. This secret contains the app IDs for all apps that access the key vault. For multiple app IDs, separate them with a comma. To reduce registration waiting time, follow this process. To submit higher versions of an app, AppSource apps must add the AllowedBusinessCentralAppIds secret if they already registered their Entra Tenant ID. If this reserved secret is missing, the submission likely fails.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/self-service-app-key-vault-onboarding-appsource-apps"
+    },
     "da": {
       "title": "Selvbetjening af App Key Vault-onboarding til AppSource-apps",
       "summary": "AppSource-udgivere kan nu selv registrere en Azure Key Vault til deres apps, hvilket reducerer tiden, indtil den er tilgængelig.",

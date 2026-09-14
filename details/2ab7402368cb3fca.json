@@ -2,6 +2,12 @@
   "id": "2ab7402368cb3fca",
   "title": "Use water and waste management with sustainability",
   "languages": {
+    "en": {
+      "title": "Use water and waste management with sustainability",
+      "summary": "Track and report on your environmental impacts related to water and waste by using sustainability journals, including water and waste intensity.",
+      "details": "### Business value\n\nTrack your company's environmental impacts in Business Central. We broadened the measurement capabilities to include water and waste. With these new capabilities, you can better prepare for compliance reporting about specific areas, especially for Corporate Sustainability Reporting Directive (CSRD).\n\n### Feature details\n\nUse the Sustainability Journals and Recurring Sustainability Journals pages to record water and waste intensity data. This data is based on the existing Chart of Sustainability Accounts page, but it uses new Water and Waste emission scopes. Use different account groups, subgroups, and formulas to make it easy to record the collection of water and waste intensity. This feature also uses existing sustainability ledger entries where you record data and use it for reporting. With this feature, you can report both gas emissions and water and waste from a single place. You can track Water Intensity, Discharged Into Water, and Waste Intensity values by using a Water/Waste Intensity Type (Withdrawn, Discharged, Consumed, Recycled, Generated, Disposed, Recovered) and a Water Type (Surface water, Sea water, Ground water, Third party water, Produced water). You can also extend Sustainability Goals to cover water and waste management features.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-water-waste-management-sustainability"
+    },
     "da": {
       "title": "Bruge vand- og affaldshåndtering med bæredygtighed",
       "summary": "Spor og rapportér om dine miljøpåvirkninger i forbindelse med vand og affald ved hjælp af bæredygtighedsjournaler, herunder vand- og affaldsintensitet.",

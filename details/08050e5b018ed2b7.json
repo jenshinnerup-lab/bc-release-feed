@@ -2,6 +2,12 @@
   "id": "08050e5b018ed2b7",
   "title": "Analyze subscription billing data with Power BI reports",
   "languages": {
+    "en": {
+      "title": "Analyze subscription billing data with Power BI reports",
+      "summary": "Analyze your subscription billing data with the new Power BI app, featuring detailed reports and KPIs to help you make informed decisions.",
+      "details": "### Business value\n\nThe new Power BI app for subscription billing data analysis gives you comprehensive insights into your business. With detailed reports and key performance indicators (KPIs), you can monitor critical metrics like monthly recurring revenue and net monthly recurring profit, so you can make informed decisions. The app's granular insights into revenue by item, customer, and salesperson help you optimize your sales and marketing efforts. Tracking customer and vendor deferrals helps you manage cash flow. This app enhances your ability to grow your subscription business and improve your bottom line.\n\n### Feature details\n\nA new Power BI app helps you analyze your subscription billing data. The 26.2 update releases the source code for the Power BI app. The app contains reports that provide both overview and detailed information, such as: Subscription Overview Revenue Year-Over-Year Revenue Analysis Revenue Development Revenue by Item Revenue by Customer Revenue by Salesperson Total Contract Value Year-Over-Year Total Contract Value Analysis Customer Deferrals Vendor To help you track important metrics for your subscription business, the semantic model for the report includes KPIs such as: Monthly Recurring Revenue Monthly Recurring Cost Net Monthly Recurring Profit MRR Churn MRR Downgrade MRR New MRR Upgrade MRR Change Usage Based Billing MRR Overall Change Active Customers Total Contract Value Revenue Forecast Customer Deferrals Vendor Deferrals",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/analyze-subscription-billing-data-power-bi-reports"
+    },
     "da": {
       "title": "Analysér faktureringsdata for abonnementer med Power BI rapporter",
       "summary": "Analysér dine abonnementsfaktureringsdata med den nye Power BI-app, der indeholder detaljerede rapporter og KPI'er, der kan hjælpe dig med at træffe informerede beslutninger.",

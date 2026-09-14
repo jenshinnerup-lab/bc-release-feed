@@ -2,6 +2,12 @@
   "id": "d4eb80fc1beda56a",
   "title": "Notify users of high-risk changes in selected setup fields",
   "languages": {
+    "en": {
+      "title": "Notify users of high-risk changes in selected setup fields",
+      "summary": "You can now be notified of changes in selected business-critical fields.",
+      "details": "### Business value\n\nChanges to high-risk settings in Business Central can be tracked using the Change Log functionality. Sometimes, however, tracking changes is not enough and you expect to be notified of changes in fields that contain high-risk and business-critical data, such as bank account numbers, company name, and addresses.\n\n### Feature details\n\nYou can now define a list of fields that contain high-risk and business-critical data that you want to be notified about when they are changed. Note This feature is available to be enabled as standard for all Business Central customers in Business Central 2020 release wave 2. To enable this feature, sign in to your online environment and open Field Monitoring Assisted Setup Guide.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/notify-users-high-risk-changes-selected-setup-fields"
+    },
     "da": {
       "title": "Notify users of high-risk changes in selected setup fields",
       "summary": "You can now be notified of changes in selected business-critical fields.",

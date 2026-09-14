@@ -2,6 +2,12 @@
   "id": "6949f4814c713e46",
   "title": "Avoid changing the Emissions Unit of Measure when entries already exist",
   "languages": {
+    "en": {
+      "title": "Avoid changing the Emissions Unit of Measure when entries already exist",
+      "summary": "Prevent inconsistent sustainability data by locking the Emissions Unit of Measure after entries exist, ensuring accurate environmental reporting.",
+      "details": "### Business value\n\nThis feature safeguards data integrity in sustainability reporting by preventing changes to the Emissions Unit of Measure after you create entries. It helps prevent unit mismatches in the Sustainability Ledger and ensures consistent and reliable emissions tracking across all accounts and periods.\n\n### Feature details\n\nTo maintain consistency in environmental data, Business Central restricts changes to the Emissions Unit of Measure field on the Sustainability Setup page after entries exist in the Sustainability Ledger. This prevents accidental or intentional changes that could compromise emissions calculations or audit compliance. Previously, you could modify this field at any time, risking mixed units across ledger entries and reports. We recommend that you finalize your unit of measure during initial configuration to ensure consistent reporting. This change supports better governance and aligns with best practices for environmental data management.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/avoid-changing-emissions-unit-measure-when-entries-already-exist"
+    },
     "da": {
       "title": "Undgå at ændre emissionsmåleenheden, når der allerede findes poster",
       "summary": "Undgå inkonsekvente bæredygtighedsdata ved at låse emissionsenheden, når der er poster, for at sikre nøjagtig miljørapportering.",

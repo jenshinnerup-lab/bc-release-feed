@@ -2,6 +2,12 @@
   "id": "207b0079ea6fd84a",
   "title": "Auto-Save as you work:",
   "languages": {
+    "en": {
+      "title": "Auto-save as you work",
+      "summary": "Improved data save experience together with the save indicator.",
+      "details": "### Business value\n\nSince Business Central has no Save button, business users need full confidence that the data they enter or modify is saved automatically as they work. Similarly, developers need more accurate indication of data persistence when testing or debugging their code.\n\n### Feature details\n\nUpdate: This feature is controlled in Feature Management and may need to be turned on by the admin, as it is off by default in all environments updated to 2022 release wave 2. This way admins and partners have more control. Business Central immediately saves changes to individual fields as soon as you tab away from the field or set focus to another element on the page, instead of only saving when the page is closed. Changes are saved to the database without any noticeable impact to performance. Previously, this behavior was enabled exclusively for select UI experiences such as the Outlook add-in. Starting with 2022 release wave 2, this behavior applies to all Business Central clients including the desktop Web client, tablet client, phone client, Outlook add-in, Teams app, and embedding the client in any other applications. The save indicator more accurately reflects the state of data on the page, even when working across multiple tabs or browser windows. Administrators of Business Central on-premises can use the web server setting SaveValueToDatabasePromptly to turn off this capability (the setting is enabled by default).\n\n### Watch the video\n\nCheck out the 30-minute video where the product engineering team at Microsoft presents this and other enhancements to the Web client. To access recordings on demand from the Business Central 2022 release wave 2 launch event, register for free at aka.ms/BCLE.\n\n### Learn more:\n\nAutosave indicator Configuring Business Central Web Server Instances",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/auto-save-as-work"
+    },
     "da": {
       "title": "Automatisk lagring, mens du arbejder",
       "summary": "Forbedret datalagringsoplevelse sammen med gem-indikatoren.",

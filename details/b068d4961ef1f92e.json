@@ -2,6 +2,12 @@
   "id": "b068d4961ef1f92e",
   "title": "Make use of static and runtime metadata available in Excel layouts",
   "languages": {
+    "en": {
+      "title": "Make use of static and runtime metadata available in Excel layouts",
+      "summary": "Use Excel report layouts to get valuable metadata to enrich your Excel reports and create refreshable reports by calling Business Central APIs from Power Query.",
+      "details": "### Business value\n\nThis feature makes it easier for layout authors to access and use metadata in their reports. This means less coding in AL and allows for more self-service and greater efficiency in report creation. Advanced layout authors can now call Business Central APIs from Power Query, enabling them to create refreshable reports.\n\n### Feature details\n\nPrior to this release, authors of Excel layouts couldn't use data from the report metadata or runtime of the report request unless it was available in the dataset provided by the report developer. With this release, Excel reports will always have hidden worksheets with the following data: Report AL metadata Request metadata Request page options Request page filters Report captions The following figure illustrates how data from the report AL metadata, request metadata, request page options, and filters shows up in Excel as multiple tables. The following figure illustrates how data from the report field captions and labels shows up in Excel. The layout author can then use all of this information in their layouts.\n\n### See also\n\nCreating an Excel layout report (docs)\n\n### Additional resources\n\nLast updated on 2024-03-26 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/make-use-static-runtime-metadata-excel-layouts"
+    },
     "da": {
       "title": "Gøre brug af statiske metadata og runtime-metadata, der er tilgængelige i Excel-layouts",
       "summary": "Brug Excel-rapportlayout til at få værdifulde metadata, der kan berige dine Excel-rapporter og oprette rapporter, der kan opdateres, ved at kalde Business Central API'er fra Power Query.",

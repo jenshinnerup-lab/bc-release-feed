@@ -2,6 +2,12 @@
   "id": "1dea23bf8d8a122a",
   "title": "View item availability by unit of measure",
   "languages": {
+    "en": {
+      "title": "View item availability by unit of measure",
+      "summary": "You can now view item availability information by an item's units of measure.",
+      "details": "### Business value\n\nFast order taking requires that the order processor is able to quickly find items and variants of items. To quickly look up the availability of an item, either by its variants, by the time of shipping, or by its units of measure, is very important when promising shipping dates.\n\n### Feature details\n\nYou can now view item availability information by unit of measure from the item list and from document lines.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/view-item-availability-unit-measure"
+    },
     "da": {
       "title": "View item availability by unit of measure",
       "summary": "You can now view item availability information by an item's units of measure.",

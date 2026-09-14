@@ -2,6 +2,12 @@
   "id": "9de000487996e6c2",
   "title": "Calculate and post VAT settlement by Activity Code - Italy",
   "languages": {
+    "en": {
+      "title": "Calculate and post VAT settlement by Activity Code - Italy",
+      "summary": "This feature allows users to calculate and post VAT settlements by Activity Code in the Italian localization.",
+      "details": "### Business value\n\nBy calculating VAT settlements based on activity codes, you ensure full compliance with Italian tax regulations.\n\n### Feature details\n\nThis feature enables you to set up different Activity Codes, like trade or service, for use in VAT Settlements. When you turn on this feature, Business Central lets you post multiple VAT settlements in the same period, with each settlement linked to a different activity code. The system also records these activity codes in the Periodic Settlement VAT Entry. When you post a VAT settlement for a specific period, the system automatically records the period in the related activity codes, so your reporting stays accurate and compliant.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allowing-calculation-posting-vat-settlement-activity-code-italy"
+    },
     "da": {
       "title": "Beregne og bogføre momsafregning efter aktivitetskode – Italien",
       "summary": "Denne funktion giver brugerne mulighed for at beregne og bogføre momsafregninger efter aktivitetskode i den italienske lokalisering.",

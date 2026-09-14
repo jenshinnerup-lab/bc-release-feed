@@ -2,6 +2,12 @@
   "id": "7f791a3a58b0eae5",
   "title": "Use B2B Router as a service provider for E-documents",
   "languages": {
+    "en": {
+      "title": "Use B2B Router as a service provider for e-documents",
+      "summary": "The e-document framework supports more external service providers for easier business-to-business communications.",
+      "details": "### Business value\n\nWhen businesses exchange electronic invoices during business-to-business (B2B) or business-to-government (B2G) communication, they can choose from many external service providers. This choice gives businesses the flexibility to pick the provider that best fits their needs. This flexibility boosts operational efficiency, lowers costs, and reduces risks that come with relying on a single provider. Businesses can speed up invoice processing, meet different regulatory requirements, and simplify their financial workflows.\n\n### Feature details\n\nYou can use more options as access points for electronic invoicing because we added more electronic document service providers to Business Central. Now, in addition to Avalara, Pagero, SignUp, and Logiq, you can choose the B2BRouter connector for your electronic invoicing. You can choose new options as the Service Integration endpoints on the E-Document Service page. When you select B2BRouter as a service provider and consent to using non-Microsoft systems, you set up the connection. To set up the connection, use the Setup Service Integration action to configure the credentials and API URLs. When you integrate the new service provider, you can automate the receipt and delivery of electronic invoices. The provider acts as the endpoint for e-document exchanges. This automation streamlines invoice management, reduces manual processing errors, and accelerates transaction times. It significantly enhances operational efficiency and boosts overall productivity. Although the E-Document Services page already includes several global service integrations, partners can easily add their own integrations by publishing a connector app on AppSource. For more information, see the technical documentation.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-b2b-router-as-service-provider-e-documents"
+    },
     "da": {
       "title": "Brug B2B Router som tjenesteudbyder til e-dokumenter",
       "summary": "E-dokumentets struktur understøtter flere eksterne tjenesteudbydere til lettere B2B-kommunikation.",

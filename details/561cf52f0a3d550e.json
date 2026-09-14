@@ -2,6 +2,12 @@
   "id": "561cf52f0a3d550e",
   "title": "Select extensions to open in Visual Studio Code from the web client",
   "languages": {
+    "en": {
+      "title": "Select extensions to open in Visual Studio Code from the web client",
+      "summary": "Select extensions to include in the project when opening Visual Studio Code from the web client.",
+      "details": "### Business value\n\nIn earlier releases, we introduced the ability to open Visual Studio Code from the web client, giving you a specific environment to investigate or debug code. Now, you can select which extensions to include in the project when you open Visual Studio Code. If you have permissions to access source code, you see that code in Visual Studio Code. If you don't have permissions, you see symbols that you can use to investigate functionality in AL Explorer or to code against.\n\n### Feature details\n\nOn the Extension Management page, the Develop in VS Code action group gives developers new options. One option is the Download in VS Code action. With this action, you can select one or more extensions to open in Visual Studio Code. In the opened Visual Studio Code project, you always have access to symbols for those extensions. Access to source code depends on the IP protection settings for the extensions and user permissions.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/select-extensions-open-visual-studio-code-web-client"
+    },
     "da": {
       "title": "Vælg de udvidelser, der skal åbnes i Visual Studio Code fra webklienten",
       "summary": "Vælg de udvidelser, der skal medtages i projektet, når Visual Studio Code åbnes fra webklienten.",

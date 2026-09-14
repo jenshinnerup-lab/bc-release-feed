@@ -2,6 +2,12 @@
   "id": "b2f321b94ba6b43f",
   "title": "Set up the Clearance model in the E-Documents framework",
   "languages": {
+    "en": {
+      "title": "Set up the Clearance model in the E-Documents framework",
+      "summary": "Ensure compliance with the Clearance model for e-invoices. Preapprove invoices with tax authorities before sending to customers.",
+      "details": "### Business value\n\nThe Clearance model for e-invoices ensures that the tax authority or an authorized third-party certifier preapproves every invoice before you share it with the customer. This feature helps you comply with regulatory requirements and reduces the risk of penalties for non-compliance. By automating the validation and approval process, businesses can streamline their invoicing workflows, improve accuracy, and enhance the traceability of transactions.\n\n### Feature details\n\nThe Clearance model in the E-Documents framework is a required communication model for electronic invoices. The model ensures that the tax authority or an authorized third-party certifier preapproves every invoice before sharing it with the customer. The model automates the validation and approval processes for electronic invoices, so it reduces manual effort and minimizes errors. This feature plays an important role in compliance with regulatory requirements in various countries.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/set-up-clearance-model-e-documents-framework"
+    },
     "da": {
       "title": "Konfigurere godkendelsesmodellen i E-Documents-strukturen",
       "summary": "Sørg for overholdelse af toldbehandlingsmodellen for e-fakturaer. Godkend fakturaer på forhånd hos skattemyndighederne, før de sendes til kunderne.",

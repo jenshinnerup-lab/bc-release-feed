@@ -2,6 +2,12 @@
   "id": "f27d0a12e5b228c6",
   "title": "Get UI improvements for Unreliable Payer for Czechia",
   "languages": {
+    "en": {
+      "title": "Get UI improvements for Unreliable Payer for Czechia",
+      "summary": "Enhanced Unreliable VAT Payer checks now offer quick access to vendor bank accounts and streamline preferred account setup.",
+      "details": "### Business value\n\nThis enhancement improves the user interface by providing greater flexibility and efficiency in managing vendor bank accounts. It enables users to work more effectively with unreliable VAT payer data and streamlines the vendor bank account creation process. With intuitive changes in dialog interactions and improved accessibility to key functionalities, users can save time and reduce errors in financial data management.\n\n### Feature details\n\nThe Unreliable VAT Payer functionality is enhanced with the following improvements: Enhanced VAT Payer Reliability Check When the import process completes, an interactive dialog appears instead of a static confirmation message. With the interactive dialog, you can immediately open the Unreliable Payer Entries page. When you select Yes, you go directly to the Unreliable Payer Entries page. You can create a new vendor bank account. Improvements to Vendor Bank Account Creation A new Preferred Bank Account checkbox is available on the Get Vendor Bank Account Code page. When you select the checkbox, Business Central automatically fills in the Preferred Bank Account Code field on the Vendor Card page. Quick access to vendor bank accounts. A new shortcut on the Unreliable Payer Entries page gives you direct access to the Vendor Bank Accounts page. This shortcut simplifies navigation and helps you quickly access relevant financial data. These changes help you work more efficiently, access key financial information more easily, and reduce potential errors in vendor bank account management.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/unreliable-payer-user-interface-improvements-czechia"
+    },
     "da": {
       "title": "Få forbedringer af brugergrænsefladen til upålidelig betaler til Tjekkiet",
       "summary": "Forbedrede upålidelige momsbetalerchecks giver nu hurtig adgang til kreditorbankkonti og strømliner opsætningen af foretrukne konti.",

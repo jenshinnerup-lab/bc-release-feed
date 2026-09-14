@@ -2,6 +2,12 @@
   "id": "be5ddb6e02e55501",
   "title": "Send documents as emails with any attached files automatically added as email attachments",
   "languages": {
+    "en": {
+      "title": "Send documents as emails with any attached files automatically added as email attachments",
+      "summary": "When you send a document by email, you can now choose to include files that are attached to the document in the email.",
+      "details": "### Feature details\n\nBusiness Central documents, such as orders or invoices, can include attached files that are related to the process. With this update, when you send an email based on a document, the attached files can be included in the email. This improves efficiency and makes the process of sharing related information smoother.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/send-documents-as-emails-attached-files-automatically-added-as-email-attachments"
+    },
     "da": {
       "title": "Sende dokumenter som mails med eventuelle vedhæftede filer, der automatisk tilføjes som vedhæftede filer",
       "summary": "Når du sender et dokument via mail, kan du nu vælge at medtage filer, der er vedhæftet dokumentet i mailen.",

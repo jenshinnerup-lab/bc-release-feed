@@ -2,6 +2,12 @@
   "id": "a2cdf966e8a6c2c4",
   "title": "Use updated demo data for Sustainability",
   "languages": {
+    "en": {
+      "title": "Use updated demo data for Sustainability",
+      "summary": "Enhance your sustainability reporting demos with updated water and waste data, journal templates, and energy-linked subcategories.",
+      "details": "### Business value\n\nThis update enriches the Sustainability Demo Data Tool, enabling businesses to simulate and showcase comprehensive environmental tracking. By including water and waste accounts, categories, and journal entries, organizations can better demonstrate ESG readiness, support internal training, and validate sustainability workflows before going live.\n\n### Feature details\n\nThe Sustainability Demo Data Tool has been expanded to support broader environmental data modeling. Key enhancements include: Water and waste accounts: New account structures for tracking water usage and waste generation. Categories and subcategories: Classification of water and waste data for more granular reporting and analysis. Journal templates and batches: Predefined templates for entering water and waste data efficiently. New entries and journal lines: Sample data entries and journal lines to simulate real-world sustainability tracking. Energy details in subcategories: Subcategories now include energy-related attributes to support integrated environmental impact analysis. These updates help you prepare for sustainability reporting, ESG audits, and future regulatory requirements by providing realistic demo scenarios and data structures.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-updated-demo-data-sustainability"
+    },
     "da": {
       "title": "Brug opdaterede demodata til bæredygtighed",
       "summary": "Gør demoerne om rapportering af bæredygtighed bedre med opdaterede vand- og affaldsdata, journalskabeloner og energisammenknyttede underkategorier.",

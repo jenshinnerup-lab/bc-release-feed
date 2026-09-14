@@ -2,6 +2,12 @@
   "id": "f06e7cf7848324cf",
   "title": "Validate certificates on external web service endpoints called from AL HttpClient",
   "languages": {
+    "en": {
+      "title": "Validate certificates on external web service endpoints called from AL HttpClient",
+      "summary": "Enhance the security of HTTP calls in AL apps with default certificate validation, debugging tools, and flexible disabling options.",
+      "details": "### Business value\n\nThis feature enhances the security of HTTP calls in your AL applications by validating all server certificates for outgoing web service calls. When you enable certificate validation by default, you get a higher level of trust and security in your communications. If needed, you can disable certificate validation for specific calls. A new telemetry event helps you debug failures. By providing robust security measures and debugging tools, this feature protects your business from potential security threats and ensures smooth, secure operations.\n\n### Feature details\n\nTo enhance the security of HTTP calls from AL, the AL runtime now validates all server certificates when you call a web service endpoint with the HttpClient data type. Certificate validation is on by default. A server certificate is on the endpoint side. It's not the certificate you attach to a request in AL. If an app or per-tenant extension needs to turn off certificate validation, add the new property to the HttpClient data type. AL code can turn off server certificate validation for the outgoing web service call. If the publisher of an app or per-tenant extension needs to debug failing HTTP calls because server certificates can't be validated, add the new telemetry event. The event happens when certificate validation fails. App and per-tenant extension publishers can disable certificate validation by using a feature management key. In version 27, certificate validation is always on and you can't disable it.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/validating-certificates-external-web-service-endpoints-called-al-httpclient"
+    },
     "da": {
       "title": "Validere certifikater på eksterne webtjenesteslutpunkter, der kaldes fra AL HttpClient",
       "summary": "Øg sikkerheden af HTTP-kald i AL-apps med standardcertifikatvalidering, fejlfindingsværktøjer og fleksible deaktiveringsindstillinger.",

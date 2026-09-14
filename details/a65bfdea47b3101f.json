@@ -2,6 +2,12 @@
   "id": "a65bfdea47b3101f",
   "title": "Sync images of product variants between Business Central and Shopify",
   "languages": {
+    "en": {
+      "title": "Sync images of product variants between Business Central and Shopify",
+      "summary": "Synchronize variant-level images between Business Central and Shopify.",
+      "details": "### Business value\n\nEnsure that product variants show the correct images in Shopify after you synchronize. Including images of variants reduces manual maintenance and helps you present products in a way that better supports purchasing decisions.\n\n### Feature details\n\nThis feature adds support for synchronizing images of item variants in Business Central with their corresponding product variants in Shopify. Previously, you could only synchronize images of items to products. When you work with products that include variations, such as different colors, materials, or styles, you can now ensure that each variant displays the correct image in Shopify. When you synchronize images from Shopify, Business Central imports variant-specific images and saves the related item variant. When you synchronize images to Shopify, the image assigned to each item variant in Business Central is uploaded and linked to the correct product variant in Shopify.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/sync-images-product-variants-between-business-central-shopify"
+    },
     "da": {
       "title": "Synkroniser billeder af produktvarianter mellem Business Central og Shopify",
       "summary": "Synkroniser billeder på variantniveau mellem Business Central og Shopify.",

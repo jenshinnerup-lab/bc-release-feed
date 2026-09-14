@@ -2,6 +2,12 @@
   "id": "96c53e15645271c6",
   "title": "Use VAT clauses on different document types",
   "languages": {
+    "en": {
+      "title": "Use VAT clauses on different document types",
+      "summary": "You can now define VAT clauses per document type.",
+      "details": "### Business value\n\nWhen non-standard VAT rates are used in different types of documents, such as invoices or credit memos, companies are usually required to include an exemption text (VAT clause) stating why a reduced VAT or zero VAT rate has been calculated.\n\n### Feature details\n\nYou can now define different VAT clauses to be included on business documents per the type of document, such as Invoice or Credit Memo.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/use-vat-clauses-different-document-types"
+    },
     "da": {
       "title": "Use VAT clauses on different document types",
       "summary": "You can now define VAT clauses per document type.",

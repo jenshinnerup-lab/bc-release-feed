@@ -2,6 +2,12 @@
   "id": "b439bf33aaa5fa48",
   "title": "Specify default sustainability values for various entities",
   "languages": {
+    "en": {
+      "title": "Specify default sustainability values for various entities",
+      "summary": "Configure inbound emissions for items, resources, accounts, operations, work and machine centers, and transfer journals to boost sustainability tracking.",
+      "details": "### Business value\n\nYou can improve sustainability tracking by setting up inbound emissions for each item, resource, and general ledger account. You can also set up inbound emissions for internal operations, such as work centers, machine centers, and transfer journals. This setup helps you accurately track and report your company's environmental impact.\n\n### Feature details\n\nA new Default Sust. Account field is available in the following tables: G/L Account Item Item Category Resource Work Center Machine Center When you enter a value in the Default Sust. Account field on the Item Category page, the items you assign to that category inherit the value. The Item, Resource, Work Center, and Machine Center pages include new Default CO2 Emission, Default CH4 Emission, and Default N2O Emission fields. To set these values, go to the Item card. When you set Purchase in the Replenishment System field for an item, you can edit these emission values. Otherwise, Business Central calculates the values. If you enter values in these fields and change the selection in the Replenishment System field, a message warns you that the change removes the values in the emission fields. To use these fields, enable them on the Sustainability Setup page. This configuration step reduces clutter for businesses that don't want to use these fields. When you enter a value in the Default Sust. Account field and work with purchase documents or general journals, the value transfers to the related Sustainability Account and Emission Amount fields.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/specify-default-sustainability-values-various-entities"
+    },
     "da": {
       "title": "Angiv standard-bæredygtighedsværdier for forskellige enheder",
       "summary": "Konfigurer indgående emissioner for varer, ressourcer, konti, operationer, arbejds- og produktionsressourcer, og overfør kladder for at øge sporingen af bæredygtighed.",

@@ -2,6 +2,12 @@
   "id": "1823e881b3ffa9d1",
   "title": "Adjust VAT in local currency on sales documents in Czechia",
   "languages": {
+    "en": {
+      "title": "Adjust VAT in local currency on sales documents in Czechia",
+      "summary": "Business Central enables accurate VAT correction in local currency on foreign‑currency sales invoices, ensuring compliance and precise financial reporting.",
+      "details": "### Business value\n\nThis feature provides companies with greater flexibility and accuracy when handling VAT amounts in local currency on posted sales invoices in foreign currency. Similar to the existing functionality for purchase invoices, users can now adjust VAT amounts on the sales side, ensuring compliance and precise financial reporting.\n\n### Feature details\n\nYou can now adjust VAT amounts in local currency on posted sales invoices issued in foreign currency. The functionality mirrors the existing process for purchase invoices: A new action, Correct VAT in Local Currency, is available on posted sales invoices in foreign currency (hidden for invoices in local currency). Users can increase or decrease the VAT amount and post the difference to a dedicated rounding account defined in VAT Posting Setup. A new field, Rounding Account for VAT Correction in Local Currency, has been added to the Sales tab in VAT Posting Setup. The correction entries are filtered by document number and posted using the same logic as purchase corrections.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/adjust-vat-local-currency-sales-documents-czechia"
+    },
     "da": {
       "title": "Juster moms i lokal valuta på salgsdokumenter i Tjekkiet",
       "summary": "Business Central muliggør præcis momskorrektion i lokal valuta på salgsfakturaer udstedt i fremmed valuta, hvilket sikrer overholdelse af angivne standarder og præcis finansiel rapportering.",

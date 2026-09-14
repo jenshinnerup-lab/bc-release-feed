@@ -2,6 +2,12 @@
   "id": "b9a2b3f2e801db24",
   "title": "Submit IRS 1099 forms electronically to IRIS in the US localization",
   "languages": {
+    "en": {
+      "title": "Submit IRS 1099 forms electronically to IRIS in the US localization",
+      "summary": "Using APIs, you can electronically submit IRS 1099 forms to IRIS for US localization.",
+      "details": "### Business value\n\nSave time and reduce costs when you submit IRS 1099 forms electronically through the IRIS platform directly from Business Central.\n\n### Feature details\n\nMicrosoft announced new IRS 1099 reporting features in the 2024 release wave 1. Now, we're providing extra features for 1099 form submissions through API integrations. When you integrate with the IRIS platform, you can submit IRS 1099 forms electronically. This integration saves you a lot of time and reduces costs. It removes the need for manual data entry and lowers the administrative burden. With this integration, you can focus more on other important business activities. The integration with the IRIS platform makes the whole filing process simpler. It keeps accuracy and compliance with IRS regulations. You can track the status of your submissions by using the IRIS Transmission page. When you use this feature, you can efficiently manage your tax reporting obligations right within Business Central. You boost productivity and lower the risk of errors or delays. This capability is especially valuable for businesses that want to optimize operational efficiency and keep compliance with tax authorities. Note This feature is available only for Business Central online.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/submit-irs1099-forms-electronically-iris"
+    },
     "da": {
       "title": "Indsende IRS 1099-formularer elektronisk til IRIS i den amerikanske lokalisering",
       "summary": "Ved hjælp af API'er kan du elektronisk indsende IRS 1099-formularer til IRIS for amerikansk lokalisering.",

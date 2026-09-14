@@ -2,6 +2,12 @@
   "id": "807dcb2ef522c6da",
   "title": "Use the enhanced Purchasing Power BI app to analyze risk related to vendors",
   "languages": {
+    "en": {
+      "title": "Use the enhanced Purchasing Power BI app to analyze risk related to vendors",
+      "summary": "The enhanced reporting and analytics for purchasing offers new reports and KPIs in Power BI.",
+      "details": "### Business value\n\nWith the improvements in reporting and analytics for the purchasing area, your business can track new key performance indicators (KPIs) and scenarios in Power BI.\n\n### Feature details\n\nWe've updated the Power BI Purchasing app to give you better reporting and analytics capabilities for purchasing. The app now offers the following capabilities: A refactored semantic model that's ready for open source. Map visuals that display purchasing data by location. The model for the app lets you add dimensions as filters or slicers. The updated Power BI app introduces the following new report pages: Key Purchasing Influencers Purchase Forecast Report Vendor Quality Analysis Report Purchase Quote Overview Purchase Returns Overview We also made some minor changes to existing report pages: Sales Returns Overview has new return rate measures for amount and quantity. Purchases by Item has a ribbon chart for Purchase Value by Fiscal Year and Item Category. Purchase Value by Item Category has a scatter plot. Purchases by Vendor includes Pareto reporting and a vendor purchases map. Purchase by Purchaser shows a Purchase Value by Purchaser scatter plot. Purchase by Location shows a Vendor Location map.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-enhanced-purchasing-analytics"
+    },
     "da": {
       "title": "Brug den forbedrede app Indkøb Power BI til at analysere risici, der er relateret til leverandører",
       "summary": "Den forbedrede rapportering og analyse til indkøb tilbyder nye rapporter og KPI'er i Power BI.",

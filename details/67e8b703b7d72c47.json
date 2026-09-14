@@ -2,6 +2,12 @@
   "id": "67e8b703b7d72c47",
   "title": "Attach AL debugger to active session or next session",
   "languages": {
+    "en": {
+      "title": "Attach AL debugger to active session or next session",
+      "summary": "Attach to user or session ID in the standard AL debugger.",
+      "details": "### Business value\n\nThe legacy C/AL debugger supported attaching to an existing session or to the next session for a specific user. While this has been possible with the AL snapshot debugger for some time, the standard, more powerful AL debugger in Visual Studio Code is still missing this capability, and it's been a partner ask to fill this gap for a while. With the introduction of service-to-service (S2S) authentication, this has become more important, since it's now much harder to debug important web service scenarios, which are only possible with snapshot debugger.\n\n### Feature details\n\nJust as with the snapshot debugger, attach the AL debugger to either an existing running session or to the next session for the specific user. In both cases, this is set up by specifying a session ID or a user ID in the launch.json attach configuration. In addition, a new \"Attach Debugging\" PermissionSet is available to allow cross-user debugging.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/attach-al-debugger-active-session-or-next-session-specific-user"
+    },
     "da": {
       "title": "Vedhæft AL-debugger i en aktiv session eller den næste session",
       "summary": "Vedhæft til bruger- eller sessions-id i standard AL-debugger.",

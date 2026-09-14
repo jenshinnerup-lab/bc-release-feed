@@ -2,6 +2,12 @@
   "id": "0024a41a3f3121da",
   "title": "Activate sales channels in Shopify Connector",
   "languages": {
+    "en": {
+      "title": "Activate sales channels in Shopify Connector",
+      "summary": "Activate your sales channels from the new Shopify Sales Channels page.",
+      "details": "### Business value\n\nBusinesses often sell different products through different sales channels. When you activate specific channels, you simplify workflows and get full control over how you share products across different sales channels.\n\n### Feature details\n\nWhen you publish products from Business Central to Shopify, you can now choose which sales channels to activate directly from the Shopify Sales Channels page. On the new Shopify Sales Channels page, you can access all available channels in Shopify, just like you do with Locations or Languages. Just activate the channels you want. The Shopify Connector handles the rest. If you didn't set up this page yet, don't worry. Your products default to the Online Store. Note This feature only applies to new products you publish. It doesn't affect products that are already on Shopify.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/activate-sales-channels-shopify-connector"
+    },
     "da": {
       "title": "Aktivér salgskanaler i Shopify Connector",
       "summary": "Aktivér dine salgskanaler fra den nye side Shopify-salgskanaler.",

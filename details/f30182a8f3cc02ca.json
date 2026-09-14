@@ -2,6 +2,12 @@
   "id": "f30182a8f3cc02ca",
   "title": "View build metadata in Extension Management page",
   "languages": {
+    "en": {
+      "title": "View build metadata in Extension Management page",
+      "summary": "The details card page for extensions in the Extension Management page now includes the Build information.",
+      "details": "### Business value\n\nWhen we introduced the Source and Build properties in Business Central 2024 release wave 1, you got better traceability for extensions you create in DevOps pipelines. You can quickly find the source repository, commit ID, and build system you used to create the extension. With Business Central 2024 release wave 2 and this new release, you get even more information to help you identify and resolve issues, access information about extensions, and share that information.\n\n### Feature details\n\nTo help track extensions that you create as part of DevOps pipelines, we introduced the Source and Build properties in the app.json manifest file of extensions in Business Central 2024 release wave 1. With these properties, you can easily find the relevant source repo, commit ID, and build system used to create the extension. In Business Central 2024 release wave 2, we added the ability to view Source information on the extension card in the Extension Management page. In 2025 release wave 1, we added the Build information. The details card page for extensions in the Extension Management page now includes the Build information. The Build information has two parts: by tracks the build agent, and url specifies the URL to the build system invocation where the build is located. For more information about the source and build information, see Track source and build metadata on extensions.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/view-build-metadata-extension-management-page"
+    },
     "da": {
       "title": "Se build-metadata på siden Udvidelsesstyring",
       "summary": "Detaljekortsiden for udvidelser på siden Udvidelsesstyring inkluderer nu Build-oplysningerne.",

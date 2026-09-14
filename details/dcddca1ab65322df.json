@@ -2,6 +2,12 @@
   "id": "dcddca1ab65322df",
   "title": "Use the enhanced Inventory Power BI app to forecast future inventory flow",
   "languages": {
+    "en": {
+      "title": "Use the enhanced Inventory Power BI app to forecast future inventory flow",
+      "summary": "Forecast inventory with Power BI using historical data and custom filters to optimize stock levels and improve supply chain efficiency.",
+      "details": "### Business value\n\nThe updated Inventory Power BI app empowers businesses to make smarter, data-driven decisions by forecasting inventory needs based on historical trends. With the new Inventory Forecasting report page, users can proactively manage stock levels, reduce waste, and improve supply chain efficiency. The added flexibility to filter and slice data by custom dimensions allows for deeper insights tailored to specific business contexts. These enhancements streamline operations and help teams respond faster to changing demand, ultimately boosting profitability and customer satisfaction.\n\n### Feature details\n\nWe've updated the Inventory Power BI app to give you better reporting and analytics for managing your inventory. The app now offers the following capabilities: The new Inventory Forecasting report page lets you forecast inventory based on past performance. The model for the app now lets you add dimensions as filters or slicers.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-enhanced-inventory-power-bi-app-forecast-future-inventory"
+    },
     "da": {
       "title": "Brug den forbedrede app Inventory Power BI til at forudsige fremtidigt lagerflow",
       "summary": "Prognoselager med Power BI ved hjælp af historiske data og brugerdefinerede filtre for at optimere lagerniveauer og forbedre effektiviteten af forsyningskæden.",

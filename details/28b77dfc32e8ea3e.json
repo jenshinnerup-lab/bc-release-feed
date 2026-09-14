@@ -2,6 +2,12 @@
   "id": "28b77dfc32e8ea3e",
   "title": "Use Payment Practices in the UK localization",
   "languages": {
+    "en": {
+      "title": "Use Payment Practices in the UK localization",
+      "summary": "Business Central now fully supports the updated UK Payment Practices reporting rules, capturing late payments, disputes, and other data.",
+      "details": "### Business value\n\nNew legislation in the UK requires companies to report more detailed and accurate payment performance metrics. With this update, Business Central helps organizations stay compliant without manual data collection or spreadsheet work. By automatically tracking late payments, disputes, and other required rules, companies can improve reporting accuracy, strengthen supplier relationships, and reduce the administrative burden on finance teams.\n\n### Feature details\n\nBusiness Central extends UK localization to support the updated Reporting on Payment Practices and Performance (Amendment) Regulations 2024. The system introduces new data points to the existing Payment Practices page, including the total value of payments made during the period, late payments relative to agreed terms, and the percentage of late payments caused by disputes. A dispute mechanism is added to purchase invoices to link delayed payments directly to dispute status. The report can be exported in CSV format for submission or further processing.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-payment-practices-uk-localization"
+    },
     "da": {
       "title": "Brug Betalingspraksis i den britiske lokalisering",
       "summary": "Business Central understøtter nu fuldt ud de opdaterede rapporteringsregler for betalingspraksis i Storbritannien og registrerer forsinkede betalinger, tvister og andre relevante oplysninger.",

@@ -2,6 +2,12 @@
   "id": "849c7cb1a6b1de7b",
   "title": "Allow multiple people to post inventory at the same time",
   "languages": {
+    "en": {
+      "title": "Allow multiple people to post inventory at the same time",
+      "summary": "Dynamic numbering for inventory transactions lets multiple people post to inventory at the same time.",
+      "details": "### Business value\n\nMultiple users can post to inventory at the same time. However, some limitations exist. General ledger postings are still sequential. Business Central applies transactions to one open item ledger entry at a time. This limitation means that, unlike service items, two or more users can't post to the same inventoriable item at the same time.\n\n### Feature details\n\nBy dynamically assigning entry numbers, the system avoids locking the inventory ledger tables. When the system avoids locking these tables, multiple users or sessions can post to inventory at the same time. This capability supports dependent scenarios, such as posting transfer orders or sales orders concurrently. This feature supports inventory posting. Often, inventory posting includes an associated general ledger posting, which doesn't support concurrency. Therefore, when you post two item journals at the same time, one journal waits for the other to finish. This behavior applies only if you turn on the Automatic Cost Posting toggle on the Inventory Setup page. Similarly, when you post an outgoing entry for an item, the system updates the remaining amount on an incoming entry. This update prevents two users from posting to the same inventoriable item at the same time. You can turn on or turn off the feature on the Feature Management page. You don't need to upgrade. The feature is off by default for backward compatibility and so partners can test their extensions before they turn it on.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allow-multiple-people-post-inventory-at-same-time"
+    },
     "da": {
       "title": "Giv flere personer mulighed for at bogføre lager på samme tid",
       "summary": "Dynamisk nummerering af lagertransaktioner gør det muligt for flere personer at bogføre til lageret på samme tid.",

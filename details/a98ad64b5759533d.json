@@ -2,6 +2,12 @@
   "id": "a98ad64b5759533d",
   "title": "Block items or variants from production output",
   "languages": {
+    "en": {
+      "title": "Block items or variants from production output",
+      "summary": "You can prevent certain items and their variants from being produced.",
+      "details": "### Business value\n\nBusiness Central gives you full control over the materials you use in production. You can prevent specific items and item variants from being used as production output. For example, blocking items is useful if you want to restrict replenishment because you started to produce another model, but you still want to sell the remaining stock.\n\n### Feature details\n\nYou can block an item or an item variant from being used for production output. To block an item or variant from being used for production, turn on the Production Blocked toggle on the Item Card, Item Variants, and Item Variant Card pages. Set this field on the Item Template page to have Business Central copy your setting to new items created from the template. When you block an item or an item variant for production, you can't select it on the following pages: Production order header (all statuses) Production order lines Additionally, if a production order includes blocked items or item variants, you can't use the following actions: Post output in the output journal or production journal Refresh the production order Replan the production order Calculate subcontracts in the subcontracting worksheet. This action skips blocked items. Note You can still have lines in the requisition and planning worksheet, but you can't carry out the action or create the production order. If you production-block an item, change the replenishment method to to exclude the item from planning.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/block-items-or-variants-production-output"
+    },
     "da": {
       "title": "Spærre varer eller varianter fra produktionsoutput",
       "summary": "Du kan forhindre visse varer og deres varianter i at blive produceret.",

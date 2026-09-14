@@ -2,6 +2,12 @@
   "id": "cddcadab37a5706b",
   "title": "Add the Description 2 field to various pages to gain more insight",
   "languages": {
+    "en": {
+      "title": "Add the Description 2 field to various pages to gain more insight",
+      "summary": "Gain extra insight into processes and data by using personalization to add more fields and columns to different pages.",
+      "details": "### Business value\n\nDifferent businesses and users need specific information to complete their processes efficiently. Personalization in Business Central is a powerful tool that lets you tailor the information on your pages by adding fields or columns from a set list. You can now choose from even more fields and columns to add to some pages. This enhancement is driven by community feedback, addressing a common request and giving you greater control over the information displayed. It helps you work more effectively with the data that's most important to your business operations.\n\n### Feature details\n\nThe Description 2 field is now available for personalization on more pages. Production BOM Lines (page 99000788) Production BOM Version Lines (page 99000789) Prod. BOM Mat. per Ver. Matrix (page 9287) Prod. BOM Version Comparison (page 9288) Planning Component List (page 99000861) Planning Components (page 99000862) Prod. Order Comp. Lines (page 5407) Prod. Order Components (page 99000818) Standard Tasks (page 99000799) Routing Lines (page 99000765) Routing Version Lines (page 99000767) Planning Routing (page 99000863) Prod. Order Routing (page 99000817) Prod. Order Routing Lines (page 5408) Machine Center Task List (page 99000916) Work Center Task List (page 99000915) The Description 2 field is added at the table level, and is fully supported in planning, routing, production order creation, and related processes.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/add-description-2-field-various-pages-gain-more-insight"
+    },
     "da": {
       "title": "Tilføj feltet Beskrivelse 2 på forskellige sider, og få mere indsigt",
       "summary": "Få ekstra indsigt i processer og data ved at bruge brugertilpasning til føje flere felter og kolonner til forskellige sider.",

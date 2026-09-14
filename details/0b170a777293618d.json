@@ -2,6 +2,12 @@
   "id": "0b170a777293618d",
   "title": "VAT posting in General Ledger setup",
   "languages": {
+    "en": {
+      "title": "VAT posting in General Ledger setup",
+      "summary": "Set up VAT dates and posting dates that are independent from each other.",
+      "details": "### Business value\n\nYou can limit the VAT dates for posting independently from the posting dates.\n\n### Feature details\n\nCurrently, when you use the VAT Date functionality, the validation is the same for the Posting Date in the General Ledger Setup and the User Setup. This means you can't backdate VAT entries without opening prior posting periods and sometimes, the Posting Date and VAT Date range isn't the same. This feature introduces new separate setups to control the VAT Date independent of the Posting Date. You can configure the VAT Date range in the VAT Setup page using the following options: Allow VAT Date From Allow VAT Date To The same option will exist on the User Setup page and will extend options for configuration for users.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/vat-posting-general-ledger-setup"
+    },
     "da": {
       "title": "Momsbogføring i finansopsætning",
       "summary": "Opsæt momsdatoer og bogføringsdatoer, der er uafhængige af hinanden.",

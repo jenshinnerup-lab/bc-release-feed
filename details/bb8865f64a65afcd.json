@@ -2,6 +2,12 @@
   "id": "bb8865f64a65afcd",
   "title": "Preview incoming e-invoices prior to processing",
   "languages": {
+    "en": {
+      "title": "Preview incoming e-invoices prior to processing",
+      "summary": "You can preview incoming e-documents before you process them.",
+      "details": "### Business value\n\nYou can improve the accuracy of your data by previewing the details of incoming electronic documents, such as invoices and credit memos, before you process them.\n\n### Feature details\n\nWhen you receive an incoming e-document from an external service or manually upload one, you typically get an XML or similar format that's difficult to read. For example, if you're not technical and don't understand the XML format, it's hard to review an invoice before you process it. To make it easier for everyone to review incoming e-documents, invoices and credit memos have an E-invoice Lines FastTab that displays details from the imported file, such as line and header information, in a way that's easy to understand. This feature is available only for invoice and credit memo types of incoming e-documents.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/preview-incoming-e-invoices-prior-processing"
+    },
     "da": {
       "title": "Få vist forhåndsversion af indgående e-fakturaer før behandling",
       "summary": "Du kan få vist en forhåndsversion af indgående e-dokumenter, før du behandler dem.",

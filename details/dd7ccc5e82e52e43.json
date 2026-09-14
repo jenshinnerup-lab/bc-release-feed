@@ -2,6 +2,12 @@
   "id": "dd7ccc5e82e52e43",
   "title": "Operations log enhancements",
   "languages": {
+    "en": {
+      "title": "Operations log enhancements",
+      "summary": "Show additional operations in the Operation log section of the Business Central admin center.",
+      "details": "### Business value\n\nBetter traceability of the admin operations.\n\n### Feature details\n\nThe Operations log in the Business Central admin center provides an overview of the admin operations in the relevant Business Central online environments, such as restoring, renaming, installing, and uninstalling apps, exporting databases, and moving environments between different Azure Active Directory (Azure AD) tenants. In this release wave, we're adding more operation logs to this view. Administrators will be able to see the following new operations: Environment was created Environment was deleted Environment was copied Environment properties were updated The administrators will also be able to truncate the log to remove old operations that are no longer relevant.\n\n### Additional resources\n\nLast updated on 2021-12-14 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/operations-log-enhancements"
+    },
     "da": {
       "title": "Forbedringer af driftslog",
       "summary": "Vise yderligere handlinger i Driftslog-sektionen i Business Central Administration.",

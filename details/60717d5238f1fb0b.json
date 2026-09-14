@@ -2,6 +2,12 @@
   "id": "60717d5238f1fb0b",
   "title": "Post purchase invoices for drop shipments independently of related sales invoices",
   "languages": {
+    "en": {
+      "title": "Post purchase invoices for drop shipments independently of related sales invoices",
+      "summary": "You can post purchase invoices on drop shipment orders before you post the related sales invoice.",
+      "details": "### Business value\n\nThis capability aligns Business Central with workflows where vendor obligations are independent of customer payment timing. It makes drop shipment functionality more practical for businesses that have complex shipping and invoicing requirements.\n\n### Feature details\n\nYou can post invoices for drop shipment purchase orders, even if you haven't invoiced the related sales order. You can post an invoice from a purchase order or by using the Get receipt lines action. This feature might affect your extensions and customizations. This change modifies the posting logic for drop shipments and removes checks that previously blocked purchase invoice posting until the related sales invoice was posted. The following events are no longer called: Codeunit 90 \"Purch.-Post\" OnCheckAssocOrderLinesOnBeforeCheckOrderLine OnBeforeCheckAssociatedSalesOrderLine Codeunit 22 \"Item Jnl.-Post Line\" OnBeforeVerifyInvoicedQty OnVerifyInvoicedQtyOnAfterGetSalesShipmentHeader Partners and ISVs should review any customizations or extensions that rely on these events and adjust their logic accordingly.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/post-purchase-invoices-drop-shipments-independently-related-sales-invoices"
+    },
     "da": {
       "title": "Bogfør købsfakturaer for direkte leveringer uafhængigt af relaterede salgsfakturaer",
       "summary": "Du kan bogføre købsfakturaer for direkte leveringsordrer, før du bogfører den tilhørende salgsfaktura.",

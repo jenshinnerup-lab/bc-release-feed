@@ -2,6 +2,12 @@
   "id": "5e09344a142298dc",
   "title": "Print the Audit Trail report",
   "languages": {
+    "en": {
+      "title": "Print the Audit Trail report",
+      "summary": "Improve compliance with a full audit trail report that shows details from G/L Register and G/L Entry tables.",
+      "details": "### Business value\n\nThe new Audit Trail report feature enhances compliance by providing a comprehensive and transparent record of all transactions. By showing detailed information from the G/L Register and G/L Entry tables, businesses can ensure that every transaction is accurately recorded and easily traceable. This feature helps auditors and internal teams.\n\n### Feature details\n\nThe Audit Trail report feature helps you improve compliance by giving you a detailed and transparent record of all transactions. It shows information from the G/L Register and G/L Entry tables, so you can be sure that every transaction is accurately recorded and easy to trace.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/print-audit-trail-report"
+    },
     "da": {
       "title": "Udskrive rapporten Revisionsspor",
       "summary": "Forbedre overholdelsen med en komplet revisionssporrapport, der viser detaljer fra finansregister- og finansposteringstabeller.",

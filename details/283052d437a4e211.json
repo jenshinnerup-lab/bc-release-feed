@@ -2,6 +2,12 @@
   "id": "283052d437a4e211",
   "title": "Define sell-to and bill-to customer details per company location",
   "languages": {
+    "en": {
+      "title": "Define sell-to and bill-to customer details per company location",
+      "summary": "Map Shopify B2B company locations to entities in Business Central to use the Sell-to Customer and Bill-to Customer concepts.",
+      "details": "### Business value\n\nThe Shopify connector lets you export customers from Business Central as B2B company locations in Shopify. When you use the Sell-to Customer and Bill-to Customer fields on the company location level, you get more flexibility and convenience for managing customer information across both applications.\n\n### Feature details\n\nThe new Customer No. and Bill-to Customer No. fields with table relations to the Customer table are available on the Shopify Company Location page. By default, the fields are empty. When you import a Shopify order that has a B2B company and location, the process maps the sell-to and bill-to customers in those fields. The following table shows different examples of customer mappings. Case Value in the Customer No. field in the Shopify Company Value in the Customer No. field in the Shopify Company Location Value in the Bill-to Customer No. field in the Shopify Company Location Proposed value for Sell-to Customer No. field in the Shopify Order Proposed value for Bill-to Customer No. field in the Shopify Order 1 10000 blank blank 10000 10000 2 10000 20000 blank 20000 20000 (same as Customer No. in Company Location) 3 10000 20000 30000 20000 30000 4 10000 blank 30000Not supported. Must be blank or Sell-to must have value 10000 (same as 1) 5 blank blank blank blank blank When you select the Add customer as Shopify Location action, you can add customers as company locations. The customer you select must not already be exported.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/define-sell-to-bill-to-customer-details-per-company-location"
+    },
     "da": {
       "title": "Definere oplysninger om salg til og fakturering til kunde pr. firmalokation",
       "summary": "Tilknyt Shopify B2B-virksomhedslokationer til objekter i Business Central for at bruge begreberne Sælg til kunde og Fakturer til kunde.",

@@ -2,6 +2,12 @@
   "id": "b5eb3384eddecbf0",
   "title": "Use the enhanced Power BI Sales app and modernized reports in sales analytics",
   "languages": {
+    "en": {
+      "title": "Use the enhanced Power BI Sales app and modernized reports in sales analytics",
+      "summary": "The enhanced reporting and analytics for sales offer new KPIs in Power BI, better data analysis, as well as customizable Excel layouts.",
+      "details": "### Business value\n\nThe improvements in reporting and analytics for sales help your business track new key performance indicators (KPIs) and scenarios in Power BI. Customizable Excel layouts for many sales reports let you tailor them to your needs, while enriched datasets provide more comprehensive analyses.\n\n### Feature details\n\nWe've significantly improved reporting and analytics for sales. In Power BI, the Power BI Sales app now offers more capabilities. The app offers new report pages: Sales forecasts Sales by Projects We've made some changes to the semantic model: Use data from projects and the general ledger in your analyses. Source code is now open source. We've also added modernized versions of the following sales reports: Customer List Customer - Order Summary Customer - Order Detail Sales Statistics Customer/Item Sales Customer Balance to Date Customer Trial Balance Sales Reservation Availability Inventory Order Details Inventory Sales Back Orders By modernizing a report, we mean: We replaced RDL layouts with Word and Excel layouts. Documentation supplements in-client Help.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-enhanced-sales-analytics"
+    },
     "da": {
       "title": "Brug den forbedrede Power BI Sales-app og moderniserede rapporter i salgsanalyse",
       "summary": "Den forbedrede rapportering og analyse for salg tilbyder nye KPI'er i Power BI, bedre dataanalyse samt Excel-layout, der kan tilpasses.",

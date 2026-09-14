@@ -2,6 +2,12 @@
   "id": "77a5a3d19157c578",
   "title": "Add more text in cash documents in Czech localization",
   "languages": {
+    "en": {
+      "title": "Add more text in cash documents in Czech localization",
+      "summary": "Improve cash documents by adding detailed information to general ledger accounts.",
+      "details": "### Business value\n\nUse Business Central's extended text feature to make your cash, sales, and purchase documents for general ledger accounts more informative for your clients and staff. You can turn on the extended text feature manually or automatically.\n\n### Feature details\n\nInclude extra information in the description for general ledger accounts to notify clients and employees of important information. Add extra lines as extended text in purchase and sales documents. You can also add extra lines to cash documents. Activate the Automatic Ext. Texts on the G/L Account card to automatically add extended text on sales, purchases, or cash documents. Use the Insert Ext. Texts function to add extended text to cash documents manually. Automatically enable extended text for a general ledger account To enable the feature for a general ledger account, use the following steps: Open the card for the general ledger account that you want to add more text to, and then select the Automatic Ext. Texts action. Select New. Enter the Code and Description fields. Select the checkboxes for the document types where you want to print the extended text. To include cash documents, select Cash Desk on the Sales FastTab. Close the page. Enable extended text manually in a cash document To add this feature in a cash document, use the following steps: Open a Cash Document and insert a general ledger account that has extended text. Select the line, and then choose the Insert Ext. Text function.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/add-more-text-cash-documents-czech-localization"
+    },
     "da": {
       "title": "Tilføj mere tekst i kontantdokumenter i tjekkisk lokalisering",
       "summary": "Forbedre kontantdokumenter ved at føje detaljerede oplysninger til finanskonti.",

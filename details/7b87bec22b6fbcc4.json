@@ -2,6 +2,12 @@
   "id": "7b87bec22b6fbcc4",
   "title": "Handle production output with warehouse put-aways",
   "languages": {
+    "en": {
+      "title": "Handle production output with warehouse put-aways",
+      "summary": "Optimize production processes with warehouse put-aways for production outputs.",
+      "details": "### Business value\n\nIn this release, you can use warehouse put-aways for production outputs. With this capability, you can use the same warehouse process for production outputs and other receipts. Using the same process simplifies your work because you don't need to switch between different types of documents. This capability is especially valuable for advanced configurations where Directed Put-Away and Pick is enabled, because inventory put-away documents aren't available.\n\n### Feature details\n\nSet-up instructions To enable this feature, open the Location Card page. In the Prod Output Whse Handling field, select Warehouse Put-away. Note For locations where Directed Put-away and Pick is enabled, you can make the field editable and allow selection of No warehouse handling or Warehouse put-away. You can't select the Inventory Put-away option. If released production orders exist for the location, you can't activate warehouse put-away. Use case When you post production output for a location where the Prod Output Whse Handling field is set to Warehouse Put-away, the system either automatically creates the warehouse put-away document or you need to use the Warehouse Put-Away Worksheet page. This behavior depends on the setting in the Location Card page. If you delete a warehouse put-away, you can manually create a new warehouse put-away by using the Create warehouse put-away action on the Release Product Order or Finished Prod Order pages. Note You can't use production order lines with different locations when the Prod Output Whse Handling field is set to Warehouse Put-away. To resolve this issue, use different production orders. You can't cancel output if there are outstanding or completed put-aways.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/handle-production-output-warehouse-put-aways"
+    },
     "da": {
       "title": "Håndter produktionsoutput med Læg-på-lager",
       "summary": "Optimere produktionsprocesser med læg på lager til produktionsoutput.",

@@ -2,6 +2,12 @@
   "id": "f2739910d5165997",
   "title": "Read and write YAML in AL using JsonObject",
   "languages": {
+    "en": {
+      "title": "Read and write YAML in AL using JsonObject",
+      "summary": "Read and write YAML in AL using new methods on JsonObject, and modify it as JSON.",
+      "details": "### Business value\n\nData-driven testing often requires reading YAML test data, especially when testing Copilot features. Instead of creating a new YAML object model, you can use the extended JSON support to read YAML data into a JsonObject. You can manipulate the data as JSON with the JsonObject API and write it out as YAML if needed.\n\n### Feature details\n\nThe feature extends the existing JsonObject so you can read YAML into the JsonObject, manipulate it as JSON with the JsonObject API, and possibly write it out again as YAML. The feature adds two new methods to read YAML into a JsonObject instance: [Ok :=] ReadFromYaml(String) [Ok :=] ReadFromYaml(InStream) The feature adds two new methods to write a JsonObject instance as YAML: [Ok :=] WriteToYaml(String) [Ok :=] WriteToYaml(OutStream) Note The feature is also backported to version 14.3 of the compiler, in 2024 release wave 2.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/read-write-yaml-al-using-jsonobject"
+    },
     "da": {
       "title": "Læse og skrive YAML i AL ved hjælp af JsonObject",
       "summary": "Læs og skriv YAML i AL ved hjælp af nye metoder på JsonObject, og rediger det som JSON.",

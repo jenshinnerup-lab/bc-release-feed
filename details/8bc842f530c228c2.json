@@ -2,6 +2,12 @@
   "id": "8bc842f530c228c2",
   "title": "Running objects in actions defaults to UI descriptors on target object",
   "languages": {
+    "en": {
+      "title": "Running objects in actions defaults to UI descriptors on target object",
+      "summary": "Actions specifying the RunObject property use the Caption, ToolTip, AboutText, and AboutTitle properties of the target object when these are not specified.",
+      "details": "### Business value\n\nWhen you add actions that run pages and reports in AL, you specify the AboutText and AboutTitle properties. To keep consistency and enable reuse, these actions now default to the AboutText and AboutTitle of the report or page object you target when the action appears in the Report Explorer. This change also makes sure that existing actions get the AboutText and AboutTitle from the targeted object. For pages, actions to reports default to the Tooltip on the target report.\n\n### Feature details\n\nWhen you specify the RunObject property in an action and refer to a page or report, the action uses the AboutText and AboutTitle properties from the targeted page or report application object in the Report Explorer. If you specify these properties on the action itself, the action uses those values. This behavior ensures consistency and reuse in the Report Explorer, even for existing actions. On pages, actions that refer to reports default to the \"Tooltip\" defined on the target report. To support this behavior, you can set the ToolTip property on reports.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/running-objects-actions-defaults-caption-tooltip-abouttext-abouttitle-target-object"
+    },
     "da": {
       "title": "Kørsel af objekter i handlinger er som standard brugergrænsefladebeskrivelser på målobjektet",
       "summary": "Handlinger, der angiver egenskaben RunObject, bruger egenskaberne Caption, ToolTip, AboutText og AboutTitle for destinationsobjektet, når disse ikke er angivet.",

@@ -2,6 +2,12 @@
   "id": "0dfa9bc6f7dc1397",
   "title": "Detect invalid cloud migration configurations with proactive warnings",
   "languages": {
+    "en": {
+      "title": "Detect invalid cloud migration configurations with proactive warnings",
+      "summary": "Get warnings about misconfigured cloud migration to proactively prevent errors during data migration.",
+      "details": "### Business value\n\nAvoid errors and issues with proactive warnings for cloud migration.\n\n### Feature details\n\nIn 2023 release wave 2, you get more proactive warnings to help you avoid common errors and issues that may occur during the cloud migration process, such as: You have table mappings that haven't been used in the cloud migration. This may indicate that you've missed some important data or you've configured the table mappings incorrectly. You have tables with a mismatching number of records between the source and the target environments. This may indicate that some data has been lost or duplicated during the cloud migration process. You have overwritten a per database table in the target environment. This may affect the functionality or performance of your cloud environment.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/detect-invalid-cloud-migration-configurations-proactive-warnings"
+    },
     "da": {
       "title": "Opdage ugyldige cloudmigreringskonfigurationer med proaktive advarsler",
       "summary": "Få advarsler om fejlkonfigureret cloudmigrering for proaktivt at forhindre fejl under datamigrering.",

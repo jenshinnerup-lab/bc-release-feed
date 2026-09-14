@@ -2,6 +2,12 @@
   "id": "caf4ea76173c4ef6",
   "title": "Use the enhanced Power BI Finance app to improve your cashflow",
   "languages": {
+    "en": {
+      "title": "Use the enhanced Power BI Finance app to improve your cashflow",
+      "summary": "Track late payments, analyze 12-month receivables trends, and filter by customer dimensions to improve cashflow and financial planning.",
+      "details": "### Business value\n\nThe enhanced Finance Power BI app empowers businesses to proactively manage cashflow risk by offering deeper insights into customer payment behaviors. With the new Late Payments (Receivables) report, you can pinpoint which customers are delaying payments and quantify the impact in both time and value. The updated Aged Receivables report adds a rolling 12-month average, helping finance teams spot long-term trends and make more informed decisions. Additionally, the ability to filter by dimensions such as Customer Group Name enables more targeted analysis, driving smarter forecasting and strategic planning. These features collectively strengthen financial oversight and support healthier business operations.\n\n### Feature details\n\nThe Finance Power BI app now offers the following capabilities: A new Late Payments (Receivables) report that lets you identify and compare late payment amounts to payment delays, in days, across your customers. Use this comparison to identify risk on your cashflow. An updated Aged Receivables report shows a rolling 12-month average on amounts due from customers. Use this report to identify risk to your cashflow over time. The model for the app now also lets you add dimensions as filters or slicers. The actual dimension names, such as Customer Group Name, are available for global dimensions and for the first few shortcut dimensions.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-enhanced-power-bi-finance-app-improve-cashflow"
+    },
     "da": {
       "title": "Brug den forbedrede Power BI Finance-app til at forbedre din pengestrøm",
       "summary": "Spor forsinkede betalinger, analysér tendenser for 12-måneders fordringer, og filtrer efter kundedimensioner for at forbedre pengestrømmen og den økonomiske planlægning.",

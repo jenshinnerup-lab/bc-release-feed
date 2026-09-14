@@ -2,6 +2,12 @@
   "id": "02caa396ae312296",
   "title": "Deferral reporting enhancements",
   "languages": {
+    "en": {
+      "title": "Deferral reporting enhancements",
+      "summary": "Modernized deferral reports now support Word/Excel layouts and ad-hoc analysis, empowering controllers with flexible, no-code insights.",
+      "details": "### Business value\n\nThis update empowers finance teams with greater flexibility and insight into deferral data. Replacing RDL layouts with Word and Excel formats lets you easily customize reports without developer support. The new list pages and analysis mode enable proactive review of unposted deferral lines across all documents, improving forecasting and decision-making. The improved reports are documented to enhance discoverability and user adoption. Overall, businesses gain faster access to actionable data and more control over financial reporting.\n\n### Feature details\n\nControllers can analyze current and upcoming deferrals. They can also change the report layouts to suit their needs with no need for a developer. The reports are easy to discover, and their purpose is easy to understand. We've modernized the following reports: G/L Deferral Summary Sales Deferral Summary Purchasing Deferral Summary We replaced the RDL layouts for each of these reports with Word and Excel layouts, and added in-client help and documentation for them. To enable ad hoc analyses, in addition to the reports, we also added three new list pages: Sales deferral lines Purchasing deferral lines G/L deferral lines When you turn on analysis mode for these list pages, you can analyze deferral lines that you haven't posted yet across all documents.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/deferral-reporting-enhancements"
+    },
     "da": {
       "title": "Forbedringer i rapporteringen af udskydelser",
       "summary": "Moderniserede udsættelsesrapporter understøtter nu Word/Excel-layout og ad hoc-analyse, så controllere får fleksibel indsigt uden kode.",

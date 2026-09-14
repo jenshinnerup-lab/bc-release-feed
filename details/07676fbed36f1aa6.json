@@ -2,6 +2,12 @@
   "id": "07676fbed36f1aa6",
   "title": "Check total purchase amounts on documents",
   "languages": {
+    "en": {
+      "title": "Check total purchase amounts on documents",
+      "summary": "Enable users to verify that the sum of all line items matches the total amount from an external invoice before posting.",
+      "details": "### Business value\n\nThis feature helps you ensure that all line items are accurate and match the external invoice. It reduces human errors in accounts payable processes.\n\n### Feature details\n\nPreviously, this feature was part of the check purchase amounts functionality in the Netherlands localization. As part of the delocalization process, this feature is now global and available to everyone. When you set up the feature, select Check Doc. Total Amounts. If you don't activate the feature, there's no change. When you activate the feature, the Doc. Amount Incl. VAT and Doc. Amount VAT fields appear on the Purchase Invoice and Purchase Credit Memo pages. You must fill in these fields before you can post the documents. Business Central checks whether the amount including VAT and the VAT amount on the purchase document match the total amount of the purchase lines when you try to post the document.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/check-total-purchase-amounts-documents"
+    },
     "da": {
       "title": "Tjek de samlede købsbeløb på dokumenter",
       "summary": "Gør det muligt for brugere at kontrollere, at summen af alle linjeelementer matcher det samlede beløb fra en ekstern faktura før bogføring.",

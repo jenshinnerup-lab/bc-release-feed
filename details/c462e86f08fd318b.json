@@ -2,6 +2,12 @@
   "id": "c462e86f08fd318b",
   "title": "Extension lifecycle telemetry include signal from dependent extensions",
   "languages": {
+    "en": {
+      "title": "Extension lifecycle telemetry include signal from dependent extensions",
+      "summary": "The server will emit telemetry about extension lifecycle events for dependent extensions.",
+      "details": "### Feature details\n\nThe Business Central server will emit telemetry about extension lifecycle events, such as successful or failed installations, for dependent extensions. The following events will be emitted: Dependent extension installed (success) Dependent extension uninstalled (success)\n\n### See also\n\nAnalyzing Extension Lifecycle Trace Telemetry (docs)\n\n### Additional resources\n\nLast updated on 2021-05-17 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/extension-lifecycle-telemetry-include-signal-dependent-extensions"
+    },
     "da": {
       "title": "Telemetri med forlængelseslivscyklus inkluderer signal fra afhængige udvidelser",
       "summary": "Serveren udsender telemetri om hændelser for udvidelsens livscyklus for afhængige udvidelser.",

@@ -2,6 +2,12 @@
   "id": "a51a8c4420073367",
   "title": "Use VAT Return to report VAT in local and functional currencies in Czech Republic",
   "languages": {
+    "en": {
+      "title": "Use VAT Return to report VAT in local and functional currencies in Czech Republic",
+      "summary": "Czech companies can now report VAT via the VAT Return, showing amounts in both local and additional reporting currencies, as per new regulations.",
+      "details": "### Business value\n\nStarting January 1, 2024, Czech legislation permits Czech companies to set a functional currency and keep accounts in a currency other than Czech currency. This change is part of the amendment to Act No. 563/1991 Coll. on Accounting. Companies can use the Additional Reporting Currency functionality to track transactions in the local currency. Therefore, you see the addition of the extra reporting currency to the VAT Return.\n\n### Feature details\n\nPreviously, Czech legislation handled VAT with a functional currency only through the VAT Statement. The VAT statement shows the VAT amount in either the local currency or another reporting currency. The VAT Return feature now shows amounts in both the local and extra reporting currencies. It also generates files for submitting the VAT return with the correct amounts according to Czech legislation. This feature is part of the extended option for reporting VAT through VAT Return.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-vat-return-report-vat-local-functional-currencies-czech-republic"
+    },
     "da": {
       "title": "Bruge momsangivelse til at indberette moms i lokale og funktionelle valutaer i Tjekkiet",
       "summary": "Tjekkiske virksomheder kan nu indberette moms via momsangivelsen, der viser beløb i både lokale og yderligere rapporteringsvalutaer i henhold til nye regler.",

@@ -2,6 +2,12 @@
   "id": "2360792ae31e5ebe",
   "title": "E-file IRS 1099 forms without integration (public preview)",
   "languages": {
+    "en": {
+      "title": "E-file IRS 1099 forms without integration",
+      "summary": "Business Central on-premises users can file the IRS 1099 form electronically without integration.",
+      "details": "### Business value\n\nIf you prefer not to, or can't, integrate directly with the IRIS portal, you can still file IRS 1099 forms electronically without integration.\n\n### Feature details\n\nIf you have Business Central online, you can file IRS 1099 forms electronically through the IRIS API. Business Central supports only electronic filing. If you don't want to use this integration or you have an on-premises version, you can create Magnetic Media to electronically file returns by using the IRS 1099 FIRE report. Use 1099 FIRE Magnetic Media to manually upload forms to the IRS by using the FIRE platform. This feature is available only for organizations that use the IRS 1099 features that are available in 2024 release wave 1. For more information about how to work with and submit the IRS 1099 form, see Introduction to the IRS 1099 tax forms.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/e-file-irs-1099-forms-without-integration"
+    },
     "da": {
       "title": "E-fil IRS 1099-formularer uden integration",
       "summary": "Business Central brugere i det lokale miljø kan indsende IRS 1099-formularen elektronisk uden integration.",

@@ -2,6 +2,12 @@
   "id": "ccb297be90230212",
   "title": "Support Digital Product Pass reporting requirements",
   "languages": {
+    "en": {
+      "title": "Support Digital Product Pass reporting requirements",
+      "summary": "Prepare your products for Digital Product Pass reporting with new fields for sustainability information on items.",
+      "details": "### Business value\n\nSupport for Digital Product Pass reporting requirements empowers businesses to meet upcoming EU sustainability regulations by capturing key environmental data directly in Business Central. Structured reporting on recyclability, energy efficiency, and end-of-life handling helps companies enhance product transparency, support circular economy goals, and build trust with eco-conscious customers and partners.\n\n### Feature details\n\nTo support Digital Product Pass (DPP) initiatives, we added sustainability-related fields on the Sustainability FastTab of the Item Card page. Together with the existing fields, the following new fields help businesses meet requirements for preparing DPP details: Recyclability Percentage: Indicates the percentage of recyclable content in the product. Energy Efficiency Ratings: Captures standardized energy efficiency information, such as the product category or label (for example, A–G rating). End-of-Life Information: Provides disposal instructions, recycling options, return schemes, or environmental impact notes. Business Central doesn't generate embedded QR codes for DPP. However, it provides sufficient data to support QR code creation externally.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/support-digital-product-pass-reporting-requirements"
+    },
     "da": {
       "title": "Støtte til krav om rapportering af digitale produktpas",
       "summary": "Forbered dine produkter til digital produktpasrapportering med nye felter til bæredygtighedsoplysninger om varer.",

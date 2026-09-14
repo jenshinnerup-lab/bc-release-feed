@@ -2,6 +2,12 @@
   "id": "a6b549d3ffa09ee5",
   "title": "Align VAT periods with Microsoft standards for Czechia",
   "languages": {
+    "en": {
+      "title": "Align VAT periods with Microsoft standards for Czechia",
+      "summary": "Integrate the Czech VAT period functionality with Microsoft’s standard VAT return period to enable unified and consistent management of VAT periods.",
+      "details": "### Business value\n\nThis feature aligns Czech localization with Microsoft’s standard functionality for VAT period management. It enables customers in Czechia to use a unified, standardized approach, eliminating the need to maintain duplicate or separate processes. This transition simplifies processes, improves consistency, and ensures compatibility with future Microsoft innovations.\n\n### Feature details\n\nThe feature consolidates the Czech localization functionality VAT Period into the standard VAT Return Period table. All processes previously based on VAT Period—such as period generation, closing, and posting checks—will now operate on VAT Return Period. Key elements include: Data Migration: Existing VAT Period records will be migrated to VAT Return Period during the upgrade. Synchronization: Bidirectional synchronization between VAT Period and VAT Return Period ensures data consistency. New Report: Create VAT Return Periods report for generating periods with parameters (start date, number of periods, length, due date). Report Updates: Reports such as VAT Statement Preparation, Calculate and Post VAT Settlement, and Export VAT Statement will reference VAT Return Period. Feature Management: Controlled activation via Feature Management, allowing testing in sandbox environments before enabling in production.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/align-vat-periods-standards-czechia"
+    },
     "da": {
       "title": "Juster momsperioder i overensstemmelse med Microsofts standarder for Tjekkiet",
       "summary": "Integrer funktionaliteten for tjekkiske momsperioder med Microsofts standard momsangivelsesperiode for at sikre en samlet og ensartet styring af momsperioder.",

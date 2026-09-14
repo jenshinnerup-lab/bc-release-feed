@@ -2,6 +2,12 @@
   "id": "1dbe5c7b81db639f",
   "title": "Audit user and group permissions across apps",
   "languages": {
+    "en": {
+      "title": "Audit user and group permissions across apps",
+      "summary": "Analyze permission sets across apps to see who can access or edit data, with filters and FactBoxes that improve security insight and compliance.",
+      "details": "### Business value\n\nAs an admin, this new capability empowers you to clearly understand how permissions flow through your environment, reducing security blind spots and improving compliance. By viewing expanded permissions across all apps and extensions in one place, you can quickly identify which permission sets grant access to specific objects or actions, such as who can edit a customer record. The ability to filter by object, scope, extension, or permission set enables faster, more accurate analysis during audits or troubleshooting. With integrated FactBoxes showing related security groups and users, your organization gains immediate visibility into who is affected by each permission set, strengthening overall security governance.\n\n### Feature details\n\nThe new Permissions Overview page provides comprehensive visibility into permission sets across all installed apps and extensions. Key capabilities: View permissions from all apps and extensions in a unified view. Filter data by object, scope, extension, or permission set to quickly find specific permissions. Identify which permission sets grant access to a specific object (for example, which sets allow editing customer records). Use FactBoxes that show which security groups and users are assigned each permission set. This centralized view helps administrators analyze permission dependencies, conduct security audits, and troubleshoot access issues without navigating multiple pages or extensions.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/audit-user-group-permissions-across-apps"
+    },
     "da": {
       "title": "Gennemgå bruger- og gruppetilladelser i flere apps",
       "summary": "Analysér rettighedssæt på tværs af apps for at se, hvem der kan få adgang til eller redigere data, med filtre og faktabokse, der forbedrer sikkerhedsindsigt og overholdelse af angivne standarder.",

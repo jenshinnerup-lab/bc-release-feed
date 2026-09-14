@@ -2,6 +2,12 @@
   "id": "a9333d4dcc451a42",
   "title": "Enable Investment Boost for fixed assets",
   "languages": {
+    "en": {
+      "title": "Enable Investment Boost for fixed assets",
+      "summary": "Enable an Investment Boost option for fixed assets to deduct 20% up front and depreciate the remaining 80% under standard tax rules from the acquisition year.",
+      "details": "### Business value\n\nMany jurisdictions are introducing front‑loaded incentives to stimulate capital investment. With Investment Boost enabled on eligible assets, companies can deduct 20 percent of the asset cost in the year of purchase and then depreciate the remaining 80 percent using existing tax methods. This improves first‑year cash flow, reduces manual calculations, and provides a consistent, auditable framework that partners can adapt to local tax regimes, starting with New Zealand and applicable to similar schemes elsewhere.\n\n### Feature details\n\nBusiness Central adds a configurable framework to support Investment Boost‑style incentives for fixed assets. Administrators can mark assets as Investment Boost Eligible and let Business Central apply a one‑time specific percent for deduction in the acquisition year, while standard depreciation continues on the remaining percent of the original cost. The calculation logic is as follows: In the fiscal year when the asset is first available for use, the calculation is based on this example: Compute Investment Boost Deduction = 20% × Original Cost. Compute Adjusted Depreciation Base = 80% × Original Cost. Post the boost deduction via a dedicated entry/type to maintain a clear audit trail. Subsequent depreciation is calculated on the adjusted base using the asset’s selected tax depreciation method and conventions. If an asset isn’t marked as eligible, standard depreciation applies with no boost. Validation ensures the Date Available for Use meets the effective‑date rule and prevents double‑application.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/enable-investment-boost-fixed-assets"
+    },
     "da": {
       "title": "Aktivér investeringsfremme for anlægsaktiver",
       "summary": "Aktivér indstillingen Investeringsboost for anlægsaktiver for at fratrække 20 % med det samme og afskrive de resterende 80 % efter skattemæssige standardregler fra erhvervelsesåret.",

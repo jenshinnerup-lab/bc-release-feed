@@ -2,6 +2,12 @@
   "id": "50e114d054350818",
   "title": "Use enhanced and faster reports for analysis of deferrals and trial balances",
   "languages": {
+    "en": {
+      "title": "Use enhanced and faster reports for analysis of deferrals and trial balances",
+      "summary": "Finance Excel reports now run faster, with deferral subtotals and new analysis views that improve financial insight, accuracy, and reconciliation efficiency.",
+      "details": "### Business value\n\nBuilt-in deferral report Excel layouts now include subtotals, making it easier to review balances, improve transparency, and reduce manual spreadsheet work during reconciliation and audit processes. Several standard finance Excel reports also run significantly faster, helping finance teams analyze data and complete period-end tasks more efficiently. In addition, new analysis views on key finance list pages provide improved filtering and slicing of ledger and asset activity. Together, these enhancements increase reporting performance, strengthen financial oversight, and support faster, more informed decision-making.\n\n### Feature details\n\nTo make it easier to review balances during reconciliation and audit processes, we've added subtotals to Excel layouts for the built-in deferral reports: Deferral Summary - GL Deferral Summary - Purchase Deferral Summary - Sales Performance is important to everyone, so we found ways to speed up the following standard finance Excel reports: Trial Balance Consolidated Trial Balance Trial Balance/Budget Trial Balance by Period Trial Balance Previous Year To help you filter and slice ledger and asset activity, analysis view is now available on the following list pages: GL Registers Fixed Assets Ledgers",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-enhanced-faster-reports-analysis-deferrals-trial-balances"
+    },
     "da": {
       "title": "Brug de forbedrede og hurtigere rapporter til analyse af periodiseringer og råbalancer",
       "summary": "Excel-rapporter i Finans kører nu hurtigere, med periodiseringssubtotaler og nye analysevisninger, der forbedrer økonomisk indsigt, nøjagtighed og effektivitet i afstemning.",

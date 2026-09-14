@@ -2,6 +2,12 @@
   "id": "7d85a1498605fde5",
   "title": "New events to unblock printer extensions in Business Central online",
   "languages": {
+    "en": {
+      "title": "New events to unblock printer extensions in Business Central online",
+      "summary": "In update 15.3, we will add two new events to help developers unblock direct-printing scenarios in Business Central online, SetupPrinters and OnDocumentPrintReady.",
+      "details": "### Business value\n\nUsing these events, developers can create extensions that implement support for cloud-printing providers.\n\n### Feature details\n\nUsing SetupPrinters, a developer can insert possible printers to be used in the printer selection page for reports (in the printer virtual table). Each printer can be given a display name as well as a specification of properties such as duplex, number of copies, color, and paper trays. In a paper tray, properties, such as PaperSourceKind, PaperKind, and landscape can be set. Using OnDocumentPrintReady, a developer can react on reports being printed and use information in the printer virtual table to send the document to a printer.\n\n### See also\n\nDeveloping Printer Extentions in Business Central (docs)\n\n### Feedback\n\nWas this page helpful? Yes No No Need help with this topic? Want to try using Ask Learn to clarify or guide you through this topic? Ask Learn Ask Learn Suggest a fix?\n\n### Additional resources\n\nLast updated on 2020-03-02 In this article Was this page helpful? Need help with this topic? Want to try using Ask Learn to clarify or guide you through this topic? Ask Learn Ask Learn Suggest a fix? en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/new-events-unblock-printer-extensions-business-central-online"
+    },
     "da": {
       "title": "New events to unblock printer extensions in Business Central online",
       "summary": "In update 15.3, we will add two new events to help developers unblock direct-printing scenarios in Business Central online, SetupPrinters and OnDocumentPrintReady.",

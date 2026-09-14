@@ -2,6 +2,12 @@
   "id": "a3b70d9c2c787be0",
   "title": "Print barcodes from production orders",
   "languages": {
+    "en": {
+      "title": "Print barcodes from production orders",
+      "summary": "Print labels with tracking information for finished goods.",
+      "details": "### Business value\n\nProduction companies are always looking for ways to streamline production processes. To simplify the process of tracking finished goods, Business Central offers a Print Label action on released and finished production orders. With this action, you can print 1D and 2D barcodes to track the items on the orders, directly from the orders.\n\n### Feature details\n\nThe Print Label action is available on the Released Production Order and Finished Production Order pages. The action prints a report that includes the Item No., Description, Unit of Measure, and 1D and 2D barcode information from the orders. On the request page, you can also specify whether to print the Lot No., Serial No., or Package No. as barcodes. Note Some printers and barcode or QR code formats require a specific implementation. You might need to upload a different Word template. To print Word documents on your device, check with your equipment supplier. If you decide to clone the report to create your own customized version, you can easily connect the report by using the new Prod. Output Item Label selection on the Report Selection Production Order page.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/print-barcodes-production-orders"
+    },
     "da": {
       "title": "Udskrive stregkoder fra produktionsordrer",
       "summary": "Udskriv etiketter med sporingsoplysninger for færdigvarer.",

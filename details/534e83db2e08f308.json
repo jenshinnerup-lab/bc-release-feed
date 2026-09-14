@@ -2,6 +2,12 @@
   "id": "534e83db2e08f308",
   "title": "Connect AI agents to the admin center through MCP server",
   "languages": {
+    "en": {
+      "title": "Connect AI agents to the admin center through MCP server",
+      "summary": "The Business Central admin center MCP server lets admins and partners manage environments conversationally via AI tools like VS Code.",
+      "details": "### Business value\n\nManaging Business Central environments often requires scripting or building integrations for routine administrative tasks. The Business Central admin center MCP server enables administrators and partners to interact with environment management APIs conversationally through AI tools such as Visual Studio Code.\n\n### Feature details\n\nThe 2026 release wave 1 starts the preview of the Model Context Protocol (MCP) server that exposes Business Central admin center APIs in a standardized, self‑describing way. MCP‑compatible AI agents can discover available admin operations, understand context, and perform environment management tasks. Using tools like Visual Studio Code, administrators can ask questions such as environment update status, available upgrades, or installed extensions, and receive structured responses sourced directly from the admin center. Agents can also propose follow‑up actions, such as copying an environment to a sandbox, scheduling an update, or investigating a failed upgrade, while keeping the user in control through explicit confirmation steps. Example scenarios include: Checking whether updates are available for environments and when they're scheduled. Copying an environment to a sandbox and triggering an immediate update. Reviewing update history and diagnosing failed upgrades. Listing installed extensions for a given environment. This approach simplifies common admin workflows that previously required PowerShell scripts or Logic Apps, making environment management more accessible and consistent across tools while reusing the same secure Business Central admin center APIs.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/connect-ai-agents-admin-center-through-mcp-server"
+    },
     "da": {
       "title": "Opret forbindelse fra AI-agenter til Admin Center via MCP-server",
       "summary": "MCP-serveren til Business Central Administration gør det muligt for administratorer og partnere at administrere miljøer på en samtalebaseret måde via AI-værktøjer som VS Code.",

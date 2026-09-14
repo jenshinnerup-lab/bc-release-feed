@@ -2,6 +2,12 @@
   "id": "bb69001265a395f3",
   "title": "Business Central is enabled in 31 new countries and regions",
   "languages": {
+    "en": {
+      "title": "Supporting more countries and regions",
+      "summary": "Supporting more countries and regions for Business Central online.",
+      "details": "### Business value\n\nMore countries and regions are added to bring Business Central to approximately 130 countries and regions.\n\n### Feature details\n\nWe're expanding to more countries/regions through partner-led localization. Our partners create the relevant localization apps and publish them to AppSource. In combination with the built-in language offerings, we are making Business Central online available to serve customers in 130-plus countries and regions worldwide. In this release, we are planning to expand Business Central to the following countries and regions: Andorra Armenia Azerbaijan Bahamas Bermuda Bolivia British Virgin Islands Cambodia Cameroon Cayman Islands Ethiopia Fiji Ghana Guernsey Isle of Man Jersey Kazakhstan Kosovo Liechtenstein Macau SAR Madagascar Malawi Mozambique Namibia Nepal San Marino Sao Tome & Principe Senegal Tanzania Uganda Zambia",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/supporting-more-countriesregions"
+    },
     "da": {
       "title": "Understøttelse af flere lande/områder",
       "summary": "Understøttelse af flere lande/områder til Business Central online.",

@@ -2,6 +2,12 @@
   "id": "5bff8bf870b05cd1",
   "title": "Validate report layouts for errors as an admin",
   "languages": {
+    "en": {
+      "title": "Validate report layouts for errors as an admin",
+      "summary": "The new Validate Layout action helps administrators identify and fix report layout errors, saving time and costs while ensuring reliable and accurate reports.",
+      "details": "### Business value\n\nWith the new Validate Layout action on the Report Layouts page, you can validate report layouts and quickly find errors. This feature reduces the need for developers and lowers support requests, saving time and costs. It makes sure reports are accurate and reliable, so data integrity stays strong and users trust the reporting process.\n\n### Feature details\n\nIn previous releases, if a report layout had errors, a developer needed to analyze the errors and possibly create a support request to understand the issue. Now, the new Validate Layout action on the Report Layouts page enables administrators to validate layouts and get a list of errors.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/validate-report-layouts-errors-as-admin"
+    },
     "da": {
       "title": "Valider rapportlayouts for fejl som administrator",
       "summary": "Den nye handling Valider layout hjælper administratorer med at identificere og rette fejl i rapportlayoutet, hvilket sparer tid og omkostninger, samtidig med at de sikrer pålidelige og nøjagtige rapporter.",

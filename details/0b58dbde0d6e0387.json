@@ -2,6 +2,12 @@
   "id": "0b58dbde0d6e0387",
   "title": "Extend E-Documents features using a new interface",
   "languages": {
+    "en": {
+      "title": "Extend E-Documents features using a new interface",
+      "summary": "Enhance your e-invoice processes with the E-Document extensible framework, allowing easy integration of new document types, formats, and connectors.",
+      "details": "### Business value\n\nThe extensible framework in the E-Document Core module gives ISVs and localization partners the power to easily add new document types, formats, and connectors. This framework enhances customization and adaptability for different local needs. This flexibility encourages innovation and simplifies the development of tailored solutions, which drives business growth and efficiency.\n\n### Feature details\n\nThe E-Document module works as an extension and a framework. It includes only a few E-Document formats for specific localizations. These formats and other details are part of localization apps that handle specific local needs. This framework meets most requirements for e-invoice communication processes. Localization apps handle some requirements. The framework supports extending functionalities to other electronic documents beyond e-invoices. When you select Service Integration on the E-Document Service page, you see several available choices. To add your own service, add a local connector or add another global or regional connector. You can extend this app with new services. You can add new services as part of a localization or as a new ISV app. To meet all requirements for both localization and new electronic document features, Microsoft updated the interface. The update makes it easy for you to extend the framework with different document types, formats, connectors, and more. For more information, see Extending the e-documents functionality.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/extend-e-documents-features-using-new-interface"
+    },
     "da": {
       "title": "Udvide funktioner i e-dokumenter ved hjælp af en ny grænseflade",
       "summary": "Forbedre dine e-fakturaprocesser med strukturen til e-dokumentudvidelse, der muliggør nem integration af nye dokumenttyper, formater og connectorer.",

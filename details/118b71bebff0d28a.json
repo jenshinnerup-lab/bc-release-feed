@@ -2,6 +2,12 @@
   "id": "118b71bebff0d28a",
   "title": "Comply with Australian Payment Times Reporting bill",
   "languages": {
+    "en": {
+      "title": "Comply with Australian Payment Times Reporting bill",
+      "summary": "The Australian government's Payment Times Reporting bill mandates that businesses report their payment practices and schedules for small business suppliers.",
+      "details": "### Business value\n\nThe payment times reporting feature in the Australian localization helps large businesses with annual turnovers exceeding $100 million comply with Australian regulations. These regulations require businesses to report how and when they pay their small business suppliers.\n\n### Feature details\n\nEvery six months, Australian companies with more than AUD100 million in annual turnover must report how and when they pay small business suppliers (suppliers with annual turnover under AUD10 million). This feature organizes vendors by size or payment terms and creates reports that meet local authority requirements. The average agreed payment period. The average actual payment term. The proportion of invoices paid after the agreed payment period. Select the period for the calculation and choose a grouping for the details. For each grouping, you can view the sourced entries. Use this feature by opening the Payment Practices page and creating a new payment practice. To use different types of reporting for vendors, customers, or both, use the Header Type option. For payment time details and statistics, set up all parameters and select Generate. The report is in the required format. It categorizes details into ranges of time based on the timing after the invoice date: Less than 21 days 21-30 days 31-60 days 61-90 days 91-120 days More than 120 days",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/comply-australian-payment-time-reporting-bill"
+    },
     "da": {
       "title": "Overhold den australske lovgivning om betalingstidsrapportering",
       "summary": "Den australske regerings lovgivning om betalingstidsrapportering kræver, at virksomheder rapporterer deres betalingspraksis og tidsplaner for kreditorer af små virksomheder.",

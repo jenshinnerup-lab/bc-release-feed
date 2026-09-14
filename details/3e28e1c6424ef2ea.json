@@ -2,6 +2,12 @@
   "id": "3e28e1c6424ef2ea",
   "title": "Delete extension data",
   "languages": {
+    "en": {
+      "title": "Delete extension data",
+      "summary": "We are adding the ability for partners and user admins with permissions to uninstall an extension to also choose to delete extension data for the tenant when they uninstall the extension. Data is not deleted on uninstall by default. Both AppSource apps and per-tenant extensions (PTE) are supported. Note that this feature has also been backported and ships in 2020 release wave 1 update 5, that is, version 16.5.",
+      "details": "### Business value\n\nWe receive a number of support requests to delete extension data in production or sandboxes, either because an application is not in use or, more commonly, because there is a desire to reinstall it from scratch without data—for example, after testing or trial.\n\n### Feature details\n\nOn the Extension Management page, when you select an extension and choose to uninstall it, we have added a new Delete Extension Data option in the uninstall dialog box. If you select this option, and confirm both at selection and subsequently on selecting Uninstall that you understand that data will be deleted, the service will delete all data owned by the extension. This is equivalent to invoking Sync-NavApp with the \"clean\" mode.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/delete-extension-data"
+    },
     "da": {
       "title": "Delete extension data",
       "summary": "We are adding the ability for partners and user admins with permissions to uninstall an extension to also choose to delete extension data for the tenant when they uninstall the extension. Data is not deleted on uninstall by default. Both AppSource apps and per-tenant extensions (PTE) are supported. Note that this feature has also been backported and ships in 2020 release wave 1 update 5, that is, version 16.5.",

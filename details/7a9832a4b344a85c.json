@@ -2,6 +2,12 @@
   "id": "7a9832a4b344a85c",
   "title": "Reschedule production orders within a safety lead time",
   "languages": {
+    "en": {
+      "title": "Reschedule production orders within a safety lead time",
+      "summary": "You can configure a safety lead time and start production early to ensure timely completion and accommodate delays and early demand for finished goods.",
+      "details": "### Business value\n\nManufacturing is a dynamic environment where changes happen. To make sure production finishes on time, configure a safety lead time and start production earlier. Safety lead times cover situations when production takes longer than expected. They also cover situations when you need the finished goods sooner than the original due date.\n\n### Feature details\n\nTo start using this feature, go to the Manufacturing Setup page and turn on the Manual Scheduling toggle. Optionally, enter a value in the Safety Lead time for manual scheduling field to add a buffer that includes orders you reschedule manually. When you create a production order manually or with the planning engine, the order includes a buffer between the Due Date and Ending date. The following fields define the buffer, listed from highest to lowest priority: The Safety Lead Time field on the Stockkeeping Unit Card page. The Safety Lead Time field on the Item Card page. The Default Safety Lead Time field on the Manufacturing Setup page. When you create an order, you can change the due date and end date by doing the following steps: Move the due date to the current moment or to a future date. Change the end date directly or change the starting date to update the end date. A confirmation dialog appears if the end date plus the value in Safety lead time for manual adjustments is greater than or equal to the new due date. The Manual Scheduling field on the production order shows whether you manually adjusted the dates.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/reschedule-production-orders-within-safety-lead-time"
+    },
     "da": {
       "title": "Planlægge produktionsordrer igen inden for en sikker produktionstid",
       "summary": "Du kan konfigurere en sikkerhedstid og starte produktionen tidligt for at sikre rettidig fuldførelse og imødekomme forsinkelser og tidlig efterspørgsel efter færdige varer.",

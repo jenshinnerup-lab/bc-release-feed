@@ -2,6 +2,12 @@
   "id": "ca3512dd2596acdd",
   "title": "Access report and request metadata in Word layouts",
   "languages": {
+    "en": {
+      "title": "Access report and request metadata in Word layouts",
+      "summary": "Access report and request metadata in a Word layout without the need to encode this information in the report dataset.",
+      "details": "### Business value\n\nSimilar to Excel layouts, you can now access report and request metadata in a Word layout without the need to encode this information in the report dataset. This enhancement makes report datasets easier to understand and removes tedious work for AL developers who create datasets for reports.\n\n### Feature details\n\nWord layouts now include two types of metadata: ReportMetadata: This metadata type gives you information from the report object, like the object ID and report name. You always find this information in the same format and place in the data picker area. ReportRequest: This metadata type holds information about the report request, such as the company name, user name, and the date and time of the request.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/access-report-request-metadata-word-layouts"
+    },
     "da": {
       "title": "Få adgang til metadata for rapporter og anmodninger i Word layout",
       "summary": "Få adgang til rapport- og anmodningsmetadata i et Word layout uden at skulle kode disse oplysninger i rapportdatasættet.",

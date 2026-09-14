@@ -2,6 +2,12 @@
   "id": "fecb3272159bab19",
   "title": "Marketplace app hotfixes are now validated against the latest available app version",
   "languages": {
+    "en": {
+      "title": "Validate AppSource app hotfixes against latest app version",
+      "summary": "AppSource app validation now checks breaking changes against the latest AppSource app version targeting the next release of Business Central.",
+      "details": "### Business value\n\nIn Business Central 2023 release wave 1, we introduced the ability to apply hotfixes to AppSource apps that target older versions of Business Central. To ensure that customers can upgrade from your hotfixed older version to the next version available in AppSource, we're validating the hotfixed version against a newer version for the next Business Central major/minor release. Initially, we validated against the first AppSource app version targeting the next Business Central major/minor release, but based on partner feedback and a suggested idea, we've changed the validation to now validate against the latest AppSource app version that targets the next major/minor release of Business Central. This ensures compliance with the latest version at the time of the hotfix, and allows partners to perform more changes in their hotfix version. For example, partners can backport features if there are no breaking changes.\n\n### Feature details\n\nThe service that validates submitted AppSource apps for breaking changes now validates a hotfix against the latest AppSource app version targeting the next major/minor release of Business Central. For more details and examples, see the updated documentation What is the extra validation done for a hotfix submission?. For more details on what we shipped with Business Central 2023 release wave 1, see Deploy hotfixes for older AppSource apps. For background information on the idea suggested for this feature, see AppSource validation for previous versions should compare against the latest available.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/appsource-app-hotfixes-are-now-validated-against-latest-app-version"
+    },
     "da": {
       "title": "Valider AppSource-app-hotfixes mod seneste appversion",
       "summary": "AppSource-appvalidering kontrollerer nu for kritiske ændringer i forhold til den seneste AppSource-appversion målrettet mod den næste udgivelse af Business Central.",

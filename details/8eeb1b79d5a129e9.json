@@ -2,6 +2,12 @@
   "id": "8eeb1b79d5a129e9",
   "title": "Use Peppol PINT A-NZ format for e-documents in AU and NZ",
   "languages": {
+    "en": {
+      "title": "Use Peppol PINT A-NZ format for e-documents in AU and NZ",
+      "summary": "E-invoicing in Peppol PINT A-NZ format for AU and NZ reduces costs and has a lower environmental impact.",
+      "details": "### Business value\n\nUsers in Australia and New Zealand can use e-invoicing in Business Central. This feature introduces electronic documents for invoices, which significantly enhance business efficiency by streamlining administrative processes and reducing operational costs. The feature minimizes manual data entry errors and accelerates transaction processing, so users get quicker and more accurate financial computation and tracking. It also reduces the need for physical storage space and paper usage, which helps environmental sustainability. Real-time access to electronic documents improves transparency and facilitates better decision-making. This feature leads to increased productivity and customer satisfaction.\n\n### Feature details\n\nUse the E-Documents framework localized for Australia and New Zealand to boost productivity and customer satisfaction. This framework supports the Peppol PINT A-NZ electronic invoice format to meet local requirements. You can choose from existing Peppol service providers for your communication channel through access points. You can exchange documents by uploading them manually or send them through email. You configure the setup by going to the E-Document Service page. Select PINT A-NZ as the Document Format and choose your preferred service provider in the Service Integration field.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-peppol-a-nz-format-e-documents-australia-new-zealand"
+    },
     "da": {
       "title": "Bruge Peppol PINT A-NZ-format til e-dokumenter i Australien, New Zealand",
       "summary": "E-fakturering i Peppol PINT A-NZ format til AU og NZ reducerer omkostningerne og har en lavere miljøpåvirkning.",

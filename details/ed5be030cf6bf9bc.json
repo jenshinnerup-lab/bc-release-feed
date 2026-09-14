@@ -2,6 +2,12 @@
   "id": "ed5be030cf6bf9bc",
   "title": "Sync users based on environments security group",
   "languages": {
+    "en": {
+      "title": "Sync users based on environment security groups",
+      "summary": "You can use environment security groups to limit the number of users that are synched to Business Central.",
+      "details": "### Business value\n\nAdministrators in businesses that operate in different countries or use different Business Central environments for different purposes can use security groups to restrict access to environments. Only users who belong to the security groups will sync to Business Central.\n\n### Feature details\n\nIn the Business Central admin center, administrators can set up an Azure Active Directory security group to restrict access to environments. When you use the Update users from Microsoft 365 action on the Users page, Business Central will only update users who are part of the security group and are licensed to use Business Central.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/sync-users-based-environments-security-group"
+    },
     "da": {
       "title": "Synkronisere brugere baseret på miljøsikkerhedsgrupper",
       "summary": "Du kan bruge miljøsikkerhedsgrupper til at begrænse antallet af brugere, der synkroniseres til Business Central.",

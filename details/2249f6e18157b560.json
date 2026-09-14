@@ -2,6 +2,12 @@
   "id": "2249f6e18157b560",
   "title": "Process sales e-documents in two steps",
   "languages": {
+    "en": {
+      "title": "Process sales e-documents in two steps",
+      "summary": "Gain more control over the accuracy of e-invoices by separating the steps for posting and sending sales e-documents.",
+      "details": "### Business value\n\nYou can validate posted sales invoices before you send them as e-documents, which reduces errors and helps avoid cancellations. Reviewing e-documents enhances oversight, aligns with user feedback for greater control, and supports flexible workflows across different regulatory and network requirements.\n\n### Feature details\n\nBusiness Central offers a two-step process for handling e-documents for sales. You can first post invoices and then send them as e-documents after you confirm their accuracy. To start using a two-step process, update the Workflow used for E-Documents in the sales process by changing the Response action from Send E-Document using setup to Init E-Document using setup. Afterward, when you post the Sales Invoice, Business Central generates the E-document but doesn't send it automatically. The pause gives you time to review the document and confirm that it's ready to send to the configured access point. The two-step process can prevent incorrect invoices, reduce document cancellations, and improve compliance with e-invoicing networks. This update supports better governance, user confidence, and adaptability in e-document workflows.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/process-sales-e-documents-two-steps"
+    },
     "da": {
       "title": "Behandl salgs-e-dokumenter i to trin",
       "summary": "Få mere kontrol over nøjagtigheden af e-fakturaer ved at adskille trinnene til bogføring og afsendelse af salgs-e-dokumenter.",

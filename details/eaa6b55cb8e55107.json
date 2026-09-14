@@ -2,6 +2,12 @@
   "id": "eaa6b55cb8e55107",
   "title": "Run reimplementation projects using cloud migration tool",
   "languages": {
+    "en": {
+      "title": "Run reimplementation projects using cloud migration tool",
+      "summary": "Migrate essential business data during Business Central reimplementation projects using new Cloud Migration tooling.",
+      "details": "### Business value\n\nEnable faster reimplementations by reusing core business data from existing Business Central solutions instead of starting a new implementation from scratch.\n\n### Feature details\n\nIn 2026 release wave 1, it's easier to take on Business Central reimplementation projects by migrating data from older Business Central on‑premises versions. New cloud migration tooling provides a supported end‑to‑end reference implementation that migrates essential master and transactional data only, enabling customers to move off legacy versions without carrying forward obsolete customizations. The initial scope covers company migration scenarios from Business Central version 14, including core master data (customers, vendors, items), selected transactional data, opening balances, and required setup tables. The reference implementation demonstrates end‑to‑end replication, data transformation, and upgrade logic aligned with Dynamics 365 Business Central data semantics. The tooling is designed to be extensible by developers, allowing partners to contribute additional migration modules where needed and adapt the reference implementation to specific customer scenarios. This provides a stable, extensible foundation for reimplementation projects, with more functionality planned for future releases based on partner and customer feedback.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/run-reimplementation-projects-using-cloud-migration-tool"
+    },
     "da": {
       "title": "Kør genimplementeringsprojekter med et cloudmigreringsværktøj",
       "summary": "Migrer essentielle forretningsdata under genimplementering af Business Central ved hjælp af det nye cloudmigreringsværktøj.",

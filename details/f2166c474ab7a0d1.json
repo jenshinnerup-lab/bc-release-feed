@@ -2,6 +2,12 @@
   "id": "f2166c474ab7a0d1",
   "title": "Use enhanced analytics for purchasing",
   "languages": {
+    "en": {
+      "title": "Use enhanced analytics for purchasing",
+      "summary": "The enhanced reporting and analytics for purchasing offers new KPIs in Power BI, better data analysis, and customizable Excel layouts.",
+      "details": "### Business value\n\nThe improvements in reporting and analytics for purchasing help your business track new KPIs and scenarios in Power BI. New capabilities for data analysis enable you to design different analyses on purchasing data without a developer. Customizable Excel layouts for several purchasing reports let you tailor them to your needs, while enriched datasets provide more comprehensive analyses.\n\n### Feature details\n\nWe've significantly improved reporting and analytics for purchasing. The new Purchase Order Performance Analysis query makes it easy to perform ad-hoc analyses of purchase orders with analysis mode. We enhanced the following list pages with more fields to make data analysis easier: Purchase orders Purchase return shipments Purchase credit memos Purchase invoices The following Excel reports are now generally available: Vendor Top List Aged Accounts Payables",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-analytics-purchasing"
+    },
     "da": {
       "title": "Brug forbedret analyse til køb",
       "summary": "Den forbedrede rapportering og analyse til indkøb tilbyder nye KPI'er i Power BI, bedre dataanalyse og Excel-layout, der kan tilpasses.",

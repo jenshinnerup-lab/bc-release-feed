@@ -2,6 +2,12 @@
   "id": "c961d44573e587bc",
   "title": "Preview PDF attachments directly in web client",
   "languages": {
+    "en": {
+      "title": "Preview PDF attachments directly in web client",
+      "summary": "Open PDF attachments directly in the web client without downloading.",
+      "details": "### Business value\n\nWhen you can easily work with attachments, report outputs, or incoming documents, you stay productive and focused on your work. This capability saves you time and effort.\n\n### Feature details\n\nWith this feature, you can open PDF attachments directly in the Business Central web client without downloading them first. The feature shows files in preview mode with a specialized viewer experience. This experience is similar to the print preview feature. You can always download a PDF file from the viewer. This feature works automatically across all areas of Business Central, including ISV code. However, extension developers need to add support for this feature. Two new AL methods capture this behavior. These methods follow the pattern of the File.Download method: File.ViewFromStream – for Business Central online File.View – for Business Central on-premises Various areas of Business Central use this feature. These areas include document attachments and incoming documents.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/preview-pdf-attachments-directly-web-client"
+    },
     "da": {
       "title": "Forhåndsversion af vedhæftede PDF-filer direkte i webklienten",
       "summary": "Åbn vedhæftede PDF-filer direkte i webklienten uden at downloade.",

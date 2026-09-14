@@ -2,6 +2,12 @@
   "id": "e8dfd685976578e3",
   "title": "Export sandbox environment databases",
   "languages": {
+    "en": {
+      "title": "Export sandbox environment databases",
+      "summary": "Enable administrators to export sandbox environment databases to .bacpac files for backup, migration, or analysis.",
+      "details": "### Business value\n\nThis feature gives administrators the same database export capabilities for sandbox environments as production environments, enabling easier data migration, backup, and troubleshooting.\n\n### Feature details\n\nAdministrators can now export the database of a sandbox environment to a .bacpac file in their own storage account directly from the Business Central admin center. Previously, this capability was limited to production environments. With this enhancement, you can: Perform full database exports for sandbox environments without manual SQL access. Use .bacpac files for migration to other environments or for offline analysis. Support advanced testing and troubleshooting by replicating sandbox data in external systems.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/export-sandbox-environment-databases"
+    },
     "da": {
       "title": "Eksportér sandkassemiljødatabaser",
       "summary": "Giv administratorer mulighed for at eksportere sandkassemiljødatabaser til .bacpac-filer til sikkerhedskopiering, migrering eller analyse.",

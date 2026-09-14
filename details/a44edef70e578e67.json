@@ -2,6 +2,12 @@
   "id": "a44edef70e578e67",
   "title": "Use enhanced Excel reports for sustainability",
   "languages": {
+    "en": {
+      "title": "Use enhanced Excel reports for sustainability",
+      "summary": "The enhanced reporting and analytics for sustainability offer new, powerful insights with Excel layouts.",
+      "details": "### Business value\n\nThe improvements in reporting and analytics for sustainability help your business analyze sustainability scenarios with Excel.\n\n### Feature details\n\nWe improved reporting and analytics for sustainability. The following Excel reports have new layouts that work well both for print and for pivot analysis in Excel. Emission By Category Emission Per Facility Total Emissions",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-excel-reports-sustainability"
+    },
     "da": {
       "title": "Brug forbedrede Excel-rapporter til bæredygtighed",
       "summary": "Den forbedrede rapportering og analyse for bæredygtighed giver ny, effektiv indsigt med Excel-layout.",

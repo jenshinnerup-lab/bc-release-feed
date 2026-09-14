@@ -2,6 +2,12 @@
   "id": "32419980c131817c",
   "title": "Use new sales document report layouts that show your carbon footprint",
   "languages": {
+    "en": {
+      "title": "Use new sales document report layouts that show your carbon footprint",
+      "summary": "Business Central introduces new ESG‑enhanced sales invoice and quote layouts that display CO2e per unit and a total carbon footprint.",
+      "details": "### Business value\n\nThis feature helps you communicate sustainability information on customer-facing documents. By showing estimated CO₂e per unit and the total emissions on sales invoices and quotes, you can increase transparency, support ESG commitments, and respond to customer demand for carbon footprint data. Including a disclaimer ensures clarity about the source and nature of the estimates.\n\n### Feature details\n\nBusiness Central adds new ESG‑focused report layouts for sales documents, enabling you to include carbon‑footprint information directly on invoices and quotes. These Word layouts extend existing invoice and quote templates by adding CO₂e information per unit and a total emissions line. The following documents use the new layouts: Sales Invoice Standard ESG Sales Invoice (Word) Standard ESG Sales Invoice – Blue (Word) Sales Quote Standard ESG Sales Quote (Word) Standard ESG Sales Quote – Blue (Word) Each layout is based on the corresponding standard template and includes additional sustainability fields. These additions allow you to provide transparent emissions information on both quotes (pre‑sales) and invoices (post‑sales) to ensure consistency between commercial documents and sustainability reporting. The layouts work with existing CO₂e values calculated using value chain operations from the Sustainability module and require no additional customization.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-new-sales-document-reports-layout-that-show-carbon-footprint"
+    },
     "da": {
       "title": "Brug nye salgsdokumentrapportlayout, der viser din CO2-forbrug",
       "summary": "Business Central introducerer nye ESG-forbedrede layouts til salgsfakturaer og tilbud, der viser CO2e pr. enhed og det samlede CO2-belastning.",
