@@ -2,12 +2,6 @@
   "id": "6c026ae3da5c569f",
   "title": "Move tables and fields with data across extensions as part of refactoring",
   "languages": {
-    "en": {
-      "title": "Move tables and fields with data across extensions as part of refactoring",
-      "summary": "Move tables and fields ownership and data between extensions as part of refactoring extensions.",
-      "details": "### Business value\n\nAs extensions mature or as a consequence of an extension that you initially create as a large monolith, you need to split the extension. You also need to move ownership of tables or fields along with the data. This feature adds the same controlled process for releasing and taking ownership of tables or fields to partner extensions as part of the extension upgrade process.\n\n### Feature details\n\nIn the past two releases, you could move tables and fields across extensions for first-party extensions from Microsoft. In this release, partners can use these capabilities on their extensions. For the best coverage of these capabilities, see the existing documentation that covers support in first-party apps. For more information, see Moving tables and fields between extensions.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/move-tables-fields-data-across-extensions-as-part-refactoring"
-    },
     "da": {
       "title": "Flytte tabeller og felter med data på tværs af udvidelser som del af refaktorering",
       "summary": "Flyt tabeller og felter, ejerskab og data mellem udvidelser som del af refaktoreringsudvidelser.",

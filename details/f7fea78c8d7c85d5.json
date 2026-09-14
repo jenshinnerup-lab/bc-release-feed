@@ -2,12 +2,6 @@
   "id": "f7fea78c8d7c85d5",
   "title": "Use multiline text fields with Word mail merge",
   "languages": {
-    "en": {
-      "title": "Use multiline text fields with Word mail merge",
-      "summary": "You can use fields with multiline texts with mail merge features for Word templates.",
-      "details": "### Business value\n\nEmail features in Business Central make it easy to communicate with your business partners. Word templates let you generate emails that include data from different types of fields in Business Central. This includes fields that contain text that spans multiple lines.\n\n### Feature details\n\nYou can use email features in Business Central to communicate with one or more of your business partners. To speed up the authoring process and help ensure that messages have a consistent appearance, you can use Word templates to generate emails that include data from Business Central. If a field contains text with line breaks, the information shows in a multiline style.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-multiline-text-fields-word-mail-merge"
-    },
     "da": {
       "title": "Bruge tekstfelter med flere linjer med brevfletning i Word",
       "summary": "Du kan bruge felter med tekster med flere linjer med brevfletningsfunktioner til Word-skabeloner.",

@@ -2,12 +2,6 @@
   "id": "5467fcd3e18d911d",
   "title": "Use the E-Documents framework with Power Automate and other solutions",
   "languages": {
-    "en": {
-      "title": "Use the E-Documents framework with Power Automate and other solutions",
-      "summary": "Integrate e-document features with other applications through Power Automate APIs, so you can use additional channels of communication to share documents.",
-      "details": "### Business value\n\nBecause e-documents are the standard, modern businesses need flexible and compliant ways to share them with the right people. To share e-documents with other applications, use APIs for Power Automate. With these APIs, people can access e-documents in their preferred tools. To receive e-documents, use external sources.\n\n### Feature details\n\nWhen you enable the APIs, you can easily share electronic sales documents from Business Central to other applications or services. By integrating the E-Documents app in Business Central with Power Automate, you can connect to Power Platform tools and other systems for enhanced functionality. This setup lets you send e-documents as BLOB files through different communication channels beyond the default connectors or email. The integration also supports automating the receipt of electronic documents in the purchasing process. It transfers the documents to the E-Documents tables for further processing in Business Central.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-e-documents-power-automate"
-    },
     "da": {
       "title": "Brug e-dokumentstrukturen sammen med Power Automate og andre løsninger",
       "summary": "Integrer e-dokumentfunktioner med andre programmer via Power Automate-API'er, så du kan bruge yderligere kommunikationskanaler til at dele dokumenter.",

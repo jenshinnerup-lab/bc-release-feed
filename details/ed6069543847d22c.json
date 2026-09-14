@@ -2,12 +2,6 @@
   "id": "ed6069543847d22c",
   "title": "Migrate data from Business Central 14.x on-premises to Business Central 15.x online",
   "languages": {
-    "en": {
-      "title": "Migrate data from Business Central 14.x on-premises to Business Central 15.x online",
-      "summary": "A customer who uses Business Central April '19 on-premises can migrate to Business Central 2019 release wave 2 online.",
-      "details": "### Business value\n\nCustomers can migrate from Business Central 2019 release wave 2 on-premises to Business Central online. In order to reach a broader audience of on-premises customers, we add support to bring a customer from the version immediately before (Business Central April '19) to Business Central 2019 release wave 2 online without having to perform an on-premises upgrade first.\n\n### Feature details\n\nA customer who uses Business Central April '19 on-premises can load the cloud migration extension and migrate their data to Business Central 2019 release wave 2 online.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave1/dynamics365-business-central/migrate-data-business-central-14.x-on-premises-business-central-15.x-online"
-    },
     "da": {
       "title": "Migrate data from Business Central 14.x on-premises to Business Central 15.x online",
       "summary": "A customer who uses Business Central April '19 on-premises can migrate to Business Central 2019 release wave 2 online.",

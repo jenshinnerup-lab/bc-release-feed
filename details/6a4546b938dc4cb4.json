@@ -2,12 +2,6 @@
   "id": "6a4546b938dc4cb4",
   "title": "Enable taxonomy elements for ESRS and other standards",
   "languages": {
-    "en": {
-      "title": "Enable taxonomy elements for ESRS and other standards",
-      "summary": "Users will have a tool where they can map their entries with required taxonomies for reporting.",
-      "details": "### Business value\n\nBusinesses can map entries in Business Central with required taxonomies to prepare their data for Corporate Sustainability Reporting Directive (CSRD) reporting. Business Central helps companies in the European Union comply with the CSRD by enabling taxonomy elements for the European Sustainability Reporting Standards (ESRS) and other frameworks. This capability helps ensure accurate, transparent, and comprehensive sustainability reporting. Integrating these taxonomy elements simplifies the reporting process, saves you time, and reduces the risk of noncompliance.\n\n### Feature details\n\nSet up taxonomies in Business Central by using various transactional data sources. The initial setup uses demo data, but you can adjust it to meet your needs. After you configure the taxonomies, you can aggregate existing data. When you aggregate data for a specific reporting period, you can integrate with the ESG Reporting tool to prepare the data for reporting. Because Business Central doesn't contain all the data needed for CSRD reporting, you can switch to the ESG Reporting tool where you find a preconfigured CSRD template. You can add any missing metrics so you can generate the reporting file. In the future, we plan to extend this integration to other ESG reporting standards.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/enable-taxonomy-elements-esrs-other-standards"
-    },
     "da": {
       "title": "Aktivere taksonomielementer for ESRS og andre standarder",
       "summary": "Brugerne vil få et værktøj, hvor de kan tilknytte deres poster med nødvendige taksonomier til rapportering.",

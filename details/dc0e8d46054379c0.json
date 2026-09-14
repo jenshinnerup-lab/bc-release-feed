@@ -2,12 +2,6 @@
   "id": "dc0e8d46054379c0",
   "title": "Use e-invoice formats for service invoices in Germany",
   "languages": {
-    "en": {
-      "title": "Use e-invoice formats for service invoices in Germany",
-      "summary": "Add German e‑invoice formats (XRechnung, ZUGFeRD, Peppol BIS) for service invoices with simple configuration and full automation.",
-      "details": "### Business value\n\nThis update extends German e‑invoicing compliance to service invoices, allowing service‑oriented organizations to manage all invoice types through one unified process. It reduces manual work, eliminates the need for custom solutions, and ensures consistent electronic exchange with customers and public‑sector partners.\n\n### Feature details\n\nThis enhancement extends the existing German electronic invoicing capabilities in Business Central to include service invoices, aligning them with all other purchase and sales documents already supported. Until now, German e‑invoice formats XRechnung, ZUGFeRD, and Peppol have applied only to standard purchase and sales documents, with the exception of service invoices. With this release, Business Central introduces full, out-of-the-box e-invoice format support for service invoice documents in the German localization. Partners and customers can enable the feature by opening E-Document Service and using Configure documents to export setup to include Service Invoice. No additional mapping or feature toggles are required. Once selected, service invoices automatically flow through the e-document framework, providing the same automation, validation, sending, and monitoring capabilities that are already available for other documents.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-e-invoice-formats-service-invoices-germany"
-    },
     "da": {
       "title": "Brug e-fakturaformater til servicefakturaer i Tyskland",
       "summary": "Tilføj tyske e-fakturaformater (XRechnung, ZUGFeRD, Peppol BIS) til servicefakturaer med enkel opsætning og fuld automatisering.",

@@ -2,12 +2,6 @@
   "id": "18419ac8a9537523",
   "title": "Set a default e-document type on vendor templates",
   "languages": {
-    "en": {
-      "title": "Set a default e-document type on vendor templates",
-      "summary": "Define a default e‑document type directly on vendor templates to ensure correct processing of purchase documents and reduce manual setup errors.",
-      "details": "### Business value\n\nOrganizations often need vendors to default to “Purchase Invoice” when receiving electronic documents, but Business Central currently assigns “Purchase Order” to every new vendor. Allowing the e‑document type to be predefined on vendor templates ensures vendors are created with the correct default behavior from the start. This reduces manual corrections, improves accuracy in e‑document processing, and streamlines vendor onboarding.\n\n### Feature details\n\nBusiness Central extends vendor templates to include the E‑Document Type field that's used in the E‑Documents module. Instead of always defaulting new vendors to Purchase Order, administrators can now specify whether a vendor should default to Purchase Order or Purchase Invoice based on their processes. When you create a vendor from a template, Business Central automatically applies the selected type, ensuring consistent setup and reducing errors in downstream e‑document handling. This enhancement improves efficiency, supports scalable vendor onboarding, and aligns vendor configuration with real‑world document workflows. To start using this feature, on the Vendor Template page, choose the Receive E-Document To option on the Receiving FastTab.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/set-default-e-document-type-vendor-templates"
-    },
     "da": {
       "title": "Angiv en standardtype for e-dokumenter på leverandørskabeloner",
       "summary": "Definer en standardtype for e-dokumenter direkte på leverandørskabeloner for at sikre korrekt håndtering af købsdokumenter og undgå manuelle opsætningsfejl.",

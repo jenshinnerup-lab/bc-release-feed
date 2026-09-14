@@ -2,12 +2,6 @@
   "id": "b22b06bae823843e",
   "title": "Troubleshoot clients, apps, and add-ins with telemetry",
   "languages": {
-    "en": {
-      "title": "Troubleshoot clients, apps, and add-ins with telemetry",
-      "summary": "Log exceptions in Business Central client add-ins to help administrators address issues, improve operations, and enhance user satisfaction.",
-      "details": "### Business value\n\nThis new feature in the Business Central client enhances the overall reliability and user experience by logging exceptions in client add-ins. With this feature, administrators can quickly find and fix issues before they affect users. It helps keep operations running smoothly and reduces downtime. By capturing detailed telemetry data, businesses get valuable insights into the performance and stability of their extensions. This data helps improve user satisfaction.\n\n### Feature details\n\nThe Business Central client sends a telemetry event when an exception happens in a client add-in. With telemetry, administrators can monitor errors and fix them before users report the issues. The client logs the following types of information about issues: The environment and company. The extension, app, or add-in. The type of client (browser, tablet, phone, and so on). The error information. The user who encounters the error.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/troubleshoot-clients-apps-add-ins-telemetry"
-    },
     "da": {
       "title": "Fejlfinding af klienter, apps og tilføjelsesprogrammer med telemetri",
       "summary": "Logfør undtagelser i Business Central klienttilføjelsesprogram for at hjælpe administratorer med at løse problemer, forbedre handlinger og forbedre brugertilfredsheden.",

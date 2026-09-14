@@ -2,12 +2,6 @@
   "id": "df5e4dd4ab3d34f8",
   "title": "Add support for MultiSubnetFailover",
   "languages": {
-    "en": {
-      "title": "Add support for MultiSubnetFailover",
-      "summary": "EnableSqlMultiSubnetFailover ensures faster failover for high availability databases, enhancing performance for on-premises customers.",
-      "details": "### Business value\n\nFor on-premises customers who run the database with high availability features, failover operations are faster. This improvement reduces downtime during failovers and makes the system more available for users.\n\n### Feature details\n\nThe MultiSubnetFailover feature enables faster failover for all Availability Groups (AGs) or Failover Cluster Instances (FCIs) in SQL Server 2012 or later versions. This feature significantly reduces failover time for single-subnet and multi-subnet Always On topologies. In this release wave, we added a new server setting, EnableSqlMultiSubnetFailover. When an administrator sets this value to true, the server enables the MultiSubnetFailover feature on connections from the server to the database. When you enable this setting, the system ensures faster failover operations for databases with high availability features. Users benefit from improved system availability. For more information about the MultiSubnetFailover feature in SQL Server 2012, see SQL Server Multi-Subnet Clustering.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/add-support-multisubnetfailover"
-    },
     "da": {
       "title": "Tilføje understøttelse af MultiSubnetFailover",
       "summary": "EnableSqlMultiSubnetFailover sikrer hurtigere failover for databaser med høj tilgængelighed, hvilket forbedrer ydeevnen for kunder i det lokale miljø.",

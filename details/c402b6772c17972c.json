@@ -2,12 +2,6 @@
   "id": "c402b6772c17972c",
   "title": "Track and rebill quantity changes in subscriptions",
   "languages": {
-    "en": {
-      "title": "Track and rebill quantity changes in subscriptions",
-      "summary": "When quantities change after you invoice medium and long-term subscriptions, you can rebill the customer.",
-      "details": "### Business value\n\nSubscription Billing now supports rebilling in scenarios where the quantity changes after you invoice the customer. Rebilling makes it easier to correct subscriptions where quantity changes happen over time.\n\n### Feature details\n\nYou usually invoice subscriptions that last a medium amount of time up front. When you use this billing method, changes in quantity usually cause rebilling for the current period. Subscription Billing automatically detects these scenarios and marks the subscription contract lines for reconsideration in the next billing cycle. For medium-term and long-term subscriptions, such as annual subscriptions, the system creates posting documents for the subscription period. The system shows this cycle in the subscription contract lines and subscription lines. Usually, the system doesn't provide usage data if the subscription doesn't change during the period. However, quantity adjustments, such as increases, can happen anytime. When they happen, the system provides new usage data on the next key date. You don't consider this usage data when you create a new contract statement (invoice or credit memo) because the system invoices the subscription contract lines in advance for the entire period. If more usage data becomes available after you send the initial invoice, you can rebill the difference.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/track-rebill-quantity-changes-subscriptions"
-    },
     "da": {
       "title": "Spore og viderefakturere ændringer i antal i abonnementer",
       "summary": "Når mængder ændres, efter du har faktureret mellem- og langsigtede abonnementer, kan du fakturere debitoren igen.",

@@ -2,12 +2,6 @@
   "id": "4de5511695aa89db",
   "title": "Post cash documents to projects in Czech localization",
   "languages": {
-    "en": {
-      "title": "Post cash documents to projects in Czech localization",
-      "summary": "Use cash documents to post related expenses and revenues to projects. It helps you to handle exceptional and one-time project costs directly from cash payments.",
-      "details": "### Business value\n\nThe cash documents in Czech localization are enhanced so that you can post related costs and revenues to projects. This enhancement works just like the usual method of posting to projects from Project G/L Journals.\n\n### Feature details\n\nUse the Project G/L Journal page to post exceptional or one-time project expenses directly to the relevant project account. If these expenses involve cash payments, use Cash Documents to post them to the project. Open a Cash Document to enter the expense details. Create a new line, and enter the expense details, including the Project No. and Project Task No. fields. When the Cash Document is complete, select Post.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/post-cash-documents-projects-czech-localization"
-    },
     "da": {
       "title": "Bogfør kontantdokumenter til projekter i tjekkisk lokalisering",
       "summary": "Bruge kontantdokumenter til at bogføre relaterede udgifter og indtægter til projekter. Det hjælper dig med at håndtere ekstraordinære og engangsprojektomkostninger direkte fra kontantbetalinger.",

@@ -2,12 +2,6 @@
   "id": "fcfa9cc858f7f6e9",
   "title": "Dimension issues detection and repair tool",
   "languages": {
-    "en": {
-      "title": "Dimension issues detection and repair tool",
-      "summary": "It’s now easier to find and fix inconsistencies in dimension set entries.",
-      "details": "### Business value\n\nSome businesses migrate dimension data by importing configuration packages or using a customization to generate the data. If something goes wrong, businesses need a way to detect and fix issues to ensure that their business reports are accurate and consistent.\n\n### Feature details\n\nSometimes businesses use configuration packages to import data for dimensions, or run custom code to generate the data. If these processes are performed without running validation triggers, the result can be an incorrect value in the Shortcut Dimension No. field on the Dimension Set Entry table. The incorrect value can make reports that use dimension data to be inaccurate, or cause issues when displaying values for shortcut dimensions on various pages. Business Central can now detect the incorrect values in places where this can cause an issue, such as in recurring general journals, and display the errors on the Error Messages page. In addition to listing the issues, the Error Messages page also offers a link to the Update Global Dimension No. for Dimension Set Entries report, which makes it easy to fix them in just a few steps. The Update Global Dimension No. for Dimension Set Entries report fixes the value in the Shortcut Dimension No. field on the Dimension Set Entry table. Because the Dimension Set Entry table can contain a lot of entries, it might take time to resolve the issues, so we recommend that you schedule the report to run outside of business hours. To preserve the audit trail for the changes that the Update Global Dimension No. for Dimension Set Entries report makes, Business Central will always log the previous and new values of the Shortcut Dimension No. field, and you can view them on the Change Log Entries page.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/dimension-issues-detection-repair-tool"
-    },
     "da": {
       "title": "Værktøj til registrering og reparation af dimensionsproblemer",
       "summary": "Det er nu nemmere at finde og rette uoverensstemmelser i dimensionsgruppeposter.",

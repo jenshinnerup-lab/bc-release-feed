@@ -2,12 +2,6 @@
   "id": "fbbfef454d497e55",
   "title": "Access open-sourced Power BI apps",
   "languages": {
-    "en": {
-      "title": "Access open-sourced Power BI apps",
-      "summary": "Access open-source Power BI apps for sales, purchasing, and projects to customize semantic models and reports.",
-      "details": "### Business value\n\nBy open-sourcing the remaining Power BI apps for sales, purchasing, and projects, businesses now have complete access to the code for all standard Business Central Power BI apps. This means you can fully customize semantic models and reports to match your unique processes, KPIs, and reporting needs. Instead of starting from scratch, you can build on high-quality, ready-made models and visualizations, saving significant development time and effort. This flexibility empowers teams to create tailored insights, improve decision-making, and ensure reporting aligns perfectly with business goals. Ultimately, it accelerates adoption of data-driven practices across your organization.\n\n### Feature details\n\nWe've open-sourced the code for the Power BI apps for: Finance Inventory Inventory Valuation Manufacturing Subscription Billing Sustainability We've also released the source code for the remaining Power BI apps: Sales Purchasing Projects You can change the Power BI semantic models and reports to fit your business needs.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/access-open-sourced-power-bi-apps"
-    },
     "da": {
       "title": "Få adgang til Power BI apps med åben kildekode",
       "summary": "Få adgang til Power BI-apps med åben kildekode til salg, køb og projekter for at tilpasse semantiske modeller og rapporter.",

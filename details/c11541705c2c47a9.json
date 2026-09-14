@@ -2,12 +2,6 @@
   "id": "c11541705c2c47a9",
   "title": "Support for 2D barcodes",
   "languages": {
-    "en": {
-      "title": "Use two-dimensional barcodes in reports (Business Central online)",
-      "summary": "Out of the box, Business Central online has 2D barcode fonts installed. These fonts can be used in report layouts to add two-dimensional barcodes to the report.",
-      "details": "### Business value\n\nCustomers can now add two-dimensional barcodes to reports.\n\n### Feature details\n\nThis release wave adds fonts to generate two-dimensional barcodes in Business Central production and sandbox environments. This means that any custom layouts using the fonts will work. We have licensed the font packages provided by IDAutomation Inc. We also have added a new AL module to make it easy for developers to encode strings in the different barcode symbologies that the fonts support.\n\n### See also\n\nBarcode Fonts with Business Central Online (docs)\n\n### Additional resources\n\nLast updated on 2021-12-06 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/use-two-dimensional-barcodes-reports-business-central-online"
-    },
     "da": {
       "title": "Bruge todimensionelle stregkoder i rapporter (Business Central Online)",
       "summary": "Køreklar Business Central Online har 2D-stregkodeskrifttyper installeret. Disse skrifttyper kan bruges i rapportlayouter til at føje todimensionelle stregkoder til rapporten.",

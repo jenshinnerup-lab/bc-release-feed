@@ -2,12 +2,6 @@
   "id": "c2e6039bd6d97888",
   "title": "Work with multiline strings in AL",
   "languages": {
-    "en": {
-      "title": "Work with multiline strings in AL",
-      "summary": "Use the new @ prefix to work with strings spanning multiple lines in AL.",
-      "details": "### Business value\n\nWhen you develop AL, you sometimes use very long strings. Previously, you had to write these strings in one line, which made it hard to read the content. In this release, we added support for strings that span multiple lines. You can now format string content in a way that's easier to read. This feature is especially helpful when you work with structured string content, such as JSON content.\n\n### Feature details\n\nYou can now write a string in AL that spans multiple lines by prefixing it with @. This feature lets you write the string in a more readable form. Use it when the string contains structured formats, like JSON content. When you use this option, avoid adding extra white space, such as indenting lines. The white space becomes part of the string. The following example shows how to use this feature when you assign a JSON template structure to a text variable. The example uses @ at the start of the string to indicate a multiline string.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/work-multiline-strings-al"
-    },
     "da": {
       "title": "Arbejde med strenge med flere linjer i AL",
       "summary": "Brug det nye @-præfiks til at arbejde med strenge, der spænder over flere linjer i AL.",

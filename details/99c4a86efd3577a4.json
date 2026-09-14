@@ -2,12 +2,6 @@
   "id": "99c4a86efd3577a4",
   "title": "Start using E-Documents framework localized for Germany (public preview)",
   "languages": {
-    "en": {
-      "title": "Start using E-Documents framework localized for Germany, XRechnung",
-      "summary": "Use electronic receipts and invoices to reduce cost and have a greater environmental impact.",
-      "details": "### Business value\n\nBy introducing electronic documents for invoices, this feature significantly enhances business efficiency. It streamlines administrative processes and reduces operational costs. This feature reduces manual data entry errors and speeds up transaction processing. It enables faster and more accurate financial computation and tracking. By cutting down on the need for physical storage space and paper usage, this feature supports environmental sustainability. Real-time access to electronic documents boosts transparency and helps decision-makers make better choices. This feature leads to higher productivity and customer satisfaction, and it enables full compliance in Germany.\n\n### Feature details\n\nUsers can use the E-Documents framework localized for Germany to work with Peppol BIS3 or XRechnung electronic invoice formats. Users can choose to use one of the existing Peppol service providers as the communication channel through access points. Or, users can exchange documents by uploading them manually or through email.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/start-using-e-documents-framework-localized-germany"
-    },
     "da": {
       "title": "Begynde at bruge en struktur med e-dokumenter, der er lokaliseret til Tyskland, XRechnung",
       "summary": "Brug elektroniske kvitteringer og fakturaer for at reducere omkostningerne og påvirke miljøet mere positivt.",

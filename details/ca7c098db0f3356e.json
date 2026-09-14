@@ -2,12 +2,6 @@
   "id": "ca7c098db0f3356e",
   "title": "Use linked environment in Dataverse integration",
   "languages": {
-    "en": {
-      "title": "Use linked environments in Dataverse integration",
-      "summary": "You can now use linked Dataverse environment to seamlessly integrate with Business Central.",
-      "details": "### Business value\n\nBusinesses want to keep their data safe and secure within their privacy boundary, especially when their business management application integrates with other apps. When you link Business Central and Dataverse environments, you address those considerations. You also give your administrators an easier way to create and maintain your integrations with other Dynamics 365 apps.\n\n### Feature details\n\nIn the Business Central admin center, you link your Business Central environment to your Dataverse environment. When Business Central uses the information from the link, it simplifies and secures integration with other Dynamics 365 apps, such as Sales and Field Service. For example, the linked Dataverse environment URL is available by default on the Dataverse Connection Setup page and when you run the Dataverse Integration assisted setup guide. Administrators connect to the linked environment with confidence, less friction, and a streamlined workflow.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/use-linked-environment-dataverse-integration"
-    },
     "da": {
       "title": "Brug sammenkædede miljøer i Dataverse-integration",
       "summary": "Du kan nu bruge det sammenkædede Dataverse-miljø til problemfrit at integrere med Business Central.",

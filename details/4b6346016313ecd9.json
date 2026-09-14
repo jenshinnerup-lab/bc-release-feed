@@ -2,12 +2,6 @@
   "id": "4b6346016313ecd9",
   "title": "Turn off event-based sync for specific integration table mappings",
   "languages": {
-    "en": {
-      "title": "Turn off event-based sync for specific integration table mappings",
-      "summary": "You can disable event-based sync of data between Business Central and Dataverse for integration table mappings.",
-      "details": "### Business value\n\nTurning off event-based synchronization for specific integration table mappings can give you greater control over the flow of data between Business Central and Dataverse. For example, you can reduce the risk of data errors and inconsistencies, and improve the overall quality and reliability of the data. Additionally, opting out of event-based synchronization can speed up performance by reducing the number of synchronization events that you process.\n\n### Feature details\n\nWhen someone changes coupled records, Business Central automatically synchronizes the data with Dataverse. In most cases, automatic synchronization is what you'll want. However, if people frequently change data for many coupled records, synchronization might be slower. On the Integration Table Mappings page, administrators can turn event-driven data synchronization on or off for any table they're synchronizing with Dataverse. By default, event-based synchronization is turned on so that existing integrations aren’t affected.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/turn-off-event-based-synch-specific-integration-table-mappings"
-    },
     "da": {
       "title": "Slå begivenhedsbaseret synkronisering fra for specifikke integrationstabeltilknytninger",
       "summary": "Du kan deaktivere begivenhedsbaseret synkronisering af data mellem Business Central og Dataverse til integrationstabeltilknytninger.",

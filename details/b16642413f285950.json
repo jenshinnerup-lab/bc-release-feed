@@ -2,12 +2,6 @@
   "id": "b16642413f285950",
   "title": "Financial Reporting enhancements",
   "languages": {
-    "en": {
-      "title": "Experience financial reporting enhancements",
-      "summary": "Enhanced Financial Reporting in Dynamics 365 Business Central adds tile views, scheduling, defaults, and audit logs to improve insight, control, and efficiency.",
-      "details": "### Business value\n\nFinancial reporting in Business Central is now more efficient, consistent, and easier to manage across the organization by improving how reports are discovered, authored, distributed, and governed. A new tile view helps users quickly understand report status and relevance, while authors gain greater control over formatting, branding, categorization, and lifecycle status to produce clearer, more professional outputs. Users can automate distribution to groups and analyze data across all dimension values in a single run, reducing manual effort and ensuring timely access to insights. Administrators can define global defaults and track report usage through an audit log, supporting governance, compliance, and better decision‑making based on real usage patterns.\n\n### Feature details\n\nReport users, authors, and administrators get new features to make common tasks in financial reporting more efficient. All users get a new tile view on the report list. The tile view includes information such as report status, category, name, description, and last run date/time. Report authors can: Choose to display the company logo on PDF outputs. Override global defaults for negative number format, report period, and logo placement on single reports. Use report categories. Report users can: Schedule reports for a distribution group. Recipients can get the report output in an email and in their report inbox. Run a report over all values of a dimension. Report administrators can: Set global defaults for negative number format, report period, and logo placement. Monitor report use from a new audit log.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/financial-reporting-enhancements"
-    },
     "da": {
       "title": "Oplev forbedringer af finansiel rapportering",
       "summary": "Udvidet regnskabsrapportering i Dynamics 365 Business Central tilføjer feltvisninger, planlægning, standarder og overvågningslogge for at forbedre indsigt, kontrol og effektivitet.",

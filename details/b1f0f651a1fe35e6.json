@@ -2,12 +2,6 @@
   "id": "b1f0f651a1fe35e6",
   "title": "Delete companies from production environments in Denmark",
   "languages": {
-    "en": {
-      "title": "Delete companies from production environments in Denmark",
-      "summary": "Danish users can delete nonproduction companies, even if the CVR number is validated with Nemhandel, when there is no GL transactions.",
-      "details": "### Business value\n\nThis feature resolves a long-standing issue for Danish companies that accidentally create nonproduction companies in the production environment using real CVR numbers. Previously, such companies could not be deleted due to Nemhandel validation and compliance with the Danish Bookkeeping Act. By enabling deletion when no general ledger entries exist, businesses can maintain cleaner environments, reduce administrative overhead, and ensure compliance without unnecessary data clutter.\n\n### Feature details\n\nIn Denmark, companies often create test or nonproduction companies in the production environment using real CVR numbers. Due to Nemhandel validation, these companies become locked and can't be deleted, even if they were created by mistake and don't have financial transactions. This feature introduces a safeguard against that. If a company has a valid CVR number in the Registration No. field on the Company Information page, but no general ledger entries, you can now delete the company from the production environment. The key condition is that the company must not have general ledger entries. This change aligns with the Danish Bookkeeping Act by ensuring that only companies with financial data are retained, while allowing cleanup of accidental or unused entities.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/delete-companies-production-environments-denmark"
-    },
     "da": {
       "title": "Slet firmaer fra produktionsmiljøer i Danmark",
       "summary": "Danske brugere kan slette ikke-produktionsvirksomheder, også selvom CVR-nummeret valideres med Nemhandel, når der ikke er nogen GL-transaktioner.",

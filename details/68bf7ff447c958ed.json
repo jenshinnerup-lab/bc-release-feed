@@ -2,12 +2,6 @@
   "id": "68bf7ff447c958ed",
   "title": "Improved settings for managing updates",
   "languages": {
-    "en": {
-      "title": "Improved settings for managing updates",
-      "summary": "We are making some iterative changes for how you manage your environments' update windows and update schedules.",
-      "details": "### Business value\n\nDefault update windows will help to avoid situations where upgrades continue to run into business hours because no update window was set for the environment. Support for time zones makes it easier to set custom update windows to your environments. Similarly, a flag to ignore update windows for manually scheduled updates allows updates to run for more than 24 hours if needed, or to trigger the update immediately if scheduled for the same day.\n\n### Feature details\n\nWith this update, we are making the following changes to environment update window and update scheduling settings: All environments will have a default update window that guarantees that an update won't start before 8 PM and won't run after 6 AM local time, based on the environment's localization. This will apply to new environments and any existing environments that didn't already have an update window set up. It's now possible to set an environment's update window to a specific time zone. When you schedule an update for a specific date, you can ignore the upgrade window that is specified for the environment. This way, you can start an upgrade immediately if it is scheduled for today. You can also allow updates to run for more than 24 hours on environments with large databases. Various environment settings, including the update window, are copied over from the source environment when an environment is copied or restored.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/improved-settings-managing-updates"
-    },
     "da": {
       "title": "Forbedrede indstillinger til styring af opdateringer",
       "summary": "Vi laver nogle iterative ændringer for, hvordan du administrerer dine miljøers opdateringsvinduer og opdateringsplaner.",

@@ -2,12 +2,6 @@
   "id": "c734bc14945fa1fa",
   "title": "Client page view telemetry in Application Insights for partners",
   "languages": {
-    "en": {
-      "title": "Client pageview telemetry in Application Insights for partners",
-      "summary": "If a telemetry key for an environment has been specified in the Business Central administration center, the client will emit telemetry about page views to Application Insights.",
-      "details": "### Business value\n\nThis will enable partners and customer administrators to track usage of the system. Also, using the page view signal, a partner can troubleshoot performance problems due to browsers or client settings.\n\n### Feature details\n\nWith 2019 release wave 2, tenant administrators have been able to specify an Azure Application Insights key to enable logging of predefined trace events. Until now, only traces from the server have been emitted, such as the examples listed at aka.ms/bctelemetry. With this change, the first step of making client telemetry available through the same channel has been achieved. The first signal to be made available is page views.\n\n### See also\n\nAnalyzing Page View Telemetry (docs)\n\n### Feedback\n\nWas this page helpful? Yes No No Need help with this topic? Want to try using Ask Learn to clarify or guide you through this topic? Ask Learn Ask Learn Suggest a fix?\n\n### Additional resources\n\nLast updated on 2020-07-08 In this article Was this page helpful? Need help with this topic? Want to try using Ask Learn to clarify or guide you through this topic? Ask Learn Ask Learn Suggest a fix? en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave1/dynamics365-business-central/client-pageview-telemetry-application-insights-partners"
-    },
     "da": {
       "title": "Client pageview telemetry in Application Insights for partners",
       "summary": "If a telemetry key for an environment has been specified in the Business Central administration center, the client will emit telemetry about page views to Application Insights.",

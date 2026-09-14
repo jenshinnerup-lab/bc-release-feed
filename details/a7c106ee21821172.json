@@ -2,12 +2,6 @@
   "id": "a7c106ee21821172",
   "title": "Control how Account Schedules for core financial reports are generated",
   "languages": {
-    "en": {
-      "title": "Control how Account Schedules for core financial reports are generated",
-      "summary": "Control how account schedules for core financial reports are generated from G/L account categories.",
-      "details": "### Business value\n\nBusiness Central comes with a set of core financial reports that businesses can tailor to fit their needs—for example, to accommodate organizational changes, new reporting needs, or regulatory changes. Accountants need an easy way to maintain core financial reports.\n\n### Feature details\n\nCore financial reports such as the balance sheet, profit and loss statements, and cash flow statements are defined using account schedules. Account schedules are based on G/L account categories assigned to G/L accounts or groups of G/L accounts. When changes impact financial reports, you can specify whether to add new account schedules and keep those you already have, or to overwrite your existing account schedules. On the G/L Account Categories page, the Keep existing account schedules and create new and Overwrite existing account schedules actions make that easy to do when you choose Generate Account Schedules.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/control-how-account-schedules-core-financial-reports-are-generated"
-    },
     "da": {
       "title": "Control how Account Schedules for core financial reports are generated",
       "summary": "Control how account schedules for core financial reports are generated from G/L account categories.",

@@ -2,12 +2,6 @@
   "id": "8ffe5a4878b70d71",
   "title": "Restart environments",
   "languages": {
-    "en": {
-      "title": "Restart environments",
-      "summary": "Business Central administrators can restart a specific Business Central environment from the admin center.",
-      "details": "### Business value\n\nAdditional flexibility in how you administer environments.\n\n### Feature details\n\nIn some circumstances, as a troubleshooting step, administrators might have to restart a particular Business Central environment to resume its normal operation. In this release wave, we're adding the option to restart an environment on the Manage sessions page in the Business Central admin center.\n\n### Thank you for your idea\n\nThank you for submitting this idea. We listened to your idea, along with comments and votes, to help us decide what to add to our product roadmap.\n\n### See also\n\nManaging Sessions in the Admin Center (docs)\n\n### Additional resources\n\nLast updated on 2021-12-14 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/restarting-environments"
-    },
     "da": {
       "title": "Genstart miljøer",
       "summary": "Business Central-administratorer kan genstarte et specifikt Business Central-miljø fra Administration.",

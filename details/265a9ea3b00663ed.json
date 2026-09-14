@@ -2,12 +2,6 @@
   "id": "265a9ea3b00663ed",
   "title": "Use Logiq as a service provider for e-documents",
   "languages": {
-    "en": {
-      "title": "Use Logiq as a service provider for e-documents",
-      "summary": "The e-document framework supports more external service providers for easier business-to-business communications.",
-      "details": "### Business value\n\nWhen businesses exchange electronic invoices during business-to-business (B2B) or business-to-government (B2G) communication, they can choose from many external service providers. This choice gives businesses the flexibility to pick the provider that best fits their needs. With this flexibility, businesses boost operational efficiency, lower costs, and reduce risks that come with relying on just one provider. Businesses can speed up invoice processing, meet different regulatory requirements, and simplify their financial workflows.\n\n### Feature details\n\nBusiness Central now supports more electronic document service providers, so you have more options for access points for electronic invoicing. In addition to Avalara and Pagero, you can now choose the Logiq connector for your electronic invoicing. On the E-Document Service page, you select new options for the Service Integration endpoints. When you select Logiq as the service provider and consent to using third-party systems, you set up the connection. To set up the connection, use the Setup Service Integration action to configure the credentials and API URLs. When you integrate the new service provider, you can automate the receipt and delivery of electronic invoices. The provider acts as the endpoint for e-document exchanges. This automation streamlines invoice management, reduces manual processing errors, and accelerates transaction times. It enhances operational efficiency and boosts overall productivity. Although the E-Document Services page has several global service integrations, partners can easily add their own integrations by publishing a connector app on AppSource. For more information, see the technical documentation.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-new-service-providers-e-documents-framework"
-    },
     "da": {
       "title": "Bruge Logiq som serviceudbyder til e-dokumenter",
       "summary": "E-dokumentets struktur understøtter flere eksterne tjenesteudbydere til lettere B2B-kommunikation.",

@@ -2,12 +2,6 @@
   "id": "ae21723ed17c223d",
   "title": "Use enhanced customer document layout for service management",
   "languages": {
-    "en": {
-      "title": "Use enhanced customer document layout for service management",
-      "summary": "Use custom document layouts in service management, and specify the company-specific contacts you send documents to.",
-      "details": "### Business value\n\nBusinesses work with many customer and vendor contacts who handle different areas of operation. For example, these contacts might include accountants, purchasers, and warehouse staff. Because these contacts have different interests, you likely want to generate and send different types of documents to each group. When you set up specific contacts for specific documents, you save time sending documents to different customer or vendor contacts. For example, you can send service invoices to accountant contacts and service orders to your customers' purchasers.\n\n### Feature details\n\nYou can now populate the Document Layouts page for vendors and customers based on settings on the Report Selection page. To send specific documents to specific company contacts, choose the company contacts to use for specific document layouts. The Document Layouts page for a customer now contains usage options for service quotes, orders, invoices, and credit memos. Thanks to the community for valuable contributions to Microsoft’s open source BusinessCentralApps repo on GitHub.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-customer-document-layout-service-management"
-    },
     "da": {
       "title": "Bruge forbedret layout af debitordokument til servicestyring",
       "summary": "Brug brugerdefinerede dokumentlayout i tjenesteadministration, og angiv de virksomhedsspecifikke kontakter, du sender dokumenter til.",

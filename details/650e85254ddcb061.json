@@ -2,12 +2,6 @@
   "id": "650e85254ddcb061",
   "title": "Require Intrastat classifications on documents",
   "languages": {
-    "en": {
-      "title": "Require Intrastat classifications on documents",
-      "summary": "This feature allows you to set mandatory classification values for specific document types, which streamlines transactions for Intrastat reporting.",
-      "details": "### Business value\n\nThis feature makes Intrastat reporting more efficient by letting you set one or more required classification values for specific document types. Multiple required fields lower the risk of missing important information, so Intrastat reports are complete and accurate. This feature simplifies the reporting process, saves time, and reduces errors.\n\n### Feature details\n\nThe Intrastat Report Setup page now includes the following setup fields: Transaction Type Mandatory Transaction Spec. Mandatory Transport Method Mandatory Shipment Method Mandatory Fill in these fields on purchase or sales documents based on your selections when the transaction is a sale or purchase between two different EU countries. This requirement prevents users from posting documents without this important information. It reduces the risk of missing details and ensures complete and accurate Intrastat reports.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/require-intrastat-classifications-documents"
-    },
     "da": {
       "title": "Kræve Intrastat-klassifikationer på dokumenter",
       "summary": "Denne funktion giver dig mulighed for at indstille obligatoriske klassifikationsværdier for bestemte dokumenttyper, hvilket strømliner transaktioner til Intrastat-rapportering.",

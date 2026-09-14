@@ -2,12 +2,6 @@
   "id": "61f009c68ce10e90",
   "title": "Use ZUGFeRD format for E-Documents in Germany",
   "languages": {
-    "en": {
-      "title": "Use ZUGFeRD format for E-Documents in Germany",
-      "summary": "Enable ZUGFeRD in Business Central to meet German e-invoicing rules, automate PDF/A-3 invoices, and streamline XML processing.",
-      "details": "### Business value\n\nThe ZUGFeRD e-document format combines regulatory compliance, process automation, and modern document standards. The format also takes advantage of the new PDF/A platform capabilities.\n\n### Feature details\n\nUse the E-Documents framework localized for Germany to boost productivity and customer satisfaction while following Germany's e-invoicing rules. This framework supports the ZUGFeRD hybrid electronic invoice format and meets local requirements. You can choose from existing Peppol service providers for your communication channel through access points. You can exchange documents by uploading them manually or send them through email. You configure the setup on the E-Document Service page. Select ZUGFeRD in the Document Format field, and choose your service provider in the Service Integration field. When you post the sales invoice, Business Central creates a PDF using the report layout you choose and automatically attaches the XML file. When you receive an e-invoice from your vendor, Business Central automatically extracts the XML from the PDF and proceeds as it would with any other e-document format.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-zugferd-format-e-documents-germany"
-    },
     "da": {
       "title": "Brug ZUGFeRD-format til e-dokumenter i Tyskland",
       "summary": "Aktivér ZUGFeRD i Business Central for at opfylde tyske e-faktureringsregler, automatisere PDF/A-3-fakturaer og strømline XML-behandling.",

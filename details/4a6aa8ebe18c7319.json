@@ -2,12 +2,6 @@
   "id": "4a6aa8ebe18c7319",
   "title": "Cancel build and publish from Visual Studio Code",
   "languages": {
-    "en": {
-      "title": "Cancel build and publish from Visual Studio Code",
-      "summary": "Cancel building and deploying extensions from Visual Studio Code.",
-      "details": "### Business value\n\nAs part of developing for Business Central in Visual Studio Code, developers build the code into a packaged extension and publish it to a developer environment, whether a local server or a sandbox. Until now, developers had to wait for the build and publish processes to proceed working, even if they discover mistakes or have additions and want to quickly update the code and republish. This isn't an issue for smaller extensions, but for very large extensions, the time to build and especially publish can be long. Therefore, to increase developer productivity and support better flexibility in the inner loop, we now support canceling both build and publish from Visual Studio Code.\n\n### Feature details\n\nDevelopers can now cancel building and deploying an extension in Visual Studio Code. Canceling can be triggered manually by pressing the Cancel button or by closing Visual Studio Code. Furthermore, if the connection to the on-premises or sandbox developer environment is lost, publishing will also be canceled so it won't block a new publish when the connection is re-established. The following examples show the Cancel operation when building and publishing an extension from within Visual Studio Code.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/cancel-build-publish-visual-studio-code"
-    },
     "da": {
       "title": "Annuller build, og udgiv fra Visual Studio Code",
       "summary": "Annuller oprettelse og installation af udvidelser fra Visual Studio Code.",

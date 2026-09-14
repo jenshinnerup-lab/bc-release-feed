@@ -2,12 +2,6 @@
   "id": "8f3b700f19b269f0",
   "title": "Generic Microsoft Graph API Wrapper",
   "languages": {
-    "en": {
-      "title": "Call Microsoft Graph with AL Microsoft Graph module",
-      "summary": "You can now call Microsoft Graph with the AL Microsoft Graph module.",
-      "details": "### Business value\n\nThe AL Microsoft Graph module contains methods to support calling Microsoft Graph with just a few lines of code.\n\n### Feature details\n\nThe AL Microsoft Graph module contains methods to support the following scenarios: Create Microsoft Graph authorization Initialize the Microsoft Graph Client Process GET,PATCH,POST,DELETE requests with Microsoft Graph Here are some examples that use the Microsoft Graph module. > //Create Microsoft Graph Authorization > MicrosoftGraphAuthorization := MicrosoftGraphAuth.CreateAuthorizationWithClientCredentials(TenantId, ClientId, ClientSecret, 'https://graph.microsoft.com/.default'); > > //Initialize Microsoft Graph Client > MicrosoftGraphClient.Initialize(Enum::\"Microsoft Graph API Version\"::\"v1.0\", MicrosoftGraphAuthorization); > > ResponseInStream := TempBlob.CreateInStream(); > > //Create Microsoft Graph GET,PATCH,POST,DELETE > if not MicrosoftGraphClient.Get('groups', ResponseInStream) then > Error(MicrosoftGraphClient.GetDiagnostics().GetResponseReasonPhrase()); > ResponseInStream.Read(ResponseContent); > Message(ResponseContent); Note We'd like to thank our community for making this valuable contribution through our System Application open-source repo on GitHub",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/call-graph-al-graph-module"
-    },
     "da": {
       "title": "Kalde Microsoft Graph med AL Microsoft Graph-modul",
       "summary": "Du kan nu kalde Microsoft Graph med AL Microsoft Graph-modulet.",

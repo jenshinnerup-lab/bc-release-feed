@@ -2,12 +2,6 @@
   "id": "b1977d3d038e5d45",
   "title": "Assign custom collections to items exported to Shopify",
   "languages": {
-    "en": {
-      "title": "Assign custom collections to items exported to Shopify",
-      "summary": "Import Shopify custom collections into Business Central and assign defaults for product export and tax overrides.",
-      "details": "### Business value\n\nProduct collections in Shopify help organize products into logical groups, improving navigation and product discovery for buyers. Collections are often used to highlight seasonal items, group products by category, or apply specific tax rules. By enabling synchronization and default assignment of collections, this feature reduces manual work, ensures consistent product categorization, and supports compliance scenarios such as applying reduced VAT rates. Businesses benefit from better storefront organization, faster product publishing, and improved customer experience.\n\n### Feature details\n\nThis feature enables you to synchronize custom product collections from Shopify into Business Central. You can import available collections from your Shopify store and manage them on the Shopify Custom Product Collections page. From this page, you can: Get a list of custom product collections from Shopify. Assign the items you export to Shopify to the appropriate collections. One thing to note, however, is that Shopify lets you define Custom and Smart collections. This feature doesn't cover Smart collections because they're rule-based and can't be manually assigned. You can also use multiple product tax or VAT rates. Some product categories are eligible for reduced tax rates, such as pharmaceutical products or children's clothing and footwear. You can use the tax override feature in Shopify to specify that and custom collection is a key element for that. Learn more at Tax overrides and exemptions.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/assign-custom-collections-items-exported-shopify"
-    },
     "da": {
       "title": "Tildel brugerdefinerede samlinger til varer, der eksporteres til Shopify",
       "summary": "Importér Shopify brugerdefinerede samlinger til Business Central, og tildel standardindstillinger for produkteksport og momstilsidesættelser.",

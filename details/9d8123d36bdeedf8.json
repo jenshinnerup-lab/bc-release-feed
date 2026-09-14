@@ -2,12 +2,6 @@
   "id": "9d8123d36bdeedf8",
   "title": "Automate tests for your Copilot extensions with the Business Central Test Toolkit",
   "languages": {
-    "en": {
-      "title": "Automate tests for Copilot extensions with Business Central Test Toolkit",
-      "summary": "Developer tools for Copilot in Business Central now include test automation capabilities to help you verify the quality of your AI-powered features.",
-      "details": "### Business value\n\nAs our partner community brings generative AI capabilities to market and matures their offerings, partners need new engineering tools and practices to help them succeed in the AI era. Data-driven test automation plays a vital role in making sure AI systems stay accurate with diverse inputs. It helps preserve the trust and safety of our customers and their data, and it keeps systems resilient to changes in AI model versions. The developer tools for Copilot in Business Central provide an end-to-end toolkit that covers development, deployment, administration, feedback loops, and now test automation.\n\n### Feature details\n\nWith this feature, you can: Author tests for your prompt dialogs by using a familiar framework in AL and Visual Studio Code. Organize your test datasets by purpose and prompt variations. Implement automated verification depending on your feature use case. Run tests as fully automated or semiautomated.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/automate-tests-copilot-extensions-business-central-test-toolkit"
-    },
     "da": {
       "title": "Automatiser test for Copilot-udvidelser med Business Central Test Toolkit",
       "summary": "Udviklerværktøjer til Copilot i Business Central inkluderer nu testautomatiseringsfunktioner for at hjælpe dig med at verificere kvaliteten af dine funktioner drevet af kunstig intelligens.",

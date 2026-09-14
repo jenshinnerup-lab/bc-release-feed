@@ -2,12 +2,6 @@
   "id": "337e67ba9d341ded",
   "title": "Accessibility declaration for Italy available",
   "languages": {
-    "en": {
-      "title": "Accessibility declaration for Italy available",
-      "summary": "Business Central conforms to Italian accessibility requirements.",
-      "details": "### Business value\n\nBusiness Central is committed to following accessibility standards such as WCAG 2.1 and EN 301 549 that ensure the experience is accessible to as many people as possible. As required by the local authorities in Italy, websites, web applications, and mobile apps must also publish an Accessibility Conformance Report (\"Dichiarazione di accessibilità\") that indicates the extent of accessibility conformance.\n\n### Feature details\n\nWhen the Business Central web client is viewed in the Italian language, a new link \"Dichiarazione di accessibilità\" is displayed in the help pane alongside links to Microsoft's privacy policy and terms of use. This link leads to a descriptive conformance report as required by authorities. The Business Central mobile app store listing also includes a similar link.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/accessibility-declaration-italy"
-    },
     "da": {
       "title": "Tilgængelighedserklæring for Italien er tilgængelig",
       "summary": "Business Central overholder italienske tilgængelighedskrav.",

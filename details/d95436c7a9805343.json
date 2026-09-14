@@ -2,12 +2,6 @@
   "id": "d95436c7a9805343",
   "title": "Hide Copilot summaries",
   "languages": {
-    "en": {
-      "title": "Hide Copilot summaries",
-      "summary": "Developers can use AL to remove Copilot summary FactBoxes from custom pages, page extensions, or specific user profiles in Dynamics 365 Business Central.",
-      "details": "### Business value\n\nWhether users are looking at customer details, a large order, or any other record, they might spend a lot of time trying to understand the current state of their data and the fields that matter. The summarize with Copilot feature from 2025 release wave 1 summarizes a record into a few brief sentences, so users don't spend as much effort to get insights from data. This is displayed automatically in most details pages. However, summaries aren't always valuable on custom pages designed for highly specific purposes, such as dashboards, or when the page is used as a canvas for control add-ins. As a developer, you can now hide the summary FactBox on pages of your choosing.\n\n### Feature details\n\nWith a few lines of AL code, developers can hide a Copilot summary FactBox on a page of type Card, Document, or ListPlus. Hide summaries on custom page objects or page extensions. Hide summaries only for specific user profiles. Refer to instructions with code samples for more information.\n\n### Join the conversation\n\nWe're excited to have you with us on our Copilot journey. Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback. Use the forum at aka.ms/bcIdeas, or join the partner community discussion on the Dynamics 365 Business Central Partner Community Network on Viva Engage (formerly Yammer) to help us shape the future of AI in Business Central.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/hide-copilot-summaries"
-    },
     "da": {
       "title": "Skjul Copilot oversigter",
       "summary": "Udviklere kan bruge AL til at fjerne Copilot oversigts faktabokse fra brugerdefinerede sider, sideudvidelser eller specifikke brugerprofiler i Dynamics 365 Business Central.",

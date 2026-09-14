@@ -2,12 +2,6 @@
   "id": "cfa607462ab02d56",
   "title": "Define item attributes for item variants",
   "languages": {
-    "en": {
-      "title": "Define item attributes for item variants",
-      "summary": "Specify and adjust attributes for individual item variants with inheritance from the item.",
-      "details": "### Business value\n\nThis improvement gives you more accurate and flexible management of product information. It helps you maintain consistent data while still capturing important differences between item variants.\n\n### Feature details\n\nItem variants are a great way to keep your list of products under control. For example, you have a large number of items that are almost identical and vary only in color. You can define each variant as a separate item. But you can also choose to set up one item and specify the various colors as variants of the item. You can assign attribute values that reflect the specific variant at the item variant level. Item variants inherit attributes from the item, and you can adjust or remove those inherited values when the variant requires different information. You can open the Item Variant Attribute Values page from the Item Variants List or the Item Variant Card pages to review or edit variant-specific attributes. When you add a new variant of an item, the attributes defined for the item transfer to the variant. You can then update or delete the inherited values to ensure the variant shows the correct details. There is also the new Update Variant Attributes action available from the Item Card that lets you to force sync attributes from the item to its variants.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/define-item-attributes-item-variants"
-    },
     "da": {
       "title": "Definer vareattributter for varevarianter",
       "summary": "Angiv og juster attributter for individuelle varevarianter med nedarvning fra varen.",

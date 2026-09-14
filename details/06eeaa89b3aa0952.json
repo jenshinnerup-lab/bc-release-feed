@@ -2,12 +2,6 @@
   "id": "06eeaa89b3aa0952",
   "title": "Search, navigate and use app symbols as context for GitHub Copilot",
   "languages": {
-    "en": {
-      "title": "Search, navigate and use app symbols as context for GitHub Copilot",
-      "summary": "Search, navigate, and use downloaded project symbols as context for GitHub Copilot.",
-      "details": "### Business value\n\nYou can search AL objects in downloaded symbol package files from within Visual Studio Code. This feature makes it much easier to find related objects for inspection, troubleshooting, or inspiration. Use it as context when you work with GitHub Copilot to get better suggestions based on existing code.\n\n### Feature details\n\nYou can now search objects from downloaded symbol packages through the Open Symbol by Name functionality (Ctrl+T). This feature makes it easier to find objects and open the source when the symbols include source code. It also empowers GitHub Copilot in Visual Studio Code. You can open the source for selected related symbols to use as context for Copilot Studio when you write your own code, so you get better suggestions. You can also take advantage of improved performance when searching workspace symbols to support the larger number of available symbols.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/search-navigate-use-app-symbols-as-context-github-copilot"
-    },
     "da": {
       "title": "Søg efter, naviger og brug appsymboler som kontekst for GitHub Copilot",
       "summary": "Søg efter, naviger, og brug downloadede projektsymboler som kontekst for GitHub Copilot.",

@@ -2,12 +2,6 @@
   "id": "48c53d9136a3ef6f",
   "title": "Adjust the FactBox pane width",
   "languages": {
-    "en": {
-      "title": "Adjust the FactBox pane width",
-      "summary": "You can resize the FactBox pane on all pages and page types that support the FactBox pane.",
-      "details": "### Business value\n\nCustomers want to work optimally with Business Central, even when they need extra room for the information on the FactBox pane. You can resize the FactBox pane to see the details more clearly.\n\n### Feature details\n\nThe user experience in Business Central now lets you resize the FactBox pane on all pages and page types that support the FactBox pane. With this feature, you can: Resize the FactBox pane within certain proportions, so the main part of the page stays visible. See the content in the FactBox pane reflow smoothly to fill the available space. Have the browser remember the size of the FactBox for each user and page, just like with other lightweight adjustments. Double-click the divider to reset the size of the FactBox pane to default.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/allow-adjusting-factbox-pane-width"
-    },
     "da": {
       "title": "Juster faktaboksrudens bredde",
       "summary": "Du kan ændre størrelsen på faktaboksruden på alle sider og sidetyper, der understøtter faktaboksruden.",

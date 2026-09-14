@@ -2,12 +2,6 @@
   "id": "7cfe00c8a7a1c5db",
   "title": "Use default attachments in email sent from Business Central",
   "languages": {
-    "en": {
-      "title": "Use default attachments in email sent from Business Central",
-      "summary": "You can now add or select between default attachments you'd like to include in your external email communications.",
-      "details": "### Business value\n\nBusinesses often use templates for the footers or disclaimers they include in the email messages they send for business purposes. In specific scenarios, businesses want to make sure that additional attachments, such as terms and conditions for sales scenarios, are included with every email message sent to customers.\n\n### Feature details\n\nYou can add attachments for specific email scenarios by choosing the Set Scenario Attachments action on the Email Scenario Assignment page. On the Email Scenario Attachments page, you can make multiple files available as default attachments by choosing the Add File action. The Attach by Default toggle lets you specify which email scenarios will be added by default, or which will be available for users to choose from. When you send an email for a scenario where you defined default attachments, they're automatically inserted in a draft email message for such a scenario. In our example, the sales quote email scenario has a default terms and conditions attachment defined by turning on the Attach by Default toggle. To allow for variations in email scenarios, where some attachments are always sent, and others where attachments are sent under certain conditions, use the Add Files from Default Selection action. The action lets you pick from additional default attachments listed on the Additional Attachments from Scenarios page.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/use-default-attachments-email-sent-business-central"
-    },
     "da": {
       "title": "Bruge standardvedhæftede filer i mail sendt fra Business Central",
       "summary": "Du kan nu tilføje eller vælge mellem standardvedhæftede filer, som du gerne vil inkludere i din eksterne mailkommunikation.",

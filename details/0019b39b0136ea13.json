@@ -2,12 +2,6 @@
   "id": "0019b39b0136ea13",
   "title": "Power Apps and Power Automate support for document attachments",
   "languages": {
-    "en": {
-      "title": "Power Apps and Power Automate support for document attachments",
-      "summary": "Power Platform and Logic Apps connector for Business Central online now support document attachments (including incoming documents) and related media.",
-      "details": "### Business value\n\nBeing able to access attachments, media, and other data that are linked to business records opens new possibilities with scenarios related to rich data.\n\n### Feature details\n\nThe new capability of the connector allows for easy access to document attachments (for instance, an original order request linked as a PDF to a sales order), related record media (for instance, images linked to items) and other data linked to business records. This opens up for Power Automate flows or Power Apps to support additional scenarios where rich external data is entered into Business Central. For example, this could be an app allowing service workers to take photos of inventory and upload to Business Central. Or, it could be an automated flow that creates a sales order from an attachment received earlier as an email, which is processed and linked as a PDF document to the Business Central order entry.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/power-apps-power-automate-support-document-attachments"
-    },
     "da": {
       "title": "Power Apps- og Power Automate-understøttelse af vedhæftede dokumenter",
       "summary": "Power Platform og Logic Apps-stik til Business Central online understøtter nu vedhæftede dokumenter (inklusive indgående dokumenter) og relaterede medier.",

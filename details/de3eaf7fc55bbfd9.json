@@ -2,12 +2,6 @@
   "id": "de3eaf7fc55bbfd9",
   "title": "Upgrade to certificate-based Service-to-service (S2S) authentication for Dataverse and Dynamics 365 Integration",
   "languages": {
-    "en": {
-      "title": "Upgrade to certificate-based Service-to-Service authentication for Dataverse and Dynamics 365 integration",
-      "summary": "You can now upgrade your existing client secret-based connection to Dataverse to a certificate-based Service-to-Service authentication.",
-      "details": "### Business value\n\nTo further strengthen security of integration between Business Central and Dataverse, support for upgrading to certificate-based authentication is introduced in 2021 release wave 1 (versions 18.0 and later). To make sure there are no disruptions in the integration between Business Central and Dataverse, you must upgrade your Business Central connection to Dataverse to a certificate-based authentication.\n\n### Feature details\n\nIn April 2022, Dataverse will deprecate username/password authentication type. Furthermore, in March 2022, Business Central will deprecate the use of client secret-based service-to-service authentication for Microsoft-hosted Business Central online tenants and will require the use of certificate-based service-to-service connection to Dataverse from that point on. Business Central online tenants hosted by ISVs can continue using any client secret-based authentication that may have been configured by the ISV. To make sure there are no disruptions in the integration between Business Central and Dataverse, you must upgrade your Business Central connection to Dataverse to certificate-based authentication. Although the change will happen in March 2022, we strongly recommend you perform the steps below as soon as possible. Simply choose the Use Certificate Authentication field in the Dataverse Connection Setup page or the Microsoft Dynamics 365 Connection Setup page to upgrade your connection to the certificate-based service-to-service authentication.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/upgrade-certificate-based-service-to-service-authentication-dataverse-dynamics-365-integration"
-    },
     "da": {
       "title": "Opgradere til certifikatbaseret service-til-service godkendelse til integration af Dataverse og Dynamics 365",
       "summary": "Du kan nu opgradere din eksisterende klienthemmelighedsbaserede forbindelse til Dataverse til en certifikatbaseret service-til-service godkendelse.",

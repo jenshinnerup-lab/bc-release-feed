@@ -2,12 +2,6 @@
   "id": "4dd99d8b8cefd40d",
   "title": "Stop all active tasks for selected agent",
   "languages": {
-    "en": {
-      "title": "Stop all active tasks for selected agent",
-      "summary": "Users can immediately stop all running tasks for a specific agent to regain control, free capacity, and manage workload effectively",
-      "details": "### Business value\n\nThis feature enables you to stop all active tasks for an agent with a single action when something goes wrong. Instead of waiting for individual tasks to finish or be canceled manually, you can quickly regain control, clear unintended workload, and resume normal operations without delay. This reduces manual troubleshooting work, maintains system stability, and improves operational efficiency across environments.\n\n### Feature details\n\nThis feature introduces a new action that stops all active tasks for a selected agent, addressing scenarios where an agent is overloaded, misconfigured, or executing tasks that need immediate cancellation. It's a one-click action to stop all active tasks for a selected agent. It shows a confirmation dialog to prevent accidental task termination and then stops all tasks currently running.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/stop-all-active-tasks-selected-agent"
-    },
     "da": {
       "title": "Stop alle aktive opgaver for den valgte agent",
       "summary": "Brugere kan stoppe alle aktive opgaver for en specifik agent øjeblikkeligt og dermed genvinde kontrollen, frigøre kapacitet og effektivt administrere arbejdsbelastningen",

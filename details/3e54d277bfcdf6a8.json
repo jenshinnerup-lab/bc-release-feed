@@ -2,12 +2,6 @@
   "id": "3e54d277bfcdf6a8",
   "title": "Package resources in extensions and access from AL",
   "languages": {
-    "en": {
-      "title": "Package resources in extensions and access from AL",
-      "summary": "Package resources in extensions and access them from AL at runtime.",
-      "details": "### Business value\n\nFeatures often need data to initialize and set up. Previously, you added and consumed this data from AL by using labels or code. In this release, you can include resources in extensions and access these resources from AL.\n\n### Feature details\n\nDevelopers can package resources in extensions and access these resources from AL code. Use this feature to send data for setup and initialization features, such as RapidStart packages, demo data, and templates. You don't need to use labels or codeunits for this purpose. To package resources in an extension, declare the folders in your project that contain resources in the extension's manifest file (app.json). Add the resourceFolders property to the manifest file. You can specify multiple folders. Resource folders can contain subfolders. AL code can access resources at runtime. Use several methods to interact with resources: NavApp.GetResource(ResourceName: Text; var ResourceStream: Instream; (Optional) Encoding: TextEncoding)) reads the content of resource files at runtime. Use NavApp.GetResourceAsText (ResourceName: Text; optional Encoding: TextEncoding): Text to read the content of resource files directly into a Text object. Use NavApp.GetResourceAsJson (ResourceName: Text; optional Encoding: TextEncoding): JsonObject to read the content of resource files directly into a JsonObject. An extension can access only its own resources. The following size limits apply to resources: Any single resource file can be up to 16 MB. All resource files together can be up to 256 MB. An extension can have up to 256 resource files.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/package-resources-extensions-access-al"
-    },
     "da": {
       "title": "Pakkeressourcer i udvidelser og få adgang fra AL",
       "summary": "Pak ressourcer i udvidelser, og få adgang til dem fra AL ved kørslen.",

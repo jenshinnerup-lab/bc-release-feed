@@ -2,12 +2,6 @@
   "id": "c3a5cd011df63ed1",
   "title": "Link inbound e-documents to purchase invoices",
   "languages": {
-    "en": {
-      "title": "Link inbound e-documents to purchase invoices",
-      "summary": "Link incoming e‑documents to existing purchase invoices in Business Central to ensure accurate tracking and facilitate audits in intercompany processing.",
-      "details": "### Business value\n\nBusinesses often receive electronic purchase invoices after they create the related purchase documents manually or through intercompany processes. This feature gives organizations control and flexibility by allowing them to link an incoming e‑document directly to an existing purchase invoice or credit memo. By supporting this scenario, Business Central helps organizations maintain a clean audit trail, avoid duplicate documents, ensure accurate reconciliation of vendor transactions, and preserve data quality in intercompany flows.\n\n### Feature details\n\nThis feature helps when an inbound e‑document arrives from the connector after the related purchase invoice is already in Business Central, specifically in intercompany processes. To link an e‑document, you open the E‑Document Purchase Draft page, ensure a vendor is assigned, and then use the Link to Existing Document action. Business Central displays a filtered list of purchase invoices or credit memos based on vendor and total amount. After you select a document, Business Central updates it with the e‑document totals and sets the e‑document status to Processed. You can also relink an already processed e‑document to a different document. Depending on how you created the previous document, Business Central either unlinks it or deletes it. The feature requires that the vendor has an IC Partner Code because it currently supports intercompany scenarios only.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/link-inbound-e-documents-purchase-invoices"
-    },
     "da": {
       "title": "Sammenkæd indgående e-dokumenter med købsfakturaer",
       "summary": "Sammenkæd indgående e-dokumenter med eksisterende købsfakturaer i Business Central for at sikre præcis sporing og lette revisioner i interne processer.",

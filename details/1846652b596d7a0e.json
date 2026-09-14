@@ -2,12 +2,6 @@
   "id": "1846652b596d7a0e",
   "title": "Use recurring journals to allocate balances by dimension values",
   "languages": {
-    "en": {
-      "title": "Use recurring journals to allocate balances by dimension values",
-      "summary": "You can now use recurring journals to allocate balances by dimensions.",
-      "details": "### Business value\n\nAllocating costs across the different dimensions that you use to track your business is key to getting correct insight on business profitability. To distribute costs correctly over dimensions, you need quality tools that give you control.\n\n### Feature details\n\nTo allocate costs based on a G/L account balance by dimension, in the Recurring General Journal page, set the Recurring Method field to BD Balance by Dimension or RBD Reversing Balance by Dimension. Additionally, you can now specify dimension filters to be used to calculate the source G/L account's balance by dimension from which you want to allocate costs. Just choose the Set Dimension Filters action. For example, your company has a couple of business units and a handful of departments that your controllers have set up as dimensions. To speed up the purchase invoice entry process, you decide to require the accounts payable clerks to enter only business unit dimensions. Because each business unit has specific allocation keys for the department dimension, such as based on the number of employees, you can use the BD Balance by Dimension or RBD Reversing Balance by Dimension recurring methods to reallocate expenses for each business unit to the right departments based on the allocation keys. Such balance allocation by dimension of source G/L account is not possible using the Balance or RB Reversing Balance recurring methods. Those methods will ignore the dimension values on source G/L accounts and always allocate the full balance. But now you can use the new BD Balance by Dimension or RBD Reversing Balance by Dimension recurring methods.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/use-recurring-journals-allocate-balances-dimension-values"
-    },
     "da": {
       "title": "Use recurring journals to allocate balances by dimension values",
       "summary": "You can now use recurring journals to allocate balances by dimensions.",

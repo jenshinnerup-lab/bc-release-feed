@@ -2,12 +2,6 @@
   "id": "7277279fc400f647",
   "title": "VAT Return feature now available - Czechia (general availability)",
   "languages": {
-    "en": {
-      "title": "VAT Return feature now available - Czechia",
-      "summary": "The Czech version of Business Central now includes an option to use the standard VAT Return feature, allowing VAT returns to be generated, submitted to the Moje daně portal, and saved for future reference, while accommodating multiple corrective and additional returns for the same period.",
-      "details": "### Business value\n\nUse the standard VAT Return feature to submit a VAT return that complies with Czech law.\n\n### Feature details\n\nPreviously, you used the VAT Statement feature for VAT returns in the Czech version of Business Central. Now, you can use the standard VAT Return feature in Business Central. You generate the VAT return and submit it to the Moje daně portal. The system creates the lines on the VAT return based on the settings in the VAT statement. The system checks if you already created a regular VAT return for the period. However, the system doesn't check this condition for corrective and additional returns, because you can have multiple corrective and additional returns for a period. You save the VAT return, so you can access it right away in the system for future reference.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/vat-return-czechia"
-    },
     "da": {
       "title": "Momsangivelsesfunktionen er nu tilgængelig – Tjekkiet",
       "summary": "Den tjekkiske version af Business Central indeholder nu en mulighed for at bruge standardfunktionen for momsangivelse, så momsangivelser kan genereres, sendes til Moje daně-portalen og gemmes til fremtidig reference, samtidig med at der tages højde for flere korrigerende og yderligere returneringer for den samme periode.",

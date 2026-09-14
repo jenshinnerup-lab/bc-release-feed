@@ -2,12 +2,6 @@
   "id": "387619cfe0d7157d",
   "title": "Start value chain in purchase process for Scope 3 in sustainability",
   "languages": {
-    "en": {
-      "title": "Start value chain in purchase process for Scope 3 in sustainability",
-      "summary": "You can begin tracking inventory emissions by collecting data on purchased items and adding additional internal emissions under Scope 3.",
-      "details": "### Business value\n\nSustainability Scope 3 value chain process automation uses standard ERP processes to streamline the collection, calculation, and reporting of indirect emissions data across a company's upstream and downstream value chain. These processes improve accuracy, efficiency, and compliance with sustainability goals. This feature gives you flexibility by letting you track emissions from the purchase process and start the final emission calculation.\n\n### Feature details\n\nScope 3 emissions are important for accurate tracking because they make up most emissions. They affect business decisions and match many regulations. Scope 3 emissions are also the most complex to measure because they need data from many sources. For example, you need data from vendors and internal operations such as transfers and manufacturing. When you post emission values with purchase invoices, Business Central creates a sustainability ledger entry. It also creates a new sustainability value entry that references the item ledger entry with the same item ledger entry type. This entry records details related to the calculated CO2e Amount. This entry starts the emission valuation process. Business Central tracks all emission changes through other processes. This feature in purchase documents currently applies only to items. It doesn't support item charges for adding extra emissions. This release supports only the Average model of emission calculation.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/start-value-chain-purchase-process-scope-3-sustainability"
-    },
     "da": {
       "title": "Starte værdikæde i købsproces for Omfang 3 i bæredygtighed",
       "summary": "Du kan begynde at spore lagerudledninger ved at indsamle data om købte varer og tilføje yderligere interne udledninger under Omfang 3.",

@@ -2,12 +2,6 @@
   "id": "58f3daa518b1f574",
   "title": "Enable staff-to-salesperson mapping for Shopify orders",
   "languages": {
-    "en": {
-      "title": "Enable staff-to-salesperson mapping for Shopify orders",
-      "summary": "Import Shopify Staff information together with Shopify orders.",
-      "details": "### Business value\n\nWhen you use Shopify POS, you improve traceability and performance reporting by importing staff member information from Shopify to salespersons in Business Central on sales documents.\n\n### Feature details\n\nTo automatically fill in the Sales person code field for sales documents imported from Shopify, configure Shopify Staff Mapping. Select the Lightbulb icon that opens the Tell Me feature, enter Shopify Shops, and select the related link. Select the shop where you want to set up a mapping to open the Shopify Shop Card page. Select the Shopify Staff Mapping action. Select Refresh to import staff members enabled on Shopify. Enter the Salesperson Code for the matching salesperson in Business Central. When you import orders from Shopify, the orders include the staff ID. If you configure the mapping on the Shopify Staff Mapping page, you add the corresponding salesperson to the Shopify order and copy it to the sales document. Known limitations: B2B stores only. You can't export salespersons from Business Central to Shopify.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/enable-staff-to-salesperson-mapping-shopify-orders"
-    },
     "da": {
       "title": "Aktivér tilknytning af medarbejder til sælger for Shopify-ordrer",
       "summary": "Importér oplysninger om Shopify-medarbejdere sammen med Shopify-ordrer.",

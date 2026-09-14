@@ -2,12 +2,6 @@
   "id": "b7d4cfe81bc699d6",
   "title": "Avoid document number errors when you post project journals",
   "languages": {
-    "en": {
-      "title": "Avoid document number errors when you post project journals",
-      "summary": "Avoid posting errors caused by the order of document numbers.",
-      "details": "### Business value\n\nBusiness Central reduces or removes friction when you work with documents and journals. If you use a number series for project journal batches, you can't post the journal if the document numbers aren't in consecutive order. To avoid getting stuck, you can fix errors related to the order of document numbers when you post project journals.\n\n### Feature details\n\nOn the Project Journals page, you can edit the Document No. field. You can enter different document numbers for journal lines or use the same document number for related journal lines. If you specify a number series in the No. Series field on the project journal batch, you must enter document numbers for individual or grouped lines in sequential order when you post a project journal. If the document numbers aren't in sequential order, you can't post the journal. To fix this issue, use the Renumber Document Numbers action on the Project Journals page before posting the journal. If you group related journal lines by document number before using this action, the lines stay grouped but might get a different document number. The Renumber Document Numbers action also works on filtered views. We thank our community for their valuable contributions to Microsoft’s open source BusinessCentralApps repo on GitHub.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/avoid-document-number-errors-when-post-project-journals"
-    },
     "da": {
       "title": "Undgå dokumentnummerfejl, når du bogfører projektkladder",
       "summary": "Undgå bogføringsfejl forårsaget af rækkefølgen af dokumentnumre.",

@@ -2,12 +2,6 @@
   "id": "7630624e30abf16f",
   "title": "Enable projects with value chain automation in Scope 3",
   "languages": {
-    "en": {
-      "title": "Enable projects with value chain automation in Scope 3",
-      "summary": "You can improve tracking and calculating emissions for delivered projects under Scope 3.",
-      "details": "### Business value\n\nSustainability Scope 3 value chain process automation uses standard ERP processes to streamline the collection, calculation, and reporting of indirect emissions data across a company's upstream and downstream value chain. The processes improve accuracy, efficiency, and compliance with sustainability goals. This feature gives you flexibility by enabling you to calculate and track emissions for delivering new projects based on the consumption of items and resources.\n\n### Feature details\n\nScope 3 emissions are important for accurate tracking because they make up most emissions. These emissions affect business decisions and align with many regulations. Scope 3 emissions are also the most complex to measure because they need data from many sources. For example, you need data from vendors and internal operations such as transfers and manufacturing. This feature helps you collect total CO2e emissions for projects and project tasks based on consumed items and resources. To collect emissions, you configure emissions on your items and resources, and you enter CO2e per Unit and Total CO2e on the Project Journal page. To improve tracking, use the Project No. and Project Task fields on the Sustainability Value Entry page. The Total CO2e field on the Project and Project Task pages then shows an accurate value. This feature supports only the Average model for emission calculation.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/enable-projects-value-chain-automation-scope-3"
-    },
     "da": {
       "title": "Aktivér projekter med automatisering af værdikæden i Scope 3",
       "summary": "Du kan forbedre sporing og beregning af emissioner for leverede projekter under Scope 3.",

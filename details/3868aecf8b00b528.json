@@ -2,12 +2,6 @@
   "id": "3868aecf8b00b528",
   "title": "Automate country/region of origin listed for item tracking code in Intrastat reporting (preview)",
   "languages": {
-    "en": {
-      "title": "Automate country of origin listed for item tracking code in Intrastat reporting",
-      "summary": "For Intrastat reporting, use the automated country of origin on an item tracking code.",
-      "details": "### Business value\n\nWith this feature, users can add the country of origin to item tracking. By automatically inheriting the country of origin for items in sales documents from corresponding purchases, this feature helps users save time and increase productivity. You don't need to enter the country of origin manually. Use this information for Intrastat reporting.\n\n### Feature details\n\nIntrastat currently uses the Country of Origin from the Item Card. However, users often buy the same item from different countries. The new Intrastat solution in Dynamics 365 Business Central improves how you use the country of origin. You can set up a Country of Origin on an Item Tracking Code. With this approach, the Country of Origin for Items in sales documents automatically comes from the matching purchase documents based on the Item Tracking Code setup, such as lot number or serial number. You don't need to enter the country of origin manually, which reduces mistakes. This change makes Intrastat reporting faster and more accurate.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/automate-country-origin-listed-item-tracking-code-intrastat-reporting"
-    },
     "da": {
       "title": "Automatiser oprindelsesland, der er angivet for varesporingskode i Intrastat-rapportering",
       "summary": "Til Intrastat-rapportering skal du bruge det automatiserede oprindelsesland på en varesporingskode.",

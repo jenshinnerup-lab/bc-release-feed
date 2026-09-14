@@ -2,12 +2,6 @@
   "id": "b98c7e7e71837237",
   "title": "Release and reopen multiple documents",
   "languages": {
-    "en": {
-      "title": "Release and reopen multiple documents",
-      "summary": "You can now release and reopen documents in bulk.",
-      "details": "### Business value\n\nThe status of documents indicates whether they're open, waiting to be approved, have been invoiced for prepayment, or have been released to the next stage of processing. When you finish working on a batch of documents, you can release all or some of them to the next stage in the process or reopen them for further processing, all in one go.\n\n### Feature details\n\nTo make it easier to quickly identify documents that are open or released, especially when viewing a list of documents, the Open and Released statuses have different font colors. When you release or reopen multiple documents, a confirmation will show the number of documents that are selected and the number that remain unchanged. Progress is shown during the process of releasing and reopening documents, and if there are errors, they are shown on the Errors Messages page.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/release-reopen-multiple-documents"
-    },
     "da": {
       "title": "Udgive og genåbne flere dokumenter",
       "summary": "Du kan nu udgive og genåbne dokumenter på én gang.",

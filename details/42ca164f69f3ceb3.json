@@ -2,12 +2,6 @@
   "id": "42ca164f69f3ceb3",
   "title": "Show avatars for record creators and modifiers in lists",
   "languages": {
-    "en": {
-      "title": "Show avatars for record creators and modifiers in lists",
-      "summary": "See who created or last modified records in Business Central with avatars, enabling faster follow-up, better collaboration, and clearer data ownership.",
-      "details": "### Business value\n\nSupporting avatars for the users or agents who created and last modified entries makes record ownership clearer and easier to understand across Business Central. By surfacing identity information directly in list pages, you can quickly determine responsibility, follow up with the right person, and work with shared data more confidently.\n\n### Feature details\n\nThis feature introduces visual avatars in Business Central list pages to indicate which user or agent created or last modified a record. The capability enhances traceability and supports collaborative work by making identity information immediately visible without opening the record. The avatars reflect either a named Business Central user, a system user or an AI agent, following the existing identity model. Users can hover over the avatar to see a tooltip with the full display name and record update timestamp (if available). This improvement benefits roles that frequently work with shared data—including accountants, order processors, warehouse staff, service teams, and administrators—by reducing time spent verifying ownership or responsibility for items, documents, or configuration entries. It also helps organizations adopting AI‑generated records understand when an automated agent has contributed. The feature surfaces existing Created By and Modified By fields more intuitively while respecting Business Central’s data privacy and permissions model.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/show-avatars-record-creators-modifiers-lists"
-    },
     "da": {
       "title": "Vis avatarer for personer, der opretter og ændrer poster på lister",
       "summary": "Se, hvem der har oprettet eller senest ændret poster i Business Central med avatarer, hvilket muliggør hurtigere opfølgning, bedre samarbejde og tydeligere dataejerskab.",

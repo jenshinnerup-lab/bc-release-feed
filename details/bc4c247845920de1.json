@@ -2,12 +2,6 @@
   "id": "bc4c247845920de1",
   "title": "Extend CardPageId on list and listpart pages",
   "languages": {
-    "en": {
-      "title": "Extend CardPageId on list and listpart pages",
-      "summary": "Add or modify the CardPageId property on a page using a page extension.",
-      "details": "### Business value\n\nYou can't modify several page properties by using page extensions. This restriction mainly prevents race conditions that happen when multiple extensions try to modify the same property. However, some properties can be modified. We received many votes on Ideas for those properties. One of the most popular requests is to extend the CardPageId property on list and list part pages. You can add a card page when an existing list doesn't have a card page, or you can replace the card page with a different card page. In this release, you can extend the CardPageId property.\n\n### Feature details\n\nYou can now change the CardPageID property on list and list part pages by using a PageExtension object. With this change, you can choose which card page appears when a user double-clicks an item on a list or list part page. If the base page already has the property, the value you set in the PageExtension replaces it. If multiple PageExtension objects change the property, the change in the last extension takes effect. Because per-tenant extensions apply after AppSource apps, you can resolve any conflict between multiple AppSource apps that set the same CardPageId in a per-tenant extension. This conflict rarely happens.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/extend-cardpageid-list-listpart-pages"
-    },
     "da": {
       "title": "Udvide CardPageId på liste- og listpart-sider",
       "summary": "Tilføje eller redigere egenskaben CardPageId på en side ved hjælp af en sideudvidelse.",

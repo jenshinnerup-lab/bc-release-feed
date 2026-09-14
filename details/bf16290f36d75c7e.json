@@ -2,12 +2,6 @@
   "id": "bf16290f36d75c7e",
   "title": "Discover emails in the mailbox that have been processed by Payables Agent",
   "languages": {
-    "en": {
-      "title": "Discover emails in the mailbox that have been processed by Payables Agent",
-      "summary": "Easily identify the emails in the monitored mailbox that the Payables Agent has picked up.",
-      "details": "### Business value\n\nWhen Payables Agent monitors a mailbox, it only picks up and works with emails that have one or more PDF documents attached. When it does so, it marks the email with a category that makes it clear that it has processed the message.\n\n### Feature details\n\nPayables Agent assigns the Processed by Payables Agent category to the emails it picks up. The category makes it easier for the people who work in the same mailboxes in Outlook to identify the messages that the agent has processed. This change is a direct result of user feedback and is an important improvement to the human-agent relationship.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/discover-emails-mailbox-that-have-been-processed-payables-agent"
-    },
     "da": {
       "title": "Find mails i postkassen, der er behandlet af Payables Agent",
       "summary": "Identificer nemt de mails i den overvågede postkasse, som Payables Agent har behandlet.",

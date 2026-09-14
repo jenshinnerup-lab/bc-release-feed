@@ -2,12 +2,6 @@
   "id": "55a7de4383259469",
   "title": "Calculate withholding taxes for vendors",
   "languages": {
-    "en": {
-      "title": "Calculate withholding taxes for vendors",
-      "summary": "You can calculate withholding tax for vendors in the standard version of Business Central.",
-      "details": "### Business value\n\nBusiness Central customers can benefit from features for setting up, calculating, and reporting withholding taxes for vendors in all countries/regions where it’s relevant. You no longer need to source a non-Microsoft application or create a customization because withholding tax functionality is built into the standard version of Business Central.\n\n### Feature details\n\nIn some countries/regions, companies must pay withholding tax to the government for certain third‑party services or vendor purchases. Business Central calculates withholding tax when you pay a vendor invoice, or when you post it, based on your setup. The tax amount is withheld from the payment and reduces the total amount owed to the vendor. You can configure withholding tax by setting up Withholding Tax Codes and Vendors. Get started To enable withholding tax calculation, open the General Ledger Setup page and turn it on. Next, configure the Withholding Tax Revenue Types, including their sequences and posting groups. Then, set up the following: Withholding Tax Bus. Post. Group and apply it to vendors that are subject to withholding tax. Withholding Tax Prod. Post. Group and apply it to items or general ledger accounts. Withholding Tax Posting Setup using the two groups above. If needed, you can override the product posting group on purchase document lines using the Withholding Tax Prod. Post. Group field. Using withholding tax Withholding tax applies automatically when you're working with purchase documents. When you post a document that includes withholding tax, Business Central creates a withholding tax entry. You can also use the Calculate and post withholding tax settlements action to process withholding tax for a specific period based on the withholding tax entries you already posted.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/calculate-withholding-taxes-vendors"
-    },
     "da": {
       "title": "Beregn A-skat for leverandører",
       "summary": "Du kan beregne A-skat for leverandører i standardversionen af Business Central.",

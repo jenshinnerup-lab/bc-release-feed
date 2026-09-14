@@ -2,12 +2,6 @@
   "id": "7bab879a0cac563a",
   "title": "Find pages and reports with advanced Tell Me search",
   "languages": {
-    "en": {
-      "title": "Find pages and reports with advanced Tell Me search",
-      "summary": "Find pages and reports with the advanced Tell Me feature that uses AI and search embedding technology.",
-      "details": "### Business value\n\nWhen you're searching for reports or pages but can't find what you need, it's frustrating and slows down your work. This AI-powered feature helps you quickly locate any page or report, even when you don't remember the exact name. You'll spend less time searching and more time getting work done.\n\n### Feature details\n\nThis feature adds an advanced search option in Tell Me that finds results based on semantic meaning, not just exact text matches. It considers various page properties and additional search terms to provide an ordered list of relevant results. You can use advanced search from the role/report explorer or directly from Tell Me (Alt+Q). From the role or report explorer, go to the Find box, enter a search term, and then select Try Advanced. Tell Me opens to the Advanced tab. The search terms entered in the Find box are automatically copied to Tell Me, where the search results are shown. From here, you can enter other search terms to try again. Note This feature is available only for Business Central online. In 2025 release wave 1, you need to enable it in Feature Management with the Preview semantic similarity search on application metadata switch.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/find-pages-reports-advanced-tell-me-search"
-    },
     "da": {
       "title": "Find sider og rapporter med avanceret Fortæl mig søgning",
       "summary": "Find sider og rapporter med den avancerede funktion Fortæl mig, der bruger AI og søgeintegrationsteknologi.",

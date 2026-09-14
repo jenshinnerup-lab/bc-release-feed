@@ -2,12 +2,6 @@
   "id": "b95699fa3e76d48f",
   "title": "Use new APIs for analyzing approval workflows for auditors and IT staff",
   "languages": {
-    "en": {
-      "title": "Use new APIs for analyzing approval workflows for auditors and IT staff",
-      "summary": "Read-only approval APIs enable secure workflow data access for auditing, compliance, and Power BI reporting, boosting governance and insights.",
-      "details": "### Business value\n\nThis feature enhances transparency and control by enabling secure, read-only access to approval workflows and user actions. Businesses can leverage these APIs to build advanced auditing and compliance reports in tools like Power BI, ensuring stronger governance and accountability. Additionally, integration with Microsoft Copilot Studio and MCP Server opens opportunities for intelligent automation and analytics, driving efficiency and insight. By isolating permissions for API access, organizations maintain robust security while empowering authorized teams to innovate confidently.\n\n### Feature details\n\nIn this release wave, we're introducing read-only APIs on the (workflow) approval system. This allows for establishing security and auditing analytics and reporting outside Business Central—for example, creating reports with Power BI or agents with Microsoft Copilot Studio and MCP Server for Business Central. The APIs are read-only and allow querying for: Workflow Workflow and User mappings Workflow, User, and Action history We're also introducing a new permission set that allows a user to use approval APIs. This shouldn't be granted to standard users, but might be included in security-related permission sets.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-new-apis-analyzing-approval-workflows-auditors-it-staff"
-    },
     "da": {
       "title": "Brug nye API'er til analyse af godkendelsesarbejdsprocesser for revisorer og it-medarbejdere",
       "summary": "Skrivebeskyttede godkendelses-API'er muliggør sikker adgang til arbejdsprocesdata til overvågning, overholdelse af angivne standarder og Power BI-rapportering, hvilket øger styringen og indsigten.",

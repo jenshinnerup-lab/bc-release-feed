@@ -2,12 +2,6 @@
   "id": "17ca994d0fec43a3",
   "title": "Install Field Service Integration with Business Central from Marketplace",
   "languages": {
-    "en": {
-      "title": "Install Field Service Integration with Business Central from AppSource",
-      "summary": "Install the Field Service Integration app from AppSource.",
-      "details": "### Business value\n\nThe Field Service Integration application that you install from AppSource improves the integration experience. It reduces the complexity of the setup and prepares the integration for future scalability and flexibility. The application minimizes disruption for existing users while enabling broader adoption.\n\n### Feature details\n\nTo avoid disrupting existing integrations to Sales for customers who aren't using the Field Service integration, install and enable the Field Service Integration app from AppSource. Although this approach adds steps to set up the Field Service integration, the process is documented. The Set up integration to Dynamics 365 Sales assisted setup guide, which is currently a prerequisite for integrating with Field Service, now includes an optional step to install the Field Service Integration app from AppSource. You can also set up the integration from the Dynamics 365 Sales Integration Setup page by using the Field Service Integration App action in the Field Service action group. This action takes you to the AppSource page to install the Field Service Integration application. After you install the Field Service Integration application, run the Set up integration to Dynamics 365 Field Service assisted setup guide, or enable the integration from the Dynamics 365 Field Service Integration Setup page. The remaining steps to set up an integration with Field Service are the same. For more information, see Integrate with Dynamics 365 Field Service.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/install-field-service-integration-business-central-appsource"
-    },
     "da": {
       "title": "Installér Field Service-integration med Business Central fra AppSource",
       "summary": "Installer Field Service Integration-appen fra AppSource.",

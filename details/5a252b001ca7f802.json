@@ -2,12 +2,6 @@
   "id": "5a252b001ca7f802",
   "title": "Use Expense Agent in German, Danish, French, and Spanish",
   "languages": {
-    "en": {
-      "title": "Use Expense Agent in German, Danish, French, and Spanish",
-      "summary": "Use Expense Agent in multiple languages to support localized expense capture and approvals across countries/regions, including Europe, North America, and APAC.",
-      "details": "### Business value\n\nThis feature enables organizations that operate across multiple countries/regions to adopt Expense Agent with a localized user experience. Localization removes barriers to adoption and improves usability for employees and approvers. By supporting languages such as German, Danish, French, and Spanish, alongside English-speaking countries/regions, organizations can standardize expense processes globally while maintaining a familiar and clear interface for local users.\n\n### Feature details\n\nExpense Agent supports additional languages and regions, enabling a localized experience for users in countries/regions such as Australia, Austria, Canada, Denmark, France, Germany, New Zealand, Spain, and the United Kingdom. The user interface, user interactions, and key expense management workflows such as receipt submission, expense review, report generation, and approval actions are available in the supported languages. Localization ensures that expense submitters and approvers can work in their native language across different entry points, including the web app and mobile experiences. The consistent multilingual support aligns with the broader agent architecture and workflows, ensuring that core capabilities such as expense capture, categorization, validation, and approval work seamlessly regardless of language or region.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-expense-agent-german-danish-french-spanish-languages"
-    },
     "da": {
       "title": "Brug Udgiftsagent på tysk, dansk, fransk og spansk",
       "summary": "Brug Expense Agent på flere sprog til at understøtte lokaliseret udgiftsregistrering og godkendelser på tværs af lande/områder, herunder Europa, Nordamerika og APAC.",

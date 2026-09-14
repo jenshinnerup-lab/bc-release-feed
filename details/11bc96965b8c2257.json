@@ -2,12 +2,6 @@
   "id": "11bc96965b8c2257",
   "title": "Manage employee expenses using expense reports",
   "languages": {
-    "en": {
-      "title": "Manage employee expenses using expense reports",
-      "summary": "Manage employee expenses in Business Central with native Expense Reports, eliminating reliance on third-party tools.",
-      "details": "### Business value\n\nExpense management is a critical process for most organizations, yet many Business Central customers have relied on external solutions to handle it. With native expense reports, you can capture, approve, and reimburse employee expenses directly within Business Central. This reduces complexity, improves data accuracy, and ensures a seamless experience across finance and operations without additional integrations or costs.\n\n### Feature details\n\nThe new Expense Management module introduces Expense Reports as a built-in Business Central capability. Employees can create expense categories, expense reports, add multiple expense lines into expense reports, itemize costs, calculate per diem, and record mileage. Managers can review, update, and approve or reject reports, while accountants can post reimbursements and configure posting accounts for different expense types. The following are some key highlights: Expense Capture: Enter expenses manually into Expense Reports, itemize, add participants, and calculate per diem. Post your expense reports when they're ready and get Posted Expense Reports and Expense Ledger Entries for reports and analyses. Approval Workflow: Managers can review, edit, and approve or reject reports. Employees can track approval status. Reimbursement Posting: Post reimbursements to create employee ledger entries and expense ledger entries with automated document numbering and configurable accounts using Expense Categories and Expense Posting Groups. This feature closes a long-standing gap by enabling you to use standard Business Central features to manage expenses.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/manage-employee-expenses-using-expense-reports"
-    },
     "da": {
       "title": "Administrer medarbejderudgifter ved hjælp af udgiftsrapporter",
       "summary": "Administrer medarbejderudgifter i Business Central med indbyggede udgiftsrapporter, hvilket eliminerer behovet for tredjepartsværktøjer.",

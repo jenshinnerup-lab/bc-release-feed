@@ -2,12 +2,6 @@
   "id": "e1c24a7c6958c3ea",
   "title": "Add data fields to report layouts using Word add-in",
   "languages": {
-    "en": {
-      "title": "Add data fields to report layouts using Word add-in",
-      "summary": "Use the new Word add-in task pane to simplify report creation with easy data insertion, tree navigation, and helpful tooltips for better accuracy.",
-      "details": "### Business value\n\nThis new task pane in the Word add-in streamlines the process of inserting data items and repeaters, making report creation faster and more intuitive. The tree structure view allows users to easily navigate and manage data, captions, and metadata. Tooltips provide helpful descriptions of fields, reducing errors and improving user confidence. Overall, this feature enhances productivity and ensures more accurate, user-friendly reporting workflows.\n\n### Feature details\n\nThe Word add-in task pane lets you insert data items, repeaters, and fields directly into your layout document. It provides a more user-friendly alternative to working directly with the XML Mapping pane for dataset fields. To open the task pane in Word, select the Business Central tab and then select Add Data. Expand the collapsible tree to view data, labels, and report metadata together, helping you maintain context while building layouts. When a field has a defined tooltip, it shows a short description to guide correct selection and reduce errors. For example, to add a data field, place your cursor in the document where you want it. In the task pane, select the field and then select Add field. If you already have the Dynamics 365 Business Central Word add-in installed, the add-in is automatically updated to include the new task pane. Otherwise, learn how to install the add-in at Use the Word add-in for report layouts.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/add-data-fields-report-layouts-using-word-add-in"
-    },
     "da": {
       "title": "Føj datafelter til rapportlayout ved hjælp af Word-tilføjelsesprogram",
       "summary": "Brug den nye opgaverude i Word-tilføjelsesprogrammet til at forenkle oprettelsen af rapporten med nem indsættelse af data, trænavigation og nyttige værktøjstip for at opnå større nøjagtighed.",

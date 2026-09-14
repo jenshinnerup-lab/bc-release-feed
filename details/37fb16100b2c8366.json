@@ -2,12 +2,6 @@
   "id": "37fb16100b2c8366",
   "title": "Scroll through more records in lists",
   "languages": {
-    "en": {
-      "title": "Scroll through more records in lists",
-      "summary": "Scroll to load more records in any list.",
-      "details": "### Business value\n\nAs business grows and more diverse data is captured across business processes, information workers need increasingly efficient tools to explore, analyze, and act on their data. Working with large tables has never been easier in the Business Central Web client; as you scroll vertically through records in a list, records are loaded on demand to provide a smooth browsing experience that now scales to significantly more records.\n\n### Feature details\n\nBusiness Central has been updated with technical optimizations that reduce the memory footprint of loaded records. As a result, users can continue scrolling to load significantly more records in a list. This applies to all types of lists, such as the list of Items or Contacts, and includes worksheets, list parts, and list pages displayed as rows or tiles, on any form factor. The maximum number of records that can be loaded remains subject to various conditions, including available memory on the client device, choice of browser, and other activity in Business Central. Enabling ahead of time This enhancement will be automatically enabled for all environments from Update 22.0, but administrators can enable it as early as Update 21.3. To enable features ahead of time, sign in to your online environment, open Feature Management, and then enable Feature Update: Scroll through more records in lists for all users on the environment. In Update 21.3, this enhancement is not enabled for newly created environments. From Update 21.5, newly created environments will have this enhancement automatically enabled, but it can be turned off from the Feature Management page.\n\n### Additional resources\n\nLast updated on 2023-01-26 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/scroll-through-more-records-lists"
-    },
     "da": {
       "title": "Rulle gennem flere poster på lister",
       "summary": "Rulle for at indlæse flere poster på en hvilken som helst liste.",

@@ -2,12 +2,6 @@
   "id": "92d5643143212ad4",
   "title": "Use the e-documents framework in the Spanish version (public preview)",
   "languages": {
-    "en": {
-      "title": "Use the e-documents framework in the Spanish version",
-      "summary": "Use electronic receipts and invoices to reduce cost and have a greater environmental impact.",
-      "details": "### Business value\n\nBy introducing electronic documents for invoices, this feature significantly enhances business efficiency. It streamlines administrative processes and reduces operational costs. The feature minimizes manual data entry errors and speeds up transaction processing. It enables quicker and more accurate financial calculations and tracking. By reducing the need for physical storage space and paper usage, it supports environmental sustainability. Real-time access to electronic documents improves transparency and makes it easier to make informed decisions. This feature leads to increased productivity and customer satisfaction, and it enables full compliance in Spain.\n\n### Feature details\n\nThe system localizes the E-Documents framework for Spain, so you can use the PEPPOL BIS3 or FacturaE formats for electronic invoices. The system enables the PEPPOL BIS3 format globally, but you can use the FacturaE format only through the Spanish localization. To send electronic invoices, choose to use one of the existing PEPPOL service providers as a communication channel through access points. Or, exchange documents by uploading them manually or by using email.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/use-e-documents-framework-spanish-version"
-    },
     "da": {
       "title": "Bruge e-dokumentstrukturen i den spanske version",
       "summary": "Brug elektroniske kvitteringer og fakturaer for at reducere omkostningerne og påvirke miljøet mere positivt.",

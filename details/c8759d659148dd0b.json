@@ -2,12 +2,6 @@
   "id": "c8759d659148dd0b",
   "title": "Alternative posting groups for employees in Czechia",
   "languages": {
-    "en": {
-      "title": "Alternative posting groups for employees in Czechia",
-      "summary": "This feature corrects G/L entries to prevent turnover inflation on employee balance accounts, supporting accurate financial analysis.",
-      "details": "### Business value\n\nWith this modification, turnovers on employee balance accounts will remain unchanged and values will be preserved during analysis.\n\n### Feature details\n\nIf different employee posting groups are used in a general journal or payment document, the G/L entries are automatically reallocated among the accounts of each posting group when employee entries are applied. The previous posting method for applying items increased turnover on both the debit and credit sides by the same amount. With this modification, the balancing is treated as a correction—meaning that postings are made to only one side, either debit or credit account. This approach prevents turnover from increasing on balance accounts and ensures that values remain accurate in analysis.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/alternative-posting-groups-employees-czechia"
-    },
     "da": {
       "title": "Alternative bogføringsgrupper for medarbejdere i Tjekkiet",
       "summary": "Denne funktion korrigerer finansposter for at forhindre omsætningsinflation på medarbejdersaldokonti, der understøtter nøjagtige økonomiske analyser.",

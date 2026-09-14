@@ -2,12 +2,6 @@
   "id": "ff0d0fdd1a0613fe",
   "title": "Delete incorrect e-documents and avoid duplicates",
   "languages": {
-    "en": {
-      "title": "Delete incorrect e-documents and avoid duplicates",
-      "summary": "Delete incorrect or duplicate e-documents, and avoid creating new duplicates.",
-      "details": "### Business value\n\nYou can easily discard incorrect or duplicate e-documents. You don't need to keep unprocessed e-documents, so you save space in data storage.\n\n### Feature details\n\nBusiness Central doesn't create new incoming e-documents if you import a batch that contains duplicates. Duplicates are documents with the same vendor, external document number, and date. If a duplicate or incorrect e-document exists in Business Central, administrators can delete it by running the Delete Related Document action. However, you can't delete e-documents that are already processed and connected with purchase documents.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/delete-incorrect-e-documents-avoid-duplicates"
-    },
     "da": {
       "title": "Slette forkerte e-dokumenter og undgå dubletter",
       "summary": "Slette forkerte eller duplikerede e-dokumenter, og undgå at oprette nye dubletter.",

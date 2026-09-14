@@ -2,12 +2,6 @@
   "id": "58f04e6e121e4c4c",
   "title": "Service-to-service authentication",
   "languages": {
-    "en": {
-      "title": "Service-to-service authentication",
-      "summary": "Service-to-service authentication",
-      "details": "### Business value\n\nService-to-service authentication provides the means to connect to Dynamics 365 Business Central as an application.\n\n### Feature details\n\nIn Dynamics 365 Business Central, service-to-service (S2S) authentication will enable automation, daemons, and background jobs and other types of services to access data, without direct control of an interactive user. Client Credentials flow is the type of grant that is commonly used for service-to-service interactions that must run in the background. To enable access through S2S, an Azure Active Directory application must be registered on the Azure Active Directory page in Business Central, and then the application needs to be assigned permissions and consented to. Client Credentials flow can then be used to access Business Central data. S2S cannot be used in cases where an existing license must be applied. Requests made using S2S will use the existing throttling limits.\n\n### See also\n\nUsing service-to-service authentication (docs)\n\n### Additional resources\n\nLast updated on 2021-08-17 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/service-service-authentication"
-    },
     "da": {
       "title": "Service-til-service godkendelse",
       "summary": "Service-til-service godkendelse",

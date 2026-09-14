@@ -2,12 +2,6 @@
   "id": "077b6ab2a8ccabaa",
   "title": "Create lists and dictionaries of interfaces in AL",
   "languages": {
-    "en": {
-      "title": "Create lists and dictionaries of interfaces in AL",
-      "summary": "Create lists and dictionaries of interfaces in AL for increased flexibility in handling interface implementations.",
-      "details": "### Business value\n\nIn the Business Central AL language, dictionaries and lists are powerful data structures that offer efficient lookup of key-value pairs and ordered collections. Both data structures let you dynamically manage collections of data. Now, you can create lists and dictionaries of interfaces. This capability gives you more flexibility and power when you work with interface abstractions.\n\n### Feature details\n\nNow you can create lists or dictionaries of interfaces. The syntax follows these patterns. They align with the syntax for creating a List or Dictionary of a simple type: List of [Interface IFoo] Dictionary of [; Interface IFoo] In the system application, you can find complete examples of using a list of interfaces in the Telemetry Logger. The following examples show how to create lists and dictionaries with interfaces.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/create-list-dictionary-interfaces-al"
-    },
     "da": {
       "title": "Oprette lister og ordbøger over grænseflader i AL.",
       "summary": "Opret lister og ordbøger over grænseflader i AL for øget fleksibilitet i håndteringen af grænsefladeimplementeringer.",

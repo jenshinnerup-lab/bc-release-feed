@@ -2,12 +2,6 @@
   "id": "ba115add658c8b53",
   "title": "Prioritize invoice draft changes using Payables Agent confidence level",
   "languages": {
-    "en": {
-      "title": "Prioritize invoice draft changes using Payables Agent confidence level",
-      "summary": "The Payables Agent displays its self-assessed confidence on the invoice draft suggestions, helping users prioritize changes.",
-      "details": "### Business value\n\nTrust and transparency are important for companies to adopt AI technology, particularly agents. To build your trust and increase transparency, the agent now shows a confidence level along with a reason on each suggestion it makes in invoice drafts. This information helps you prioritize where to focus your review and make corrections. You learn how the agent works and improve its matching capability for future invoices.\n\n### Feature details\n\nThe Payables Agent is more transparent about the suggestions it makes in new invoice drafts. As before, when you select the information icon next to a suggested field value on the purchase document draft, the reason for the suggestion appears in a tooltip. Now, you also get a self-assessed confidence level for the suggestion, which indicates how confident the agent is that a suggested field value is correct. The confidence level helps agent supervisors in the accounts payable team to prioritize where to focus their review when they assess the invoices that the Payables Agent drafts. Focus on reviewing and correcting lower confidence suggestions first to improve the agent's future performance.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/prioritize-invoice-draft-changes-using-payables-agent-confidence-level"
-    },
     "da": {
       "title": "Prioriter ændringer af fakturaudkast ved hjælp af tillidsniveauet Kreditoragent",
       "summary": "Payables Agent viser sin selvvurderede tillid til forslag til fakturaudkast, hvilket hjælper brugerne med at prioritere ændringer.",

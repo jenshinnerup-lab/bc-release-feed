@@ -2,12 +2,6 @@
   "id": "b76b61b46980d077",
   "title": "Add pictures to item variants to differentiate product options",
   "languages": {
-    "en": {
-      "title": "Add pictures to item variants to differentiate product options",
-      "summary": "Manage and display pictures for item variants to easily distinguish colors, sizes, and other product options.",
-      "details": "### Business value\n\nAdding pictures of item variants can reduce confusion when working with large assortments of similar variants. Tiles and tall tiles modes on the list help you quickly identify each variant, which improves accuracy in the variant selection, manufacturing, fulfillment, and sales processes.\n\n### Feature details\n\nYou can now store pictures for item variants, letting you add images that represent each variant, such as color or size, so you can quickly recognize differences. You can take a picture, import an existing file, export the current image, or delete it from a Picture FactBox on the Item Variant Card page. Add a picture to an item variant Open the Item Card and choose the Variants action. Select the variant that you want to update. On the Item Variant Card, in the Picture FactBox, choose one of the following actions: Import to upload a file. Take to use your device camera to capture an image. Delete if you don't want the picture. Export if you want to save the current image.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/add-pictures-item-variants-differentiate-product-options"
-    },
     "da": {
       "title": "Føj billeder til varevarianter for at skelne mellem produktvalg",
       "summary": "Administrer og vis billeder for varevarianter, så du nemt kan skelne mellem farver, størrelser og andre produktmuligheder.",

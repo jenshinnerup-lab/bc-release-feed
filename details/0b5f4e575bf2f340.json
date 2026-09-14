@@ -2,12 +2,6 @@
   "id": "0b5f4e575bf2f340",
   "title": "Use e-documents to fix unposted purchase documents",
   "languages": {
-    "en": {
-      "title": "Use e-documents to fix unposted purchase documents",
-      "summary": "You can recreate unposted purchase invoices or credit memos from an incoming standard or corrective e-document if it was accidentally deleted.",
-      "details": "### Business value\n\nMistakes happen, so it's important to fix them quickly. If you accidentally delete a purchase invoice or credit memo and can't link the incoming e-document to the correct document, you can now recreate the purchase document from the details in the e-document. Problem solved.\n\n### Feature details\n\nIf you accidentally delete a purchase invoice or credit memo, you can't connect the e-document with the regular purchase document in Business Central. To resolve the issue, run the Recreate Document action from the e-document. The action creates an unposted purchase invoice or credit memo based on the incoming document type. It uses the information in the incoming document, G/L mapping, and item references.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-e-documents-fix-unposted-purchase-credit-memos"
-    },
     "da": {
       "title": "Brug e-dokumenter til at rette ikke-bogførte købsdokumenter",
       "summary": "Du kan genskabe ikke-bogførte købsfakturaer eller -kreditnotaer fra et indgående standard eller korrigerende e-dokument, hvis det er blevet slettet ved et uheld.",

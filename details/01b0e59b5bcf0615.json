@@ -2,12 +2,6 @@
   "id": "01b0e59b5bcf0615",
   "title": "Reopen finished production orders",
   "languages": {
-    "en": {
-      "title": "Reopen finished production orders",
-      "summary": "Reopen finished production orders to correct inaccurate inventory and cost transactions.",
-      "details": "### Business value\n\nWhen you complete a production order and set its status to Finished status, you might discover a mistake. For example, consumption might be missing or the item tracking information might be incorrect for the goods you produced. You can now reopen the finished order to make adjustments so that your inventory and cost transactions are correct.\n\n### Feature details\n\nYou can easily reopen a finished production order to correct a mistake. However, to protect your data, the system enforces some restrictions: You can reopen a finished production order only once. You can't reopen an order that has no output and cost was written off to an adjustment account. To reopen a production order, use the following steps: On the Finished Production Orders page, select the order that you want to edit. Select Reopen. In the Do you want to reopen the production order? confirmation dialog, select Yes.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/reopen-finished-production-orders"
-    },
     "da": {
       "title": "Åbn afsluttede produktionsordrer igen",
       "summary": "Genåbn færdige produktionsordrer for at rette unøjagtige lager- og omkostningstransaktioner.",

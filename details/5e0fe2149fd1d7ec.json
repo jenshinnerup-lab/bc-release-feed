@@ -2,12 +2,6 @@
   "id": "5e0fe2149fd1d7ec",
   "title": "Power Pages support via Business Central virtual tables on Dataverse",
   "languages": {
-    "en": {
-      "title": "Power Pages support via Business Central virtual tables on Dataverse",
-      "summary": "Use Power Pages through Business Central virtual tables on Microsoft Dataverse.",
-      "details": "### Business value\n\nPower Pages support will enable both anonymous and authenticated external users to perform create, read, update, and delete (CRUD) operations on Business Central tables that are available as virtual tables in Microsoft Dataverse.\n\n### Feature details\n\nIn many commerce and collaboration scenarios, external users may need to participate in processes that involve Business Central data, such as bidding or onboarding, even if they are not Business Central users. With anonymous access via Power Pages, external users can perform operations on Business Central tables without signing in. Authenticated access via Power Pages requires external users to sign in to perform operations on tables or rows that are accessible to them. Business Central admins can select only the necessary operations, tables, and rows to be enabled for anonymous or authenticated access by external users. Power Pages support also enables authenticated access by internal or existing Business Central users, similar to authenticated access via Power Apps or Power Automate. We are excited to announce the preview of this feature and always appreciate your feedback and suggestions.\n\n### See also\n\nPower Pages on virtual tables (docs)\n\n### Additional resources\n\nLast updated on 2024-03-26 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/power-pages-support-via-business-central-virtual-tables-dataverse"
-    },
     "da": {
       "title": "Power Pages-understøttelse via virtuelle Business Central-tabeller på Dataverse",
       "summary": "Brug Power Pages gennem virtuelle Business Central-tabeller på Microsoft Dataverse.",

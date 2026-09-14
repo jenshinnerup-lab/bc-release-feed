@@ -2,12 +2,6 @@
   "id": "2ac437f30e41f0a6",
   "title": "Add Azure File Services API module",
   "languages": {
-    "en": {
-      "title": "Use Azure Files with Azure File Service API module",
-      "summary": "You can now call Azure Files API with the Azure Files API module.",
-      "details": "### Business value\n\nUse Azure Files to take advantage of a fully managed file share service in the cloud. The Azure File Services API module provides you with all the procedures you need to manage your Azure Files in Business Central. Integrating Azure Files in your app has never been easier.\n\n### Feature details\n\nYou can now easily take advantage of Azure Files, which offers fully managed file shares in the cloud that are accessible via the industry standard Server Message Block (SMB) protocol, Network File System (NFS) protocol, and Azure Files REST API. The Azure File Services API module leverages the REST API to provide you with all the procedures you need to manage your Azure Files in Business Central. Azure file shares can be mounted concurrently by cloud or on-premises deployments for easy access to your Business Central files. For directories in Azure File Share Services, use AL to list, create, delete, and rename them. For files in the directories, use AL to create, delete, upload, download, copy, and rename them. Integrating Azure Files in your app has never been easier. Note We'd like to thank our community for making this valuable contribution through our System Application open-source repo on GitHub",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/use-azure-files-azure-file-service-api-module"
-    },
     "da": {
       "title": "Bruge Azure Files med Azure File Service API-modul",
       "summary": "Du kan nu kalde Azure Files API med Azure Files API-modulet.",

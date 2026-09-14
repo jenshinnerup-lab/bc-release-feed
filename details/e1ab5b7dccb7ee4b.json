@@ -2,12 +2,6 @@
   "id": "e1ab5b7dccb7ee4b",
   "title": "Use enhanced Financial Reporting",
   "languages": {
-    "en": {
-      "title": "Use enhanced Financial Reporting",
-      "summary": "The no-code Financial Reporting feature enables finance departments to create financial reports and statements without developer assistance.",
-      "details": "### Business value\n\nThe enhanced Financial Reporting feature delivers significant value for report authors who can enjoy streamlined report creation with auto-filled fields, Excel-based editing, and dynamic column headings. These updates reduce manual effort, minimize errors, and support more flexible, currency-aware reporting. With these improvements, finance teams work faster and more efficiently.\n\n### Feature details\n\nThe Financial Reporting feature is enhanced with new capabilities for report viewers and authors. For financial report authors, we added the following capabilities: Demote fields as additional fields in the Options menu for the report definition. Autofill the No. and Description fields for row definitions. Get a notification to update financial report definitions when you change a name in the general ledger. Edit row definitions in Excel. Move name fields up and add description fields to card pages in the row and column definitions. Support dynamic naming for column headings in column definitions. Use column definitions in both local currency (LCY) and extra reporting currency (ACY).",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-enhanced-financial-reporting"
-    },
     "da": {
       "title": "Brug forbedret økonomirapportering",
       "summary": "Funktionen finansiel no-code-rapportering gør det muligt for økonomiafdelinger at oprette økonomiske rapporter og kontoudtog uden udviklerassistance.",

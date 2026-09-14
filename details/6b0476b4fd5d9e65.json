@@ -2,12 +2,6 @@
   "id": "6b0476b4fd5d9e65",
   "title": "Showcase Business Central with Czech localization demos",
   "languages": {
-    "en": {
-      "title": "Showcase Business Central with Czech localization demos",
-      "summary": "The Contoso Coffee app has a demo tool with Czech localization data, enabling presales specialists to showcase Business Central features in any environment.",
-      "details": "### Business value\n\nThe Contoso Coffee app's demo tool makes it easy for you to set up demos in any environment. It includes content tailored for the Czech market. This content helps boost sales and marketing efforts while providing a great user experience. This localized content makes sure that demos are relevant to the Czech market. It enables presales specialists to effectively showcase Business Central’s features in a realistic setting.\n\n### Feature details\n\nThe Contoso Coffee app offers a demo tool that comes with demo data for the Czech localization. This tool improves the Business Central experience by adding content specific to the Czech Republic on top of the base application. Install this tool in any environment so that presales specialists can run it on Cronus or MyCompany. They can get the setup and demo data they need to showcase features in different Czech localization scenarios. For Business Central on-premises, the product media includes the demo tool and data as source code.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/showcase-business-central-czech-localization-demos"
-    },
     "da": {
       "title": "Fremvis Business Central med tjekkiske lokaliseringsdemoer",
       "summary": "Contoso Coffee-appen har et demoværktøj med tjekkiske lokaliseringsdata, der gør det muligt for presales-specialister at vise Business Central funktioner i ethvert miljø.",

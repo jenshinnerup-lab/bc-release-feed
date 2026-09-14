@@ -2,12 +2,6 @@
   "id": "5d7f5be9c8a7c7fe",
   "title": "Use enhanced analytics for projects",
   "languages": {
-    "en": {
-      "title": "Use enhanced analytics for projects",
-      "summary": "The enhanced reporting and analytics for projects offer new KPIs in Power BI for better data analyses.",
-      "details": "### Business value\n\nThe improvements in reporting and analytics for the project area help your business track new key performance indicators (KPIs) and scenarios in Power BI. New capabilities for data analysis let you design different analyses on project data without a developer.\n\n### Feature details\n\nReporting and analytics for projects are improved with the new Project Planning Analysis feature. This feature simplifies ad-hoc analysis of projects through analysis mode.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-enhanced-analytics-projects"
-    },
     "da": {
       "title": "Brug forbedret analyse til projekter",
       "summary": "Den forbedrede rapportering og analyse af projekter tilbyder nye KPI'er i Power BI for at få bedre dataanalyser.",

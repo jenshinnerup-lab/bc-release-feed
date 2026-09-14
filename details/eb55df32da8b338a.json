@@ -2,12 +2,6 @@
   "id": "eb55df32da8b338a",
   "title": "Enable Sustainability features for integrations with APIs (preview)",
   "languages": {
-    "en": {
-      "title": "Achieve sustainable compliance with Business Central",
-      "summary": "Sustainability reporting with Business Central is now available.",
-      "details": "### Business value\n\nWith this feature, you can collect data on your sustainability activities and create reports. Use this solution as the foundation for meeting the European Union's Corporate Sustainability Reporting Directive (CSRD) and other ESG standards.\n\n### Feature details\n\nThis feature introduces sustainability reporting. With this new, easily extensible functionality, you can record and report on a wide range of sustainability information. The feature supports both qualitative and quantitative aspects, as well as forward-looking and retrospective data. You can also use the feature to actively reduce emissions. This feature is a valuable tool for small and midsize organizations that want to comprehensively report on sustainability initiatives. This feature helps you comply with the European Union's CSRD, which requires companies to report on the sustainability of their activities. The CSRD introduces stricter requirements for reporting and affects about 50,000 companies in the European Union. This number is more than four times the number of companies covered by the previous Non-Financial Reporting Directive (NFRD), which the CSRD replaces. The solution also supports ESG compliance with other standards. Use Sustainability Journals and Recurring Sustainability Journals to record data based on the Chart of Emission Accounts. Use different emission groups, subgroups, and formulas to simplify the collection of emissions. This feature also has Sustainability Entries where you record data for reporting. Business Central supports other emissions besides carbon footprint. You get streamlined business processes and enhanced productivity, no matter your stage in the sustainability journey. The initial release provides a foundation for future expansion and automation, with ongoing advancements in the functionality.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/achieving-sustainable-compliance-business-central"
-    },
     "da": {
       "title": "Opnå bæredygtig overholdelse af Business Central",
       "summary": "Rapportering om bæredygtighed med Business Central er nu tilgængelig.",

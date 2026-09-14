@@ -2,12 +2,6 @@
   "id": "aba6e8217e07806e",
   "title": "Add unit cost in subscription lines",
   "languages": {
-    "en": {
-      "title": "Add unit cost in subscription lines",
-      "summary": "Calculate costs of subscriptions effectively by using unit costs on subscription lines.",
-      "details": "### Business value\n\nEffective cost control starts with accurate data. To evaluate profit, you need unit costs on subscription lines so you can compare revenue.\n\n### Feature details\n\nSubscription Billing supports unit costs for subscription lines, starting with the sales process. The subscriptions display unit costs, and the billing proposal and document lines you create include these costs. In a usage data scenario, unit costs come from actual costs based on the usage data your supplier provides.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/add-unit-cost-subscription-lines"
-    },
     "da": {
       "title": "Tilføje enhedsomkostninger i abonnementslinjer",
       "summary": "Beregne omkostninger ved abonnementer effektivt ved at bruge enhedsomkostninger på abonnementslinjer.",

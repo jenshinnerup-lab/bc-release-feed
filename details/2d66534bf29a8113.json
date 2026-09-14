@@ -2,12 +2,6 @@
   "id": "2d66534bf29a8113",
   "title": "Hide lines with zero quantity in Czech document reports",
   "languages": {
-    "en": {
-      "title": "Hide lines with zero quantity in Czech document reports",
-      "summary": "Hide lines with zero quantity in Czech localization reports for Sales or Purchase documents by using the toggle to enhance clarity and control visibility.",
-      "details": "### Business value\n\nWhen you hide lines with zero quantity in the Czech localization document reports, you make these reports clearer. The Hide lines with zero quantity toggle prevents the system from printing order lines in the posted document when there's no quantity to process.\n\n### Feature details\n\nBy setting the Hide lines with zero quantity toggle in the dialog for the following Czech localization document reports, you can control whether the report prints or hides lines with zero quantity: Sales Invoice Sales Shipment Sales Credit Memo Sales Return Receipt Purchase Invoice",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/hide-lines-zero-quantity-czech-document-reports"
-    },
     "da": {
       "title": "Skjule linjer med nul antal i tjekkiske dokumentrapporter",
       "summary": "Skjul linjer med nul mængde i tjekkiske lokaliseringsrapporter for salgs- eller købsdokumenter ved at bruge til/fra-knappen til at forbedre klarheden og kontrollere synligheden.",

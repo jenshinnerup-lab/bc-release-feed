@@ -2,12 +2,6 @@
   "id": "bad83254e6f7c010",
   "title": "Use checkout currency when you create sales documents from Shopify orders",
   "languages": {
-    "en": {
-      "title": "Use checkout currency when you create sales documents from Shopify orders",
-      "summary": "You can choose the shop or presentment currency when you process imported Shopify orders.",
-      "details": "### Business value\n\nThis capability gives you accurate currency handling for Shopify Markets and other multi‑currency scenarios. You avoid unnecessary currency conversions and preserve the exact amounts your customers paid at checkout. By using the currency that best fits your operational and accounting needs, you get easier reconciliation across Shopify and Business Central.\n\n### Feature details\n\nYou can control whether Business Central creates sales documents from Shopify orders in the shop currency or in the customer’s checkout (presentment) currency. This gives you full flexibility when working with Shopify Markets or any store that sells in multiple currencies. A new Currency Handling setting on the Shopify Shop Card lets you choose: Shop currency (default) Presentment currency When you select Presentment currency, Business Central uses the currency and amounts that the customer saw and paid during checkout when it creates sales orders and credit memos. The amounts in local currencies are calculated based on the exchange rates defined in Business Central. Business Central stores the choice of currency handling on each Shopify order at processing time. How it works When you import Shopify orders, Business Central retrieves both the shop currency and the presentment currency with their amounts. If the Shopify Shop Card is set to Presentment currency, sales orders and credit memos use the presentment currency and corresponding amounts. The Suggest Payments function also uses presentment currency when applicable. Pages such as Shopify Orders, Order Lines, Shipping Charges, Refunds, Transactions, and Returns display presentment currency fields whenever the order or shop uses presentment currency. Shop currency values remain visible for reference.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-checkout-currency-when-create-sales-documents-shopify-orders"
-    },
     "da": {
       "title": "Brug betalingsvaluta, når du opretter salgsdokumenter via Shopify-ordrer",
       "summary": "Du kan vælge butiksvalutaen eller præsentationsvalutaen, når du behandler importerede Shopify-ordrer.",

@@ -2,12 +2,6 @@
   "id": "80783ad711dec1a2",
   "title": "Use user interface enhancements for better experience",
   "languages": {
-    "en": {
-      "title": "Use user interface enhancements for better experience",
-      "summary": "Additional enhancements to user interface of Dynamics 365 Business Central.",
-      "details": "### Business value\n\nAs a Business Central user, you interact with the web client every day. Enhancements and improvements to the UI give you more flexibility and productivity. With these enhancements, you can manage your tasks and complete them more efficiently.\n\n### Feature details\n\nWe continuously improve the experience by adding new features, adjusting the visual style to match modern design principles, and responding to user feedback. This feature introduces the following enhancements: Updated the FactBox pane with a new layout that has rounded corners. Updated the Power BI embedded experience with adjusted controls and appearance. Updated Role Explorer and Report Explorer to display page and report descriptions as extended teaching tooltips. Added an option to Role Explorer and Report Explorer to open pages and reports in a separate window without closing the Explorer. Updated the Search field in the environment and company picker with a search icon and instructional text. Added a divider between system and application actions in context menus on lists. Refreshed the icon for prompt guides in chat with Copilot. For more information about customizing the user interface and staying productive, see Work with Business Central.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-user-interface-enhancements-better-experience"
-    },
     "da": {
       "title": "Bruge forbedringer af brugergrænsefladen til en bedre oplevelse",
       "summary": "Yderligere forbedringer af brugergrænsefladen af Dynamics 365 Business Central.",

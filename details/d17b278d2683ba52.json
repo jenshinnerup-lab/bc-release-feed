@@ -2,12 +2,6 @@
   "id": "d17b278d2683ba52",
   "title": "Copying environments of different types",
   "languages": {
-    "en": {
-      "title": "Copying environments of different types",
-      "summary": "Business Central administrators can copy environments of different types.",
-      "details": "### Business value\n\nImproved flexibility in how you manage the environments.\n\n### Feature details\n\nAt the different stages of implementation, testing, support, and maintenance of a Business Central tenant, Business Central online now provides admins with more flexibility when they work with multiple environments. In earlier versions, you could copy a production environment to a sandbox environment in the Business Central admin center. This release wave adds support for copying the environments within and across different environment types as shown in this list: Production to production Sandbox to sandbox Sandbox to production\n\n### Thank you for your idea\n\nThank you for submitting this idea. We listened to your idea, along with comments and votes, to help us decide what to add to our product roadmap.\n\n### See also\n\nCopy an environment (docs)\n\n### Additional resources\n\nLast updated on 2021-12-14 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave2/smb/dynamics365-business-central/copying-environments-different-types"
-    },
     "da": {
       "title": "Kopiere miljøer af forskellige typer",
       "summary": "Business Central-administratorer kan kopiere miljøer af forskellige typer.",

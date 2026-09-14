@@ -2,12 +2,6 @@
   "id": "a987e0c8b6239fc2",
   "title": "Capture sustainability data with general journals",
   "languages": {
-    "en": {
-      "title": "Capture sustainability data with general journals",
-      "summary": "You can post financial and sustainability data in one record, thanks to new features in general journals that allow them to capture emission details.",
-      "details": "### Business value\n\nWhen businesses record greenhouse gases with general journals, they can track and reduce their carbon footprint and use double materiality more effectively. By integrating environmental data with financial records, companies can identify high-emission activities. They can make informed sustainability decisions and enhance their corporate responsibility. This proactive approach not only meets regulatory requirements but also attracts eco-conscious customers. It strengthens brand reputation and can lead to cost savings through more efficient resource management.\n\n### Feature details\n\nIf your financial data includes emission details, post both types of data in a single line on the General Journals page. Open a general journal and add the usual financial details. Then select the sustainability account and enter the emission amounts you track for each account in the Total Emission CO2, Total Emission CH4, and Total Emission N2O fields. On the General Ledger Entries page, use the Find entries action to easily find the related sustainability entry. You can also view this information on the Posted General Journal page.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/capture-sustainability-data-general-journals"
-    },
     "da": {
       "title": "Registrer bæredygtighedsdata med finanskladder",
       "summary": "Du kan bogføre økonomiske data og bæredygtighedsdata i én post takket være nye funktioner i finanskladder, der giver dem mulighed for at registrere emissionsoplysninger.",

@@ -2,12 +2,6 @@
   "id": "5f6e6765ce8f69b3",
   "title": "Evaluate AL coding agents with BC-Bench",
   "languages": {
-    "en": {
-      "title": "Evaluate AL coding agents with BC-Bench",
-      "summary": "BC‑Bench measures agent performance on real AL bug fixes and test creation in VS Code, using reproducible tasks.",
-      "details": "### Business value\n\nBC‑Bench provides a repeatable benchmark for AL bug fix and test creation tasks in Business Central, producing measurable results that increase trust in GitHub Copilot agents and accelerate adoption across partners and the community.\n\n### Feature details\n\nBC‑Bench is a benchmarking framework for evaluating agent performance on real‑world Dynamics 365 Business Central AL coding tasks. Inspired by SWE‑Bench, it provides measurable, repeatable results instead of subjective impressions, helping developers understand what improvements actually work. The benchmark focuses on realistic Business Central development scenarios, such as bug fixes and test creation, using curated AL code problems derived from real pull requests. It establishes a consistent evaluation baseline across agent context, instructions, and tooling, enabling objective comparison over time. By producing transparent metrics, BC‑Bench increases trust in Copilot capabilities, supports data‑driven investment decisions, and helps partners and the community clearly understand an agent's strengths and limitations for Business Central development.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/evaluate-al-coding-agents-bc-bench"
-    },
     "da": {
       "title": "Evaluer AL-kodningsagenter med BC-Bench",
       "summary": "BC-Bench måler agenters ydeevne på reelle fejlrettelser i AL og testoprettelse i VS Code ved hjælp af reproducerbare opgaver.",

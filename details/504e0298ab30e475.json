@@ -2,12 +2,6 @@
   "id": "504e0298ab30e475",
   "title": "Fraud prevention headers for clients in the UK",
   "languages": {
-    "en": {
-      "title": "Fraud prevention headers for clients in the UK",
-      "summary": "Support for fraud prevention headers and improved security for Making Tax Digital.",
-      "details": "### Business value\n\nSupport for more scenarios for fraud prevention headers and improved security for Making Tax Digital.\n\n### Feature details\n\nHer Majesty's Revenue and Customs (HMRC) has implemented the first steps of Making Tax Digital, which imposes new requirements on VAT-registered businesses above the VAT threshold. The electronic statements must also include information that helps prevent fraud. Business Central supports Making Tax Digital and the GovTalk service. With this update, Business Central supports all fraud prevention headers according to the HMRC mandate.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/fraud-prevention-headers-clients-uk"
-    },
     "da": {
       "title": "Overskrifter til forebyggelse af svindel for klienter i Storbritannien",
       "summary": "Understøttelse af headers til forebyggelse af svindel og forbedret sikkerhed for at gøre moms digital.",

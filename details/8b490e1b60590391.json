@@ -2,12 +2,6 @@
   "id": "8b490e1b60590391",
   "title": "Track item charges across value chain automation in Scope 3",
   "languages": {
-    "en": {
-      "title": "Track item charges across value chain automation in Scope 3",
-      "summary": "Track inventory emissions by collecting data on item charges during the purchase process and track emissions under Scope 3.",
-      "details": "### Business value\n\nSustainability Scope 3 value chain process automation uses standard ERP processes to streamline how you collect, calculate, and report indirect emissions data across your company's upstream and downstream value chain. These processes improve accuracy, efficiency, and compliance with sustainability goals. This feature gives you flexibility by letting you track emissions from the purchase process, add item charges to your primary item emissions, and start the final emission calculation.\n\n### Feature details\n\nScope 3 is important for accurate tracking because it covers most emissions, affects business decisions, and matches many regulations. Scope 3 is also the most complex category to measure because it needs data from many sources. For example, you need data from vendors and internal operations like transfers and manufacturing. When you post emission values with purchase invoices, Business Central creates a Sustainability Ledger Entry. It also creates a new Sustainability Value Entry that references the Item Ledger Entry with the same item ledger entry type. This entry records details related to the calculated CO2e Amount. This step starts the emission valuation process. Business Central tracks all emission changes through other processes. This tracking extends to cover Item Charges and external transportation emissions for purchased items. To set up this tracking, you configure a Default Sustainability Account on the Item Charges page. You also enter emission values for each line on the purchase document. When you apply an item charge to items, the charge also applies emissions. This feature supports only the Average model of emission calculation.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/track-item-charges-across-value-chain-automation-scope-3"
-    },
     "da": {
       "title": "Opfolg varerelaterede gebyrer på tværs af automatiseringen af værdikæden i Scope 3",
       "summary": "Spor lageremissioner ved at indsamle data om varegebyrer under købsprocessen og spor emissioner under Område 3.",

@@ -2,12 +2,6 @@
   "id": "e04b3b578ca57b2e",
   "title": "View SQL call information in performance profiles",
   "languages": {
-    "en": {
-      "title": "View SQL call information in performance profiles",
-      "summary": "Investigate SQL calls using the performance profiler.",
-      "details": "### Business value\n\nUnderstanding SQL performance when troubleshooting in the cloud without direct SQL access can be hard. Now you have the capability to track SQL calls, both when using the in-client profiler in the web client as well as when capturing snapshots from Visual Studio Code. This will help consultants and developers to faster identify and troubleshoot SQL issues in customer production environments, providing a better customer experience.\n\n### Feature details\n\nYou can now see which calls are made to SQL during a performance profile, and therefore better assess whether bad performance is due to AL code inefficiencies or resulting SQL calls. SQL call information is supported both in profiles captured in the client (interactively or via scheduled profiling), and Visual Studio Code via snapshots. Note that only sampling mode is supported, so this needs to be set for the Visual Studio Code snapshot capture—it's the only mode supported in-client and therefore implicitly set there. For scheduled profiles, in the Performance Profiles overview page you can see the total duration of captured SQL calls in partner code, number of calls, and the duration of platform calls. When drilling into a specific profile, you can see the actual SQL calls that are made. You can hover over them and copy the queries.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/view-sql-call-information-performance-profiles"
-    },
     "da": {
       "title": "Få vist OPLYSNINGER om SQL-opkald i ydeevneprofiler",
       "summary": "Undersøg SQL-kald ved hjælp af performance profiler.",

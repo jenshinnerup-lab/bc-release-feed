@@ -2,12 +2,6 @@
   "id": "e3bc310b29ea9217",
   "title": "Reverse drop shipments when sales and purchase documents aren't invoiced",
   "languages": {
-    "en": {
-      "title": "Reverse drop shipments when sales and purchase documents aren't invoiced",
-      "summary": "Enable reversal of drop‑shipment receipts and shipments when neither document is invoiced.",
-      "details": "### Business value\n\nThis enhancement reduces errors and prevents incorrect customer or vendor data, and improves accuracy in high‑volume environments where manual return orders aren't practical. You correct mistakes faster, avoid redundant documents, and maintain clean application history on item ledger entries.\n\n### Feature details\n\nYou can reverse posted drop shipments when both the sales shipment and the related purchase receipt aren't yet invoiced. Today, when you post a purchase receipt for a drop shipment, Business Central also posts the linked sales shipment and you can't undo the receipt. It's difficult to correct mistakes and often forces you to create credit memos, adjust quantities, or manually recreate sales and purchase lines. You can now undo a sales shipment that originates from a drop shipment. Business Central reverts the linked purchase receipt, creates correction entries, and reapplies the purchase and sales entries to their reversal entries. To reverse a drop shipment, open a posted sales shipment connected to it and choose Undo Shipment.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/reverse-drop-shipments-when-sales-purchase-documents-arent-invoiced"
-    },
     "da": {
       "title": "Tilbagefør direkte leveringer, når salgs- og købsdokumenter ikke er faktureret",
       "summary": "Aktiver muligheden for at tilbageføre direkte leveringsmodtagelser og -forsendelser, når hverken salgs- eller købsdokumentet er faktureret.",

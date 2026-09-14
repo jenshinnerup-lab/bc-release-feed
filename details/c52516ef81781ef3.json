@@ -2,12 +2,6 @@
   "id": "c52516ef81781ef3",
   "title": "Provide carbon equivalent data for sales based on Scope 3 automation",
   "languages": {
-    "en": {
-      "title": "Provide carbon equivalent data for sales based on Scope 3 automation",
-      "summary": "Provide accurate information about emissions for items when you sell them based on sustainability value entries.",
-      "details": "### Business value\n\nSustainability Scope 3 value chain process automation uses standard ERP processes to streamline the collection, calculation, and reporting of indirect emissions data across the upstream and downstream corporate value chain. These processes improve accuracy, efficiency, and compliance with sustainability goals. Scope 3 emissions are important for accurate tracking because they represent the majority of emissions, influence business decisions, and align with many regulations. Measuring Scope 3 emissions is also complex because it requires data from multiple sources. For example, you need information from vendors and internal operations such as transfers and manufacturing. This feature gives you flexibility by enabling you to provide accurate emissions information for the items you sell.\n\n### Feature details\n\nBusiness Central calculates item emissions using values in Sustainability Value Entries, which currently use only the Average method. The solution uses these values to add the calculated, read-only CO2e per Unit and Total CO2e fields on lines in sales documents. This release doesn't extend document reports to include the additional CO2e emission values.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/provide-carbon-equivalent-data-sales-based-scope-3-automation"
-    },
     "da": {
       "title": "Levere CO2-ækvivalente data for salg baseret på automatisering af omfang 3",
       "summary": "Levér nøjagtige oplysninger om udledninger for varer, når du sælger dem, baseret på bæredygtighedsværdiposter.",

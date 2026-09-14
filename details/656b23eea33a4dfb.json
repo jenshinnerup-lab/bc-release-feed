@@ -2,12 +2,6 @@
   "id": "656b23eea33a4dfb",
   "title": "Manage document attachments in manufacturing",
   "languages": {
-    "en": {
-      "title": "Manage document attachments in manufacturing",
-      "summary": "Use document management improvements to increase efficiency in production.",
-      "details": "### Business value\n\nDigitalize document management for manufacturing-related documents, such as drawings or inspection reports, by attaching these documents directly to production bills of materials, routings, and orders. Access important documentation on the go to keep the production flow efficient.\n\n### Feature details\n\nYou can access document attachments on pages related to manufacturing. You can find the Document Attachment FactBox in many places, such as: Production BOM (page 99000786) Production BOMs (page 99000787) Routing (page 99000766) Routing List (page 99000764) Simulated Production Order (page 99000912) Simulated Production Orders (page 9323) Planned Production Order (page 99000813) Planned Production Orders (page 9324) Firm Planned Prod. Order (page 99000829) Firm Planned Prod. Orders (page 9325) Released Production Order (page 99000831) Released Production Orders (page 9326) Finished Production Order (page 99000867) Finished Production Orders (page 9327) Production Order List (page 99000815) You can also select the Attachment action to go to document attachments from lines on the following pages: Simulated Prod. Order Lines (page 99000913) Planned Prod. Order Lines (page 99000814) Firm Planned Prod. Order Lines (page 99000830) Released Prod. Order Lines (page 99000832) Finished Prod. Order Lines (page 99000868) Use the new Flow to Production Trx toggle in the Attached Documents page to control how documents attached to items, production BOMs, or routings flow to production order lines. Note The system doesn't support attachments on the component level. It also doesn't support attachments on production BOM versions or routing versions.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/manage-document-attachments-manufacturing"
-    },
     "da": {
       "title": "Administrere vedhæftede dokumenter i produktionen",
       "summary": "Brug forbedringer af dokumentstyring til at øge effektiviteten i produktionen.",

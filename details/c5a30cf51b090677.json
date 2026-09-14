@@ -2,12 +2,6 @@
   "id": "c5a30cf51b090677",
   "title": "Automate embedded attachments in PEPPOL",
   "languages": {
-    "en": {
-      "title": "Automate embedded attachments in PEPPOL",
-      "summary": "Automate the process of embedding attachments in the PEPPOL format for sales and purchases.",
-      "details": "### Business value\n\nBusinesses can boost productivity by using embedded PDFs in the PEPPOL file format for sales and purchase documents. This format ensures human-readable formats with e-documents.\n\n### Feature details\n\nBy adding the ability to encode attachments in the PEPPOL file format in Business Central 2024 release wave 2, you get extra automation. You can automate embedding sales document attachments in the PEPPOL file format. When you post a document, Business Central creates a PDF file and embeds it in the PEPPOL format, which includes both the full XML and a human-readable format. To turn on this option, select the Embed document PDF to export field on the E-Document Service page. During the purchase process, Business Central can process PEPPOL files with embedded attachments, like invoices. It decomposes the embedded file, adds it as an attachment to the e-document record, and makes it available on the E-Document page for further processing.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/automate-embedded-attachments-peppol"
-    },
     "da": {
       "title": "Automatisere indlejrede vedhæftede filer i PEPPOL",
       "summary": "Automatiser processen med indlejring af vedhæftede filer i PEPPOL-formatet til salg og køb.",

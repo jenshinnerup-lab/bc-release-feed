@@ -2,12 +2,6 @@
   "id": "fab8b1e0b3c0e5b9",
   "title": "Get started with clearer user setup controls for Czechia",
   "languages": {
-    "en": {
-      "title": "Get started with clearer user setup controls for Czechia",
-      "summary": "Business Central provides flexible user posting controls with validation for date, dimension, location, and bank access to enhance security and compliance.",
-      "details": "### Business value\n\nThe extended user controls in the Czech version of Business Central increase flexibility and enhance security during posting processes. Combined with the new User Setup Lines table, you can define and apply additional checks, such as validating the posting date against the work or system date, controlling access to bank statements, validating allowed dimension values for posting, and controlling location codes for posting separately for quantity increases and decreases. In this release, the user interface has been improved to provide clearer placement of options on the User Setup and User Setup Card pages. The distinction between extended user controls and standard user setup is now more visible.\n\n### Feature details\n\nThe User Setup page has been updated so that all links to extended user control functionality are grouped under a new action group called User Check. This group appears or disappears dynamically based on the value of the User Checks Allowed field in General Ledger Setup. Fields related to user controls on the User Setup page are conditionally displayed based on the global functionality setting in General Ledger Setup. The User Setup Card page now provides a clearer layout for links to functionality settings.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/get-started-clearer-user-setup-controls-czechia"
-    },
     "da": {
       "title": "Kom i gang med klarere brugerkonfigurationskontroller for Tjekkiet",
       "summary": "Business Central indeholder fleksible brugerbogføringskontroller med validering af dato, dimension, placering og bankadgang for øget sikkerhed og overholdelse af angivne standarder.",

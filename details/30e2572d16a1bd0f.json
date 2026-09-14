@@ -2,12 +2,6 @@
   "id": "30e2572d16a1bd0f",
   "title": "Transfer journal line descriptions to bank statements",
   "languages": {
-    "en": {
-      "title": "Transfer journal line descriptions to bank statements for Czechia",
-      "summary": "Enable flexible journal creation by updating descriptions when accounts change, improving accuracy and user control.",
-      "details": "### Business value\n\nThis enhancement addresses a limitation in the existing Create Payment Journal from the Bank Statement functionality, where the Description field on payment journal lines remains unchanged when the Account No. is manually modified. This behavior, controlled by the Keep Description field, might not suit all users, especially those who expect the description to update based on the new account selection. By introducing a configurable option, businesses gain greater flexibility to tailor the journal creation process to their operational needs, improving data accuracy and the user experience.\n\n### Feature details\n\nWe added a Keep Description field to the Bank Account Card page with the following attributes: The field is also available on the request page of the Create General Journal report. The default value on the report is inherited from the selected bank account. When you run the report, the value of Keep Description is transferred to the corresponding field on related payment journal lines. If you turn off the Keep Description field and change the account on a journal line, the description updates based on the validation of the new account.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/transfer-journal-line-descriptions-bank-statements"
-    },
     "da": {
       "title": "Overfør kladdelinjebeskrivelser til bankkontoudtog for Tjekkiet",
       "summary": "Gør det muligt at oprette journaler fleksibelt ved at opdatere beskrivelser, når konti ændres, hvilket forbedrer nøjagtigheden og giver brugeren mere kontrol.",

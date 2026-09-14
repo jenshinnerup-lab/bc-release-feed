@@ -2,12 +2,6 @@
   "id": "bb492728c4c753d8",
   "title": "Use alternative posting groups for employees",
   "languages": {
-    "en": {
-      "title": "Use alternative posting groups for employees",
-      "summary": "Enable flexible G/L postings for employee transactions by using alternative posting groups in Business Central for accurate financial control.",
-      "details": "### Business value\n\nSometimes businesses want to post payable and receivable transactions to a different general ledger (G/L) account than the one that's specified on the employee posting group. This can include scenarios where employee travel expenses need to be post to a different financial account than the one used for regular payroll transactions. Controllers can define policies for posting these transactions, and accountants can change them during posting.\n\n### Feature details\n\nYou can allow users to change the default employee posting groups by turning on the Allow Multiple Posting Groups toggle on the Human Resources Setup page. On the Employee Posting Group page, you can specify the posting groups to allow people to use as substitutes by selecting the Alternative Groups action. Alternative posting groups can replace the default employee posting group specified for an employee. After you set this up, you can choose alternative posting groups and change the employee posting group when you post journals. Business Central copies the alternative employee posting group to posted journals, and posts payable or receivable G/L entries to the G/L accounts specified for the alternative groups. To allow only specific people to change posting groups, you can also turn on the Allow Multiple Posting Groups toggle for individual employees on the Employee Card page. When all conditions are met, Business Central allows you to change the posting group on journals and ensures that transactions post to the payables or receivables account specified at the time of posting.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-alternative-posting-groups-employees"
-    },
     "da": {
       "title": "Brug alternative bogføringsgrupper til medarbejdere",
       "summary": "Aktivér fleksible G/L-posteringer for medarbejdertransaktioner ved hjælp af alternative bogføringsgrupper i Business Central for præcis økonomisk kontrol.",

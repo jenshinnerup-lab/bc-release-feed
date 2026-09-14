@@ -2,12 +2,6 @@
   "id": "7ae725deb5f09f1b",
   "title": "Track items of concern related to gas emissions",
   "languages": {
-    "en": {
-      "title": "Track items of concern related to gas emissions",
-      "summary": "Track items based on their emissions level using the Item of Concern flag. Create a report for tracking inbound and outbound movements of these items.",
-      "details": "### Business value\n\nYou can efficiently track and manage items with high emissions. This tracking helps you comply with environmental regulations and supports your sustainability efforts. When you monitor inbound and outbound transactions and their pollution impact, you can make informed decisions that reduce your carbon footprint and improve operational efficiency.\n\n### Feature details\n\nYou can track items of concern by using the Item of Concern field on the Sustainability FastTab of the Item Card page. This field tracks items by their emissions level and specifically targets big pollutants. When you select this field, you must enter a value in at least one of the following fields: Default CO2 Emission Default CH4 Emission Default N2O Emission This setting ensures that you monitor items flagged as being of particular concern for their environmental impact. Use the Items of Concern report to track all inbound transactions, such as purchases and production output, and outbound transactions, such as sales, consumption, and negative adjustments for these items. The report provides detailed information grouped by inbound and outbound transactions, and it shows total emissions for CO2e, CO2, CH4, and N2O.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/track-items-concern-related-gas-emissions"
-    },
     "da": {
       "title": "Spor problematiske punkter i forbindelse med gasemissioner",
       "summary": "Spor varer baseret på deres emissionsniveau ved hjælp af flaget Bekymring. Opret en rapport til sporing af indgående og udgående bevægelser af disse varer.",

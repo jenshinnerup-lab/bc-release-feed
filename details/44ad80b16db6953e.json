@@ -2,12 +2,6 @@
   "id": "44ad80b16db6953e",
   "title": "Sign-in attempt telemetry in Application Insights for partners",
   "languages": {
-    "en": {
-      "title": "Sign-in attempt telemetry in Application Insights for partners",
-      "summary": "If a telemetry key for an environment has been specified in the Business Central administration center, the server will emit telemetry about sign-in attempts (successful or failed) to Application Insights",
-      "details": "### Business value\n\nPartners can set up and use Application Insights to monitor when users experience sign-in issues (for example, because of missing permissions) and proactively help their customers without the need to contact Microsoft support.\n\n### Feature details\n\nThe Business Central server will emit telemetry about sign-in attempts (successful or failed). For failed attempts, the reason will be logged in the message as well. After a successful authorization to Business Central, the server will also emit telemetry about the Open Company operation (successful or failed). For failed authorization to a company, the reason will also be logged in the message.\n\n### See also\n\nAnalyzing Authorization Trace Telemetry (docs)\n\n### Feedback\n\nWas this page helpful? Yes No No Need help with this topic? Want to try using Ask Learn to clarify or guide you through this topic? Ask Learn Ask Learn Suggest a fix?\n\n### Additional resources\n\nLast updated on 2020-03-02 In this article Was this page helpful? Need help with this topic? Want to try using Ask Learn to clarify or guide you through this topic? Ask Learn Ask Learn Suggest a fix? en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/sign-in-attempt-telemetry-azure-application-insights-partners"
-    },
     "da": {
       "title": "Sign-in attempt telemetry in Application Insights for partners",
       "summary": "If a telemetry key for an environment has been specified in the Business Central administration center, the server will emit telemetry about sign-in attempts (successful or failed) to Application Insights",

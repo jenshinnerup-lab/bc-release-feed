@@ -2,12 +2,6 @@
   "id": "f58e87c056e86f85",
   "title": "Use refreshed demo data for Sustainability",
   "languages": {
-    "en": {
-      "title": "Use refreshed demo data for Sustainability",
-      "summary": "You can use new features with refreshed demo data.",
-      "details": "### Business value\n\nThe demonstration data is updated so you can easily test and demo new features in Sustainability.\n\n### Feature details\n\nThe following features are available in the Sustainability Demo Data tool: Sustainability features in purchase documents. A vendor and an item related to carbon credits. A purchase invoice with sustainability information and carbon credits. Details for carbon fee and CO2 equivalent calculations. Statistical accounts and journal for social and governance. A scorecard and goals. An ESG example in financial reports.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/use-refreshed-demo-data-sustainability"
-    },
     "da": {
       "title": "Bruge opdaterede demodata til bæredygtighed",
       "summary": "Du kan bruge nye funktioner med opdaterede demodata.",

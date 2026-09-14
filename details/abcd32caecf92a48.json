@@ -2,12 +2,6 @@
   "id": "abcd32caecf92a48",
   "title": "Additional types of document approval templates for Power Automate",
   "languages": {
-    "en": {
-      "title": "New approval workflow experience with Power Automate templates",
-      "summary": "Templates from Power Automate make it easier to create and run approval workflows.",
-      "details": "### Business value\n\nAdvanced and flexible approval workflows don't need to be complex. Business owners or decision makers can choose from multiple templates when they set up approval workflows in Business Central.\n\n### Feature details\n\nBusiness Central online customers who use Power Automate to run document approval workflows are able to do so easily with this release. Several actions linked to workflow approvals and Power Automate have been improved with additional support for selecting one of many templates for each document type. Users and decisions makers can use Power Automate to run approval and take advantage of the rich experience: Define workflows tied to a selected Business Central environment and company. Approve documents using mobile devices. Approve documents using Microsoft Teams. Support a chain of approvers and additional input.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/new-approval-workflow-experience-templates-power-automate"
-    },
     "da": {
       "title": "Ny godkendelses-arbejdsproces med Power Automate-skabeloner",
       "summary": "Skabeloner fra Power Automate gør det nemmere at oprette og køre godkendelsesarbejdsprocesser.",

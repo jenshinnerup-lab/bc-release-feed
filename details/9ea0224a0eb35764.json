@@ -2,12 +2,6 @@
   "id": "9ea0224a0eb35764",
   "title": "Track energy consumption in Sustainability",
   "languages": {
-    "en": {
-      "title": "Track energy consumption in Sustainability",
-      "summary": "Tracking consumed energy is a critical component of CSRD reporting. This feature enables energy tracking with specific sources.",
-      "details": "### Business value\n\nThis feature enhances compliance, transparency, and operational efficiency in Sustainability. By ensuring adherence to CSRD and other ESG standards, companies can accurately report their energy consumption, including the sources and efficiency measures. This transparency not only meets regulatory requirements, but also builds trust with stakeholders. Additionally, the streamlined process of tracking and reporting energy consumption reduces administrative burden, so companies can focus on their core operations.\n\n### Feature details\n\nWith this feature, you can track consumed energy for specific energy sources in Sustainability Journals and Purchase Invoices. You can collect energy sources and consumption data in sustainability ledger entries, so you can report comprehensively and comply with CSRD and other ESG standards. You can specify the type of energy consumed, such as solar, wind, and fossil fuels, in the relevant entries.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/track-energy-consumption-sustainability"
-    },
     "da": {
       "title": "Spor energiforbrug i bæredygtighed",
       "summary": "Sporing af forbrugt energi er en kritisk komponent i CSRD-rapportering. Denne funktion muliggør energisporing med specifikke kilder.",

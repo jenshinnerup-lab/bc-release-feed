@@ -2,12 +2,6 @@
   "id": "6b68aa32998a790e",
   "title": "Truncate table data with new AL method",
   "languages": {
-    "en": {
-      "title": "Truncate table data with new AL method",
-      "summary": "Use Rec.Truncate in AL to efficiently delete filtered table data, improving performance and control in bulk data management scenarios.",
-      "details": "### Business value\n\nThe new Rec.Truncate method in AL provides a powerful and efficient way to delete large volumes of data from a table. By bypassing row-by-row deletions, this method significantly improves performance and reduces execution time for data cleanup or reset operations. The method also offers flexibility with options to retain or reset AutoIncrement values and ensures safe usage by enforcing delete permissions. This feature is particularly valuable for scenarios involving bulk data management, helping you maintain optimal system performance and data hygiene.\n\n### Feature details\n\nThe new AL method Rec.Truncate is available with the record API. This method lets developers delete table rows, matching filters in the most efficient way. The method has parameters that allow you to: Check whether the table doesn’t support truncation. Set AutoIncrement fields to the value they had before truncating or reset to 0. If the method is used with filters, the platform copies data to a temporary table and moves it back after truncation. Only use filters when you're deleting significant numbers of rows—using filters for smaller deletions creates unnecessary overhead. Truncate needs delete permission and no security filters on the table for the current user. The method doesn’t support: Tables with OnDelete triggers or event subscriptions (runtime error occurs; to handle this, use IF Rec.Truncate THEN to fall back to DeleteAll or expose the error). Tables with media or mediaset fields. Use inside try functions. Use with filters on FlowFields.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/truncate-table-data-new-al-method"
-    },
     "da": {
       "title": "Afkort tabeldata med en ny AL-metode",
       "summary": "Brug Rec.Truncate i AL til effektivt at slette filtrerede tabeldata og forbedre ydeevnen og styringen i scenarier med massedatastyring.",

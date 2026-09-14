@@ -2,12 +2,6 @@
   "id": "3bb9d41bea1cc5d9",
   "title": "Use attachments from document lines while sending emails",
   "languages": {
-    "en": {
-      "title": "Use attachments from document lines while sending emails",
-      "summary": "You can now add attachments that belong to document lines to emails.",
-      "details": "### Business value\n\nAdding attachments from source document lines makes it easier to provide more information or clarification to customers or suppliers about the order details, such as requirements, guidelines, instructions, or terms. It also enhances customer satisfaction and loyalty by showing professionalism and transparency while improving communication and collaboration in the order fulfillment process.\n\n### Feature details\n\nWhen adding attachments to email you are sending, you can easily include files from document lines by choosing Add file from source document on the Email editor page. Select OK on the Related Attachments page to add the selected attachments to the email you're drafting. You can review the attachments included in the email draft and their file size in the Attachments part of the Email editor page. Note Adding attachment from Source will list attachments while drafting email from documents that support adding line attachments.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/use-attachments-document-lines-while-sending-emails"
-    },
     "da": {
       "title": "Bruge vedhæftede filer fra dokumentlinjer, mens du sender mails",
       "summary": "Du kan nu føje vedhæftede filer, der tilhører dokumentlinjer, til mails.",

@@ -2,12 +2,6 @@
   "id": "e3c27baa000d13e2",
   "title": "Synchronize market-specific prices with Shopify",
   "languages": {
-    "en": {
-      "title": "Synchronize market-specific prices with Shopify",
-      "summary": "Manage prices across multiple markets with Shopify.",
-      "details": "### Business value\n\nIncrease conversion rates by using familiar pricing and currency formats when you sell to international customers. Get a list of catalogs that Shopify defines for markets. Quickly set price calculation settings, and easily trigger a price update for catalogs.\n\n### Feature details\n\nIf you use Markets in Shopify, you can set up the connector to sync prices for Shopify catalogs that link to those markets. To sync catalogs from Shopify, select Get Catalogs on the Shopify Market Catalogs page. To sync prices for market catalogs, follow these steps: On the Shopify Market Catalogs page, select the entry where you want to define and export prices. Fill in the fields as needed. The following table describes the fields. Field Description Customer Price Group Determines the price for an item in Shopify. The sales price for this customer price group is used. If you don't specify a group, the price on the item card is used. Customer Discount Group Determines the discount to use when calculating the price of an item in Shopify. The Price field shows discounted prices, and the Compare at Price field shows the full price. Allow Line Disc. Specifies whether to allow a line discount when calculating prices for Shopify. This setting applies only to prices on the item. Prices for the customer price group have their own toggle on lines. Prices including VAT Specifies whether price calculations for Shopify include VAT. VAT Business Posting Group Specifies which VAT business posting group to use to calculate prices in Shopify. Use the group for domestic customers. Currency Code Specifies the currency code for the catalog. Enter the settings, turn on the Sync Prices toggle, and select Sync Prices to synchronize catalog prices.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/synchronize-market-specific-prices-shopify"
-    },
     "da": {
       "title": "Synkroniser markedsspecifikke priser med Shopify",
       "summary": "Administrer priser på tværs af flere markeder med Shopify.",

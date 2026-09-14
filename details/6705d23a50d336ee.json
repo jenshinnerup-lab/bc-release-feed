@@ -2,12 +2,6 @@
   "id": "6705d23a50d336ee",
   "title": "Tenant administrators can set Feature Management switches with an API",
   "languages": {
-    "en": {
-      "title": "Tenant administrators can set Feature Management switches with an API",
-      "summary": "Automate feature switch settings via API to streamline management across companies and environments, reducing manual effort and errors.",
-      "details": "### Business value\n\nThe new API for Feature Management empowers tenant admins to streamline and scale their operations by automating feature switch settings across multiple companies and environments. It reduces manual effort, minimizes errors, and ensures consistent feature configurations. By integrating this capability into existing deployment or configuration pipelines, businesses can accelerate rollouts and maintain tighter control over feature availability. Ultimately, this leads to improved operational efficiency and a more agile response to changing business needs.\n\n### Feature details\n\nTenant admins can now control entries on the Feature Management page using an API. This allows them to automate setting feature switches across multiple companies and/or environments. The following operations are possible with the new API: Get a list of current feature switches and their state. Get the current state for a feature switch. Set the current state (activated/de-activated) for a feature switch.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/tenant-administrators-set-feature-management-switches-api"
-    },
     "da": {
       "title": "Lejeradministratorer kan angive parametre for funktionsstyring med en API",
       "summary": "Automatiser indstillinger for funktionsskift via API for at strømline administrationen på tværs af virksomheder og miljøer, hvilket reducerer manuel indsats og fejl.",

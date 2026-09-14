@@ -2,12 +2,6 @@
   "id": "4914aee0ba5c40d6",
   "title": "Enable embedded Verifactu mode in Spain",
   "languages": {
-    "en": {
-      "title": "Enable embedded Verifactu mode in Spain",
-      "summary": "Enable real-time invoice reporting to AEAT with Verifactu in Business Central, ensuring QR code, hash chaining, and digital signature compliance.",
-      "details": "### Business value\n\nWith this feature, Spanish businesses can seamlessly comply with the new Verifactu regulation by automatically submitting invoices to the AEAT, embedding official QR codes, and ensuring legal traceability. This reduces the risk of fraud and simplifies audit processes.\n\n### Feature details\n\nVerifactu is Spain’s new mandatory e-invoicing regulation that requires real-time invoice reporting to the Spanish Tax Agency (AEAT). It ensures invoice authenticity, traceability, and auditability through the use of digital signatures, hash chaining, and QR code verification. Users can activate Verifactu Mode using a dedicated toggle, which fully switches the system to comply with Spanish e-invoicing regulations and prevents SII mode from being enabled at the same time. To enable digital signing, users must upload their own qualified electronic certificate. Once setup is complete, invoices posted (Posted Sales Invoice) in Business Central are automatically submitted to the AEAT for clearance using the E-Document framework. Upon successful validation, the system embeds the official QR code received from the AEAT into the invoice layout, enabling users to print or email fully compliant and verifiable invoices to their customers.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/enable-embedded-verifactu-mode-spain"
-    },
     "da": {
       "title": "Aktivér indlejret Verifactu-tilstand i Spanien",
       "summary": "Få mulighed for rapportering af fakturaer i realtid til AEAT med Verifactu i Business Central, så du overholder kravene om QR-kode, hashkæde og digital signatur.",

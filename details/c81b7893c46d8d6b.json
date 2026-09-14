@@ -2,12 +2,6 @@
   "id": "c81b7893c46d8d6b",
   "title": "Calculate excise taxes",
   "languages": {
-    "en": {
-      "title": "Calculate excise taxes",
-      "summary": "Automate excise tax calculations to ensure compliance and efficiency for your businesses.",
-      "details": "### Business value\n\nThe excise taxes feature helps businesses by automating the complex process of calculating excise tax amounts. With this feature, businesses follow specific tax regulations for different products and regions. It reduces the risk of errors and lowers the chance of penalties.\n\n### Feature details\n\nExcise taxes apply to specific goods and services, and manufacturers or retailers often include these taxes in the product price. Governments use excise duties to generate revenue and to discourage the consumption of goods that negatively affect public health or the environment. The new Excise Taxes feature automates the calculation of excise duties by applying specific rules and rates for different products and regions. Scope of the initial release The initial release doesn't include compliance or statutory reports. Instead, it introduces a flexible excise tax calculation framework. The framework supports different calculation models and can be adapted to meet various regulatory requirements through configuration. Setup Before calculating excise taxes, you must configure excise tax types. For each excise tax type, you can define a tax basis as Weight, Volume, Quantity, Sugar Content, Alcohol Volume (ABV), or Active Content. You also need to configure excise entry types, and specify which item ledger entry types contribute to the excise‑liable quantity. The following options are available: Purchase, Sale, Positive Adjustment, Negative Adjustment, Output, or Assembly Output. As the last step, set up excise duty rates for each excise tax type to calculate the final tax amount based on the selected basis and the accumulated excise‑liable quantity. You also need to configure the items and fixed assets you want to include in excise tax calculations.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/calculate-excise-taxes"
-    },
     "da": {
       "title": "Beregn punktafgifter",
       "summary": "Automatisér momsberegninger for at sikre overholdelse af angivne standarder og effektiv drift for dine virksomheder.",

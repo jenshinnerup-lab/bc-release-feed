@@ -2,12 +2,6 @@
   "id": "8db84cf9ea4674ca",
   "title": "Generate a CSRD preparation report",
   "languages": {
-    "en": {
-      "title": "Generate a CSRD preparation report",
-      "summary": "Print reports that feature data prepared for CSRD reporting, complete with taxonomies for clarity and compliance.",
-      "details": "### Business value\n\nYou can simplify your Corporate Sustainability Reporting Directive (CSRD) reporting by printing reports with prepared data and taxonomies if you don't want to use integration for ESG reporting.\n\n### Feature details\n\nIn Business Central, you can configure taxonomies that use various transactional data sources. The initial setup uses demo data, but you can change it to meet your needs. After you configure the taxonomies, you can aggregate existing data. If you don't integrate with a reporting tool, you can create a report layout to use as a preparation document for CSRD reporting.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/generate-csrd-preparation-report"
-    },
     "da": {
       "title": "Generér en CSRD-forberedelsesrapport",
       "summary": "Udskriv rapporter, der indeholder data, som er udarbejdet til CSRD-rapportering, komplet med taksonomier for klarhed og overholdelse.",

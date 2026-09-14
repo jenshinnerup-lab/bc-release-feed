@@ -2,12 +2,6 @@
   "id": "7e07f60ee415d15a",
   "title": "Power Platform and Azure Logic Apps connector for Business Central online no longer in preview",
   "languages": {
-    "en": {
-      "title": "Improvements to the Power Automate and Power Apps connector",
-      "summary": "Start using Business Central with Power Automate and Power Apps with greater confidence.",
-      "details": "### Business value\n\nBeing able to use Business Central and Power Platform with great confidence is essential these days. Users are empowered to enhance and integrate Business Central using no-code/low-code tools such as Power Automate or Power Apps.\n\n### Feature details\n\nIn this release wave, we add new capabilities to the Power Automate and Power Apps connector, so you can start using Business Central with Power Automate and Power Apps with greater confidence. The following list shows the specific enhancements to the connector: Support for finding data, filtering, and sorting Support for adding related records (data from both header and lines of documents) Improved reliability Removal of the Preview label Note The new capabilities apply to Business Central online only, not to Business Central on-premises.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave1/smb/dynamics365-business-central/improvements-power-automate-power-apps-connector"
-    },
     "da": {
       "title": "Forbedringer i Power Automate- og Power Apps-connectoren",
       "summary": "Begynd at bruge Business Central med Power Automate og Power Apps med større selvtillid.",

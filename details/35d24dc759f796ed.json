@@ -2,12 +2,6 @@
   "id": "35d24dc759f796ed",
   "title": "Translatable Excel layouts",
   "languages": {
-    "en": {
-      "title": "Translatable Excel layouts",
-      "summary": "ISVs can ship reports with Excel layouts where the Excel output can be translated to the user's language when they run the report.",
-      "details": "### Business value\n\nIf a business operates in multiple countries or regions, it's helpful to be able to generate reports in multiple languages. ISVs can ship reports with Excel layouts where the Excel output can be translated into the user's language when they run the report.\n\n### Feature details\n\nExcel layout authors can create reports that work in multiple languages. Layout authors can use $$ tags in Excel for the following: Worksheet names Chart headers Pivot elements Slicers Shared strings Business Central replaces the tags at runtime when it renders the report. The following image shows an example.\n\n### See also\n\nTranslating Excel sheets in 2023 release wave 2 and later versions (docs)\n\n### Additional resources\n\nLast updated on 2024-03-26 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/translatable-excel-layouts"
-    },
     "da": {
       "title": "Oversættelige Excel-layouts",
       "summary": "Uafhængige softwareproducenter kan sende rapporter med Excel-layout, hvor Excel-outputtet kan oversættes til brugerens sprog, når de kører rapporten.",

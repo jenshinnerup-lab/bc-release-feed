@@ -2,12 +2,6 @@
   "id": "6a46c4bf197f384b",
   "title": "Marketplace ISV publishers can preview their Marketplace apps with select customers",
   "languages": {
-    "en": {
-      "title": "AppSource ISV publishers can preview their AppSource apps with select customers",
-      "summary": "AppSource ISV publishers can organize private previews of their apps to gather feedback on a new version.",
-      "details": "### Business value\n\nAllow AppSource ISV publishers to test and collect early feedback on the new version of their app by organizing a private preview with a select group of their customers.\n\n### Feature details\n\nWhen uploading an app to AppSource, publishers will be able to keep the app in preview mode. This will allow publishers to create a link to the preview app that includes a custom preview code, which can be sent to select customers. Customers who opt in to the preview can then install and test that app in their sandbox environments and provide feedback to the ISV. As a publisher, you can choose the preview code, or have one generated automatically. For more details, you can watch a video here.\n\n### See also\n\nPreview versions of AppSource apps (docs)\n\n### Additional resources\n\nLast updated on 2024-04-16 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave2/smb/dynamics365-business-central/appsource-isv-publishers-preview-their-appsource-apps-select-customers"
-    },
     "da": {
       "title": "AppSource uafhængige softwareproducenter til udgivelse kan forhåndsvise deres AppSource-apps for udvalgte kunder",
       "summary": "AppSource uafhængige softwareproducenter til udgivelse kan organisere private forhåndsvisninger af deres apps for at indsamle feedback om en ny version.",

@@ -2,12 +2,6 @@
   "id": "a98d65cfaa3ab42c",
   "title": "Report sustainability entries with financial reports (general availability)",
   "languages": {
-    "en": {
-      "title": "Report sustainability entries with financial reports",
-      "summary": "Use sustainability metrics in your financial reports.",
-      "details": "### Business value\n\nIntegrating sustainability metrics, especially greenhouse gas emissions, into financial reports greatly enhances business value. This integration shows your commitment to transparency and accountability, and it builds trust with stakeholders.\n\n### Feature details\n\nUsers can choose a new Totaling Type on the Financial Reports Line - Sust. Account that refers to the Sustainability Ledger Entries. With this model, users can combine values based on General Ledger Entries or Statistical Account Ledger Entries with the following sustainability values: Emission Fees, CO2 Emission, CH4 Emission, and N2O Emission.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/reporting-sustainability-entries-financial-reports"
-    },
     "da": {
       "title": "Rapportere bæredygtighedsposter med økonomiske rapporter",
       "summary": "Brug målepunkter for bæredygtighed i dine økonomiske rapporter.",

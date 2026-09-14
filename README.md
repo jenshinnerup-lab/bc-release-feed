@@ -40,6 +40,28 @@ Extension Management, or the call is blocked before it leaves the tenant.
 Localized titles appear as `title_da`, `title_nl` and `title_fr`, and Microsoft's
 one-line summary as `summary` plus `summary_da`, `summary_nl` and `summary_fr`.
 
+## Change log
+
+`changelog.json` lists what changed between daily builds, newest first, for the
+last 365 days:
+
+```json
+{
+  "generated_at": "2026-09-14",
+  "entries": [
+    { "id": "3f1c...", "date": "2026-09-14", "change": "renamed",
+      "item_type": "feature", "item_id": "...", "version": "28.0",
+      "title": "...", "old": "old title", "new": "new title" }
+  ]
+}
+```
+
+`change` is `new`, `renamed`, `date_changed` or `removed` for features; `new`
+or `fixes_added` for hotfix updates, where `new` and `old` hold the number of
+fixes; and `status_changed` for ideas. Each fix is a row of its own in
+`releases.json`, so the change log names the update rather than every fix.
+`id` is stable, so importing the same file twice adds nothing.
+
 ## Full descriptions
 
 `details/<feature-id>.json` carries Microsoft's complete text — business value

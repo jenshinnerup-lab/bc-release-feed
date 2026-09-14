@@ -2,12 +2,6 @@
   "id": "2fd7baa203c915c4",
   "title": "Improved VAT Registration no. lookup",
   "languages": {
-    "en": {
-      "title": "Improved VAT registration number validation",
-      "summary": "Businesses in the European Union must use valid VAT registration numbers of their trading partners. In this update, Business Central provides better capabilities for supporting our customers in this regulatory need.",
-      "details": "### Business value\n\nThe European Union provides the VAT information exchange system, VIES, so that software vendors can validate a VAT registration number of a European business electronically. Business Central supports this so that businesses are spared the heavy time consumption that would be necessary if they had to validate all VAT registration numbers manually.\n\n### Feature details\n\nBusinesses can use the VIES service to also check other company information, such as the address, as well as the VAT registration number. In Business Central, they can set up what to validate for each country/region, so that this additional information can be validated for countries/regions where authorities support this.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave2/smb/dynamics365-business-central/improved-vat-registration-no-validation"
-    },
     "da": {
       "title": "Improved VAT registration number validation",
       "summary": "Businesses in the European Union must use valid VAT registration numbers of their trading partners. In this update, Business Central provides better capabilities for supporting our customers in this regulatory need.",

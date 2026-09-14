@@ -2,12 +2,6 @@
   "id": "7b99b9d4935650e2",
   "title": "Use Edit in Excel on output, consumption, and item journals",
   "languages": {
-    "en": {
-      "title": "Use Edit in Excel on output, consumption, and item journals",
-      "summary": "Enter and edit item tracking information in Excel for item, consumption, and output journals.",
-      "details": "### Business value\n\nThe Edit in Excel feature in Business Central is popular because it provides a fast way to enter data. For example, you can use templates for journals and quickly do bulk edits. You can use this feature to speed up data entry on item journals and include item tracking details such as lot, serial, package number, warranty, and expiration dates. You can also edit item tracking details in consumption and output journals.\n\n### Feature details\n\nTo let users enter serial, lot, and package data directly on journal lines, enable the feature on item journal batches. Set up the feature with the following steps: Open the Item Journal Templates page. Select a template of the type Item, Consumption, or Output. Select Batches to open a list of item journal batches. Select New to create a new batch, and then turn on the Item Tracking on Lines toggle. Repeat these steps for all templates where you want to use this capability. After you set up the feature, start using it. Depending on what you want to do, open the Item Journals, Consumption Journals, or Output Journals pages. In the Batch Name field, select the batch that you enabled the Item Tracking on Lines toggle for. Select the Edit in Excel action. In Excel, fill in columns such as Serial No., Lot No., Package No., Expiration Date, and Warranty Date. When you're done, select Publish to send your changes to Business Central. Note Business Central validates the published data. To accept item tracking data, the item must have the Item Tracking Code field populated. For more information, see Edit in Excel.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/edit-item-tracked-items-excel-output-consumption-item-journals"
-    },
     "da": {
       "title": "Bruge Redigere i Excel på output-, forbrugs- og varekladder",
       "summary": "Angiv og rediger oplysninger om varesporing i Excel for vare-, forbrugs- og afgangskladder.",

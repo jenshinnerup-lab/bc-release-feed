@@ -2,12 +2,6 @@
   "id": "a5ebad73f0cedb1b",
   "title": "Non-deductible, partly deductible VAT expands functionality",
   "languages": {
-    "en": {
-      "title": "Non-deductible, partly deductible VAT expands functionality",
-      "summary": "Non-deductible VAT is the VAT payable by a purchaser that isn't deductible from their VAT liability, if any. This functionality is necessary for almost all regions that use VAT.",
-      "details": "### Business value\n\nUsers in all relevant regions have improved VAT functionality with non-deductible and partly deductible VAT enabled.\n\n### Feature details\n\nBusiness Central lets businesses calculate deductible and non-deductible VAT amounts. You can configure VAT so that it isn't deducted for purchases under certain conditions: The type of goods or services purchased. VAT is fully or partially non-deductible by the provision of the law on goods. Partially deductible prorated VAT. VAT is prorated according to the ratio between sales operations for which VAT is owed and all operations performed. VAT exceeding this ratio can't be deducted. Configure deductions in VAT (percentage and G/L account) on the VAT Posting Setup page. You can configure full or partial deductions for combinations of VAT posting groups. Before you post a document, the details are available in statistics. When you post a purchase document, the results are available on the G/L entries and VAT entries. Non-deductible VAT also works with Reverse Charge VAT and Deferrals.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2023wave1/smb/dynamics365-business-central/non-deductible-partly-deductible-vat-expands-functionality"
-    },
     "da": {
       "title": "Ikke-fradragsberettiget, delvis fradragsberettiget moms udvider funktionaliteten",
       "summary": "Ikke-fradragsberettiget moms er den moms, som skal betales af en køber, og som ikke er fradragsberettiget fra vedkommendes eventuelle momspligt. Denne funktionalitet er nødvendig for næsten alle regioner, der bruger moms.",

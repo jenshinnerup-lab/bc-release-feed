@@ -2,12 +2,6 @@
   "id": "6f5b2437c79c3856",
   "title": "Create purchase quotes for contacts",
   "languages": {
-    "en": {
-      "title": "Create purchase quotes for contacts",
-      "summary": "Create purchase quotes for contacts, and autogenerate vendors from templates when you convert quotes to orders.",
-      "details": "### Business value\n\nThis feature simplifies the purchasing process by allowing you to work with contacts before you commit to creating vendors. It reduces administrative overhead and speeds up quote registration, while ensuring vendor records are created when needed.\n\n### Feature details\n\nYou can create purchase quotes for contacts that aren't yet associated with a vendor. This removes the need to set up a vendor record before you prepare a quote, which is useful when you're unsure whether the purchase will proceed. When you convert the quote into an order or release the document, Business Central automatically creates the vendor using a vendor template. Business Central selects the appropriate template based on criteria such as territory code, country/region code, and contact type from the contact. If only one template matches, it's applied automatically; otherwise, you're prompted to choose from available templates. Here's an overview of the process: Create a Purchase Quote, and select a contact that isn't linked to a vendor. If multiple templates are available, choose a vendor template. Enter the details for the quote. When you release the quote or convert it to an order, Business Central creates the vendor record using the selected template.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/create-purchase-quotes-contacts"
-    },
     "da": {
       "title": "Opret købsrekvisitioner til kontakter",
       "summary": "Opret købsrekvisitioner til kontakter, og få automatisk oprettet leverandører ud fra skabeloner, når du konverterer tilbud til ordrer.",

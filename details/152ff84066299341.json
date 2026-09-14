@@ -2,12 +2,6 @@
   "id": "152ff84066299341",
   "title": "Create subscription contract lines manually",
   "languages": {
-    "en": {
-      "title": "Create subscription contract lines manually",
-      "summary": "Get started with the Subscription Billing module by creating subscription contract lines manually.",
-      "details": "### Business value\n\nEasily start with simple subscription scenarios in Subscription Billing. When you create subscription contract lines manually, you can easily start with the Subscription Billing module.\n\n### Feature details\n\nYou can now manually add a line to a subscription contract. The Subscription Billing module in Dynamics 365 Business Central is feature rich and supports numerous use cases. Consequently, the module offers many entry points. One of the simplest ways to get started is to set up a subscription contract for a customer, enter one line, and generate an invoice. When you manually add a line to a subscription contract, you make it easier for users to start using the module for subscription scenarios. You can add subscription contract lines based on items and G/L accounts. In both cases, the system needs extra information to continue processing. You enter this information manually in the line. The system automatically creates the rest.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/create-subscription-contract-lines-manually"
-    },
     "da": {
       "title": "Oprette abonnementskontraktlinje manuelt",
       "summary": "Kom i gang med modulet Abonnementsfakturering ved at oprette abonnementskontraktlinjer manuelt.",

@@ -2,12 +2,6 @@
   "id": "3b82041d19c5b4cf",
   "title": "Easily comply with email sending limits through email throttling",
   "languages": {
-    "en": {
-      "title": "Easily comply with email-sending limits through email throttling",
-      "summary": "You can set a rate limit per minute to apply when sending emails from Business Central.",
-      "details": "### Business value\n\nMaking sure your email messages reach their recipients is of critical importance in many business scenarios. IT admins can spend less time handling large batches of emails that their provider rejected because they exceeded their service limits. Specifying a rate limit that matches that of their email provider ensures that large email batches are queued, and not blocked, so they get where they're supposed to go.\n\n### Feature details\n\nYou can limit the number of emails that an email account can send per minute when you use the Set Up Email assisted setup guide to set up an email account. Enter a value in Rate limit per minute field. For an existing email account, on the Email Accounts page you can set or modify the rate limit per minute by choosing a value in the Email rate limit column. This opens the Set Up the Rate Limit per Minute dialog, where you can set or modify the Rate Limit per Minute value.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/easily-comply-email-sending-limits-through-email-throttling"
-    },
     "da": {
       "title": "Overhold nemt grænserne for afsendelse af mails gennem mailbegrænsning",
       "summary": "Du kan indstille en takstgrænse pr. minut, der skal gælde, når du sender mails fra Business Central.",

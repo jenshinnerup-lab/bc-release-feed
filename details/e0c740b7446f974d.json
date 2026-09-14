@@ -2,12 +2,6 @@
   "id": "e0c740b7446f974d",
   "title": "Use embedded Power BI reports out of the box (general availability)",
   "languages": {
-    "en": {
-      "title": "Use embedded Power BI reports out of the box",
-      "summary": "Use Power BI reports to get insights into your business.",
-      "details": "### Business value\n\nIt's easier than ever to leverage your business data and get insights into your operations. You can analyze your business data with out-of-the-box Power BI reports for finance, sales, purchasing, inventory, manufacturing, and projects.\n\n### Feature details\n\nBusiness Central gives you many options for reporting, business intelligence (BI) dashboards, and data analysis. This release wave adds many new reports for finance, sales, purchasing, inventory, manufacturing, and projects. Specifically, you get the following Power BI reports: Finance: 14 reports Sales: 12 reports Purchasing: 13 reports Inventory: 7 reports Manufacturing: 11 reports Projects: 6 reports See all reports here: Power BI apps/reports for functional areas You can also embed the Power BI Metrics scorecards you use to track your important KPIs directly in Business Central.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave2/smb/dynamics365-business-central/use-embedded-power-bi-reports-out-box"
-    },
     "da": {
       "title": "Brug integrerede Power BI-rapporter direkte",
       "summary": "Brug Power BI rapporter til at få indsigt i din virksomhed.",

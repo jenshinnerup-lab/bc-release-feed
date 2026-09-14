@@ -2,12 +2,6 @@
   "id": "886f7d567788134b",
   "title": "New pages for purchase and sales advance entries for Czechia",
   "languages": {
-    "en": {
-      "title": "New pages for purchase and sales advance entries for Czechia",
-      "summary": "New pages for purchase and sales advance entries offer a clear and searchable view of all advance entries, improving financial tracking and oversight.",
-      "details": "### Business value\n\nNew pages for Purchase and Sales Advance Entries improve financial oversight and streamline the management of advance payments. Users gain a clear, centralized view of all advance-related transactions, enhancing efficiency and decision-making.\n\n### Feature details\n\nThe introduction of dedicated pages for Purchase Advance Entries and Sales Advance Entries enhances visibility and efficiency in managing advance transactions. Similar to the existing pages for Vendor Ledger Entries, Purchase Lines, and Cash Document Lines, these new pages provide users with a centralised overview of all advance-related entries. This improvement simplifies navigation, enables better financial oversight, and enhances decision-making for purchase and sales processes. The following are the benefits: These pages display all advance-related entries, providing users with a structured and unified view, similar to other transactional lists in Business Central. Users can quickly filter, search, and access relevant financial data relating to advance payments. Improved financial management and transparency. By offering a clear and comprehensive view of purchase and sales advance lines, users can efficiently track outstanding advances and monitor financial obligations. The new functionality ensures a more intuitive workflow by aligning with the existing pages for various transaction types. This enhancement streamlines the handling of advance payments, improves usability, and provides users with a consistent experience across related financial records.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/new-pages-purchase-sales-advance-lines-czechia"
-    },
     "da": {
       "title": "Nye sider til købs- og salgsforskudsposter for Tjekkiet",
       "summary": "Nye sider til købs- og salgsforskudsposter giver en klar og søgbar visning af alle forhåndsposter, der forbedrer den økonomiske sporing og tilsynet.",

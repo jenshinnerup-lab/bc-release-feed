@@ -2,12 +2,6 @@
   "id": "a8ab5cc5cd7fd12e",
   "title": "Enable sustainability features for integrations with APIs",
   "languages": {
-    "en": {
-      "title": "Enable sustainability features for integrations with APIs",
-      "summary": "Enable sustainability features to integrate with other applications through APIs.",
-      "details": "### Business value\n\nYou can use sustainability features in Business Central with third-party software. For example, use data about your greenhouse gas emissions in Business Central to enrich data in another application.\n\n### Feature details\n\nSustainability pages have APIs. In the future, you can use Business Central data with other applications. For example, you can use sustainability features for collaboration with Power Automate or Power Apps, or for reporting in Power BI. APIs are available for the following pages: Sustainability Account Sust. Account Category Sust. Account Subcategory Sustainability Journal Line Sustainability Entry",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2024wave1/smb/dynamics365-business-central/enable-sustainability-features-integrations-apis"
-    },
     "da": {
       "title": "Aktivér bæredygtighedsfunktioner for integrationer med API'er",
       "summary": "Aktivér bæredygtighedsfunktioner til at integrere med andre applikationer via API'er.",

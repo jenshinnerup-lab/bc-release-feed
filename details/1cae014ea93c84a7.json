@@ -2,12 +2,6 @@
   "id": "1cae014ea93c84a7",
   "title": "Use carbon footprint with OIOUBL e-invoicing format",
   "languages": {
-    "en": {
-      "title": "Use carbon footprint with OIOUBL e-invoicing format",
-      "summary": "A new OIOUBL e‑invoice format adds carbon footprint data from Business Central sustainability features for sales and purchase documents.",
-      "details": "### Business value\n\nThis enhancement helps Danish businesses comply with emerging sustainability reporting needs by automatically sharing carbon footprint data through OIOUBL e‑invoices. Companies gain clearer insight into the environmental impact of their transactions, reduce manual work, and improve transparency in their supply chain.\n\n### Feature details\n\nBusiness Central introduces a new version of the OIOUBL e‑invoicing format designed for a Danish pilot program that supports carbon‑footprint data exchange. The format automatically includes emissions values sourced from the Sustainability module for both sales and purchase processes. When sending sales e‑invoices, Business Central embeds the calculated emission data from the Item Card or Resource Card pages, or the updated Sales Lines. When receiving purchase e‑invoices, the footprint values are captured and added to purchase invoices or purchase orders and posted to sustainability ledger entries. You just need to select the new format on the E‑Documents Service page. No additional configuration is required. This builds the foundation for future sustainability data exchange across the full transaction lifecycle.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-carbon-footprint-oioubl-e-invoicing-format"
-    },
     "da": {
       "title": "Brug CO2-fodaftryk med e-faktureringsformatet OIOUBL",
       "summary": "Et nyt OIOUBL-e-fakturaformat tilføjer CO2-fodaftryksdata fra bæredygtighedsfunktionerne i Business Central til salgs- og købsdokumenter.",

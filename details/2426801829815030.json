@@ -2,12 +2,6 @@
   "id": "2426801829815030",
   "title": "Use the Account Payable Role Center",
   "languages": {
-    "en": {
-      "title": "Use the Account Payable Role Center",
-      "summary": "Centralize accounts payable tasks and documents in one place with the new Account Payable Role Center.",
-      "details": "### Business value\n\nThe new Account Payable Role Center simplifies workflows for accounts payable by centralizing all related documents and tasks in one place. The role center makes it easier to handle purchase documents, inbound e-documents (both e-invoices and PDFs), and payment processes. By consolidating these tasks, you reduce the time spent on administrative work, minimize errors, and improve productivity.\n\n### Feature details\n\nThe Account Payable Role Center centralizes all accounts payable-related tasks, documents, and entities. With this role center, you can manage purchase documents, inbound electronic documents (both e-invoices and PDFs), and payment processes from a single interface.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave2/smb/dynamics365-business-central/use-account-payables-administrator-role-center"
-    },
     "da": {
       "title": "Brug rollecenteret Kontobetaling",
       "summary": "Centraliser kreditoropgaver og -dokumenter på ét sted med det nye rollecenter for kreditor.",

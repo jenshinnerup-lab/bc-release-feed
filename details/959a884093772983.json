@@ -2,12 +2,6 @@
   "id": "959a884093772983",
   "title": "Editing in Excel more reliably",
   "languages": {
-    "en": {
-      "title": "Editing in Excel more reliably",
-      "summary": "Improved experience for editing in Excel",
-      "details": "### Business value\n\nMany business processes rely on Microsoft Excel for data entry, bulk editing, or simply for data analysis. We're improving the reliability of the Excel add-in so that business users can work more effectively in a broader range of scenarios.\n\n### Feature details\n\nSupport for company names with international characters Add the Business Central Excel add-in to your Excel spreadsheet, and enjoy how you can edit or refresh data from Business Central companies. Now you can also get and update data from Business Central companies where the company name includes non-English characters or non-letter symbols. This improvement is available from April 22, 2021 when you connect Excel to any of the supported versions of Business Central. Better handling of Flow Fields In earlier versions of Business Central, you would often run into problems when you edited multiple rows in a list in Excel when the list included FlowFields. This was typically due to the FlowField being recalculated, which caused problems in determining if there are conflicting changes to a record. With this update, we've greatly reduced the risk of error due to FlowField calculations on one row being affected by changes to another row.\n\n### Additional resources\n\nLast updated on 2021-04-23 In this article en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2021wave1/smb/dynamics365-business-central/editing-excel-more-reliably"
-    },
     "da": {
       "title": "Mere pålidelig redigering i Excel",
       "summary": "Forbedret oplevelse til redigering i Excel",

@@ -2,12 +2,6 @@
   "id": "ecef98fa34f8f9d8",
   "title": "Update error telemetry in Application Insights for partners",
   "languages": {
-    "en": {
-      "title": "Update error telemetry in Application Insights for partners",
-      "summary": "If a telemetry key for an environment has been specified in the Business Central administration center, the server will emit telemetry to Application Insights about update errors caused by exceptions in update codeunits.",
-      "details": "### Feature details\n\nUpdate errors caused by exceptions in update codeunits will be emitted with information about: The codeunit where the exception is thrown. AL stack trace. The exception message. This will enable partners to quickly fix update errors in per-tenant extensions.\n\n### See also\n\nAnalyzing Extension Update Trace Telemetry (docs)\n\n### Feedback\n\nWas this page helpful? Yes No No Need help with this topic? Want to try using Ask Learn to clarify or guide you through this topic? Ask Learn Ask Learn Suggest a fix?\n\n### Additional resources\n\nLast updated on 2020-07-08 In this article Was this page helpful? Need help with this topic? Want to try using Ask Learn to clarify or guide you through this topic? Ask Learn Ask Learn Suggest a fix? en-us Your Privacy Choices Theme Light Dark High contrast AI Disclaimer Previous Versions Blog Contribute Privacy Consumer Health Privacy Terms of Use Trademarks © Microsoft 2026",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2020wave1/dynamics365-business-central/update-error-telemetry-application-insights-partners"
-    },
     "da": {
       "title": "Update error telemetry in Application Insights for partners",
       "summary": "If a telemetry key for an environment has been specified in the Business Central administration center, the server will emit telemetry to Application Insights about update errors caused by exceptions in update codeunits.",

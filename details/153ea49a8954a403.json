@@ -2,12 +2,6 @@
   "id": "153ea49a8954a403",
   "title": "Process e-documents in two steps",
   "languages": {
-    "en": {
-      "title": "Process e-documents in two steps",
-      "summary": "You can configure Business Central to receive e-documents first, so you can review them before you create related purchase documents.",
-      "details": "### Business value\n\nIn most cases, businesses want to save time by automating as many processes as possible. However, some cases require pausing a process to allow time for a review. Business Central supports both approaches. You can configure Business Central to create purchase documents in a fully automated, one-step process or in a two-step process that requires approval. Pausing for review gives you greater control over how you process e-documents and create purchase documents. Reviewing e-documents gives you more control over their processing.\n\n### Feature details\n\nYou can choose to use automatic processing for purchase documents, where Business Central creates new documents right away, or a two-step process that requires explicit confirmation before creating a purchase document. In the two-step process, Business Central creates the e-document, but you must confirm it before you can take the next step. To set up the process, turn on or turn off the Automatic processing toggle on the E-Documents Service page: Turn on: Business Central uses your e-document setup to automatically create a purchase document from the received e-document. Turn off: Business Central creates the e-document. You use the Create Invoice or Create Order actions to create the purchase document. You can review the received document before proceeding.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/process-e-documents-two-steps"
-    },
     "da": {
       "title": "Behandle e-dokumenter i to trin",
       "summary": "Du kan konfigurere Business Central til at modtage e-dokumenter først, så du kan gennemse dem, før du opretter relaterede købsdokumenter.",

@@ -2,12 +2,6 @@
   "id": "ab634750d4022245",
   "title": "Optimize screen estate usage on the web",
   "languages": {
-    "en": {
-      "title": "Optimize screen estate usage on the web",
-      "summary": "Enhance screen area usage in the web client, including resizing the FactBox pane and more.",
-      "details": "### Business value\n\nWork optimally with the Business Central web client on modern devices that have large screens or large external monitors. This feature ensures that the application uses the screen efficiently, even when pages appear in different modes. You get the most productivity and efficiency in the web client.\n\n### Feature details\n\nThis feature optimizes screen space in the Business Central web client. It includes: Optimized default page size in narrow mode. Improved sizing and animation of the FactBox pane in narrow mode. The FactBox pane adds to the page width. When you expand or collapse the FactBox pane, the main content area width stays the same. Better proportions between field labels and values in narrow mode. An option to resize the FactBox pane and remember your choice for each page and mode. The Allow adjusting FactBox pane width feature provides this capability.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365/release-plan/2025wave1/smb/dynamics365-business-central/optimize-screen-estate-usage-web"
-    },
     "da": {
       "title": "Optimere brugen af skærmplads på internettet",
       "summary": "Forbedre brugen af skærmområdet i webklienten, herunder ændring af størrelsen på faktaboksruden og mere.",

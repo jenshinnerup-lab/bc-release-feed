@@ -2,12 +2,6 @@
   "id": "eb207194099ad845",
   "title": "Access attachments on additional list pages",
   "languages": {
-    "en": {
-      "title": "Access attachments on additional list pages",
-      "summary": "You can access document attachments on additional list pages.",
-      "details": "### Business value\n\nBeing able to quickly get to file attachments that contain additional information about a record, such as customer and vendor contracts, improves productivity. For example, fast access to contract details can help you be more informed when you respond to customer or vendor queries or handle various audit scenarios.\n\n### Feature details\n\nTo make it easier to access the files attached to records, the Attachments FactBox, which contains the files, is available on several additional list pages: Fixed Assets VAT Returns Employees Items Resources Purchase Return Orders Vendors Posted Sales Credit Memos Sales Return Orders Note We'd like to thank our community for making this valuable contribution through our open-source Base Application repository on GitHub.",
-      "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2022wave2/smb/dynamics365-business-central/access-attachments-additional-list-pages"
-    },
     "da": {
       "title": "Adgang til vedhæftede dokumenter på yderligere listesider",
       "summary": "Du kan få adgang til vedhæftede dokumenter på yderligere listesider.",
