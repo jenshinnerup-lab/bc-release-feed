@@ -40,6 +40,31 @@ Extension Management, or the call is blocked before it leaves the tenant.
 Localized titles appear as `title_da`, `title_nl` and `title_fr`, and Microsoft's
 one-line summary as `summary` plus `summary_da`, `summary_nl` and `summary_fr`.
 
+## Checking for updates
+
+`status.json` is a few kilobytes and says whether anything needs downloading:
+
+```json
+{
+  "updated_at": "2026-09-15T03:30:12Z",
+  "files": {
+    "releases.json":  { "hash": "9c1e...", "updated_at": "2026-09-15T03:30:12Z" },
+    "ideas.json":     { "hash": "41ab...", "updated_at": "2026-09-13T22:04:00Z" },
+    "changelog.json": { "hash": "07fd...", "updated_at": "2026-09-15T03:30:12Z" }
+  },
+  "activity": [
+    { "at": "2026-09-15T03:30:12Z", "files": ["releases.json", "changelog.json"],
+      "features": 597, "hotfixes": 1702, "ideas": 3615, "changelog_entries": 4 }
+  ]
+}
+```
+
+`hash` covers a file's content without its `generated_at`, so it only changes
+when the content does. Compare it with the hash you last imported and fetch the
+file only when they differ. `activity` lists the last 200 builds that changed
+something, newest first. A build that changes nothing leaves every file,
+including this one, untouched, so this repository's commits are updates too.
+
 ## Change log
 
 `changelog.json` lists what changed between daily builds, newest first, for the
