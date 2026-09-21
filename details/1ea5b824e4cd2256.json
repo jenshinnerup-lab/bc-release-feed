@@ -1,0 +1,12 @@
+{
+  "id": "1ea5b824e4cd2256",
+  "title": "Improve duplicates prevention in Expense Agent",
+  "languages": {
+    "en": {
+      "title": "Improve duplicates prevention in Expense Agent",
+      "summary": "Improve expense accuracy with enhanced duplicate detection and prevention even with already posted documents, helping to reduce duplicate reimbursements",
+      "details": "The **Expense Agent** now includes improved duplicate prevention capabilities to better identify and handle potentially duplicated expense submissions.\n\nKey capabilities include:\n\n* Enhanced duplicate detection that identifies expenses with matching or highly similar details, such as amount, date, merchant, receipt, or transaction information.\n* Proactive user guidance that alerts employees when a potential duplicate expense is detected during the submission process, regardless if this is duplicate with other expense in the same or different expense report, or even with the posted expense report.\n* Reduced manual review effort by helping prevent duplicate claims from entering approval and reimbursement workflows.\n* Improved expense data integrity through more intelligent validation and comparison of submitted expenses.\n* Seamless expense management experience that allows users to review and resolve potential duplicates before completing their submission.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-improve-duplicates-prevention-in-expense-agent"
+    }
+  }
+}

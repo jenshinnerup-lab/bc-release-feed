@@ -1,0 +1,12 @@
+{
+  "id": "1df5d8453546f8ae",
+  "title": "Add interim approver when submit the expense report",
+  "languages": {
+    "en": {
+      "title": "Add interim approver when you submit the expense report",
+      "summary": "Enable interim approvers for expense reports, allowing submissions to be routed through a temporary reviewer before final approval",
+      "details": "This feature introduces support for a simple interim approval scenario for expense reports. When you submit an expense report, your organization can designate an interim approver to review and approve expenses before the final approver can review and approve. In most situations, the interim approver reviews expense reports to confirm that everything is compliant and there's no missing information.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-add-interim-approver-when-you-submit-the-expense-report"
+    }
+  }
+}

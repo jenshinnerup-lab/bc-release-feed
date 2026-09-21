@@ -1,0 +1,12 @@
+{
+  "id": "e7acf69055b9de07",
+  "title": "Reverse Sustainability Ledger entrie transaction",
+  "languages": {
+    "en": {
+      "title": "Reverse Sustainability Ledger entries transaction",
+      "summary": "Reverse sustainability ledger entries posted from sustainability or general journals, directly from the Sustainability Ledger Entries page.",
+      "details": "Enter feature detail here.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-reverse-sustainability-ledger-entries-transaction"
+    }
+  }
+}

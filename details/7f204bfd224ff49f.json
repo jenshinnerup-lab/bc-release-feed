@@ -1,0 +1,12 @@
+{
+  "id": "7f204bfd224ff49f",
+  "title": "Use specific method for carbon footprint calculation when enabling Item Tracking",
+  "languages": {
+    "en": {
+      "title": "Use specific method for carbon footprint calculation when enabling item tracking",
+      "summary": "Enable precise carbon footprint calculation using a new Specific tracking method for items that you track with serial or lot numbers.",
+      "details": "This feature introduces a new calculation method for carbon footprint tracking in sustainability value entries. In addition to the current **Average** method, you can enable a **Specific** method for items that you track with serial or lot numbers. On the **Item Card** page, on the **Sustainability** FastTab, you can choose one of the following options in the **Carbon Tracking Method** field:\n\n* **Average** (default) – Use the current behavior for all postings.\n* **Specific** – Use the exact emission value for the unit received, similar to specific costing, when you track items by using serial or lot numbers.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-use-specific-method-for-carbon-footprint-calculation-when-enabling-item-tracking"
+    }
+  }
+}

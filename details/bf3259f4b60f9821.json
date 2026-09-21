@@ -1,0 +1,12 @@
+{
+  "id": "bf3259f4b60f9821",
+  "title": "Separate setup for automatic dimensions in Czechia",
+  "languages": {
+    "en": {
+      "title": "Separate setup for automatic dimensions in Czechia",
+      "summary": "Use a new framework that automates how you create and maintain default dimensions with migration from existing setups.",
+      "details": "This feature introduces a new framework for managing automatic creation and maintenance of default dimensions.\n\nAutomatic dimension configuration:\n\n* A new **Auto. Create Default Dim. CZA** table stores rules and settings for automatic dimension creation.\n* The new structure provides a centralized and extensible framework for managing dimension automation.\n\nAutomated dimension update management:\n\n* A new **Dimension Auto.Update Mgt. CZA** code unit handles default dimension creation and updates based on rules you configure.\n* The functionality ensures that dimensions align with the underlying master data.\n\nData upgrade and migration:\n\n* Existing default dimension settings are migrated during upgrade to the new data structure.\n* The upgrade process preserves existing customer configurations while enabling the new functionality.\n\nUser interface for configuration:\n\n* A new **Auto. Create Default Dim. CZA** page lets you maintain settings for automatic dimension creation.\n* You can review and manage automation rules directly from Business Central.\n\nIntegration with existing default dimensions:\n\n* The **Default Dimension** table is extended to support the new framework.\n* Obsolete fields are marked accordingly and replaced by the new automatic dimension management approach.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#countryregion-separate-setup-for-automatic-dimensions-in-czechia"
+    }
+  }
+}

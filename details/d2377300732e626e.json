@@ -1,0 +1,12 @@
+{
+  "id": "d2377300732e626e",
+  "title": "Estimate your carbon footprint in Service Management",
+  "languages": {
+    "en": {
+      "title": "Estimate your carbon footprint in Service Management",
+      "summary": "Show an estimated carbon footprint on service invoices and related documents by using sustainability data from items and resources in Service Management.",
+      "details": "This feature extends sustainability tracking to cover **Service Management** features by displaying carbon footprint values on service documents. Emission data comes from sustainability value entries for items and from resource cards for resource-related emissions.\n\nWhen you consume or ship items or resources as part of a service order, the system retrieves their associated CO₂e values from sustainability data.\n\nThe system shows emission details on service invoices and posted documents for reporting and customer communication. Resource emissions are based on values defined on the resource card. Item emissions come from sustainability setup and item configuration.\n\nCalculations follow the same logic as in other sustainability features, ensuring consistency across modules.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-estimate-your-carbon-footprint-in-service-management"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "739b4061c824db53",
+  "title": "Enable accelerated depreciation methods for fixed assets",
+  "languages": {
+    "en": {
+      "title": "Enable accelerated depreciation methods for fixed assets",
+      "summary": "Introduce accelerated depreciation for fixed assets, enabling compliant calculations and reporting.",
+      "details": "Accelerated depreciation is now a standard depreciation method in fixed assets. Configure acceleration factors and asset settings directly in depreciation books. Business Central automatically calculates accelerated amounts, the equivalent linear amounts, and the difference between them, and posts the values to the appropriate accounts. Inquiry pages provide clear visibility into annual depreciation figures, variances, and remaining book value, supporting consistent financial tracking and audit transparency.\n\nTo get started, you need to:\n\n1. Enable accelerated depreciation by configuring a depreciation book to use an accelerated depreciation method.\n1. Enter the acceleration coefficient and other required settings on the fixed asset card.\n\nAfter you prepare the depreciation book, the assets assigned to it automatically support accelerated depreciation. You don't need any additional modules or extensions.\n\nAfter you set it up, depreciation is calculated through the standard depreciation processes. Business Central automatically computes the accelerated amount, the equivalent linear amount, and the difference between them. When posting depreciation, Business Central records both the accelerated depreciation and any variance. Inquiry pages provide an overview of annual depreciation, variances, and remaining book value so you can monitor the financial impact throughout the asset’s lifecycle.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-enable-accelerated-depreciation-methods-for-fixed-assets"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "68a5605018817933",
+  "title": "Calculate withholding taxes for vendors",
+  "languages": {
+    "en": {
+      "title": "Calculate withholding taxes for vendors",
+      "summary": "You can calculate withholding tax for vendors in the standard version of Business Central.",
+      "details": "In some countries and regions, companies must pay withholding tax to the government for certain third‑party services or vendor purchases. Business Central calculates withholding tax when you pay a vendor invoice or when you post it, based on your setup. The tax amount is withheld from the payment and reduces the total amount owed to the vendor.\n\nYou can configure withholding tax by setting up **Withholding Tax Codes** and **Vendors**.\n\n### Get started\n\nTo enable withholding tax calculation, open the **General Ledger Setup** page and turn it on. Next, configure the **Withholding Tax Revenue Types**, including their sequences and posting groups. Then, set up the following:\n\n- **Withholding Tax Bus. Post. Group** and apply it to vendors that are subject to withholding tax.\n- **Withholding Tax Prod. Post. Group** and apply it to items or general ledger accounts.\n- **Withholding Tax Posting Setup** using the two groups above.\n\nIf needed, you can override the product posting group on purchase document lines by using the **Withholding Tax Prod. Post. Group** field.\n\n### Using withholding tax\n\nWithholding tax applies automatically when you work with purchase documents. When you post a document that includes withholding tax, Business Central creates a withholding tax entry. Use the **Calculate and post withholding tax settlements** action to process withholding tax for a specific period based on the withholding tax entries you already posted.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-calculate-withholding-taxes-for-vendors"
+    }
+  }
+}

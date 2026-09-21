@@ -1,0 +1,12 @@
+{
+  "id": "1e78af943f6e0e93",
+  "title": "Manage travel requisitions with Expense Agent",
+  "languages": {
+    "en": {
+      "title": "Manage travel requisitions with Expense Agent",
+      "summary": "Plan and approve travel in advance using travel requisitions with support for multiple travelers and integrated approval workflows.",
+      "details": "Expense Agent introduces travel requisition features that allow employees to request and manage business trips before they create expenses. Employees can create a travel requisition for themselves or, if they're managers, on behalf of their team members. A single requisition can include multiple travelers, enabling coordinated planning for team travel scenarios within one request structure.\n\nEach travel requisition is stored in the **Travel Requisition** table, with related traveler records managed through a connected **Travelers** entity. Employees specify the purpose of the trip, assign travelers, and provide relevant travel information before they submit the request. When ready, they release the requisition to start the approval process.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#copilot-and-agents-manage-travel-requisitions-with-expense-agent"
+    }
+  }
+}

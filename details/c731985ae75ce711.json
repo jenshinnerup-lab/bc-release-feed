@@ -1,0 +1,12 @@
+{
+  "id": "c731985ae75ce711",
+  "title": "Compensation – sending by e‑mail in Czechia",
+  "languages": {
+    "en": {
+      "title": "Compensation – send by email in Czechia",
+      "summary": "Businesses can share compensations by email directly from Business Central.",
+      "details": "We added the **Send** and **Email** actions to the **Compensation Card** and **Posted Compensation Card** pages. We also added a **Report Selection – Compensation** page to configure default reports to use when you print, email, and do other output operations for compensation documents.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#countryregion-compensation--send-by-email-in-czechia"
+    }
+  }
+}

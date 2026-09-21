@@ -1,0 +1,12 @@
+{
+  "id": "ee988017e22fcfcf",
+  "title": "Control sales document creation for Shopify orders and returns",
+  "languages": {
+    "en": {
+      "title": "Control sales document creation for Shopify orders and returns",
+      "summary": "Set Use Shopify Order No. and Process Returns as on the Shopify Shop Card, then review contacts before you choose Create Sales Document.",
+      "details": "The Shopify connector gives you more control before it creates sales documents.\n\nAlthough the connector already stores the Shopify order number in dedicated fields on sales documents, using the same document number in Shopify and Business Central can improve traceability across both systems even more.\n\n- Turn on **Use Shopify Order No.** on the Shopify Shop Card to use the Shopify order number as the Business Central sales document number.\n\n> [!NOTE]\n> Configure a number series that permits manual numbers. A number conflict can prevent the Shopify order number from being used.\n\nYou can also review the contacts that the connector selects for billing, shipping, and order communication before you create the sales document.\n\n- Review and edit sell-to, ship-to, and bill-to contact numbers on the Shopify Order. If the connector doesn't find the right contact, use the lookup to select a different contact for the corresponding customer. The contact fields are hidden by default and can be added through personalization.\n\nBoth Shopify and Business Central support advanced return processes, but the original connector implementation represented refunds only as sales credit memos, which doesn't support warehouse return processing. You can now choose which sales document type the connector creates for refunds.\n\n- Use **Process Returns as** to choose whether Shopify refunds create sales credit memos or sales return orders.\n\n> [!NOTE]\n> Processing Shopify returns remains unsupported.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-control-sales-document-creation-for-shopify-orders-and-returns"
+    }
+  }
+}

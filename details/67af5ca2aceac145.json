@@ -1,0 +1,12 @@
+{
+  "id": "67af5ca2aceac145",
+  "title": "Calculate multiple excise duties per item",
+  "languages": {
+    "en": {
+      "title": "Calculate multiple excise duties per item",
+      "summary": "Support multiple excise duties on a single item, enabling businesses to calculate and manage complex excise tax requirements with greater accuracy.",
+      "details": "This feature enhances excise tax management by allowing you to associate multiple excise duty definitions with a single item and calculate them during transactions.\n\nKey capabilities include:\n\n* Assign multiple excise duty configurations to the same inventory item (for example, the item is liable for both plastic and sugar tax).\n* Automatically calculate all applicable excise duties during purchasing and vendor-related transactions.\n* Support complex tax scenarios where products are subject to more than one excise levy.\n* Reduce the need for manual workarounds, customizations, or separate item records to represent different tax obligations.\n* Improve tax accuracy and consistency across purchasing, inventory valuation, and financial reporting processes.\n\nBy using this enhancement, you can model real-world excise tax structures more effectively while maintaining compliance with local regulatory requirements. The system aggregates and applies all configured excise duties for an item, ensuring that tax amounts are calculated consistently and transparently throughout the transaction lifecycle.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-calculate-multiple-excise-duties-per-item"
+    }
+  }
+}

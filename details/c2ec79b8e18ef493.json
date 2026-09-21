@@ -1,0 +1,12 @@
+{
+  "id": "c2ec79b8e18ef493",
+  "title": "Process Shopify order changes, exchanges, and refunds",
+  "languages": {
+    "en": {
+      "title": "Process Shopify order changes, exchanges, and refunds",
+      "summary": "Keep edited and exchanged Shopify orders aligned when you create sales documents and process refunds.",
+      "details": "When a Shopify return includes a replacement item, the connector imports the returned item and the exchange item together and adds them to a sales credit memo or sales return order. You can keep both items on the same document or move the exchange item to a new sales document.\n\n### Example: Process an exchange\n\nA customer orders, pays for, and receives an item. You import and process the Shopify order in Business Central, where it becomes a posted sales invoice. Later, the customer decides that the item doesn't fit and returns it in exchange for a replacement item.\n\nThe connector imports the updated Shopify order and its linked refund. When you choose **Create Sales Document**, the connector creates the document type selected in **Process Returns as**: a sales credit memo or sales return order. The returned item has a positive quantity on the new document, and the exchange item has a negative quantity.\n\nYou can post the document with both lines, or you can keep the returned item on the credit memo or return order and move the exchange item to a separate sales document. To split the lines before posting:\n\n1. If the credit memo or return order has the **Released** status, choose **Reopen**.\n2. Choose **Move Negative Lines**. From a sales credit memo, this action creates a sales invoice by default. From a sales return order, it creates a sales order by default.\n\nThe new invoice or order for the replacement remains linked to the originating Shopify order and appears in the **Linked Documents** FactBox.\n\nFor exchanges where the replacement costs more, the connector doesn't add an unnecessary balancing refund-account G/L line. A G/L line can still be added for cash rounding.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-process-shopify-order-changes-exchanges-and-refunds"
+    }
+  }
+}

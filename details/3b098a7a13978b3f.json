@@ -1,0 +1,12 @@
+{
+  "id": "3b098a7a13978b3f",
+  "title": "Synchronize tariff numbers and countries/regions of origin with Shopify",
+  "languages": {
+    "en": {
+      "title": "Synchronize tariff numbers and origin values with Shopify",
+      "summary": "Turn on Sync HS Code and Country of Origin on the Shopify Shop Card page to include tariff numbers and countries or regions of origin into the product synchronization tasks.",
+      "details": "Accurate tariff numbers and country/region of origin values support international shipping and customs reporting. Synchronizing these values with Shopify reduces duplicate data entry and helps keep product trade data consistent across both systems.\n\nTurn on **Sync HS Code and Country/Region of Origin** on the Shopify Shop Card to synchronize tariff numbers and country or region of origin values between Business Central and Shopify. On import, the connector updates values only when the Shopify value resolves to an existing Tariff Number or Country/Region record.\n\nOther product information management improvements provide more control over matching, product status, and variant information:\n\n- Use **Find Mapping by Barcode** to control whether the connector tries barcode matching after the selected SKU mapping strategy fails. The setting is on by default for compatibility and can be disabled when barcodes aren't unique.\n- Set **Status for Created Products** now includes new **Unlisted** status. The selected status applies when the connector creates a product in Shopify.\n- Add **Compare-at Price** to the Shopify Variants page through personalization to inspect the comparison price used for a variant.\n- From an Item Card or Item List, the **Show Product in Shopify** action is also enabled for items exported as variants to Shopify.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-synchronize-tariff-numbers-and-origin-values-with-shopify"
+    }
+  }
+}

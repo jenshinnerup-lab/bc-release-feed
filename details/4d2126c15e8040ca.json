@@ -1,0 +1,12 @@
+{
+  "id": "4d2126c15e8040ca",
+  "title": "Exchange EDI documents via E-Documents",
+  "languages": {
+    "en": {
+      "title": "Exchange EDI documents via E-Documents",
+      "summary": "Send and receive electronic documents (orders, payments) seamlessly through E-Documents using the Peppol BIS 3 EDI standard for secure, efficient data exchange.",
+      "details": "This feature extends the **E-Documents** framework to support Electronic Data Interchange (**EDI**), enabling organizations to exchange business documents electronically with vendors and partners using widely adopted industry standards.\n\nKey capabilities include:\n\n* Leverages the existing **E-Documents** framework as a unified platform for managing electronic document exchange.\n* Enables organizations to send and receive structured business documents without relying on paper-based or manual processes.\n* Exchange documents using Peppol BIS 3, which is commonly used for electronic procurement and invoicing, but also opened for adding new formats based on local or customer standards.\n* In addition to the existing support for invoices and shipments, it now also supports order exchange and sending remittance advices, and it's opened for additional document types.\n* Facilitates standardized document exchange between organizations and vendors.\n* Automates the generation, transmission, and processing of electronic business documents.\n* Helps organizations align with regulatory, industry, and partner requirements for electronic document exchange.\n\nBy bringing EDI capabilities into E-Documents, organizations can modernize their supply chain and procurement processes while using a consistent, scalable approach to electronic business communication.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#electronic-documents-exchange-edi-documents-via-e-documents"
+    }
+  }
+}

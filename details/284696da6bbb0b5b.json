@@ -1,0 +1,12 @@
+{
+  "id": "284696da6bbb0b5b",
+  "title": "Calculate withholding taxes automatically in expense report",
+  "languages": {
+    "en": {
+      "title": "Calculate withholding taxes automatically in expense report",
+      "summary": "Automatically calculate employee withholding taxes within expense reports to improve compliance, reduce manual effort, and ensure accurate reimbursement process",
+      "details": "Organizations can now automatically calculate **employee withholding taxes** (WHT) as part of the expense report process. When employees submit expenses that are subject to withholding tax requirements, the system applies the appropriate tax calculations directly within the expense report workflow.\n\nKey capabilities include:\n\n* Automatic withholding tax calculation for employee expense transactions that require tax deductions.\n* Integrated expense processing that incorporates withholding tax handling without additional manual calculations.\n* The agent can calculate **single** or **multiple** withholding taxes for each of the categories, based on the setup, and calculation can also be **simple** or **compound**.\n* Threshold for calculation can be calculated based on different periods, and the vase can be based on the **Record**, **Document**, **Category** (period accumulation), **Total** (period accumulation).\n* Calculation can be done based on the **gross** or **net** amounts.\n* Improved tax compliance by ensuring withholding tax amounts are consistently calculated and recorded.\n* Reduced administrative effort through automation of a previously manual process.\n* Accurate financial postings by including withholding tax information in expense-related accounting entries.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-calculate-withholding-taxes-automatically-in-expense-report"
+    }
+  }
+}

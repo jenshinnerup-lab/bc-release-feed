@@ -1,0 +1,12 @@
+{
+  "id": "2648f49ad2755e97",
+  "title": "Set up vendor specific number series for self-billing invoices",
+  "languages": {
+    "en": {
+      "title": "Set up vendor-specific number series for self-billing invoices",
+      "summary": "Configure vendor-specific number series for self-billing purchase invoices to meet supplier requirements and improve invoice traceability and compliance.",
+      "details": "Organizations that use self-billing often need to follow supplier-specific invoicing requirements, including unique numbering conventions. With this enhancement, you can define and assign dedicated number series for self-billed purchase invoices on a per-vendor basis.\n\nKey capabilities include:\n\n* Set up a unique number series for individual vendors that participate in self-billing arrangements.\n* Automatically apply the vendor-specific number series when creating self-billed purchase invoices.\n* Maintain separate invoice numbering sequences across different suppliers.\n* Improve compliance with vendor agreements and local business requirements that mandate specific invoice numbering practices.\n* Reduce manual intervention and the risk of numbering errors during invoice generation.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-set-up-vendor-specific-number-series-for-self-billing-invoices"
+    }
+  }
+}

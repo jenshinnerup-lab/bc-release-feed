@@ -1,0 +1,12 @@
+{
+  "id": "1ccd141a40a2e856",
+  "title": "Use formulas to calculate emissions in purchase documents",
+  "languages": {
+    "en": {
+      "title": "Use formulas to calculate emissions in purchase documents",
+      "summary": "Calculate CO₂, CH₄, and N₂O in purchase documents using formula‑based inputs and emission factors that mirror sustainability journal logic.",
+      "details": "This feature introduces formula-based emission calculations on purchase documents and uses the same calculation logic as sustainability journals. It applies emission factors to inputs such as fuel, electricity, distance, or custom amounts.\n\nSet up this feature on the **Sustainability Setup** page:\n\n* First, turn on the **Use Emissions in Purchase Documents** toggle.\n* Then, turn on the **Use Formulas in Purchase Documents** toggle.\n* When both options are active, additional fields become available on purchase lines.\n\nWhen you fill in a formula field, Business Central calculates values for **Emission CO₂**, **Emission CH₄**, and **Emission N₂O** using **Emission Factors**.\n\nInput validation follows the same rules as sustainability journals, and is based on **Sustainability Account Categories**. If formula fields contain values, manual entry of emissions is blocked. If you enter emissions manually, you can't use formula fields.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-use-formulas-to-calculate-emissions-in-purchase-documents"
+    }
+  }
+}

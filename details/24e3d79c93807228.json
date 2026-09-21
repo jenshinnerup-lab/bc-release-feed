@@ -1,0 +1,12 @@
+{
+  "id": "24e3d79c93807228",
+  "title": "Add date range and different vehicle types in your mileage calculation in Expense Agent",
+  "languages": {
+    "en": {
+      "title": "Add date range and different vehicle types in your mileage calculation in Expense Agent",
+      "summary": "Configure mileage rates by effective date range and vehicle type to ensure accurate calculations that reflect changing policies and transportation methods",
+      "details": "Expense Agent now supports advanced mileage rate configuration based on both effective date ranges and vehicle types, enabling more flexible and accurate mileage reimbursement calculations. This enhancement combines mileage rate scheduling with support for differentiated vehicle categories.\n\n**Key capabilities**\n\n* Define mileage rates in the **Mileage Rate Setup** that are valid only within specific date ranges, allowing organizations to accommodate rate changes over time.\n* Configure separate mileage reimbursement rates for different vehicle types in the **Mileage Rate Setup**, such as cars, motorcycles, electric vehicles, or other organization-defined vehicle categories, based on predefined **Vehicle Types**.\n* Automatically apply the correct reimbursement rate based on the travel date and selected vehicle type during mileage expense calculation.\n* Support evolving regulatory requirements, company policies, and regional reimbursement standards without requiring manual recalculation of submitted mileage claims.\n\n**How it works**\n\nAdministrators can maintain a set of mileage rate records that include both an effective date range and an associated vehicle type in the **Mileage Rate Setup**. When a mileage **Expense** is created, **Expense Agent** evaluates the trip date and **Vehicle Type** selection, then applies the matching reimbursement rate automatically. This ensures that mileage claims are calculated using the appropriate rate in effect for the specific travel period and mode of transportation.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-add-date-range-and-different-vehicle-types-in-your-mileage-calculation-in-expense-agent"
+    }
+  }
+}

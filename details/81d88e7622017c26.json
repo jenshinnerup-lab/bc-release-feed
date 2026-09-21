@@ -1,0 +1,12 @@
+{
+  "id": "81d88e7622017c26",
+  "title": "Show recently used in lookups",
+  "languages": {
+    "en": {
+      "title": "Show recently used in lookups",
+      "summary": "Accelerate data entry by using smart lookup suggestions that display your most recently accessed records for quick selection.",
+      "details": "Business Central now highlights recently used records directly in lookup dialogs. When users open a lookup, the system surfaces records they recently accessed or worked with, making it easier to select the correct value without performing a search.\n\nThe suggestions are personalized to each user and are based on usage signals already collected by the platform. The feature reuses the same server-side intelligence that supports Autofill and recent-record scenarios, ensuring consistent recommendations across Business Central experiences.\n\nUsers can still browse and search the full list of available records, but the most relevant and recently used entries are immediately available, helping reduce clicks and accelerate common workflows.\n\nThe feature makes Business Central feel more responsive and personalized by adapting lookup suggestions to each user's working patterns. It reduces repetitive data entry, speeds up transaction processing, and helps users stay focused on their work. By reusing existing server intelligence already powering Autofill experiences, the feature delivers a consistent and efficient way to surface the most relevant records across the application.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#user-experiences-show-recently-used-in-lookups"
+    }
+  }
+}

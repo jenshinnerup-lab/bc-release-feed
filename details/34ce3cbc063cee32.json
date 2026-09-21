@@ -1,0 +1,12 @@
+{
+  "id": "34ce3cbc063cee32",
+  "title": "Track your carbon footprint with item journals and item reclassification journals",
+  "languages": {
+    "en": {
+      "title": "Track your carbon footprint with item journals and item reclassification journals",
+      "summary": "Track your carbon footprint in item journals and reclassification journals by adding CO₂e per unit and total emissions, with full value chain traceability.",
+      "details": "This feature introduces carbon footprint tracking to **Item Journals** and **Item Reclassification Journals**. It adds fields for CO₂e per unit and total CO₂e, and calculates emissions by using the **Average** method to ensure that emissions follow the same lifecycle logic as item costs.\n\nEmissions are calculated based on **Sustainability Value Entries** by using the **Average** or the new **Specific** method. Posting results are recorded in **Sustainability Value Entries** only. There are no changes to item cost entries.\n\nFor **Item Reclassification Journals**:\n\n* Emissions transfer between items without adding new values.\n* Maintains a chain for updates after adjustments.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-track-your-carbon-footprint-with-item-journals-and-item-reclassification-journals"
+    }
+  }
+}

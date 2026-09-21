@@ -1,0 +1,12 @@
+{
+  "id": "083de588fc33282d",
+  "title": "Proforma Invoice Report with Czech Layout in Czechia",
+  "languages": {
+    "en": {
+      "title": "Proforma Invoice Report with Czech Layout in Czechia",
+      "summary": "Use the enhanced Draft Invoice and Pro Forma Invoice reports with additional details and an improved layout for pre-posting approval processes.",
+      "details": "This feature enhances the **1303 - Draft Invoice** and **1302 - Pro Forma Invoice** reports to provide a richer approval preview that more closely resembles the final localized posted sales invoice. The objective isn't to guarantee that draft or pro forma invoices are identical to the posted invoice in all scenarios. Instead, the goal is to provide the maximum amount of relevant information available on an unposted document to support customer review and approval before posting. Some of the key enhancements are:\n\nExtended header information:\n\n* Customer Registration No.\n* Customer VAT Registration No.\n* Vendor Registration No.\n* VAT Date\n* Due Date\n* Bank Account Information\n* Payment Terms\n* Payment Method\n* Your Reference\n* Additional header information available on the localized posted sales invoice layout\n\nAn improved layout:\n\n* Aligns the visual appearance and structure of Draft Invoice and Pro Forma Invoice reports with the localized posted sales invoice.\n\nAdditional summary information:\n\n* Includes available totals and summary data where technically possible and correct for unposted documents.\n\nClear document identification:\n\n* Maintains prominent labeling indicating that the document is a Draft Invoice or Pro Forma Invoice and not a final tax document.\n\nHowever, there are a few known limitations:\n\n* QR code functionality isn't included.\n* The enhancement applies only to the RDL layout.\n* Word layouts and emailing functionality are out of scope.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#countryregion-proforma-invoice-report-with-czech-layout-in-czechia"
+    }
+  }
+}

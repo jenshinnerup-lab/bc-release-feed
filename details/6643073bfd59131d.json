@@ -1,0 +1,12 @@
+{
+  "id": "6643073bfd59131d",
+  "title": "Enable unified Copilot chat experience consistent with Microsoft Copilot",
+  "languages": {
+    "en": {
+      "title": "Enable unified Copilot chat experience consistent with Microsoft Copilot",
+      "summary": "Use the new Microsoft Copilot experience in Business Central to reason over business data, web results, and general knowledge in a modern chat experience aligned with the broader Microsoft Copilot ecosystem.",
+      "details": "This feature becomes available over the coming days. After it's available in your environment, you might need to enable it on the **Copilot & Agent Capabilities** page.\n\nWith this new experience, you interact with a modern chat that combines business data from Business Central with web search results and general knowledge supported by the latest AI models. The feature is available to all users with a Business Central license. Users with a **Microsoft Copilot** license receive [additional benefits](https://support.microsoft.com/Microsoft-365-Copilot/standard-versus-priority-access-to-features-in-microsoft-365-copilot-chat), including access to [Work IQ](/microsoft-365/copilot/extensibility/work-iq/). [Eligible Microsoft 365 business customers](https://go.microsoft.com/fwlink/?linkid=2332640) also have access to these benefits.\n\nTo learn about pricing, visit [https://www.microsoft.com/microsoft-365-copilot/pricing](https://www.microsoft.com/microsoft-365-copilot/pricing).",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#copilot-and-agents-enable-unified-copilot-chat-experience-consistent-with-microsoft-copilot"
+    }
+  }
+}

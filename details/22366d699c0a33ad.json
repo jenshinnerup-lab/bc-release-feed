@@ -1,0 +1,12 @@
+{
+  "id": "22366d699c0a33ad",
+  "title": "Expense Agent supports approval process",
+  "languages": {
+    "en": {
+      "title": "Expense Agent supports approval process",
+      "summary": "Review submitted expense reports with AI-based policy validation that flags suspicious or noncompliant items across lines and reports.",
+      "details": "Expense Agent can validate submitted expense reports against approval policies written in natural language and provide approvers with guidance during the review process. After an employee submits an expense report, the system evaluates both the overall report and the individual expense lines to detect potential policy violations, suspicious patterns, or situations that might require closer attention. This process supports policies that aren't limited to exact thresholds or fixed numeric conditions, such as when business class travel is allowed, what qualifies as an appropriate business meal, or when exceptions to preferred hotel standards might be acceptable. The result is additional review context that helps approvers make better-informed decisions without replacing the final human approval step.\n\nBy running policy validation after submission, the feature can apply controls at multiple levels of the process. Some checks are relevant to a single expense line, some apply to the expense report as a whole, and others depend on how multiple lines relate to one another. This separation improves the quality of policy enforcement and gives approvers a clearer picture of both the report-level intent and the detailed transactions within it. The feature complements existing approval workflows by highlighting issues, providing context, and helping organizations enforce policy consistently while keeping approvers in control of the final decision.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-expense-agent-supports-approval-process"
+    }
+  }
+}

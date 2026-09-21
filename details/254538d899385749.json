@@ -1,0 +1,12 @@
+{
+  "id": "254538d899385749",
+  "title": "Preview images directly in web client",
+  "languages": {
+    "en": {
+      "title": "Preview images directly in web client",
+      "summary": "Preview an image without having to leave the Business Central app.",
+      "details": "You can open image attachments in the Business Central web client without downloading the images first. Files display in preview mode with an easy-to-use viewer experience that's similar to the print preview or PDF preview features. If you want to save a copy, you can download the image file from the viewer.\n\nThis feature works across all areas of Business Central, including agents, email, and code from extensions. However, extension developers must add support for this feature by using *File.ViewFromStream* for Business Central online, or *File.View* for Business Central on-premises. These methods follow the pattern of the *File.Download* method.\n\nPreview images directly supports the following types of image files: JPEG, JPG, PNG, BMP, SVG, WEBP, ICO, plus GIF and AVIF (both include animated versions). On the Safari browser, this feature also supports TIFF and TIF.\n\nThe following are a couple of additional benefits:\n\n* There's support for GIF files as FactBox thumbnails, including animation for GIFs up to 48 frames.\n* Thumbnail previews are clickable for images and the first page of PDFs, which open the previewer window.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#user-experiences-preview-images-directly-in-web-client"
+    }
+  }
+}

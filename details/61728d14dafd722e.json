@@ -1,0 +1,12 @@
+{
+  "id": "61728d14dafd722e",
+  "title": "Track your carbon footprint for fixed assets",
+  "languages": {
+    "en": {
+      "title": "Track your carbon footprint for fixed assets",
+      "summary": "Enable carbon footprint tracking for fixed assets by adding sustainability accounts and CO₂e values to fixed asset transactions.",
+      "details": "This feature extends sustainability tracking to fixed assets by introducing fields and logic that capture emissions during acquisition, reclassification, and disposal. Emission data flows into the sustainability ledger and integrates with existing sustainability reporting. Validation ensures you can enter emissions only for acquisition transactions. Posting rules maintain data integrity across your fixed asset and sustainability ledgers.\n\nSustainability fields are available only if you enable sustainability features in setup.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-track-your-carbon-footprint-for-fixed-assets"
+    }
+  }
+}

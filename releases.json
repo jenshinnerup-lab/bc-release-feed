@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14",
+  "generated_at": "2026-09-20",
   "source": "Derived from Microsoft's public Business Central release notes. Titles and links are Microsoft's.",
   "features": [
     {
@@ -186,7 +186,7 @@
       "title": "Company lifecycle telemetry in Application Insights for partners",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/telemetry-company-lifecycle-trace.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/telemetry-company-lifecycle-trace",
       "country_code": ""
     },
     {
@@ -252,7 +252,7 @@
       "title": "Use modern authentication to connect to [!INCLUDE[cds_long_md",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../includes/cds_long_md.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../includes/cds_long_md",
       "country_code": ""
     },
     {
@@ -262,7 +262,7 @@
       "title": "Installing Marketplace apps updates in the Business Central administration center",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/tenant-admin-center-manage-apps.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/tenant-admin-center-manage-apps",
       "country_code": ""
     },
     {
@@ -317,7 +317,7 @@
       "title": "Installing Marketplace apps updates in the Business Central administration center",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/tenant-admin-center-manage-apps.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/tenant-admin-center-manage-apps",
       "country_code": ""
     },
     {
@@ -414,7 +414,7 @@
       "title": "Extension lifecycle telemetry in Application Insights for ISVs",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/telemetry-extension-lifecycle-trace.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/telemetry-extension-lifecycle-trace",
       "country_code": ""
     },
     {
@@ -424,7 +424,7 @@
       "title": "Use environmentType and environmentName launch.json properties instead of obsoleted sandboxName",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../developer/devenv-json-launch-file.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-json-launch-file",
       "country_code": ""
     },
     {
@@ -434,7 +434,7 @@
       "title": "Symbols can be downloaded with a snapshot initialize launch.json configuration, using above environment properties",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../developer/devenv-snapshot-debugging.md#download-symbols-on-the-snapshot-debugger-endpoint",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-snapshot-debugging#download-symbols-on-the-snapshot-debugger-endpoint",
       "country_code": ""
     },
     {
@@ -461,7 +461,7 @@
       "title": "Signal from job queue execution added to Application Insights telemetry for partners",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/telemetry-job-queue-lifecycle-trace.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/telemetry-job-queue-lifecycle-trace",
       "country_code": ""
     },
     {
@@ -471,7 +471,7 @@
       "title": "Signal from permission changes to added to Application Insights telemetry for partners",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/telemetry-permission-changes-trace.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/telemetry-permission-changes-trace",
       "country_code": ""
     },
     {
@@ -495,7 +495,7 @@
       "title": "Signal from the sensitive field audit feature added to Application Insights telemetry for partners",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/telemetry-field-monitoring-trace.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/telemetry-field-monitoring-trace",
       "country_code": ""
     },
     {
@@ -505,7 +505,7 @@
       "title": "Signal from the email feature added to Application Insights telemetry for partners",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/telemetry-email-trace.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/telemetry-email-trace",
       "country_code": ""
     },
     {
@@ -515,7 +515,7 @@
       "title": "Signal from application packages lifecycle added to Application Insights Telemetry for partners",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "..\\administration\\telemetry-configuration-package-trace.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/..\\administration\\telemetry-configuration-package-trace",
       "country_code": ""
     },
     {
@@ -525,7 +525,7 @@
       "title": "Snapshot Debugging",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../developer/devenv-snapshot-debugging.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-snapshot-debugging",
       "country_code": ""
     },
     {
@@ -535,7 +535,7 @@
       "title": "Restoring an Environment in the Admin Center",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/tenant-admin-center-backup-restore.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/tenant-admin-center-backup-restore",
       "country_code": ""
     },
     {
@@ -562,7 +562,7 @@
       "title": "Signal from web service key authentication added to Application Insights telemetry for partners",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/telemetry-webservices-access-key-trace.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/telemetry-webservices-access-key-trace",
       "country_code": ""
     },
     {
@@ -1316,7 +1316,7 @@
       "title": "Move custom fields to extensions during cloud migration",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/migration-table-mapping.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/migration-table-mapping",
       "country_code": ""
     },
     {
@@ -1536,7 +1536,7 @@
       "title": "Partners can control welcome banner texts",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/onboarding-welcome-banner.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/onboarding-welcome-banner",
       "country_code": ""
     },
     {
@@ -1546,7 +1546,7 @@
       "title": "Measure onboarding time of customers, apps and features",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/onboarding-telemetry.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/onboarding-telemetry",
       "country_code": ""
     },
     {
@@ -2503,7 +2503,7 @@
       "title": "Migrate to the cloud from Dynamics SL (general availability)",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/migrate-sl-overview.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/migrate-sl-overview",
       "country_code": ""
     },
     {
@@ -3458,7 +3458,7 @@
       "title": "Enhanced index troubleshooting",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/database-missing-indexes.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/database-missing-indexes",
       "country_code": ""
     },
     {
@@ -6219,7 +6219,7 @@
       "title": "Generating recurring purchase lines",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/migrate-dynamics-gp.md#generating-recurring-purchase-lines",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/migrate-dynamics-gp#generating-recurring-purchase-lines",
       "country_code": ""
     },
     {
@@ -6546,7 +6546,7 @@
       "title": "Create agentic experiences with enhanced MCP server (now from Visual Studio Code and other MCP-compliant clients)",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../ai/mcp-overview.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../ai/mcp-overview",
       "country_code": ""
     },
     {
@@ -6768,7 +6768,7 @@
       "title": "Allow developers to define data analysis definitions in their apps",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../developer/devenv-analysis-view-package.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-analysis-view-package",
       "country_code": ""
     },
     {
@@ -6778,7 +6778,7 @@
       "title": "Download symbols from NuGet feed",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../developer/devenv-al-extension-configuration.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-al-extension-configuration",
       "country_code": ""
     },
     {
@@ -6805,7 +6805,7 @@
       "title": "Get more secure outgoing HTTP calls by default",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../developer/devenv-httpclient.md#anti-ssrf-validation-for-al-httpclient",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-httpclient#anti-ssrf-validation-for-al-httpclient",
       "country_code": ""
     },
     {
@@ -6815,7 +6815,7 @@
       "title": "Run AL objects and open record references using fully qualified names",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../developer/devenv-namespaces-structure.md#running-objects-by-fully-qualified-name",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-namespaces-structure#running-objects-by-fully-qualified-name",
       "country_code": ""
     },
     {
@@ -6825,7 +6825,7 @@
       "title": "Run AL tests from Visual Studio Code",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../developer/devenv-test-explorer-vscode.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-test-explorer-vscode",
       "country_code": ""
     },
     {
@@ -7520,7 +7520,7 @@
       "title": "Validate Dynamics GP data migration",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "../administration/migrate-gp-validation.md",
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/migrate-gp-validation",
       "country_code": ""
     },
     {
@@ -8197,8 +8197,9 @@
       "title": "Enable unified Copilot chat experience consistent with Microsoft Copilot",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#copilot-and-agents-enable-unified-copilot-chat-experience-consistent-with-microsoft-copilot",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#copilot-and-agents-enable-unified-copilot-chat-experience-consistent-with-microsoft-copilot",
+      "country_code": "",
+      "summary": "Use the new Microsoft Copilot experience in Business Central to reason over business data, web results, and general knowledge in a modern chat experience aligned with the broader Microsoft Copilot ecosystem."
     },
     {
       "id": "7df991781862c2d8",
@@ -8207,8 +8208,9 @@
       "title": "Improve purchase order matching in Payables Agent",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#copilot-and-agents-improve-purchase-order-matching-in-payables-agent",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#copilot-and-agents-improve-purchase-order-matching-in-payables-agent",
+      "country_code": "",
+      "summary": "Improve purchase order matching in Payables Agent with line amounts and expected receipt dates. Align draft finalization with the Receipt on Invoice settings."
     },
     {
       "id": "968c58592e30e2fc",
@@ -8218,7 +8220,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Use new MCP tools to define, validate, and run custom data queries. Your MCP application can then query data for which no existing APIs exist."
     },
     {
       "id": "db585f8dbc4ccaf7",
@@ -8227,8 +8230,9 @@
       "title": "Cash document – sending by e‑mail in Czechia",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#countryregion-cash-document--sending-by-email-in-czechia",
-      "country_code": "CZ"
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#countryregion-cash-document--sending-by-email-in-czechia",
+      "country_code": "CZ",
+      "summary": "Issue, post, and email Czech receipt cash documents using standard document sending profiles."
     },
     {
       "id": "c731985ae75ce711",
@@ -8237,8 +8241,9 @@
       "title": "Compensation – sending by e‑mail in Czechia",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#countryregion-compensation--send-by-email-in-czechia",
-      "country_code": "CZ"
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#countryregion-compensation--send-by-email-in-czechia",
+      "country_code": "CZ",
+      "summary": "Businesses can share compensations by email directly from Business Central."
     },
     {
       "id": "083de588fc33282d",
@@ -8247,8 +8252,9 @@
       "title": "Proforma Invoice Report with Czech Layout in Czechia",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#countryregion-proforma-invoice-report-with-czech-layout-in-czechia",
-      "country_code": "CZ"
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#countryregion-proforma-invoice-report-with-czech-layout-in-czechia",
+      "country_code": "CZ",
+      "summary": "Use the enhanced Draft Invoice and Pro Forma Invoice reports with additional details and an improved layout for pre-posting approval processes."
     },
     {
       "id": "bf3259f4b60f9821",
@@ -8257,8 +8263,9 @@
       "title": "Separate setup for automatic dimensions in Czechia",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#countryregion-separate-setup-for-automatic-dimensions-in-czechia",
-      "country_code": "CZ"
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#countryregion-separate-setup-for-automatic-dimensions-in-czechia",
+      "country_code": "CZ",
+      "summary": "Use a new framework that automates how you create and maintain default dimensions with migration from existing setups."
     },
     {
       "id": "2491b13299b32e5a",
@@ -8268,7 +8275,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Read help, EULA, privacy statement, and locale-aware context-sensitive help links from an app manifest at runtime through additional ModuleInfo properties."
     },
     {
       "id": "749daf45213330e1",
@@ -8278,7 +8286,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Tooltips on page or report objects are now inherited into actions that run those pages. This means you only need to write descriptive tooltips in one place and have it propagated out to all usage of the object."
     },
     {
       "id": "b5b3e706dab40bde",
@@ -8288,7 +8297,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "AL developers can now turn indexes off/on from AL code."
     },
     {
       "id": "08ae1e096a45c83c",
@@ -8298,7 +8308,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Build and query static AL call graphs to trace public-to-internal calls, debugging boundaries, elevated code, and cross-app relationships, with visual exports."
     },
     {
       "id": "59e4fbb6671e51cd",
@@ -8308,7 +8319,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Create parameterized AL tests from reusable data sources, and attach lifecycle handlers for shared setup, cleanup, logging, measurement, and test reporting."
     },
     {
       "id": "68768d39b6d879e7",
@@ -8318,7 +8330,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Use the Record API IsDirty property to determine whether a record instance contains unsaved changes before deciding to validate, save, or otherwise process it."
     },
     {
       "id": "0251f1861893be80",
@@ -8328,7 +8341,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Start the AL MCP server without a predefined project, add AL projects at runtime, and use configured connection details in headless scenarios without authentication prompts."
     },
     {
       "id": "2eba7702b354dcb9",
@@ -8338,7 +8352,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Read only committed data in AL queries and choose the isolation level for isolated-storage reads, including row locking for safer read-modify-write operations."
     },
     {
       "id": "6b206c47919422de",
@@ -8348,7 +8363,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Describe a failing scenario to an AI agent, record the next matching Business Central session or a known session, and collect its snapshot for offline AL debugging."
     },
     {
       "id": "af96e223d005a324",
@@ -8358,7 +8374,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Receive compiler warnings when tables or table extensions contain many normal fields, helping identify data models that are approaching SQL extensibility limits."
     },
     {
       "id": "9903f4d1575b1230",
@@ -8368,7 +8385,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "The new data model for storing fields from table extensions allows developers to define keys across fields from the base table and table extensions."
     },
     {
       "id": "d735713b9d8f3a2f",
@@ -8378,7 +8396,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Write AL MCP server diagnostics to a configurable file, select the appropriate detail level for troubleshooting, or turn file logging off when it isn't required."
     },
     {
       "id": "eb551ccd11e1be3f",
@@ -8388,7 +8407,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Search objects installed in a connected Business Central environment, including owning-app metadata needed to add dependencies and download the correct symbols."
     },
     {
       "id": "3a1f395fa3052fcc",
@@ -8398,7 +8418,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Add default method bodies to AL interfaces so existing implementors continue working, then use RequiredPending and analyzer rules to introduce required methods safely."
     },
     {
       "id": "d3aca601f30fd219",
@@ -8408,7 +8429,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Use compiler diagnostic AL0926 to identify AL object sections declared in the wrong order instead of interpreting multiple secondary and less specific parser errors."
     },
     {
       "id": "ed23cfdab380143d",
@@ -8418,7 +8440,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Let coding agents find available IDs for AL objects and extension objects within project ranges, reducing manual range checks and collisions with existing project objects."
     },
     {
       "id": "dab7691e173dbd9a",
@@ -8428,7 +8451,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Increase an existing table field from Integer to BigInteger while receiving compiler and analyzer warnings for dependent expressions that might narrow or overflow values."
     },
     {
       "id": "35bc8e25217ac3fd",
@@ -8438,7 +8462,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Let an AI agent schedule profiling for a Business Central session, collect CPU and memory data, identify costly AL paths, and summarize SQL and HTTP activity."
     },
     {
       "id": "5a76c01ac64f9b4c",
@@ -8448,7 +8473,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Configure global symbol downloads to remain within the major and minor version in app.json while still selecting the newest available patch for all dependencies."
     },
     {
       "id": "7a0ed7d9b13a415d",
@@ -8458,7 +8484,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Use ALTool to compile, deploy, and run AL test projects from scripts or pipelines, with structured JSON results for test methods and pass, fail, and skip counts."
     },
     {
       "id": "a71462baed2c30a1",
@@ -8468,7 +8495,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Automatically acquire the required .NET runtime and use Visual Studio Code authentication by default, reducing manual setup across local and browser-hosted environments."
     },
     {
       "id": "ce0bdb507693b568",
@@ -8478,7 +8506,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Have ALTool workspace builds write structured, project-specific compiler error logs that automated systems can retain, analyze, and use for code-quality tracking."
     },
     {
       "id": "bc9905ad7ce75e73",
@@ -8488,7 +8517,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Generate namespace-aware translation identifiers so identically named AL objects can be translated independently while existing non-namespaced translations remain valid."
     },
     {
       "id": "7598a2f82999a6a5",
@@ -8498,7 +8528,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Run the standalone AL language server to provide completion, navigation, references, rename, formatting, and other project-aware LSP features outside Visual Studio Code."
     },
     {
       "id": "87d43a7a7282a9ca",
@@ -8508,7 +8539,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Use either forward slashes or backslashes in report layout and analysis-view paths so the same AL source compiles consistently on Windows and Linux systems."
     },
     {
       "id": "ee988017e22fcfcf",
@@ -8517,8 +8549,9 @@
       "title": "Control sales document creation for Shopify orders and returns",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#ecommerce-control-sales-document-creation-for-shopify-orders-and-returns",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-control-sales-document-creation-for-shopify-orders-and-returns",
+      "country_code": "",
+      "summary": "Set Use Shopify Order No. and Process Returns as on the Shopify Shop Card, then review contacts before you choose Create Sales Document."
     },
     {
       "id": "6db153aa478e1c16",
@@ -8527,8 +8560,9 @@
       "title": "Keep Shopify connections current",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#ecommerce-keep-shopify-connections-current",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-keep-shopify-connections-current",
+      "country_code": "",
+      "summary": "Use Shopify's July 2026 API, activate secure access tokens, and use clearer synchronization diagnostics with Skipped Records and API Errors cues."
     },
     {
       "id": "73f1559c106cce41",
@@ -8537,8 +8571,9 @@
       "title": "Manage Shopify B2B companies, catalogs, and pricing",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#ecommerce-manage-shopify-b2b-companies-catalogs-and-pricing",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-manage-shopify-b2b-companies-catalogs-and-pricing",
+      "country_code": "",
+      "summary": "Map company tax identifiers, manage B2B catalogs, and control price synchronization for capabilities available with your Shopify plan."
     },
     {
       "id": "f66e14c0ada0d03c",
@@ -8547,8 +8582,9 @@
       "title": "Match Shopify tax lines with the Tax Matching Agent",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#ecommerce-match-shopify-tax-lines-with-the-tax-matching-agent",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-match-shopify-tax-lines-with-the-tax-matching-agent",
+      "country_code": "",
+      "summary": "Review suggested tax jurisdictions, confidence levels, and rate differences on the Tax Match Review page before you process sales document with sales tax."
     },
     {
       "id": "c2ec79b8e18ef493",
@@ -8557,8 +8593,9 @@
       "title": "Process Shopify order changes, exchanges, and refunds",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#ecommerce-process-shopify-order-changes-exchanges-and-refunds",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-process-shopify-order-changes-exchanges-and-refunds",
+      "country_code": "",
+      "summary": "Keep edited and exchanged Shopify orders aligned when you create sales documents and process refunds."
     },
     {
       "id": "3b098a7a13978b3f",
@@ -8567,8 +8604,9 @@
       "title": "Synchronize tariff numbers and countries/regions of origin with Shopify",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#ecommerce-synchronize-tariff-numbers-and-origin-values-with-shopify",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#ecommerce-synchronize-tariff-numbers-and-origin-values-with-shopify",
+      "country_code": "",
+      "summary": "Turn on Sync HS Code and Country of Origin on the Shopify Shop Card page to include tariff numbers and countries or regions of origin into the product synchronization tasks."
     },
     {
       "id": "4d2126c15e8040ca",
@@ -8577,8 +8615,9 @@
       "title": "Exchange EDI documents via E-Documents",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#electronic-documents-exchange-edi-documents-via-e-documents",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#electronic-documents-exchange-edi-documents-via-e-documents",
+      "country_code": "",
+      "summary": "Send and receive electronic documents (orders, payments) seamlessly through E-Documents using the Peppol BIS 3 EDI standard for secure, efficient data exchange."
     },
     {
       "id": "24e3d79c93807228",
@@ -8587,8 +8626,9 @@
       "title": "Add date range and different vehicle types in your mileage calculation in Expense Agent",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#expense-agent-add-date-range-and-different-vehicle-types-in-your-mileage-calculation-in-expense-agent",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-add-date-range-and-different-vehicle-types-in-your-mileage-calculation-in-expense-agent",
+      "country_code": "",
+      "summary": "Configure mileage rates by effective date range and vehicle type to ensure accurate calculations that reflect changing policies and transportation methods"
     },
     {
       "id": "1df5d8453546f8ae",
@@ -8597,8 +8637,9 @@
       "title": "Add interim approver when submit the expense report",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#expense-agent-add-interim-approver-when-you-submit-the-expense-report",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-add-interim-approver-when-you-submit-the-expense-report",
+      "country_code": "",
+      "summary": "Enable interim approvers for expense reports, allowing submissions to be routed through a temporary reviewer before final approval"
     },
     {
       "id": "284696da6bbb0b5b",
@@ -8607,8 +8648,9 @@
       "title": "Calculate withholding taxes automatically in expense report",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#expense-agent-calculate-withholding-taxes-automatically-in-expense-report",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-calculate-withholding-taxes-automatically-in-expense-report",
+      "country_code": "",
+      "summary": "Automatically calculate employee withholding taxes within expense reports to improve compliance, reduce manual effort, and ensure accurate reimbursement process"
     },
     {
       "id": "22366d699c0a33ad",
@@ -8617,8 +8659,9 @@
       "title": "Expense Agent supports approval process",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#expense-agent-expense-agent-supports-approval-process",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-expense-agent-supports-approval-process",
+      "country_code": "",
+      "summary": "Review submitted expense reports with AI-based policy validation that flags suspicious or noncompliant items across lines and reports."
     },
     {
       "id": "1ea5b824e4cd2256",
@@ -8627,8 +8670,9 @@
       "title": "Improve duplicates prevention in Expense Agent",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#expense-agent-improve-duplicates-prevention-in-expense-agent",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#expense-agent-improve-duplicates-prevention-in-expense-agent",
+      "country_code": "",
+      "summary": "Improve expense accuracy with enhanced duplicate detection and prevention even with already posted documents, helping to reduce duplicate reimbursements"
     },
     {
       "id": "1e78af943f6e0e93",
@@ -8637,8 +8681,9 @@
       "title": "Manage travel requisitions with Expense Agent",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#copilot-and-agents-manage-travel-requisitions-with-expense-agent",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#copilot-and-agents-manage-travel-requisitions-with-expense-agent",
+      "country_code": "",
+      "summary": "Plan and approve travel in advance using travel requisitions with support for multiple travelers and integrated approval workflows."
     },
     {
       "id": "67af5ca2aceac145",
@@ -8647,8 +8692,9 @@
       "title": "Calculate multiple excise duties per item",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#financial-management-calculate-multiple-excise-duties-per-item",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-calculate-multiple-excise-duties-per-item",
+      "country_code": "",
+      "summary": "Support multiple excise duties on a single item, enabling businesses to calculate and manage complex excise tax requirements with greater accuracy."
     },
     {
       "id": "68a5605018817933",
@@ -8657,8 +8703,9 @@
       "title": "Calculate withholding taxes for vendors",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#financial-management-calculate-withholding-taxes-for-vendors",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-calculate-withholding-taxes-for-vendors",
+      "country_code": "",
+      "summary": "You can calculate withholding tax for vendors in the standard version of Business Central."
     },
     {
       "id": "739b4061c824db53",
@@ -8667,8 +8714,9 @@
       "title": "Enable accelerated depreciation methods for fixed assets",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#financial-management-enable-accelerated-depreciation-methods-for-fixed-assets",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-enable-accelerated-depreciation-methods-for-fixed-assets",
+      "country_code": "",
+      "summary": "Introduce accelerated depreciation for fixed assets, enabling compliant calculations and reporting."
     },
     {
       "id": "2648f49ad2755e97",
@@ -8677,8 +8725,9 @@
       "title": "Set up vendor specific number series for self-billing invoices",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#financial-management-set-up-vendor-specific-number-series-for-self-billing-invoices",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-set-up-vendor-specific-number-series-for-self-billing-invoices",
+      "country_code": "",
+      "summary": "Configure vendor-specific number series for self-billing purchase invoices to meet supplier requirements and improve invoice traceability and compliance."
     },
     {
       "id": "4ee839707722181b",
@@ -8687,8 +8736,9 @@
       "title": "Use withholding taxes with employee transactions",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#financial-management-use-withholding-taxes-with-employee-transactions",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-use-withholding-taxes-with-employee-transactions",
+      "country_code": "",
+      "summary": "Enable withholding tax processing for employee-related transactions, ensuring accurate tax calculation, posting, and compliance across employee payments"
     },
     {
       "id": "5e9321d65fe3137a",
@@ -8698,7 +8748,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Administrators can now turn SIFT indexes on/off directly in the Business Central application."
     },
     {
       "id": "5c4e9500062406cb",
@@ -8708,7 +8759,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Logging Open in Excel actions to telemetry makes data export events auditable, which can be critical for compliance, security investigations, and understanding how customers use Business Central."
     },
     {
       "id": "01f100342df13809",
@@ -8718,7 +8770,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Use the new APIs on the report inbox to extend automation with Power Automate or MCP to reports."
     },
     {
       "id": "ef80cc8d48b4766a",
@@ -8728,7 +8781,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Bookmark analysis tabs and list views to your role center and/or incorporate them into profiles."
     },
     {
       "id": "5633debc96e4063b",
@@ -8738,7 +8792,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "With the new composable layouts feature, you can apply a report theme on layouts to get consistent look and feel on the PDF output. It is possible to set defaults on a global level, per company, per report, or per layout, giving the administrator full flexibility of theming."
     },
     {
       "id": "2948c6c2f5b1ebe3",
@@ -8748,7 +8803,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Set status on all types of layouts to control which layouts are available to end users."
     },
     {
       "id": "4bd80f61ba65964e",
@@ -8758,7 +8814,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Design document report themes using the new document samples controls in the Word add-in"
     },
     {
       "id": "c038fc4cd4158ac8",
@@ -8768,7 +8825,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Use new design components in the Word add-in to layout your document report layouts."
     },
     {
       "id": "35901d6a0c738a09",
@@ -8778,7 +8836,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Design document report header/footer layouts using the new header and/or footer document samples controls in the Word add-in"
     },
     {
       "id": "2993b7d462cd64f5",
@@ -8788,7 +8847,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Changes to financial row, column, and report definitions are automatically recorded in the change log for easier auditing."
     },
     {
       "id": "8b9a5e30cf084faf",
@@ -8798,7 +8858,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Word layouts now include a company information dataitem that is shared across all report datasets. This reduces the work needed for a report developer and standardizes how company information is used across report layouts."
     },
     {
       "id": "991d54921f953b14",
@@ -8808,7 +8869,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "With the new composable layouts feature, you can apply a header/footer on layouts to get consistent look and feel on the PDF output. It is possible to set defaults on a global level, per company, per report, or per layout, giving the administrator full flexibility of theming."
     },
     {
       "id": "8526435b8632f848",
@@ -8818,7 +8880,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Define report packs that contain multiple financial reports, and then run them immediately or schedule delivery to report inboxes or by email."
     },
     {
       "id": "269fb1dc6e7ef5c7",
@@ -8828,7 +8891,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Financial report authors can now identify uncategorized accounts, trace account usage and calculations, and preview definitions before publishing"
     },
     {
       "id": "c5d880d7f02e6d35",
@@ -8838,7 +8902,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Design document reports layouts with conditional visibility using the new HideIf logic control in the Word add-in"
     },
     {
       "id": "d598dfbcc033b2c1",
@@ -8848,7 +8913,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Use system audit fields in analysis tabs and add them directly to pages in profiles."
     },
     {
       "id": "ad5a03b50c537c65",
@@ -8858,7 +8924,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "With the new data model for table extensions, all fields on an AL table are stored in the same table in the database. This gives faster performance on all database operations that involve table extensions."
     },
     {
       "id": "6c0b232093afb621",
@@ -8867,8 +8934,9 @@
       "title": "Carry subcontracting instructions into purchase orders",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#supply-chain-management-carry-subcontracting-instructions-into-purchase-orders",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#supply-chain-management-carry-subcontracting-instructions-into-purchase-orders",
+      "country_code": "",
+      "summary": "Give subcontractors the right operation instructions by carrying routing comments and attachments into purchase orders."
     },
     {
       "id": "9d09508de5c467fa",
@@ -8877,8 +8945,9 @@
       "title": "Migrate Italian legacy subcontracting data to the Subcontracting app",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#supply-chain-management-migrate-italian-legacy-subcontracting-data-to-the-subcontracting-app",
-      "country_code": "IT"
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#supply-chain-management-migrate-italian-legacy-subcontracting-data-to-the-subcontracting-app",
+      "country_code": "IT",
+      "summary": "Complete open WIP transfers and purchase orders, then move setup, prices, and active document references in a sandbox and verify record counts before running migration in production."
     },
     {
       "id": "168d78c1442c6071",
@@ -8887,8 +8956,9 @@
       "title": "Post direct transfer orders from warehouse-enabled locations",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#supply-chain-management-post-direct-transfer-orders-from-warehouse-enabled-locations",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#supply-chain-management-post-direct-transfer-orders-from-warehouse-enabled-locations",
+      "country_code": "",
+      "summary": "Use direct transfer orders for source locations that require inventory picks or warehouse shipments."
     },
     {
       "id": "4b2d42df0f1e2965",
@@ -8897,8 +8967,9 @@
       "title": "Reduce manual work in quality tests and inspections",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#supply-chain-management-reduce-manual-work-in-quality-tests-and-inspections",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#supply-chain-management-reduce-manual-work-in-quality-tests-and-inspections",
+      "country_code": "",
+      "summary": "Finishing an inspection fills in passed and failed quantities. Actionable posting errors let you jump to blocking inspection. Editing an inspection prompts you to assign it to yourself."
     },
     {
       "id": "edcb2680cd9f4681",
@@ -8907,8 +8978,9 @@
       "title": "Set up and explore subcontracting more easily",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#supply-chain-management-set-up-and-explore-subcontracting-more-easily",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#supply-chain-management-set-up-and-explore-subcontracting-more-easily",
+      "country_code": "",
+      "summary": "Configure subcontracting with assisted setup and notifications that open missing vendor or location setup. Contoso demo data helps evaluate different subcontracting scenarios."
     },
     {
       "id": "4b145646ea7f5049",
@@ -8917,8 +8989,9 @@
       "title": "Use inventory put-aways and picks for subcontracting",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#supply-chain-management-use-inventory-put-aways-and-picks-for-subcontracting",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#supply-chain-management-use-inventory-put-aways-and-picks-for-subcontracting",
+      "country_code": "",
+      "summary": "Basic warehouse configurations now support subcontracting, so employees can process this work alongside their regular inbound and outbound activities."
     },
     {
       "id": "0c95c8a00bcdfb51",
@@ -8927,8 +9000,9 @@
       "title": "Work more efficiently with manufacturing documents and capacity calendars",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#supply-chain-management-work-more-efficiently-with-manufacturing-documents-and-capacity-calendars",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#supply-chain-management-work-more-efficiently-with-manufacturing-documents-and-capacity-calendars",
+      "country_code": "",
+      "summary": "Create released orders from Planning Worksheet, monitor and update capacity calendars, and open production BOMs and routings from actionable errors."
     },
     {
       "id": "d2377300732e626e",
@@ -8937,8 +9011,9 @@
       "title": "Estimate your carbon footprint in Service Management",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#sustainability-management-estimate-your-carbon-footprint-in-service-management",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-estimate-your-carbon-footprint-in-service-management",
+      "country_code": "",
+      "summary": "Show an estimated carbon footprint on service invoices and related documents by using sustainability data from items and resources in Service Management."
     },
     {
       "id": "e7acf69055b9de07",
@@ -8947,8 +9022,9 @@
       "title": "Reverse Sustainability Ledger entrie transaction",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#sustainability-management-reverse-sustainability-ledger-entries-transaction",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-reverse-sustainability-ledger-entries-transaction",
+      "country_code": "",
+      "summary": "Reverse sustainability ledger entries posted from sustainability or general journals, directly from the Sustainability Ledger Entries page."
     },
     {
       "id": "61728d14dafd722e",
@@ -8957,8 +9033,9 @@
       "title": "Track your carbon footprint for fixed assets",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#sustainability-management-track-your-carbon-footprint-for-fixed-assets",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-track-your-carbon-footprint-for-fixed-assets",
+      "country_code": "",
+      "summary": "Enable carbon footprint tracking for fixed assets by adding sustainability accounts and CO₂e values to fixed asset transactions."
     },
     {
       "id": "34ce3cbc063cee32",
@@ -8967,8 +9044,9 @@
       "title": "Track your carbon footprint with item journals and item reclassification journals",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#sustainability-management-track-your-carbon-footprint-with-item-journals-and-item-reclassification-journals",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-track-your-carbon-footprint-with-item-journals-and-item-reclassification-journals",
+      "country_code": "",
+      "summary": "Track your carbon footprint in item journals and reclassification journals by adding CO₂e per unit and total emissions, with full value chain traceability."
     },
     {
       "id": "1ccd141a40a2e856",
@@ -8977,8 +9055,9 @@
       "title": "Use formulas to calculate emissions in purchase documents",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#sustainability-management-use-formulas-to-calculate-emissions-in-purchase-documents",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-use-formulas-to-calculate-emissions-in-purchase-documents",
+      "country_code": "",
+      "summary": "Calculate CO₂, CH₄, and N₂O in purchase documents using formula‑based inputs and emission factors that mirror sustainability journal logic."
     },
     {
       "id": "7f204bfd224ff49f",
@@ -8987,8 +9066,9 @@
       "title": "Use specific method for carbon footprint calculation when enabling Item Tracking",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#sustainability-management-use-specific-method-for-carbon-footprint-calculation-when-enabling-item-tracking",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#sustainability-management-use-specific-method-for-carbon-footprint-calculation-when-enabling-item-tracking",
+      "country_code": "",
+      "summary": "Enable precise carbon footprint calculation using a new Specific tracking method for items that you track with serial or lot numbers."
     },
     {
       "id": "2888d6d1e81cce88",
@@ -8998,7 +9078,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Show and manage documents where agents require human interaction by using a new review bar on documents and lists."
     },
     {
       "id": "f3f825d524b33a0f",
@@ -9008,7 +9089,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Assign additional permissions to agents when they request them."
     },
     {
       "id": "254538d899385749",
@@ -9017,8 +9099,9 @@
       "title": "Preview images directly in web client",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#user-experiences-preview-images-directly-in-web-client",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#user-experiences-preview-images-directly-in-web-client",
+      "country_code": "",
+      "summary": "Preview an image without having to leave the Business Central app."
     },
     {
       "id": "d06105e594e3d8bf",
@@ -9028,7 +9111,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Find pages and reports faster by accessing recent searches in Tell Me ( Alt + Q )."
     },
     {
       "id": "81d88e7622017c26",
@@ -9037,8 +9121,9 @@
       "title": "Show recently used in lookups",
       "enabled_for": "",
       "general_availability": "",
-      "doc_url": "preview-feature-details.md#user-experiences-show-recently-used-in-lookups",
-      "country_code": ""
+      "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#user-experiences-show-recently-used-in-lookups",
+      "country_code": "",
+      "summary": "Accelerate data entry by using smart lookup suggestions that display your most recently accessed records for quick selection."
     },
     {
       "id": "a87b0850fe969a46",
@@ -9048,7 +9133,8 @@
       "enabled_for": "",
       "general_availability": "",
       "doc_url": "",
-      "country_code": ""
+      "country_code": "",
+      "summary": "Manage agents more easily by grouping avatars and using a dedicated action to start new tasks."
     }
   ],
   "hotfixes": [

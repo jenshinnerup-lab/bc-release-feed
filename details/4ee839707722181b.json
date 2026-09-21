@@ -1,0 +1,12 @@
+{
+  "id": "4ee839707722181b",
+  "title": "Use withholding taxes with employee transactions",
+  "languages": {
+    "en": {
+      "title": "Use withholding taxes with employee transactions",
+      "summary": "Enable withholding tax processing for employee-related transactions, ensuring accurate tax calculation, posting, and compliance across employee payments",
+      "details": "This feature extends withholding tax capabilities to employee transactions, so your organization can apply and manage withholding taxes. It supports scenarios where employee-related payments or reimbursements must follow withholding tax requirements. It ensures the financial system processes these transactions accurately.\n\nKey capabilities include:\n\n* Apply withholding tax rules to employee transactions.\n* Automatically calculate withholding tax amounts based on configured tax setups.\n* Support appropriate posting and accounting of withholding tax liabilities related to employee payments.\n* Maintain consistent tax treatment across vendor and employee transaction processing.\n\n**How it works**\n\nWhen you create an employee transaction, the system evaluates applicable withholding tax configurations and applies the relevant withholding tax treatment to the transaction. Your organization can meet local tax requirements for employee-related payments while keeping financial records accurate and compliant.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/whatsnew/preview-feature-details#financial-management-use-withholding-taxes-with-employee-transactions"
+    }
+  }
+}
