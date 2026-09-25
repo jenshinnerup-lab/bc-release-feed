@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-23",
+  "generated_at": "2026-09-25",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "c22448effca11757a50e",
+      "date": "2026-09-25",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-82084",
+      "version": "Document Capture 2025 R2, Service Pack 6",
+      "title": "When CDN Receiver Type was set to Other and a receiver ID had identifier type 0002, the country prefix DK was incorrectly added to the entered CDN Rec",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "4d198c0e93fad3dd544a",
       "date": "2026-09-23",
