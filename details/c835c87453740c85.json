@@ -1,0 +1,12 @@
+{
+  "id": "c835c87453740c85",
+  "title": "Allow developers to define data analysis definitions in their apps",
+  "languages": {
+    "en": {
+      "title": "Export and package analysis views",
+      "summary": "Learn how to export analysis views from Analysis Mode and package them as part of AL extensions in Business Central.",
+      "details": "**APPLIES TO:** Business Central 2026 release wave 1 and later\n\nBusiness Central allows you to export analysis views that are created in Analysis Mode for list and worksheet pages, package them, and deliver them as part of your AL extensions. This article describes how to export a view definition, add it to your AL project, and define it on a page, page extension, or page customization.\n\nThe end-to-end process for delivering analysis views with your extension is:\n\n1. Design and export the analysis view definition from the client.\n\n2. Add the exported JSON file to your AL extension project.\n\n3. Reference the file from a `page`, `pageextension`, or `pagecustomization` object using the `analysisviews` construct.\n\n4. Compile and publish the extension.\n\nLearn more about *using* the analysis view in [Analysis views](https://learn.microsoft.com/en-us/dynamics365/business-central/analysis-mode).\n\n### Export an analysis view definition\n\nAnalysis Mode in the Business Central client acts as the editor for designing analysis views; you use it to define columns, grouping, filtering, and other data layout settings. Once you have the view you want, you can export it by following these steps:\n\n1. Open the list or worksheet page with the analysis view that you want to export.\n\n2. Enter **Analysis Mode**.\n\n3. On the analysis view tab, open the tab menu and choose **Export Definition**.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-analysis-view-package"
+    }
+  }
+}

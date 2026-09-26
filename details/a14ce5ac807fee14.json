@@ -1,0 +1,12 @@
+{
+  "id": "a14ce5ac807fee14",
+  "title": "Signal from permission changes to added to Application Insights telemetry for partners",
+  "languages": {
+    "en": {
+      "title": "Analyzing Permission Changes Trace Telemetry",
+      "summary": "Learn about the telemetry for permission changes made in Business Central",
+      "details": "**APPLIES TO:** Business Central 2020 release wave 2, version 17.2, and later\n\nPermission changes telemetry gathers data about the following operations on permission sets:\n\n- A user-defined permission set was added or removed\n\n- A link between a user-defined permission set and system permission set was added or removed\n\n- A permission set was assigned to or removed from a user or user group\n\n- A permission set was changed by an app/extension\n\nFor information about managing permission sets, see [Assign Permissions to Users and Groups](https://learn.microsoft.com/en-us/dynamics365/business-central/ui-define-granular-permissions).\n\n### Common custom dimensions\n\nThe following table explains custom dimensions that are common to all permission traces.\n\n- Dimension — Description or value\n\n- aadTenantId — Specifies the Microsoft Entra tenant ID used for Microsoft Entra authentication. For on-premises, if you aren't using Microsoft Entra authentication, this value is **common**.\n\n- alCategory — **AL PermissionSet**\n\n- alDataClassification — **SystemMetadata**\n\n- alObjectId — **1351**, which is the ID of the system application codeunit that subscribes to the telemetry events.\n\n- alObjectName — **Telemetry Subscribers**, which is the name of the system application codeunit that subscribes to the telemetry events.\n\n- alObjectType — **CodeUnit**",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/telemetry-permission-changes-trace"
+    }
+  }
+}

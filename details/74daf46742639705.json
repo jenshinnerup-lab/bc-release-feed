@@ -1,0 +1,12 @@
+{
+  "id": "74daf46742639705",
+  "title": "Download symbols from NuGet feed",
+  "languages": {
+    "en": {
+      "title": "AL Language extension configuration",
+      "summary": "Description of the AL Language extension settings in Visual Studio Code for Business Central.",
+      "details": "**APPLIES TO:** Business Central 2019 release wave 2 and later\n\n> **Note**\n> We're working on improving the onboarding experience for AL developers. If you've input for this article, we'd love to hear from you. Please use the **Feedback** section at the bottom of this article to help us make improvements that you’d like to see.\n> We also welcome contributions to our docs. New to contributing to docs? Don't worry, read more about contributing here Contribute to the help.\n\nThe AL Language extension has many settings that can be defined for a specific user or for a workspace. To activate the settings, press Ctrl+Shift+P, and then choose **Preferences: Open Settings (UI)** for workspace settings, or choose **Preferences: Open User Settings** for user settings. Under **Extensions**, and **AL Language extension configuration**, you find the settings that are available for the AL Language extension. If a setting isn't available through the UI, you can edit it directly in the `settings.json` file. For tips on how to optimize Visual Studio Code, see Optimizing Visual Studio Code for AL Development.\n\n### Settings\n\nThe following table describes the user and workspace settings for the AL Language extension:\n\n- Setting — Value\n\n- Algo Suggested Folder — Sets the suggested folder when using AL:Go! command. Can be set per user or per workspace.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-al-extension-configuration"
+    }
+  }
+}

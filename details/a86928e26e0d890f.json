@@ -1,0 +1,12 @@
+{
+  "id": "a86928e26e0d890f",
+  "title": "Signal from the email feature added to Application Insights telemetry for partners",
+  "languages": {
+    "en": {
+      "title": "Analyze email telemetry",
+      "summary": "Learn about the email telemetry in Business Central",
+      "details": "**APPLIES TO:** Business Central 2020 release wave 2, update 17.2, and later\n\nEmail telemetry gathers data about the following operations:\n\n- An email was sent successfully\n\n- An attempt to send an email failed\n\nFrom Business Central 2023 release wave 1, update 23.2, and later, the following operations are also emitted to telemetry:\n\n- Authentication to an SMTP server succeded/failed\n\n- Connection to an SMTP server succeded/failed\n\nBefore you can collect this data, you'll have to set up email. For more information, see [Set Up Email](https://learn.microsoft.com/en-us/dynamics365/business-central/admin-how-setup-email) in the Business Central application help.\n\n> **Tip**\n> You can also view failed emails in the **Email Outbox** page in the Business Central client.\n\n### Email sent successfully\n\nOccurs when an email was successfully sent from the client.\n\n#### General dimensions\n\n- Dimension — Description or value\n\n- message — **Email sent successfully**\n\n- user_Id — The user telemetry ID for the user. From the user card, you can use user_Id to identify the user who triggered this telemetry event. Learn more in Assign a telemetry ID to users.\n\n#### Custom dimensions\n\n- Dimension — Description or value",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/telemetry-email-trace"
+    }
+  }
+}

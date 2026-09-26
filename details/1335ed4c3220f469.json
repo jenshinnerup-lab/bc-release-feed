@@ -1,0 +1,12 @@
+{
+  "id": "1335ed4c3220f469",
+  "title": "Signal from the sensitive field audit feature added to Application Insights telemetry for partners",
+  "languages": {
+    "en": {
+      "title": "Analyzing Field Monitoring Telemetry",
+      "summary": "Learn about the telemetry for monitoring changes to sensitive data in Business Central",
+      "details": "**APPLIES TO:** Business Central 2020 release wave 2 (update 17.1) and later\n\nKeeping sensitive data secure and private is a core concern for most businesses. To add a layer of security, you can monitor important fields when someone changes a value. For example, you might want to know if someone changes your company's IBAN number.\n\nTo gather this data, you'll have to start field monitoring and specify the fields that you want to monitor. For more information, see [Auditing Changes in Business Central - Monitoring Sensitive Fields](https://learn.microsoft.com/en-us/dynamics365/business-central/across-log-changes#monitoring-sensitive-fields) in the Application help.\n\nTelemetry is then logged for the following operations:\n\n- When field monitoring is stopped or started\n\n- When a field is added or removed for monitoring (only in version 18.0 and later)\n\n- When a field value is changed\n\n### Sensitive field monitor status changed\n\nOccurs when the field monitor feature is started or stopped in the company.\n\n#### General dimensions\n\n- Dimension — Description or value\n\n- message — **Sensitive field monitor status has changed to {almonitorStatus}**\n\n- severityLevel — **1**\n\n- user_Id — The user telemetry ID for the user. From the user card, you can use user_Id to identify the user who triggered this telemetry event. Learn more in Assign a telemetry ID to users.\n\n#### Custom dimensions",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/telemetry-field-monitoring-trace"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "39b0922ceeab00d5",
+  "title": "Move custom fields to extensions during cloud migration",
+  "languages": {
+    "en": {
+      "title": "Define migration table mappings",
+      "summary": "Learn how to use migration table mapping to rename the table during the cloud migration or to move a subset of fields to a different table or table extension.",
+      "details": "Migration table mapping can be used to rename the table during the cloud migration or to move a subset of fields to a different table or table extension. Table mapping is a process that allows you to define the relationship between source tables in an on-premises database and destination tables in the online environment. In other words, table mapping lets you specify which tables in the on-premises database are migrated to which tables in the online environment.\n\n> **Tip**\n> You can use the **Import** and **Export** actions to import or export the definition done in the UI.\n\n### Design constraints\n\nIt's not possible to have multiple source tables mapping to the same destination (target) table. The destination table must have a single on-premises source table.\n\nFor example, the following mappings together aren't supported:\n\n- Source table — Destination table\n\n- Customer — MyTable\n\n- MyTable — MyTable\n\nBut the following mappings are supported:\n\n- Source table — Destination table\n\n- Customer — Customer\n\n- Customer — MyTable\n\nThis limitation also applies to tables that are automatically included into the replication, which means tables enabled for cloud migration by the ReplicateData property. If these tables exist in the on-premises database, they're automatically included in the cloud migration. So, no table mappings can define these tables as the destination table.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/migration-table-mapping"
+    }
+  }
+}

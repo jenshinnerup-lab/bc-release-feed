@@ -1,0 +1,12 @@
+{
+  "id": "59ba119bcccf15bf",
+  "title": "Shopify prospects get a great first-run experience",
+  "languages": {
+    "en": {
+      "title": "Create customer-centric onboarding experiences using SignupContext",
+      "summary": "Learn how you can use the SignupContext parameter to create customer-centric evaluation and onboarding experiences.",
+      "details": "Microsoft partners can create customer-centric onboarding experiences to help customers quickly get started with Business Central. Speeding up the onboarding process saves time and money for both the partner and customer. The `SignupContext` parameter enables partners to create experiences that can help the customer try out and evaluate Business Central, and then onboard at their own pace, without hands-on help from the partner, who instead provides onboarding services digitally. Allowing prospects to learn about Business Central from their own perspectives increases the chance of them becoming paying customers.\n\nStarting trials for customers is a multi-step task for partners:\n\n- Build a reseller relationship with the potential customer\n\n- Create Business Central environments\n\n- Apply the partner's apps\n\n- Load demo data that's relevant for the prospect\n\nThe `SignupContext` parameter lets partners create customer-centric trials without having to do the work manually. They can provide apps that cover the steps, and tailor the experience based on the customer's context. These trials are similar to trials that prospects start from Microsoft's *dynamics.microsoft.com* website. They're unmanaged in the sense that there isn't a CSP relationship between the prospect and the partner.\n\n### Use the SignupContext parameter to get information about prospects",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/onboarding-signupcontext"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "77527df92db296f0",
+  "title": "Extension lifecycle telemetry in Application Insights for ISVs",
+  "languages": {
+    "en": {
+      "title": "Analyzing Extension Lifecycle Trace Telemetry",
+      "summary": "Learn about the extension lifecycle telemetry in Business Central",
+      "details": "**INTRODUCED IN:** Business Central 2020 release wave 1, version 16.3. Extension-level support introduced in 2020 release wave 2, version 17.1.\n\nExtension lifecycle telemetry gathers data about the success or failure of the following extension-related operations:\n\n- Compiling an extension\n\n- Synchronizing an extension\n\n- Publishing an extension\n\n- Installing an extension\n\n- Updating an extension\n\n- Uninstalling an extension\n\n- Unpublishing an extension\n\nFailed operations result in a trace log entry that includes a reason for the failure.\n\nTraces are recorded for operations started initiated from any of the following components, depending whether you have Business Central online or on-premises:\n\n- Component — Online — On-premises\n\n- [Extension Management page](https://learn.microsoft.com/en-us/dynamics365/business-central/ui-extensions) in the Business Central client. — —\n\n- Manage Apps page in the Business Central admin center. — —\n\n- App Management API of the Business Central admin center. — —\n\n- [Extension management PowerShell cmdlets](https://learn.microsoft.com/en-us/powershell/module/microsoft.dynamics.nav.apps.management) from the Business Central Administration Shell — —\n\n- Business Central control plane, which is the online service managed by Microsoft. — —",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/telemetry-extension-lifecycle-trace"
+    }
+  }
+}

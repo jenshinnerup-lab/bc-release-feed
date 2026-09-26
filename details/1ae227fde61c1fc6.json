@@ -1,0 +1,12 @@
+{
+  "id": "1ae227fde61c1fc6",
+  "title": "Measure onboarding time of customers, apps and features",
+  "languages": {
+    "en": {
+      "title": "Measure onboarding progress using telemetry",
+      "summary": "Learn how you can use onboarding telemetry to measure customers' progress with onboarding to Dynamics 365 Business Central.",
+      "details": "Business Central emits telemetry signals that help indicate a customer's progress in onboarding to Business Central. These signals are emitted based on the use of certain business processes in Business Central. For example, posting sales invoices or vendor payments. Measuring emitted onboarding signals is a great way for partners to know how well their customers are doing in the onboarding process. If a customer isn't progressing as expected, the partner can proactively provide services to unblock the customer.\n\n### Signals emitted automatically\n\nBusiness Central emits signals that are defined by Microsoft. The signals are generic enough to cover most types of businesses. More signals can be emitted by extending the onboarding signals functionality. Currently, the signals emitted automatically are based on these business processes:\n\n- Onboarding starts, which is when a company signs in for the first time (initialized).\n\n- Sales, which indicates that the company has set up everything needed to sell products or services.\n\n- Purchases, which indicate that the company has set up everything needed to buy products or services.\n\n- Customer payments, which indicate that sales process cycles have been completed, from sales to payment.\n\n- Vendor payments, which indicate that purchase process cycles have been completed, from ordering to payment.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/onboarding-telemetry"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "08d665c261a3b671",
+  "title": "Generating recurring purchase lines",
+  "languages": {
+    "en": {
+      "title": "Dynamics GP data migrated to Business Central online",
+      "summary": "Learn how to migrate to the cloud from Dynamics GP using an assisted setup guide in Business Central online. Move historical data to Azure Data Lake.",
+      "details": "This article provides an overview of the Dynamics GP data that can be migrated to Business Central online by cloud migration tools. You configure the actual data to migrate either globally or per company as part of the cloud migration setup using the **GP Company Migration Configuration** page.\n\n### Fiscal periods\n\nThe *fiscal periods setup* in Dynamics GP is migrated to Business Central as *accounting periods*. Any years marked as *historical* in Dynamics GP come over to Business Central as *open* and must be closed in Business Central. If any adjustments need to be made to historical years after migrating, those adjustments can be done before closing the year.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/migrate-dynamics-gp"
+    }
+  }
+}

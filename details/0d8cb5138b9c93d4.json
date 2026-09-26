@@ -1,0 +1,12 @@
+{
+  "id": "0d8cb5138b9c93d4",
+  "title": "Create agentic experiences with enhanced MCP server (now from Visual Studio Code and other MCP-compliant clients)",
+  "languages": {
+    "en": {
+      "title": "Model Context Protocol (MCP) in Business Central overview",
+      "summary": "Learn how to set up and use the Business Central MCP server to enable AI clients like GitHub Copilot and ChatGPT to interact with your Business Central data.",
+      "details": "**APPLIES TO:** Business Central online\n\nThe [Model Context Protocol (MCP)](https://modelcontextprotocol.io) is an open standard that defines how AI applications communicate with data sources and tools. It provides a consistent and secure way for AI clients—such as Copilot Studio, GitHub Copilot, Claude, ChatGPT, and custom agents—to access and interact with external systems like Business Central.\n\n### Business Central MCP Server\n\nAn **MCP server** is a service that implements the Model Context Protocol, exposing an application's data and functionality to AI clients. When an AI client connects to an MCP server, it can read data, perform actions, and integrate that application's capabilities directly into conversational workflows—all through a standardized interface.\n\nThe Business Central MCP server enables AI clients to interact with Business Central environments from various channels such as Visual Studio Code, Copilot Studio, and other MCP-compliant clients, allowing customers and employees to conversationally work with Business Central data and business logic.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/ai/mcp-overview"
+    }
+  }
+}

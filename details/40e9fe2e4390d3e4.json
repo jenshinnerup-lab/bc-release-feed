@@ -1,0 +1,12 @@
+{
+  "id": "40e9fe2e4390d3e4",
+  "title": "Partners can control welcome banner texts",
+  "languages": {
+    "en": {
+      "title": "Onboard new users with the Welcome banner",
+      "summary": "Learn about the banner that displays when a user signs into a new company for the first time.",
+      "details": "When a user signs into a new company for the first time, Business Central shows a welcome banner that provides a clear call-to-action.\n\nThe purpose of the banner is to give users a warm and personal welcome, reduce noise, provide a clear call to action to the get started tasks, without blocking users that wish to explore the product first.\n\nThe welcome banner works slightly different in CRONUS evaluation companies and in non-evaluation companies, including My Company, because the banner serves different purposes in evaluation and non-evaluation companies. The following sections outline the differences.\n\n### The welcome banner in CRONUS evaluation companies\n\nIn a CRONUS evaluation company, the banner serves the purpose of highlighting core capabilities of Business Central to make the prospect excited and get them closer to subscribing to Business Central. By default, the welcome banner points to capabilities that Microsoft has chosen to highlight in Business Central, such as a tour of the Role Center and spotlight tours of integrations with Excel and Teams. Consider adding other key selling point features to the checklist in CRONUS to aid you in selling Business Central. In CRONUS evaluation companies, the banner can't be hidden, only minimized. The banner is shown for the *Business Manager Evaluation* role, which is the default profile for the person who signs into Business Cen",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/onboarding-welcome-banner"
+    }
+  }
+}

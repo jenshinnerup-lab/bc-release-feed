@@ -1,0 +1,12 @@
+{
+  "id": "f0fbb1b46fa608ae",
+  "title": "Copying the SystemID and data audit fields using CopyRows",
+  "languages": {
+    "en": {
+      "title": "Transferring data between tables using DataTransfer",
+      "summary": "Learn about the DataTransfer object type and how to use it to move data between tables.",
+      "details": "**APPLIES TO:** Business Central 2022 release wave 2 (version 21.0) and later.\n\nDataTransfer is an AL data type that supports the bulk transferring of data between SQL based tables. Instead of operating on a row-by-row model, like the record API does, DataTransfer produces SQL code that operates on sets. This behavior improves the performance when moving data during upgrade and install.\n\nFor comparison, the following code illustrates how to copy rows using the record API:\n\n`local procedure CopyRows() var from: Record FromTable; to: Record ToTable; begin if from.FindSet() then repeat to.SmallCodeField:= from.SmallCodeField; to.IntField:= from.IntField; to.id:= from.id; to.Insert(); until from.Next() = 0; end; `\n\nThe same can be done using DataTransfer:\n\n`local procedure CopyRows() var dt: DataTransfer; to: Record ToTable; begin dt.SetTables(Database::FromTable, Database::ToTable); dt.AddFieldValue(2, to.FieldNo(\"SmallCodeField\")); dt.AddFieldValue(3, to.FieldNo(\"IntField\")); dt.AddFieldValue(1, to.FieldNo(\"id\")); dt.CopyRows(); end; `\n\n### Usage and behavior\n\nThe DataTransfer object can be used for essentially two operations:\n\n- Copy data from one or more fields in a table to fields another table. A typical scenario is when you've made a field obsolete, but also to set default field values (similar to Record.ModifyAll()).",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-data-transfer"
+    }
+  }
+}

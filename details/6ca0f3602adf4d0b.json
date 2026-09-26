@@ -1,0 +1,12 @@
+{
+  "id": "6ca0f3602adf4d0b",
+  "title": "Use business events to notify and trigger external systems",
+  "languages": {
+    "en": {
+      "title": "Business events on Business Central (preview)",
+      "summary": "Business events provide our partners and customers a mechanism for notifying and triggering their external systems when actions are done on Business Central",
+      "details": "> **Important**\n> Some or all of the functionality noted in this article is available as part of a preview release. The content and the functionality are subject to change.\n\nIntegrating with Dataverse enables Business Central to interact with other apps in its ecosystem through business events. This article gives an introduction to the new business events feature, the prerequisites, and step-by-step instructions to preview it, and its current limitations/future improvements.\n\n### Introduction\n\nThere are four types of complementary app/system interactions between Business Central and Dataverse:\n\n- Data sync that replicates data between Business Central and Dataverse\n\n- Virtual tables in Dataverse via Business Central API for (**C**reate/**R**ead/**U**pdate/**D**elete) operations\n\n- Data change (**CUD**) events\n\n- Business events",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/business-events-overview"
+    }
+  }
+}

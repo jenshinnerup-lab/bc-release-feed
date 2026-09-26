@@ -1,0 +1,12 @@
+{
+  "id": "0a1fa135c17f56fa",
+  "title": "Reuse launch configurations across workspace projects",
+  "languages": {
+    "en": {
+      "title": "JSON files",
+      "summary": "Description of the settings of the app JSON and other JSON files for AL in Business Central.",
+      "details": "> **Note**\n> We're working on improving the onboarding experience for AL developers. If you've input for this article, we'd love to hear from you. Please use the **Feedback** section at the bottom of this article to help us make improvements that you’d like to see.\n> We also welcome contributions to our docs. New to contributing to docs? Don't worry, read more about contributing here Contribute to the help.\n\nWhen you start a new AL project, two JSON files; the `app.json` file and the `launch.json` file are generated automatically. The `app.json` file contains information about the extension that you're building, such as publisher information and specifies the minimum version of base application objects that the extension is built on. Often, the `app.json` file is referred to as the manifest. This article describes the `app.json` file settings in the App.json file section.\n\nFor information about the `launch.json` file see the article Launch JSON file.\n\n> **Note**\n> Learn more about data migration and creating a `migration.json` file in The migration.json file.\n> **Important**\n> The `rad.json` and the `snapshots.json` files shouldn't be modified.\n\n### App.json file",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-json-files"
+    }
+  }
+}

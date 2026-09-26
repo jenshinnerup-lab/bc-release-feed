@@ -1,0 +1,922 @@
+{
+ "generated_at": "2026-09-26",
+ "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
+ "sources": [
+  {
+   "key": "yzhums",
+   "name": "Dynamics 365 Lab",
+   "site": "https://yzhums.com/",
+   "kind": "blog"
+  },
+  {
+   "key": "waldo",
+   "name": "waldo.be",
+   "site": "https://www.waldo.be/",
+   "kind": "blog"
+  },
+  {
+   "key": "demiliani",
+   "name": "Stefano Demiliani",
+   "site": "https://demiliani.com/",
+   "kind": "blog"
+  },
+  {
+   "key": "vjeko",
+   "name": "Vjeko.com",
+   "site": "https://vjeko.com/",
+   "kind": "blog"
+  },
+  {
+   "key": "hougaard",
+   "name": "Hougaard.com (YouTube)",
+   "site": "https://www.youtube.com/@Hougaard",
+   "kind": "youtube"
+  },
+  {
+   "key": "msdyn365bc",
+   "name": "Microsoft Dynamics 365 Business Central (YouTube)",
+   "site": "https://www.youtube.com/@MicrosoftDynamics365BC",
+   "kind": "youtube"
+  }
+ ],
+ "links": {
+  "02bd70340a3b6afd": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Match purchase invoices to multiple order and receipt lines (new Get Order Lines action)",
+    "url": "https://yzhums.com/71425/",
+    "published": "2026-03-13",
+    "matched_by": "title"
+   }
+  ],
+  "06d5c8041110ae47": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26.3): Chat with Copilot to learn how to use installed add-on apps",
+    "url": "https://yzhums.com/65781/",
+    "published": "2025-07-10",
+    "matched_by": "title"
+   }
+  ],
+  "07676fbed36f1aa6": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Check total purchase amounts on documents (Check Doc. Total Amounts)",
+    "url": "https://yzhums.com/62364/",
+    "published": "2025-03-17",
+    "matched_by": "title"
+   }
+  ],
+  "077b6ab2a8ccabaa": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Create lists and dictionaries of interfaces in AL",
+    "url": "https://yzhums.com/62902/",
+    "published": "2025-04-02",
+    "matched_by": "title"
+   }
+  ],
+  "07f08ef681066902": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Create contract service orders with One Service Item Line/Order setting",
+    "url": "https://yzhums.com/71836/",
+    "published": "2026-03-31",
+    "matched_by": "title"
+   }
+  ],
+  "0801c407f9c42d36": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Calculate values only for visible FlowFields",
+    "url": "https://yzhums.com/62352/",
+    "published": "2025-03-14",
+    "matched_by": "title"
+   }
+  ],
+  "083db74b0b292291": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Use self-billed invoices",
+    "url": "https://yzhums.com/71666/",
+    "published": "2026-04-06",
+    "matched_by": "title"
+   }
+  ],
+  "12a0eda6912dd941": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Adjust width of Copilot, help, and page scripting panes",
+    "url": "https://yzhums.com/67675/",
+    "published": "2025-09-16",
+    "matched_by": "title"
+   }
+  ],
+  "1d05840559966948": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Storing Document Attachments outside the database (No customization) – See benefits of external storage support for document attachments",
+    "url": "https://yzhums.com/69818/",
+    "published": "2026-04-15",
+    "matched_by": "title"
+   }
+  ],
+  "1dbe5c7b81db639f": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Audit user and group permissions across apps (new Permissions Overview page)",
+    "url": "https://yzhums.com/71200/",
+    "published": "2026-03-06",
+    "matched_by": "title"
+   }
+  ],
+  "21c1038bba1d73c1": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Modernizing analytical reports for inventory",
+    "url": "https://yzhums.com/71775/",
+    "published": "2026-03-27",
+    "matched_by": "title"
+   }
+  ],
+  "2426801829815030": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27.1): Use the Account Payable Role Center",
+    "url": "https://yzhums.com/68956/",
+    "published": "2025-11-13",
+    "matched_by": "title"
+   }
+  ],
+  "254538d899385749": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Preview images directly in web client",
+    "url": "https://yzhums.com/75746/",
+    "published": "2026-09-04",
+    "matched_by": "title"
+   }
+  ],
+  "2648f49ad2755e97": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Set up vendor-specific number series for self-billing invoices",
+    "url": "https://yzhums.com/76268/",
+    "published": "2026-09-23",
+    "matched_by": "title"
+   }
+  ],
+  "2993b7d462cd64f5": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Financial report changes are now always logged",
+    "url": "https://yzhums.com/76076/",
+    "published": "2026-09-15",
+    "matched_by": "title"
+   }
+  ],
+  "2a37c9aac9136507": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Install UK localization as an extension to the base app (UK Delocalization)",
+    "url": "https://yzhums.com/69120/",
+    "published": "2026-01-28",
+    "matched_by": "title"
+   }
+  ],
+  "2eba7702b354dcb9": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Control transaction isolation for queries and isolated storage (Query ReadState supports ReadCommitted)",
+    "url": "https://yzhums.com/76233/",
+    "published": "2026-09-21",
+    "matched_by": "title"
+   }
+  ],
+  "348be462254a6d09": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27.4): Envision and design AI agents in Business Central (Custom Agent)",
+    "url": "https://yzhums.com/70502/",
+    "published": "2026-02-09",
+    "matched_by": "title"
+   }
+  ],
+  "3760fa57fb1bf0b4": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Use enhanced chat with Copilot (Supports 20 more languages)",
+    "url": "https://yzhums.com/67542/",
+    "published": "2025-09-09",
+    "matched_by": "title"
+   }
+  ],
+  "42ca164f69f3ceb3": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Show avatars for record creators and modifiers in lists (Created / Updated by) – Display data audit fields without customization",
+    "url": "https://yzhums.com/71047/",
+    "published": "2026-03-04",
+    "matched_by": "title"
+   }
+  ],
+  "434619f50b2bb9bb": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Set default language for documents on the company level (Default Language Code)",
+    "url": "https://yzhums.com/71297/",
+    "published": "2026-03-11",
+    "matched_by": "title"
+   }
+  ],
+  "4a0accb2a627f4c6": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Quality Management module (Evaluate the quality of goods and materials)",
+    "url": "https://yzhums.com/73623/",
+    "published": "2026-06-02",
+    "matched_by": "title"
+   }
+  ],
+  "4a6aa8ebe18c7319": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Cancel build and publish from Visual Studio Code",
+    "url": "https://yzhums.com/67446/",
+    "published": "2025-09-08",
+    "matched_by": "title"
+   }
+  ],
+  "4aba40c9ef5ea202": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Run AL tests from Visual Studio Code (Test codeunits and test methods)",
+    "url": "https://yzhums.com/72045/",
+    "published": "2026-04-09",
+    "matched_by": "title"
+   }
+  ],
+  "50e114d054350818": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28.1): Use enhanced and faster reports for analysis of deferrals and trial balances",
+    "url": "https://yzhums.com/73485/",
+    "published": "2026-06-01",
+    "matched_by": "title"
+   }
+  ],
+  "55a7de4383259469": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Calculate withholding taxes for vendors (Withholding Tax)",
+    "url": "https://yzhums.com/71463/",
+    "published": "2026-05-21",
+    "matched_by": "title"
+   }
+  ],
+  "5633debc96e4063b": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Brand document reports with report themes",
+    "url": "https://yzhums.com/76147/",
+    "published": "2026-09-17",
+    "matched_by": "title"
+   }
+  ],
+  "5bff8bf870b05cd1": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Validate report layouts for errors as an admin (Check report layout without running)",
+    "url": "https://yzhums.com/62487/",
+    "published": "2025-03-19",
+    "matched_by": "title"
+   }
+  ],
+  "5cd286292223180f": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Define allowed languages per environment (Limit the choices for language selection)",
+    "url": "https://yzhums.com/62087/",
+    "published": "2025-03-10",
+    "matched_by": "title"
+   }
+  ],
+  "5e09344a142298dc": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27.1): Print the Audit Trail report (report 330 “Audit Trail”)",
+    "url": "https://yzhums.com/68932/",
+    "published": "2025-11-12",
+    "matched_by": "title"
+   }
+  ],
+  "60717d5238f1fb0b": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Post purchase invoices for drop shipments independently of related sales invoices",
+    "url": "https://yzhums.com/71605/",
+    "published": "2026-03-19",
+    "matched_by": "title"
+   }
+  ],
+  "628f5181f322c615": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Use enhanced analysis assist with Copilot",
+    "url": "https://yzhums.com/68492/",
+    "published": "2025-10-20",
+    "matched_by": "title"
+   }
+  ],
+  "656b23eea33a4dfb": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Manage document attachments in manufacturing",
+    "url": "https://yzhums.com/62682/",
+    "published": "2025-03-25",
+    "matched_by": "title"
+   }
+  ],
+  "6643073bfd59131d": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Enable unified Copilot chat experience consistent with Microsoft Copilot (New Chat with Copilot)",
+    "url": "https://yzhums.com/75811/",
+    "published": "2026-09-07",
+    "matched_by": "title"
+   }
+  ],
+  "6705d23a50d336ee": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Tenant administrators can set Feature Management switches with an API (page 30092 “APIV2 – Feature Management”)",
+    "url": "https://yzhums.com/67896/",
+    "published": "2025-09-29",
+    "matched_by": "title"
+   }
+  ],
+  "68768d39b6d879e7": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Check records for uncommitted changes (Added the IsDirty property to the Record API)",
+    "url": "https://yzhums.com/76252/",
+    "published": "2026-09-22",
+    "matched_by": "title"
+   }
+  ],
+  "6a218905a9eaecdf": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26.2): Use enhanced analytics for manufacturing (updated Power BI app)",
+    "url": "https://yzhums.com/65052/",
+    "published": "2025-06-11",
+    "matched_by": "title"
+   }
+  ],
+  "6e48aa00f5f3cc12": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Automatically create multiple fixed asset cards",
+    "url": "https://yzhums.com/68230/",
+    "published": "2025-10-07",
+    "matched_by": "title"
+   }
+  ],
+  "6f5b2437c79c3856": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Create purchase quotes for contacts (without a vendor)",
+    "url": "https://yzhums.com/71008/",
+    "published": "2026-03-04",
+    "matched_by": "title"
+   }
+  ],
+  "792265277ee0aa75": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28.1): Control the lifecycle of report layouts (Layout Status)",
+    "url": "https://yzhums.com/72933/",
+    "published": "2026-05-15",
+    "matched_by": "title"
+   }
+  ],
+  "7bab879a0cac563a": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Find pages and reports with advanced Tell Me search (AI-powered feature)",
+    "url": "https://yzhums.com/67399/",
+    "published": "2025-09-05",
+    "matched_by": "title"
+   }
+  ],
+  "8057ee08c03c631a": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28.4): Speed up processing with Known Senders in Payables Agent",
+    "url": "https://yzhums.com/75245/",
+    "published": "2026-08-13",
+    "matched_by": "title"
+   }
+  ],
+  "80783ad711dec1a2": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Use user interface enhancements for better experience (Seven enhancements)",
+    "url": "https://yzhums.com/62986/",
+    "published": "2025-04-03",
+    "matched_by": "title"
+   }
+  ],
+  "81d88e7622017c26": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Show recently used in lookups",
+    "url": "https://yzhums.com/75730/",
+    "published": "2026-09-04",
+    "matched_by": "title"
+   }
+  ],
+  "8526435b8632f848": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Run multiple financial reports and get a single PDF output (Combines multiple Financial Reports into a single PDF)",
+    "url": "https://yzhums.com/75984/",
+    "published": "2026-09-10",
+    "matched_by": "title"
+   }
+  ],
+  "87d43a7a7282a9ca": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Use cross-platform report layout paths (forward slashes or backslashes)",
+    "url": "https://yzhums.com/76319/",
+    "published": "2026-09-25",
+    "matched_by": "title"
+   }
+  ],
+  "8bc842f530c228c2": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Running objects in actions defaults to UI descriptors on target object",
+    "url": "https://yzhums.com/62513/",
+    "published": "2025-05-02",
+    "matched_by": "title"
+   }
+  ],
+  "8e677eed761f2db2": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Autofill fields with Copilot (New capability of Copilot)",
+    "url": "https://yzhums.com/62595/",
+    "published": "2025-03-21",
+    "matched_by": "title"
+   }
+  ],
+  "9903f4d1575b1230": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Developers can define indexes that span fields from a base table and its table extensions (Table extension keys can now mix both base table fields and extension fields)",
+    "url": "https://yzhums.com/75873/",
+    "published": "2026-09-07",
+    "matched_by": "title"
+   }
+  ],
+  "991d54921f953b14": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Reuse header/footer layouts across document reports",
+    "url": "https://yzhums.com/76231/",
+    "published": "2026-09-24",
+    "matched_by": "title"
+   }
+  ],
+  "a1dfe2c27e2fd4a9": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Combine service shipments on a single service invoice",
+    "url": "https://yzhums.com/63253/",
+    "published": "2025-04-15",
+    "matched_by": "title"
+   }
+  ],
+  "a3b70d9c2c787be0": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Print barcodes from production orders (No customization)",
+    "url": "https://yzhums.com/62497/",
+    "published": "2025-03-18",
+    "matched_by": "title"
+   }
+  ],
+  "a74a75021bdd2795": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Create purchase orders from drop shipments",
+    "url": "https://yzhums.com/71304/",
+    "published": "2026-03-10",
+    "matched_by": "title"
+   }
+  ],
+  "a9333d4dcc451a42": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28.1): Enable Investment Boost for fixed assets (Bonus Depreciation Method)",
+    "url": "https://yzhums.com/73564/",
+    "published": "2026-05-27",
+    "matched_by": "title"
+   }
+  ],
+  "aa66bf5a57a77082": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28.2): Use new APIs for analyzing permissions for auditors and IT staff",
+    "url": "https://yzhums.com/74366/",
+    "published": "2026-06-29",
+    "matched_by": "title"
+   }
+  ],
+  "ab634750d4022245": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Optimize screen estate usage on the web (Resize the FactBox pane)",
+    "url": "https://yzhums.com/62036/",
+    "published": "2025-03-10",
+    "matched_by": "title"
+   }
+  ],
+  "accddda051a9db70": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Add more fields and columns by personalizing pages",
+    "url": "https://yzhums.com/67489/",
+    "published": "2025-09-10",
+    "matched_by": "title"
+   }
+  ],
+  "ae21723ed17c223d": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Use enhanced customer document layout for service management",
+    "url": "https://yzhums.com/62260/",
+    "published": "2025-03-13",
+    "matched_by": "title"
+   }
+  ],
+  "af96e223d005a324": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Detect tables approaching SQL column limits (New warning)",
+    "url": "https://yzhums.com/76053/",
+    "published": "2026-09-14",
+    "matched_by": "title"
+   }
+  ],
+  "b6e772b797a3399d": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Manage tasks from all agents in dedicated task pane",
+    "url": "https://yzhums.com/72479/",
+    "published": "2026-04-23",
+    "matched_by": "title"
+   }
+  ],
+  "b76b61b46980d077": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Add pictures to item variants to differentiate product options",
+    "url": "https://yzhums.com/70952/",
+    "published": "2026-03-03",
+    "matched_by": "title"
+   }
+  ],
+  "b7d4cfe81bc699d6": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Avoid document number errors when you post project journals (Renumber Document Numbers in Project Journals)",
+    "url": "https://yzhums.com/62914/",
+    "published": "2025-04-01",
+    "matched_by": "title"
+   }
+  ],
+  "b95699fa3e76d48f": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28.2): Use new APIs for analyzing approval workflows for auditors and IT staff",
+    "url": "https://yzhums.com/74390/",
+    "published": "2026-06-30",
+    "matched_by": "title"
+   }
+  ],
+  "bb492728c4c753d8": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Use alternative posting groups for employees",
+    "url": "https://yzhums.com/67740/",
+    "published": "2025-09-18",
+    "matched_by": "title"
+   }
+  ],
+  "bc4c247845920de1": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Extend CardPageId on list and listpart pages (Support modification of CardPageID on PageExtensions)",
+    "url": "https://yzhums.com/62345/",
+    "published": "2025-03-17",
+    "matched_by": "title"
+   }
+  ],
+  "bfa269c377d8cfdd": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Autofill contact details with Copilot",
+    "url": "https://yzhums.com/68043/",
+    "published": "2025-10-02",
+    "matched_by": "title"
+   }
+  ],
+  "ca3512dd2596acdd": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Access report and request metadata in Word layouts",
+    "url": "https://yzhums.com/62169/",
+    "published": "2025-03-12",
+    "matched_by": "title"
+   }
+  ],
+  "cafee8a2a8bd454d": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27.1): Connect AI agents to Business Central through MCP server (Dynamics 365 Business Central MCP)",
+    "url": "https://yzhums.com/68873/",
+    "published": "2025-11-10",
+    "matched_by": "title"
+   }
+  ],
+  "cddcadab37a5706b": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Add the Description 2 field to various pages to gain more insight (planning, routing, production order creation, and related processes)",
+    "url": "https://yzhums.com/71239/",
+    "published": "2026-03-09",
+    "matched_by": "title"
+   }
+  ],
+  "d06105e594e3d8bf": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Show recently searched in Tell Me",
+    "url": "https://yzhums.com/75774/",
+    "published": "2026-09-04",
+    "matched_by": "title"
+   }
+  ],
+  "d27b26100d6a5b1d": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Experience improved usability in manufacturing",
+    "url": "https://yzhums.com/72006/",
+    "published": "2026-04-08",
+    "matched_by": "title"
+   },
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Experience improved usability in manufacturing",
+    "url": "https://yzhums.com/63708/",
+    "published": "2025-05-16",
+    "matched_by": "title"
+   }
+  ],
+  "d2f7d4f36c5c1740": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Run AL objects and open record references using fully qualified names (Support for namespaces and fully qualified names)",
+    "url": "https://yzhums.com/71262/",
+    "published": "2026-03-09",
+    "matched_by": "title"
+   }
+  ],
+  "d5ce543a337eb278": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Convert simple type values to text using new ToText method (without using System.Format Method)",
+    "url": "https://yzhums.com/62430/",
+    "published": "2025-03-18",
+    "matched_by": "title"
+   }
+  ],
+  "dbf34edef92e3a5d": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Dynamics 365 Business Central: Configure text search language for multilingual environments (Text Search Language Optimizer)",
+    "url": "https://yzhums.com/74921/",
+    "published": "2026-07-23",
+    "matched_by": "title"
+   }
+  ],
+  "dc76ab88b0abb137": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Filter receipt and shipment lines to quickly find documents you want to invoice (New filters on the Get Receipt Lines, Get Shipment Lines, and Get Service Shipment Lines pages)",
+    "url": "https://yzhums.com/71648/",
+    "published": "2026-03-23",
+    "matched_by": "title"
+   }
+  ],
+  "df1f2351aa34c834": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Manage database index usage and cost per company (View index and Turn off indexes)",
+    "url": "https://yzhums.com/71379/",
+    "published": "2026-03-12",
+    "matched_by": "title"
+   }
+  ],
+  "e04b3b578ca57b2e": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): View SQL call information in performance profiles",
+    "url": "https://yzhums.com/67392/",
+    "published": "2025-09-05",
+    "matched_by": "title"
+   }
+  ],
+  "e1c24a7c6958c3ea": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Add data fields to report layouts using Word add-in (new data picker)",
+    "url": "https://yzhums.com/67892/",
+    "published": "2025-10-03",
+    "matched_by": "title"
+   }
+  ],
+  "e3bc310b29ea9217": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Reverse drop shipments when sales and purchase documents aren’t invoiced",
+    "url": "https://yzhums.com/71489/",
+    "published": "2026-03-18",
+    "matched_by": "title"
+   }
+  ],
+  "e4227600601f10bc": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Use new IncStr parameter to change integers by more than 1 in string variables (New IncStr method overload)",
+    "url": "https://yzhums.com/62527/",
+    "published": "2025-03-19",
+    "matched_by": "title"
+   }
+  ],
+  "ede57729a164b61f": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): Overloaded JsonObject data type GetValue method (New methods access properties and array elements for JSON)",
+    "url": "https://yzhums.com/62699/",
+    "published": "2025-03-25",
+    "matched_by": "title"
+   }
+  ],
+  "f30182a8f3cc02ca": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 1 (BC26): View build metadata in Extension Management page",
+    "url": "https://yzhums.com/62947/",
+    "published": "2025-04-01",
+    "matched_by": "title"
+   }
+  ],
+  "f6b5fd122a9971b7": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Record and edit easier with enhanced page scripting tool",
+    "url": "https://yzhums.com/67705/",
+    "published": "2025-09-17",
+    "matched_by": "title"
+   }
+  ],
+  "f7be1b7090aa53fd": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 1 (BC28): Get item insights with advanced KPIs and Summary (new Item Statistics page)",
+    "url": "https://yzhums.com/71758/",
+    "published": "2026-03-26",
+    "matched_by": "title"
+   }
+  ],
+  "f83ea72a54e32192": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Understand how each Copilot and agent capability is billed (Billing Type)",
+    "url": "https://yzhums.com/67462/",
+    "published": "2025-09-08",
+    "matched_by": "title"
+   }
+  ],
+  "fbbfef454d497e55": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2025 wave 2 (BC27): Access open-sourced Power BI apps",
+    "url": "https://yzhums.com/68178/",
+    "published": "2025-10-06",
+    "matched_by": "title"
+   }
+  ],
+  "fe39fc23df94ccaf": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Dynamics 365 Business Central: Upload, install, and manage PTEs in the admin center (Remove ability to upload and install PTEs from Extension Management page)",
+    "url": "https://yzhums.com/74541/",
+    "published": "2026-08-20",
+    "matched_by": "title"
+   }
+  ]
+ }
+}

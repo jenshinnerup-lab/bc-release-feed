@@ -1,0 +1,12 @@
+{
+  "id": "9a94d7adfbea811e",
+  "title": "Signal from job queue execution added to Application Insights telemetry for partners",
+  "languages": {
+    "en": {
+      "title": "Analyzing job queue lifecycle telemetry",
+      "summary": "Learn about the telemetry for job queue entries in Business Central",
+      "details": "**APPLIES TO:** Business Central 2020 release wave 2, version 17.2, and later\n\nJob queue lifecycle telemetry gathers data about the following operations:\n\n- A job queue entry was enqueued.\n\n- A job queue entry was started.\n\n- A job queue entry finished. Provides information as to whether it was successful or failed.\n\n- A job queue entry was stopped.\n\n- A job queue entry was cancelled.\n\n- A job queue entry was scheduled on login.\n\n- A job queue entry was run by a user.\n\nFor information about creating and managing job queue entries, see [Use Job Queues to Schedule Tasks](https://learn.microsoft.com/en-us/dynamics365/business-central/admin-job-queues-schedule-tasks) in the Business Central application help.\n\nFor technical information about how the Job Queue works, see How the Job Queue works in the in the Business Central developer content.\n\n### Job queue telemetry events\n\nThe following table describes the event IDs that are currently emitted by the job queue system.\n\n- Event — Event id — Job queue status — Description\n\n- Job queue entry enqueued — AL0000E24 — Enqueued — Occurs when a job queue entry successfully enqueues and will after the specified alJobQueueEarliestStartDateTime.\n\n- Job queue entry failed to be enqueued — AL0000FNY — Enqueued — Occurs when a job queue entry fails to enqueue and this happens if no task scheduler is created behind it.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/telemetry-job-queue-lifecycle-trace"
+    }
+  }
+}

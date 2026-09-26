@@ -5,25 +5,25 @@
     "en": {
       "title": "Add the Name 2 field to customer and vendor cards",
       "summary": "You can add the Name 2 field on customer and vendor cards and lists through personalization.",
-      "details": "### Business value\n\nCustomers and vendors are key master data in Business Central. In some geographies, storing their legal names can require additional character space. Business Central includes fields that can store these longer names.\n\n### Feature details\n\nYou can now store and export customers and vendors with longer legal names by using the Name 2 field, but the fields are not shown by default. You can add the Name 2 field to the customer and vendor cards and lists by using the Personalizing banner in Business Central.",
+      "details": "### Business value\n\nCustomers and vendors are key master data in Business Central. In some geographies, storing their legal names can require additional character space. Business Central includes fields that can store these longer names.\n\n### Feature details\n\nYou can now store and export customers and vendors with longer legal names by using the Name 2 field, but the fields are not shown by default. You can add the Name 2 field to the customer and vendor cards and lists by using the **Personalizing** banner in Business Central.",
       "source_url": "https://learn.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/add-name-2-field-customer-vendor-cards"
     },
     "da": {
       "title": "Add the Name 2 field to customer and vendor cards",
       "summary": "You can add the Name 2 field on customer and vendor cards and lists through personalization.",
-      "details": "### Business value\n\nCustomers and vendors are key master data in Business Central. In some geographies, storing their legal names can require additional character space. Business Central includes fields that can store these longer names.\n\n### Feature details\n\nYou can now store and export customers and vendors with longer legal names by using the Name 2 field, but the fields are not shown by default. You can add the Name 2 field to the customer and vendor cards and lists by using the Personalizing banner in Business Central.",
+      "details": "### Business value\n\nCustomers and vendors are key master data in Business Central. In some geographies, storing their legal names can require additional character space. Business Central includes fields that can store these longer names.\n\n### Feature details\n\nYou can now store and export customers and vendors with longer legal names by using the Name 2 field, but the fields are not shown by default. You can add the Name 2 field to the customer and vendor cards and lists by using the **Personalizing** banner in Business Central.",
       "source_url": "https://learn.microsoft.com/da-dk/dynamics365-release-plan/2019wave2/dynamics365-business-central/add-name-2-field-customer-vendor-cards"
     },
     "nl": {
       "title": "Add the Name 2 field to customer and vendor cards",
       "summary": "You can add the Name 2 field on customer and vendor cards and lists through personalization.",
-      "details": "### Business value\n\nCustomers and vendors are key master data in Business Central. In some geographies, storing their legal names can require additional character space. Business Central includes fields that can store these longer names.\n\n### Feature details\n\nYou can now store and export customers and vendors with longer legal names by using the Name 2 field, but the fields are not shown by default. You can add the Name 2 field to the customer and vendor cards and lists by using the Personalizing banner in Business Central.",
+      "details": "### Business value\n\nCustomers and vendors are key master data in Business Central. In some geographies, storing their legal names can require additional character space. Business Central includes fields that can store these longer names.\n\n### Feature details\n\nYou can now store and export customers and vendors with longer legal names by using the Name 2 field, but the fields are not shown by default. You can add the Name 2 field to the customer and vendor cards and lists by using the **Personalizing** banner in Business Central.",
       "source_url": "https://learn.microsoft.com/nl-nl/dynamics365-release-plan/2019wave2/dynamics365-business-central/add-name-2-field-customer-vendor-cards"
     },
     "fr": {
       "title": "Add the Name 2 field to customer and vendor cards",
       "summary": "You can add the Name 2 field on customer and vendor cards and lists through personalization.",
-      "details": "### Business value\n\nCustomers and vendors are key master data in Business Central. In some geographies, storing their legal names can require additional character space. Business Central includes fields that can store these longer names.\n\n### Feature details\n\nYou can now store and export customers and vendors with longer legal names by using the Name 2 field, but the fields are not shown by default. You can add the Name 2 field to the customer and vendor cards and lists by using the Personalizing banner in Business Central.",
+      "details": "### Business value\n\nCustomers and vendors are key master data in Business Central. In some geographies, storing their legal names can require additional character space. Business Central includes fields that can store these longer names.\n\n### Feature details\n\nYou can now store and export customers and vendors with longer legal names by using the Name 2 field, but the fields are not shown by default. You can add the Name 2 field to the customer and vendor cards and lists by using the **Personalizing** banner in Business Central.",
       "source_url": "https://learn.microsoft.com/fr-fr/dynamics365-release-plan/2019wave2/dynamics365-business-central/add-name-2-field-customer-vendor-cards"
     }
   }

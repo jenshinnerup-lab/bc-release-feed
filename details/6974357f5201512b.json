@@ -1,0 +1,12 @@
+{
+  "id": "6974357f5201512b",
+  "title": "Get more secure outgoing HTTP calls by default",
+  "languages": {
+    "en": {
+      "title": "Call external services with the HttpClient data type",
+      "summary": "Learn about how to call external services using the HttpClient datatype.",
+      "details": "You can integrate Business Central apps/extensions with external systems by using the *HttpClient* data type in your AL code.\n\n \n\nThe HttpClient data type is simply a wrapper on the.NET class HttpClient.\n\nIn this article, you learn how to make HTTP requests using the *HttpClient* data type and handle responses using the *HttpResponseMessage* data type.\n\n### Set up an external call\n\nThe first thing you need to do is to define the HTTP request. Specify the URI to call, set request and content HTTP headers, and choose which HTTP method to use. You do this using the `HttpRequestMessage` data type.\n\nThe following example illustrates ways to prepare the request.\n\n` local procedure SendRequest(HttpMethod: Text[6]) ResponseText: Text var Client: HttpClient; HttpRequestMessage: HttpRequestMessage; RequestHeaders: HttpHeaders; RequestURI: Text; Content: HttpContent; ContentHeaders: HttpHeaders; begin RequestURI:= 'https://httpcats.com/418.json'; // This shows how you can set or change HTTP content headers in your request Content.GetHeaders(ContentHeaders); if ContentHeaders.Contains('Content-Type') then ContentHeaders.Remove('Content-Type'); ContentHeaders.Add('Content-Type', 'multipart/form-data;boundary=boundary'); // This shows how you can set HTTP request headers in your request HttpRequestMessage.GetHeaders(RequestHeaders); RequestHeaders.Add('Accept', 'application/json'); RequestHe",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-httpclient"
+    }
+  }
+}

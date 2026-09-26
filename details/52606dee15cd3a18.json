@@ -1,0 +1,12 @@
+{
+  "id": "52606dee15cd3a18",
+  "title": "Company lifecycle telemetry in Application Insights for partners",
+  "languages": {
+    "en": {
+      "title": "Analyzing company lifecycle trace telemetry",
+      "summary": "Learn about the company lifecycle telemetry in Business Central",
+      "details": "**INTRODUCED IN:** Business Central 2020 release wave 1, version 16.1\n\nCompany lifecycle telemetry gathers data about the success or failure of the following company-related operations:\n\n- creating a company\n\n- copying a company\n\n- deleting a company\n\nFailed operations result in a trace log entry that includes a reason for the failure.\n\n### Company created\n\nOccurs when the company has been successfully created.\n\n#### General dimensions\n\n- Dimension — Description or value\n\n- message — **Company created: {companyName}** `{companyName}` indicates the name of the new company.\n\n- severityLevel — **1**\n\n- user_Id — The user telemetry ID for the user. From the user card, you can use user_Id to identify the user who triggered this telemetry event. Learn more in Assign a telemetry ID to users.\n\n#### Custom dimensions\n\n- Dimension — Description or value\n\n- aadTenantId — Specifies the Microsoft Entra tenant ID used for Microsoft Entra authentication. For on-premises, if you aren't using Microsoft Entra authentication, this value is **common**.\n\n- clientType — Specifies the type of client that executed the SQL Statement, such as **Background** or **Web**. For a list of the client types, see ClientType Option Type.\n\n- companyName — Specifies the display name of the Business Central company.\n\n- component — **Dynamics 365 Business Central Server**",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/telemetry-company-lifecycle-trace"
+    }
+  }
+}

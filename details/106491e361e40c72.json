@@ -1,0 +1,12 @@
+{
+  "id": "106491e361e40c72",
+  "title": "Installing Marketplace apps updates in the Business Central administration center",
+  "languages": {
+    "en": {
+      "title": "Managing Apps",
+      "summary": "Discover how to use the Business Central administration center to manage apps, update environments, and ensure compatibility with the latest features.",
+      "details": "A Business Central environment is built as a collection of apps. These apps include Microsoft and non-Microsoft apps, for example, apps from Marketplace. The apps work together to provide customers with a broad set of features to address their various business, market, and industry needs.\n\nYou can install apps on your environment as Global App, Per-Tenant Extension (PTE), or DEV extension. For more information, see app types and scopes.\n\nMicrosoft, partners, and ISVs frequently release updates for these apps. App updates add new features and fix known problems. To keep your environment up to date and running smoothly, check for and install the latest updates regularly.\n\nTo help you manage apps, the administration center includes the **Manage Apps** page. This page supports the following operations for each app type:\n\n- App Type — View — Upload — Install — Update — Uninstall\n\n- Global App — — — — —\n\n- Per-Tenant Extensions — — — — —\n\n- DEV Extensions — — — — —\n\n> **Note**\n> In the current version, you can't install new global apps from the Admin Center, either main apps or their dependencies (library apps). You can install new global apps from the marketplace at [marketplace.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2081646). After you install a global app on your environment, you can manage it from the Admin Center.\n\n### Manage apps",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-manage-apps"
+    }
+  }
+}

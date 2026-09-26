@@ -1,0 +1,12 @@
+{
+  "id": "ee4e08581de84259",
+  "title": "Use environmentType and environmentName launch.json properties instead of obsoleted sandboxName",
+  "languages": {
+    "en": {
+      "title": "Launch JSON file",
+      "summary": "Description of the settings of the launch JSON file for AL in Business Central.",
+      "details": "The `launch.json` file contains information about the server that the extension launches on. The `launch.json` file has multiple configuration options available, for example, for snapshot debugging and attach debugging. In Visual Studio Code, you can choose to add a new configuration to the `launch.json` file, by selecting the **Add Configuration** button.\n\n \n\nThe following configuration options are available:\n\n- Attach to the client on the cloud sandbox\n\n- Attach to the client on your own server\n\n- Attach to an agent session on a cloud sandbox\n\n- Attach to an agent session on your own server\n\n- Initialize a snapshot debugging session on cloud sandbox\n\n- Initialize a snapshot debugging session on your own server\n\n- Publish to Microsoft cloud sandbox\n\n- Publish to your own server\n\nIn the following sections, you can find a description of the parameters that are available for each of the configurations. You'll also find a description of how to create a user or workspace launch configuration file.\n\n### Publish to local server settings (launch.json)\n\nHere's an example of a configuration file for publishing to a local server.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-json-launch-file"
+    }
+  }
+}

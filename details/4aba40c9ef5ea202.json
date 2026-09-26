@@ -1,0 +1,12 @@
+{
+  "id": "4aba40c9ef5ea202",
+  "title": "Run AL tests from Visual Studio Code",
+  "languages": {
+    "en": {
+      "title": "Run AL tests from Visual Studio Code with Test Explorer",
+      "summary": "Learn how to use the Test Explorer in Visual Studio Code to discover and run AL tests for Business Central directly from the IDE.",
+      "details": "**APPLIES TO:** Business Central 2026 release wave 1 and later\n\nYou can use the built-in *Test Explorer* in Visual Studio Code to discover and run AL tests in your workspace. This feature lets you run tests directly from the IDE instead of using an external test runner or the Business Central web client.\n\n### Prerequisites\n\nBefore you run tests from Visual Studio Code, make sure you meet the following requirements:\n\n- Business Central version 28.0 or newer (2026 release wave 1).\n\n- The AL Language extension for Visual Studio Code is installed.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-test-explorer-vscode"
+    }
+  }
+}

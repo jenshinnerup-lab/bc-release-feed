@@ -1,0 +1,12 @@
+{
+  "id": "26c1e57d149289f5",
+  "title": "Validate Dynamics GP data migration",
+  "languages": {
+    "en": {
+      "title": "Validate Dynamics GP data migration",
+      "summary": "Learn about the migration validation feature that verifies data migrated from Dynamics GP to Business Central.",
+      "details": "The **Migration validation** feature verifies data migrated from Dynamics GP to Business Central by comparing source data in GP with migrated data in Business Central. This validation process ensures accuracy and improves efficiency by identifying discrepancies between the two systems.\n\nThe feature can run automatically after migration completes or be triggered manually at any time. It tests multiple entities including G/L accounts, customers, vendors, items, and other key business data to confirm successful data transfer.\n\n### How validation works\n\nMigration validation compares specific data points between your Dynamics GP source system and the migrated data in Business Central. For each entity tested, the validation process checks whether values match expected results based on the source data.\n\nWhen validation completes, you receive a summary that shows:\n\n- Entities that were tested\n\n- Description of each validation test performed\n\n- Number of records that failed validation for each test\n\n- Detailed information about specific records that didn't match\n\nThis information helps you identify and resolve data migration issues quickly, ensuring your Business Central environment contains accurate data before you begin using the system.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/migrate-gp-validation"
+    }
+  }
+}

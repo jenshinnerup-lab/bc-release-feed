@@ -1,0 +1,12 @@
+{
+  "id": "d2f7d4f36c5c1740",
+  "title": "Run AL objects and open record references using fully qualified names",
+  "languages": {
+    "en": {
+      "title": "Adopting namespaces in AL",
+      "summary": "Learn about features, tools, and best practices for structuring and adopting namespaces in your AL code for Business Central.",
+      "details": "**APPLIES TO:** Business Central 2023 release wave 2 (version 23) and later\n\nNamespaces are used to organize code into logical groups and hierarchies and they ensure uniqueness in code names and allow reuse of names in different contexts. Namespaces also provide structure for the code base, making it easier to navigate and understand. Learn more in Namespaces in AL.\n\nSeveral features and tools are available to help you progressively adopt namespaces in your AL projects. These tools automate repetitive tasks and provide guidance to streamline the transition of your codebase to use namespaces effectively.\n\n### Using a code action for automated namespace addition\n\n**APPLIES TO:** Business Central 2026 release wave 1 and later\n\nA code action automatically adds namespaces to AL files that are missing them, helping you quickly bring your codebase into compliance with CodeCop rule AA0247.\n\n#### Namespace resolution logic\n\nWhen you invoke the code action, the system resolves the appropriate namespace using the following priority:\n\n**Namespace template** - The system reads and parses the `al.namespaceTemplate` setting. You can use the `$(parentfolder)` placeholder to dynamically insert the parent directory name of the AL file.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-namespaces-structure"
+    }
+  }
+}

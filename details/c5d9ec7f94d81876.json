@@ -1,0 +1,12 @@
+{
+  "id": "c5d9ec7f94d81876",
+  "title": "Migrate to the cloud from Dynamics SL (general availability)",
+  "languages": {
+    "en": {
+      "title": "Dynamics SL migration to Business Central online: End-to-end overview",
+      "summary": "Learn about the migration process and the necessary tasks for completing the migration from Dynamics SL on-premises.",
+      "details": "This article gives an overview of how to migrate from Dynamics SL on-premises to Business Central online. Understanding the data migration basics helps you plan and execute a smooth transition to the cloud.\n\n### Understanding cloud migration\n\nData migration securely moves data from an on-premises SQL Server instance to Business Central online. You manage cloud migration from Business Central online through a connection to the on-premises database and various components that establish a pipeline for replicating data. The on-premises solution remains the operative environment until you complete the cloud migration.\n\n#### Components involved\n\nThe following figure shows the main components involved in the data migration process.\n\n- Component — Description\n\n- **On-premises database** — This database is the on-premises SQL Server database that stores business data for the companies to migrate to the cloud.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/migrate-sl-overview"
+    }
+  }
+}

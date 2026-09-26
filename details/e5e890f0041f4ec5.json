@@ -1,0 +1,12 @@
+{
+  "id": "e5e890f0041f4ec5",
+  "title": "New AppSourceCop allowing you to run validation to determine any code hit by obsoleted objects for a given future version",
+  "languages": {
+    "en": {
+      "title": "AppSourceCop Error AS0105",
+      "summary": "Objects that are pending obsoletion with an obsolete tag version lower than the minimum set in the AppSourceCop.json file are not allowed.",
+      "details": "Object pending obsoletion contains an expired ObsoleteTag.\n\n### Description\n\nObjects that are pending obsoletion with an obsolete tag version lower than the minimum set in the AppSourceCop.json file are not allowed.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/analyzers/appsourcecop-as0105"
+    }
+  }
+}

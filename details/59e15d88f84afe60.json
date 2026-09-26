@@ -1,0 +1,12 @@
+{
+  "id": "59e15d88f84afe60",
+  "title": "Users with the device license can now set up jobs to run as scheduled tasks in the job queue of Business Central",
+  "languages": {
+    "en": {
+      "title": "Licensing in Dynamics 365 Business Central",
+      "summary": "Provides an overview of the licensing in Business Central",
+      "details": "Business Central licenses can only be purchased through CSP. Microsoft offers several types of paid licenses for business users:\n\n- Essentials\n\n- Premium\n\n- Team Member\n\n- External Accountant\n\n- Microsoft also offers read-only access to Business Central through Microsoft 365 licenses, as an addition to Premium or Essentials plans\n\nProspects and customers can also subscribe for an evaluation version by using self-service sign-up, also known as the viral trial. This subscription comes with 10,000 licenses, and partners can use such viral trials to let prospects explore Business Central using nonproduction companies. For more information, see Preparing Demonstration Environments of Dynamics 365 Business Central.\n\n> **Important**\n> Specifically for businesses who want to convert a 30-day trial company into their actual production company, the first user who signs into Business Central after the license was applied to their tenant must be a user with this license assigned. This way, the 30-day trial ends, and any trial-related notifications disappear so that users can use Business Central to do work.\n> If an administrator is the first person to sign in after the license was applied to the tenant and to users, then the trial will continue until it expires.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/deployment/licensing"
+    }
+  }
+}
