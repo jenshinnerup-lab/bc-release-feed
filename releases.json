@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -14167,6 +14167,18 @@
       "product_name": "Continia Document Capture"
     },
     {
+      "id": "continia-dc-82960",
+      "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 4",
+      "area": "Country and Regional",
+      "title": "Scenario flow handling for French eDocuments has been enhanced to ensure that invoices and credit memos contain the business process information requi",
+      "summary": "Scenario flow handling for French eDocuments has been enhanced to ensure that invoices and credit memos contain the business process information required by the French eInvoicing platform. For sales and service invoices and credit memos sent in the UBL-FR, CII-FR, or Factur-X formats, an eDocument scenario flow must now be selected before posting. This helps prevent documents from being later rejected due to a missing business process information. If the eDocument Scenario Flow field is empty, p",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
+      "country_code": "",
+      "general_availability": "April 1, 2026",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
       "id": "continia-dc-81778",
       "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 2",
       "area": "Country and Regional",
@@ -22059,6 +22071,18 @@
       "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r2/",
       "country_code": "",
       "general_availability": "October 2, 2025",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-82960",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 4",
+      "area": "Country and Regional",
+      "title": "Scenario flow handling for French eDocuments has been enhanced to ensure that invoices and credit memos contain the business process information requi",
+      "summary": "Scenario flow handling for French eDocuments has been enhanced to ensure that invoices and credit memos contain the business process information required by the French eInvoicing platform. For sales and service invoices and credit memos sent in the UBL-FR, CII-FR, or Factur-X format, an eDocument Scenario Flow must now be selected before posting. This helps prevent documents from being rejected later because the required business process information is missing. If the eDocument Scenario Flow fie",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "country_code": "",
+      "general_availability": "April 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Document Output"
     },
@@ -98185,6 +98209,42 @@
       "product_name": "Continia Document Capture"
     },
     {
+      "id": "continia-dc-82877",
+      "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 4",
+      "functional_area": "Country and Regional",
+      "title": "Previously, when sending an eDocument through the PA France network, the following error could occur",
+      "summary": "Previously, when sending an eDocument through the PA France network, the following error could occur: Specification identifier MUST begin with the value 'urn:cen.eu:en16931:2017#compliant#urn:fdc:peppol.eu:2017:poacc:billing:3.0' and follow the format rules for the identifier. This could occur when the eDocument Line Types setup was incomplete. The complete setup can now be imported using the relevant eDocuments setup guide.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
+      "hotfix_id": "82877",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-82925",
+      "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 4",
+      "functional_area": "Country and Regional",
+      "title": "Previously, when sending a corrective credit memo for France in the CII format, the issue date of the referenced invoice was formatted as YYYY-MM-DD i",
+      "summary": "Previously, when sending a corrective credit memo for France in the CII format, the issue date of the referenced invoice was formatted as YYYY-MM-DD instead of YYYYMMDD – as required by the French CII specification. As a result, the credit memo could fail validation with the following error message: BR-FR-03/BT-26 : La date d’émission de la facture référencée (qdt:DateTimeString) doit contenir une année entre 2000 et 2099. Valeur actuelle : <Issue Date>. Veuillez vérifier la validité de la date.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
+      "hotfix_id": "82925",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-82963",
+      "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 4",
+      "functional_area": "Country and Regional",
+      "title": "Previously, amount fields in French eDocuments could be generated with excessive decimal precision, resulting in an invalid document and validation er",
+      "summary": "Previously, amount fields in French eDocuments could be generated with excessive decimal precision, resulting in an invalid document and validation error messages such as: Le montant « 1005.800000000000000 » est invalide. Il doit : - être un nombre strictement positif (sans signe « - »), - comporter au plus 6 décimales (séparateur « . »), - contenir au maximum 19 caractères (hors séparateur). Veuillez corriger ce montant pour respecter le format requis.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
+      "hotfix_id": "82963",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
       "id": "continia-dc-82795",
       "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 3",
       "functional_area": "Country and Regional",
@@ -119449,6 +119509,42 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-82877",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 4",
+      "functional_area": "Country and Regional",
+      "title": "Previously, when sending an eDocument through the PA France network, the following error could occur",
+      "summary": "Previously, when sending an eDocument through the PA France network, the following error could occur: Specification identifier MUST begin with the value 'urn:cen.eu:en16931:2017#compliant#urn:fdc:peppol.eu:2017:poacc:billing:3.0' and follow the format rules for the identifier. This could occur when the eDocument Line Types setup was incomplete. The complete setup can now be imported using the relevant eDocuments setup guide.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "82877",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-82925",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 4",
+      "functional_area": "Country and Regional",
+      "title": "Previously, when sending a corrective credit memo for France in the CII format, the issue date of the referenced invoice was formatted as YYYY-MM-DD i",
+      "summary": "Previously, when sending a corrective credit memo for France in the CII format, the issue date of the referenced invoice was formatted as YYYY-MM-DD instead of the YYYYMMDD format required by the French CII specification. As a result, the credit memo could fail validation with the following error: BR-FR-03/BT-26 : La date d’émission de la facture référencée (qdt:DateTimeString) doit contenir une année entre 2000 et 2099. Valeur actuelle : <Issue Date>. Veuillez vérifier la validité de la date. T",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "82925",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-82963",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 4",
+      "functional_area": "Country and Regional",
+      "title": "Previously, amount fields in French eDocuments could be generated with excessive decimal precision, resulting in an invalid document and validation er",
+      "summary": "Previously, amount fields in French eDocuments could be generated with excessive decimal precision, resulting in an invalid document and validation errors such as: Le montant « 1005.800000000000000 » est invalide. Il doit : - être un nombre strictement positif (sans signe « - »), - comporter au plus 6 décimales (séparateur « . »), - contenir au maximum 19 caractères (hors séparateur). Veuillez corriger ce montant pour respecter le format requis. Amount values are now generated with the required ",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "82963",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-82795",
       "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 3",
       "functional_area": "Country and Regional",
@@ -119585,7 +119681,7 @@
       "version": "Document Output 2026 R1 Service Pack 5",
       "functional_area": "Documents and Templates",
       "title": "When the statement email template’s open-documents output was set to a single PDF, clicking Open Email on the Document Output Customer Card could fail",
-      "summary": "When the statement email template’s open-documents output was set to a single PDF, clicking Open Email on the Document Output Customer Card could fail for customers with many open documents, with the following resulting error: Could not perform post request to https://EUN-pdfapi.continiaonline.com/api/v1.0/pdf/merge.json — Status code: 422 \u0000— Message: Combine - LoadFromStream1 caused an error. Status: GenericError, Page: 0. This has now been fixed.",
+      "summary": "When the statement email template’s open-documents output was set to a single PDF, clicking Open Email on the Document Output Customer Card could fail for customers with many open documents, with the following resulting error: Could not perform post request to https://EUN-pdfapi.continiaonline.com/api/v1.0/pdf/merge.json — Status code: 422 — Message: Combine - LoadFromStream1 caused an error. Status: GenericError, Page: 0. This has now been fixed.",
       "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
       "hotfix_id": "79748",
       "country_code": "",

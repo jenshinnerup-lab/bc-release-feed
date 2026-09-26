@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-25",
+  "generated_at": "2026-09-26",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "6ea4678ba05dd4817c38",
+      "date": "2026-09-26",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-82963",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 4",
+      "title": "Previously, amount fields in French eDocuments could be generated with excessive decimal precision, resulting in an invalid document and validation er",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "952dcb4d1b9570e22bfc",
+      "date": "2026-09-26",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-82925",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 4",
+      "title": "Previously, when sending a corrective credit memo for France in the CII format, the issue date of the referenced invoice was formatted as YYYY-MM-DD i",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "57a2afac5738caaa7d0b",
+      "date": "2026-09-26",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-82877",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 4",
+      "title": "Previously, when sending an eDocument through the PA France network, the following error could occur",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "7c864a34b4f2f2bdeb9e",
+      "date": "2026-09-26",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-82963",
+      "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 4",
+      "title": "Previously, amount fields in French eDocuments could be generated with excessive decimal precision, resulting in an invalid document and validation er",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "be0781b39c2f140064f6",
+      "date": "2026-09-26",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-82925",
+      "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 4",
+      "title": "Previously, when sending a corrective credit memo for France in the CII format, the issue date of the referenced invoice was formatted as YYYY-MM-DD i",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "2f01d27e54c19efcb0cb",
+      "date": "2026-09-26",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-82877",
+      "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 4",
+      "title": "Previously, when sending an eDocument through the PA France network, the following error could occur",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "90792554193a11a94351",
+      "date": "2026-09-26",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-do-82960",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 5, hotfix 4",
+      "title": "Scenario flow handling for French eDocuments has been enhanced to ensure that invoices and credit memos contain the business process information requi",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "2f9def86ec30db7c43dc",
+      "date": "2026-09-26",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-dc-82960",
+      "version": "Continia Delivery Network 2026 R1, Service Pack 5, hotfix 4",
+      "title": "Scenario flow handling for French eDocuments has been enhanced to ensure that invoices and credit memos contain the business process information requi",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "c22448effca11757a50e",
       "date": "2026-09-25",
