@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26",
+  "generated_at": "2026-09-27",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -604,7 +604,8 @@
       "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/..\\administration\\telemetry-configuration-package-trace",
       "country_code": "",
       "publisher": "Microsoft",
-      "product_name": "Business Central"
+      "product_name": "Business Central",
+      "summary": "Learn about the telemetry for configuration package telemetry for Azure Application Insights."
     },
     {
       "id": "a9f6f7a79ee6121b",
@@ -616,7 +617,8 @@
       "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../developer/devenv-snapshot-debugging",
       "country_code": "",
       "publisher": "Microsoft",
-      "product_name": "Business Central"
+      "product_name": "Business Central",
+      "summary": "Overview of how snapshot debugging allows recording running AL code for Business Central."
     },
     {
       "id": "0292a5cef54dd039",
@@ -628,7 +630,8 @@
       "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/tenant-admin-center-backup-restore",
       "country_code": "",
       "publisher": "Microsoft",
-      "product_name": "Business Central"
+      "product_name": "Business Central",
+      "summary": "Use the Business Central administration center to restore backups of environments."
     },
     {
       "id": "bc7c53ebaba620b2",
@@ -659,7 +662,8 @@
       "doc_url": "/dynamics365/business-central/dev-itpro/whatsnew/../administration/telemetry-webservices-access-key-trace",
       "country_code": "",
       "publisher": "Microsoft",
-      "product_name": "Business Central"
+      "product_name": "Business Central",
+      "summary": "Learn about the web service access key telemetry in Business Central"
     },
     {
       "id": "59abba6d02773094",
@@ -915,7 +919,8 @@
       "doc_url": "/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations",
       "country_code": "",
       "publisher": "Microsoft",
-      "product_name": "Business Central"
+      "product_name": "Business Central",
+      "summary": "Learn where Business Central is available, which languages are supported, and how partners deliver localized solutions through Microsoft commercial marketplace."
     },
     {
       "id": "0326a779bb714b9b",
@@ -927,7 +932,8 @@
       "doc_url": "/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-capacity#storage",
       "country_code": "",
       "publisher": "Microsoft",
-      "product_name": "Business Central"
+      "product_name": "Business Central",
+      "summary": "Learn how to monitor and optimize storage, manage environments, and stay within your quota using the administration center."
     },
     {
       "id": "de3eaf7fc55bbfd9",

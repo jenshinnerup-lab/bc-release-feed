@@ -1,0 +1,12 @@
+{
+  "id": "67df21477d91d820",
+  "title": "Signal from web service key authentication added to Application Insights telemetry for partners",
+  "languages": {
+    "en": {
+      "title": "Analyzing Web Service Access Key Telemetry",
+      "summary": "Learn about the web service access key telemetry in Business Central",
+      "details": "**APPLIES TO:** Business Central 2020 release wave 2, version 17.3, and later\n\nThe Business Central emits telemetry data about the success or failure of authenticating web service access keys on web service requests.\n\n> **Important**\n> Starting October, 2022, the use of access keys (Basic Auth) for web service authentication is deprecated and not supported in Business Central online. We recommend that you use OAuth2 instead. For more information, see Using OAuth to Authorize Business Central Web Services.\n\nAs a partner or customer, this data lets you monitor the use of web service access keys on your environments in preparation for the deprecation of the feature.\n\nFor information about web service access keys, see How to use an Access Key for SOAP and OData Web Service Authentication.\n\n### Authentication with web service key succeeded\n\nOccurs when a web service access key was authenticated successfully.\n\n#### General dimensions\n\nThe following table explains the general dimensions included in the trace. The table lists the dimensions that are specific to Business Central.\n\n- Dimension — Description or value\n\n- message — **Authentication with Web Service Key succeeded: {endpoint}**\n\n- severityLevel — **1**\n\n#### Custom dimensions\n\nThe following table explains the custom dimensions included in the trace.\n\n- Dimension — Description or value",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/telemetry-webservices-access-key-trace"
+    }
+  }
+}

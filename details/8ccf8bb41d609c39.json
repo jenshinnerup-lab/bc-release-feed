@@ -1,0 +1,12 @@
+{
+  "id": "8ccf8bb41d609c39",
+  "title": "Signal from application packages lifecycle added to Application Insights Telemetry for partners",
+  "languages": {
+    "en": {
+      "title": "Analyzing configuration package telemetry",
+      "summary": "Learn about the telemetry for configuration package telemetry for Azure Application Insights.",
+      "details": "**APPLIES TO:** Business Central 2020 release wave 2, version 17.2, and later\n\nConfiguration package telemetry gathers data about the following operations on configuration packages:\n\n- Export\n\n- Import\n\n- Apply\n\n- Delete\n\nFor information about working with configuration packages, see [Prepare a Configuration Package](https://learn.microsoft.com/en-us/dynamics365/business-central/admin-how-to-prepare-a-configuration-package) in the Business Central Application Help.\n\n### Common custom dimensions\n\nThe following table explains custom dimensions that are common to all configuration package traces.\n\n- Dimension — Description or value\n\n- aadTenantId — Specifies the Microsoft Entra tenant ID used for Microsoft Entra authentication. For on-premises, if you aren't using Microsoft Entra authentication, this value is **common**.\n\n- alCategory — **RapidStart**\n\n- alDataClassification — **SystemMetadata**\n\n- clientType — Specifies the type of client that executed the SQL Statement, such as **Background** or **Web**. For a list of the client types, see ClientType Option Type. Added in version 20.0.\n\n- companyName — The name of the company where the operation is applied. Added in version 20.0.\n\n- component — **Dynamics 365 Business Central Server**.\n\n- componentVersion — Specifies the version number of the component that emits telemetry (see the component dimension.)",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/telemetry-configuration-package-trace"
+    }
+  }
+}

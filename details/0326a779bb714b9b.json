@@ -1,0 +1,12 @@
+{
+  "id": "0326a779bb714b9b",
+  "title": "Business Central Database capacity changes (as of July 1, 2021)",
+  "languages": {
+    "en": {
+      "title": "Managing capacity",
+      "summary": "Learn how to monitor and optimize storage, manage environments, and stay within your quota using the administration center.",
+      "details": "To help our customers manage and plan their storage costs on an ongoing basis, the Business Central administration center includes the **Capacity** page. The **Capacity** page provides an overview of the total database storage usage, with details about the storage used by every environment. The page also displays the currently used and the maximum allowed number of production and sandbox environments available for the customer.\n\nBy default, Business Central customers can use up to 80 GB plus an allowance per licensed Essentials or Premium user of database storage capacity. This storage capacity is shared, meaning that the sum of capacity usage across all environments in a tenant must not exceed the limit. If a tenant exceeds this limit, Microsoft restricts administrative actions that create additional environments. Exceeding the storage limit will not interrupt transaction processing within the existing environments.\n\nSome businesses have unique scenarios that may require additional storage. For those organizations that need more space, there's an option to purchase extra database capacity.\n\nCustomers can purchase additional database capacity and environments through their reselling partner by using the following add-ons to their existing license:\n\nDynamics 365 Business Central Database Capacity (1 GB)\n\nDynamics 365 Business Central Database Capacity (100 GB)",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-capacity"
+    }
+  }
+}

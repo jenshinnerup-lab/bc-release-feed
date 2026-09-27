@@ -1,0 +1,12 @@
+{
+  "id": "1c550fc45f44b106",
+  "title": "New countries/regions added to the list of supported countries/regions",
+  "languages": {
+    "en": {
+      "title": "Country/regional availability and supported languages",
+      "summary": "Learn where Business Central is available, which languages are supported, and how partners deliver localized solutions through Microsoft commercial marketplace.",
+      "details": "This page lists the countries/regions where Dynamics 365 Business Central is available and which languages are supported.\n\nIn countries/regions where Microsoft doesn't deliver a localization, partners can build localizations using translation and localization apps that are published on Marketplace. These apps are built on top of the international (W1) version of Dynamics 365 Business Central.\n\n> **Note**\n> There are countries/regions with more than one partner providing the translation and localization apps. Additionally, in some cases, the localization provided by the partner can consist of more than one app on Marketplace.\n\nThe environment localization determines the Azure geography to which the environment database is deployed.\n\nThe following table provides the list of all countries/regions where Dynamics 365 Business Central is available or in planning for future availability. The table also specifies the abbreviation of the relevant country-specific environment, whether Microsoft or partners provide the localization, and to which Azure geography environment databases with the localization are deployed. Each geography consists of one or more Azure regions. Refer to [Azure regions list](https://learn.microsoft.com/en-us/azure/reliability/regions-list) to find regions, paired regions, and physical locations.",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/compliance/apptest-countries-and-translations"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0292a5cef54dd039",
+  "title": "Restoring an Environment in the Admin Center",
+  "languages": {
+    "en": {
+      "title": "Restoring an environment in the admin center",
+      "summary": "Use the Business Central administration center to restore backups of environments.",
+      "details": "As an administrator, you can restore an existing environment from a time in the past, within the retention period that applies to both production and sandbox environments.\n\nDatabase backups are an essential part of any business continuity and disaster recovery strategy, because they protect your data from corruption or deletion. Business Central online uses Azure SQL Database as the underlying database backup technology for its environments. All databases are protected by automated backups that the Azure SQL service continuously creates and maintains. For more information, see Business continuity and disaster recovery (BCDR).\n\n### Users who can restore environments\n\nPermission to restore environments is limited to specific types of users: internal and delegated administrators. The following users are allowed to restore environments.\n\n- Delegated administrators. For more information, see Delegated administrator access to Business Central Online\n\n- Administrators from the organization that subscribes to Business Central online\n\nAlso, these users must have the **D365 BACKUP/RESTORE** permission set assigned to their user account in the environment they're trying to export.\n\nFor more information about permissions sets and user groups, see [Assign Permissions to Users and Groups](https://learn.microsoft.com/en-us/dynamics365/business-central/ui-define-granular-permissions).",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/tenant-admin-center-backup-restore"
+    }
+  }
+}
