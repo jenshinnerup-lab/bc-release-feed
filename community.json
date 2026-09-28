@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27",
+ "generated_at": "2026-09-28",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -687,6 +687,16 @@
     "title": "Business Central 2025 wave 1 (BC26): Extend CardPageId on list and listpart pages (Support modification of CardPageID on PageExtensions)",
     "url": "https://yzhums.com/62345/",
     "published": "2025-03-17",
+    "matched_by": "title"
+   }
+  ],
+  "bc9905ad7ce75e73": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Translate objects with the same name in different namespaces (Translations with namespaces)",
+    "url": "https://yzhums.com/76334/",
+    "published": "2026-09-28",
     "matched_by": "title"
    }
   ],
