@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28",
+ "generated_at": "2026-09-29",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -497,6 +497,16 @@
     "title": "Business Central 2026 release wave 2 (BC29): Use cross-platform report layout paths (forward slashes or backslashes)",
     "url": "https://yzhums.com/76319/",
     "published": "2026-09-25",
+    "matched_by": "title"
+   }
+  ],
+  "8b9a5e30cf084faf": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Reduce complexity of report datasets (Company information dataitem in Word layouts)",
+    "url": "https://yzhums.com/76367/",
+    "published": "2026-09-29",
     "matched_by": "title"
    }
   ],
