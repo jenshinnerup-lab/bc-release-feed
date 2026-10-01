@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-30",
+  "generated_at": "2026-10-01",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "c4e1e07ec5be0f9bde01",
+      "date": "2026-10-01",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-82517",
+      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "title": "Tenants running in a language other than English, linking an expense to a purchase contract could fail with the following error when the contract's in",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "5970342ace8b674cd2bf",
+      "date": "2026-10-01",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-82223",
+      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "title": "When posting an expense with allocations that were matched to a bank transaction, one balancing entry was previously created on the intermediate expen",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "535e150da4847dc2f79c",
+      "date": "2026-10-01",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-82154",
+      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "title": "Customers could sometimes receive an incorrect warning that a VAT rate was not configured on expenses and expense allocations in Business Central.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "c2b13da2ab6f0b9485ee",
+      "date": "2026-10-01",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-80069",
+      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "title": "When no attachment was loaded, the zoom control on the attachment preview showed Infinity% instead of a valid zoom percentage.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "4aa31cf1a9af2675c93c",
+      "date": "2026-10-01",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-82013",
+      "version": "Expense App 29.00",
+      "title": "The Continia Expense Mobile App has a refreshed look, with an updated user interface and new icons throughout the app.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "353bc863bf630e3e7cfe",
+      "date": "2026-10-01",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-80860",
+      "version": "Expense App 29.00",
+      "title": "The Continia Expense Mobile App now includes a new agent workflow that helps you handle your expenses.",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "105d4ff2c0f0983a2c63",
       "date": "2026-09-30",

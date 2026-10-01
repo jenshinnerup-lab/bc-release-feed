@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30",
+  "generated_at": "2026-10-01",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -26140,6 +26140,30 @@
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
       "general_availability": "October 01, 2026",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-80860",
+      "version": "Expense App 29.00",
+      "area": "Expenses",
+      "title": "The Continia Expense Mobile App now includes a new agent workflow that helps you handle your expenses.",
+      "summary": "The Continia Expense Mobile App now includes a new agent workflow that helps you handle your expenses.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-mobile-app/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-82013",
+      "version": "Expense App 29.00",
+      "area": "General Application",
+      "title": "The Continia Expense Mobile App has a refreshed look, with an updated user interface and new icons throughout the app.",
+      "summary": "The Continia Expense Mobile App has a refreshed look, with an updated user interface and new icons throughout the app.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-mobile-app/",
+      "country_code": "",
+      "general_availability": "",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -121514,6 +121538,54 @@
       "product_name": "Continia Expense Management"
     },
     {
+      "id": "continia-em-82223",
+      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "functional_area": "Expenses",
+      "title": "When posting an expense with allocations that were matched to a bank transaction, one balancing entry was previously created on the intermediate expen",
+      "summary": "When posting an expense with allocations that were matched to a bank transaction, one balancing entry was previously created on the intermediate expense account for each allocation's different dimension set. The account would then become balanced in total, but not per dimension value. A single balancing entry with the expense's own dimensions is now posted, matching the bank transaction entry.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r1/",
+      "hotfix_id": "82223",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-82517",
+      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "functional_area": "Expenses",
+      "title": "Tenants running in a language other than English, linking an expense to a purchase contract could fail with the following error when the contract's in",
+      "summary": "Tenants running in a language other than English, linking an expense to a purchase contract could fail with the following error when the contract's invoicing period used a time unit whose abbreviation differs between languages, such as week ( uge ) on a Danish tenant: A time unit must be included in the date formula '-1U'. Valid time units are: D, WD, W, M, Q, or Y. The expense can now be linked to the purchase contract regardless of the display language and the invoicing period used.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r1/",
+      "hotfix_id": "82517",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-80069",
+      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "functional_area": "General Application",
+      "title": "When no attachment was loaded, the zoom control on the attachment preview showed Infinity% instead of a valid zoom percentage.",
+      "summary": "When no attachment was loaded, the zoom control on the attachment preview showed Infinity% instead of a valid zoom percentage. This has now been fixed for all pages displaying the attachment preview.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r1/",
+      "hotfix_id": "80069",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-82154",
+      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "functional_area": "General Application",
+      "title": "Customers could sometimes receive an incorrect warning that a VAT rate was not configured on expenses and expense allocations in Business Central.",
+      "summary": "Customers could sometimes receive an incorrect warning that a VAT rate was not configured on expenses and expense allocations in Business Central. The validation now checks whether the rate exists in the Receipt VAT Mapping for the country, so the warning appears only when that rate is genuinely missing.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r1/",
+      "hotfix_id": "82154",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
       "id": "continia-em-82909",
       "version": "Expense Management 2026 R1, Service Pack 5, Hotfix 3",
       "functional_area": "General Application",
@@ -122301,6 +122373,18 @@
       "summary": "On the Expenses , Mileage , Per Diems , and Expense Reports lists and their posted counterparts, the amount column was placed too far to the right and required horizontal scrolling. The amount column now displays immediately after Description .",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "hotfix_id": "79512",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Expense App 29.00",
+      "functional_area": "General Application",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-mobile-app/",
+      "hotfix_id": "N/A",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
