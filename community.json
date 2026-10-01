@@ -1,42 +1,92 @@
 {
- "generated_at": "2026-09-28",
+ "generated_at": "2026-10-01",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
    "key": "yzhums",
    "name": "Dynamics 365 Lab",
+   "author": "Yun Zhu",
    "site": "https://yzhums.com/",
-   "kind": "blog"
+   "feed": "https://yzhums.com/feed/",
+   "kind": "blog",
+   "language": "en",
+   "note": "One walkthrough per release wave feature, titled after the feature itself. The best match rate of them all."
   },
   {
    "key": "waldo",
    "name": "waldo.be",
+   "author": "Eric Wauters",
    "site": "https://www.waldo.be/",
-   "kind": "blog"
+   "feed": "https://www.waldo.be/feed/",
+   "kind": "blog",
+   "language": "en",
+   "note": "Development practice, DevOps and tooling. Writes by theme rather than by feature."
   },
   {
    "key": "demiliani",
    "name": "Stefano Demiliani",
+   "author": "Stefano Demiliani",
    "site": "https://demiliani.com/",
-   "kind": "blog"
+   "feed": "https://demiliani.com/feed/",
+   "kind": "blog",
+   "language": "en",
+   "note": "Architecture, Azure and AL. The REST API is closed, so only the feed is read."
   },
   {
    "key": "vjeko",
    "name": "Vjeko.com",
+   "author": "Vjekoslav Babic",
    "site": "https://vjeko.com/",
-   "kind": "blog"
+   "feed": "https://vjeko.com/feed/",
+   "kind": "blog",
+   "language": "en",
+   "note": "Deep AL and architecture essays. The feed carries titles and summaries only."
   },
   {
    "key": "hougaard",
    "name": "Hougaard.com (YouTube)",
+   "author": "Erik Hougaard",
    "site": "https://www.youtube.com/@Hougaard",
-   "kind": "youtube"
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcJCTa4PvbOQj50y_HJSxXw",
+   "kind": "youtube",
+   "language": "en",
+   "note": "Short practical videos on AL and Business Central. The feed holds the fifteen newest."
   },
   {
    "key": "msdyn365bc",
    "name": "Microsoft Dynamics 365 Business Central (YouTube)",
+   "author": "Microsoft",
    "site": "https://www.youtube.com/@MicrosoftDynamics365BC",
-   "kind": "youtube"
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfWR2ekfRFckLjev6eQYLg",
+   "kind": "youtube",
+   "language": "en",
+   "note": "Microsoft's own channel: launch events and feature demos. The feed holds the fifteen newest."
+  }
+ ],
+ "latest": [
+  {
+   "source": "yzhums",
+   "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Translate objects with the same name in different namespaces (Translations with namespaces)",
+   "url": "https://yzhums.com/76334/",
+   "published": "2026-09-28",
+   "summary": "Hi, Readers. The public preview for Dynamics 365 Business Central 2026 release wave 2 (BC29) is available. Learn more: Link . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Translate objects with the same name in different namespaces (Translations with namespaces). Translate objects with the same name in different namespace"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Use cross-platform report layout paths (forward slashes or backslashes)",
+   "url": "https://yzhums.com/76319/",
+   "published": "2026-09-25",
+   "summary": "Hi, Readers. The public preview for Dynamics 365 Business Central 2026 release wave 2 (BC29) is available. Learn more: Link . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Use cross-platform report layout paths (forward slashes or backslashes). Use cross-platform report layout paths : Use either forward slashes or backslas"
+  },
+  {
+   "source": "demiliani",
+   "kind": "blog",
+   "title": "Dynamics 365 Business Central: AL Query objects and the new ReadState property.",
+   "url": "https://demiliani.com/2026/09/24/dynamics-365-business-central-al-query-objects-and-the-new-readstate-property/",
+   "published": "2026-09-24",
+   "summary": "A query object in AL object type built for one job: reading data. You describe a result set by declaring one or more tables as data items, nesting them to express joins, and choosing the columns you want back. On top of that you can filter rows, group them, aggregate values with methods such as Sum or Count , and limit the number of rows returned. Because the whole definition is handed to the data"
   }
  ],
  "links": {
