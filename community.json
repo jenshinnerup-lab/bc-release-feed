@@ -550,6 +550,16 @@
     "matched_by": "title"
    }
   ],
+  "8b9a5e30cf084faf": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Reduce complexity of report datasets (Company information dataitem in Word layouts)",
+    "url": "https://yzhums.com/76367/",
+    "published": "2026-09-29",
+    "matched_by": "title"
+   }
+  ],
   "8bc842f530c228c2": [
    {
     "source": "yzhums",
@@ -835,6 +845,16 @@
     "title": "Business Central 2025 wave 1 (BC26): Convert simple type values to text using new ToText method (without using System.Format Method)",
     "url": "https://yzhums.com/62430/",
     "published": "2025-03-18",
+    "matched_by": "title"
+   }
+  ],
+  "dab7691e173dbd9a": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Migrate table fields from Integer to BigInteger (Support for BigInteger field migration)",
+    "url": "https://yzhums.com/76388/",
+    "published": "2026-10-01",
     "matched_by": "title"
    }
   ],

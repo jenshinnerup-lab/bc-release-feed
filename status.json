@@ -1,25 +1,58 @@
 {
-  "updated_at": "2026-09-28T04:58:14Z",
+  "updated_at": "2026-10-01T03:33:21Z",
   "source": "One content hash per feed file, and a log of the builds that changed one. Check this before downloading the feed.",
   "files": {
     "releases.json": {
-      "hash": "5e15112a383e51612e137b62df382ffa190c916e3b6b16a9da67bde3715e4d8d",
-      "updated_at": "2026-09-28T04:58:14Z"
+      "hash": "af4c8a274eaf6f47d109b62350707248a2d2d3326423c7cf8c408c13b732c1bb",
+      "updated_at": "2026-10-01T03:33:21Z"
     },
     "ideas.json": {
       "hash": "057070615c0a37f0e0cf7b9acd55f55109c35ce2673183529e95ccafe98f613a",
       "updated_at": "2026-09-27T04:16:34Z"
     },
     "changelog.json": {
-      "hash": "33fc6cb28b9d29c06d5255c42df2e2b25f8935d9e2eb823841a6c48678b25dc1",
-      "updated_at": "2026-09-28T04:58:14Z"
+      "hash": "d5395b68ae298eb43bb2b0791899eb39033f20a68deef548f6ec3b22f1957a74",
+      "updated_at": "2026-10-01T03:33:21Z"
     },
     "community.json": {
-      "hash": "573febdabb4b7bc0640d2ba4b099a01ba2d286cd172ec7b66320eeb3dc5d9cb4",
-      "updated_at": "2026-09-28T03:33:34Z"
+      "hash": "da5d05405c7e8fa489e9df9bef29e86e157784b01fe2cce0430f1c21070341bf",
+      "updated_at": "2026-10-01T03:33:21Z"
     }
   },
   "activity": [
+    {
+      "at": "2026-10-01T03:33:21Z",
+      "files": [
+        "releases.json",
+        "changelog.json",
+        "community.json"
+      ],
+      "features": 3934,
+      "hotfixes": 7987,
+      "ideas": 3622,
+      "changelog_entries": 6
+    },
+    {
+      "at": "2026-09-30T03:33:32Z",
+      "files": [
+        "releases.json",
+        "changelog.json"
+      ],
+      "features": 3932,
+      "hotfixes": 7982,
+      "ideas": 3622,
+      "changelog_entries": 10
+    },
+    {
+      "at": "2026-09-29T03:33:20Z",
+      "files": [
+        "community.json"
+      ],
+      "features": 3924,
+      "hotfixes": 7981,
+      "ideas": 3622,
+      "changelog_entries": 0
+    },
     {
       "at": "2026-09-28T04:58:14Z",
       "files": [
