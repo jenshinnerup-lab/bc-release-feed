@@ -21751,7 +21751,7 @@
     },
     {
       "id": "continia-do-78364",
-      "version": "Continia Delivery Network 2025 R1 Service Pack 7",
+      "version": "Document Output 2025 R1 Service Pack 7",
       "area": "Country and Regional",
       "title": "The Peppol identifier format for new Danish (0184) participations has been updated to comply with the Peppol eDEC codelist requirements.",
       "summary": "The Peppol identifier format for new Danish (0184) participations has been updated to comply with the Peppol eDEC codelist requirements. When you register a new Danish Peppol participation, Business Central now sends the 8-digit CVR number directly, without adding a DK prefix. This change ensures compliance with the upcoming PEPPOL-COMMON-R042 schematron rule, which requires Danish identifiers under scheme 0184 to use the 8-digit-only format. Existing participations that were previously register",
@@ -21763,7 +21763,7 @@
     },
     {
       "id": "continia-do-78367",
-      "version": "Continia Delivery Network 2025 R1 Service Pack 7",
+      "version": "Document Output 2025 R1 Service Pack 7",
       "area": "Country and Regional",
       "title": "For eDocuments sent through the Peppol network, sender and receiver identifier endpoints are now sourced from their authoritative records.",
       "summary": "For eDocuments sent through the Peppol network, sender and receiver identifier endpoints are now sourced from their authoritative records. The sender identifier is read as-is from the participation record in Business Central, and the receiver identifier is retrieved from the Continia Delivery Network lookup at send time. Previously, Business Central could reformat or transform Peppol identifier values before writing them into the eDocument XML. With the PEPPOL-COMMON-R042 rule now enforcing an 8",
@@ -21775,7 +21775,7 @@
     },
     {
       "id": "continia-do-78371",
-      "version": "Continia Delivery Network 2025 R1 Service Pack 7",
+      "version": "Document Output 2025 R1 Service Pack 7",
       "area": "General Application",
       "title": "Whenever you open the Participations page, Business Central now also synchronizes participation identifier values from the Continia Delivery Network.",
       "summary": "Whenever you open the Participations page, Business Central now also synchronizes participation identifier values from the Continia Delivery Network. If an identifier value has been updated on the network side – for example, to comply with updated Peppol format requirements – your local participation record is automatically updated to reflect the current value. This ensures that your Business Central records stay in sync with the Continia Delivery Network without any manual intervention.",
@@ -116365,7 +116365,7 @@
     },
     {
       "id": "continia-do-79278",
-      "version": "Continia Delivery Network 2025 R1 Service Pack 7",
+      "version": "Document Output 2025 R1 Service Pack 7",
       "functional_area": "eDocuments",
       "title": "Previously, the DK prefix to 0184 (DK",
       "summary": "Previously, the DK prefix to 0184 (DK:DIGST) identifiers was automatically added when sending eDocuments, which caused deliveries to fail for participants whose registered identifier did not include the prefix. Now, when the Recipient Type is set to Other in the Continia Customer Setup , the Recipient ID Value is used exactly as entered, that is, the DK prefix is no longer added automatically.",
@@ -116377,12 +116377,24 @@
     },
     {
       "id": "continia-do-71000",
-      "version": "Continia Delivery Network 2025 R1 Service Pack 7",
+      "version": "Document Output 2025 R1 Service Pack 7",
       "functional_area": "XML Export",
       "title": "When a sales or service invoice or credit memo was sent as an XML document and a discount was entered in Line Discount % on the lines, the discount pe",
       "summary": "When a sales or service invoice or credit memo was sent as an XML document and a discount was entered in Line Discount % on the lines, the discount percentage was missing from the exported document – only the discount amount was included. The percentage was read from Line Discount Calculation , which stays empty on posted documents when the discount is entered as a percentage. The line discount percentage is now exported for PEPPOL BIS3, XRechnung and OIOUBL documents, together with the base amo",
       "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r1/",
       "hotfix_id": "71000",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-73459",
+      "version": "Document Output 2025 R1 Service Pack 7",
+      "functional_area": "Platform and Technology",
+      "title": "Fixed an issue where HTML changes to email signatures, including styles and metadata in the section, were not saved in Document Output -> Email Signat",
+      "summary": "Fixed an issue where HTML changes to email signatures, including styles and metadata in the section, were not saved in Document Output -> Email Signature Card . The complete HTML, including the section, is now preserved when saving signatures. Improved signature embedding by scoping CSS styles with unique class names to prevent style conflicts when signatures are inserted into email templates.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r1/",
+      "hotfix_id": "73459",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Document Output"
@@ -121963,18 +121975,6 @@
       "summary": "Context-sensitive help page URLs have been fixed to ensure they direct users to the correct help pages.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2025-r1/",
       "hotfix_id": "64337",
-      "country_code": "",
-      "publisher": "Continia",
-      "product_name": "Continia Expense Management"
-    },
-    {
-      "id": "continia-em-81614",
-      "version": "Expense Management 2025 R2, Service Pack 7, Hotfix 0",
-      "functional_area": "General Application",
-      "title": "This release contains no functional changes.",
-      "summary": "This release contains no functional changes. It is published solely as part of the standard release process and includes no new features, fixes, or updates.",
-      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2025-r2/",
-      "hotfix_id": "81614",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"

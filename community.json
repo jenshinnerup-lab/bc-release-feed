@@ -5,38 +5,88 @@
   {
    "key": "yzhums",
    "name": "Dynamics 365 Lab",
+   "author": "Yun Zhu",
    "site": "https://yzhums.com/",
-   "kind": "blog"
+   "feed": "https://yzhums.com/feed/",
+   "kind": "blog",
+   "language": "en",
+   "note": "One walkthrough per release wave feature, titled after the feature itself. The best match rate of them all."
   },
   {
    "key": "waldo",
    "name": "waldo.be",
+   "author": "Eric Wauters",
    "site": "https://www.waldo.be/",
-   "kind": "blog"
+   "feed": "https://www.waldo.be/feed/",
+   "kind": "blog",
+   "language": "en",
+   "note": "Development practice, DevOps and tooling. Writes by theme rather than by feature."
   },
   {
    "key": "demiliani",
    "name": "Stefano Demiliani",
+   "author": "Stefano Demiliani",
    "site": "https://demiliani.com/",
-   "kind": "blog"
+   "feed": "https://demiliani.com/feed/",
+   "kind": "blog",
+   "language": "en",
+   "note": "Architecture, Azure and AL. The REST API is closed, so only the feed is read."
   },
   {
    "key": "vjeko",
    "name": "Vjeko.com",
+   "author": "Vjekoslav Babic",
    "site": "https://vjeko.com/",
-   "kind": "blog"
+   "feed": "https://vjeko.com/feed/",
+   "kind": "blog",
+   "language": "en",
+   "note": "Deep AL and architecture essays. The feed carries titles and summaries only."
   },
   {
    "key": "hougaard",
    "name": "Hougaard.com (YouTube)",
+   "author": "Erik Hougaard",
    "site": "https://www.youtube.com/@Hougaard",
-   "kind": "youtube"
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcJCTa4PvbOQj50y_HJSxXw",
+   "kind": "youtube",
+   "language": "en",
+   "note": "Short practical videos on AL and Business Central. The feed holds the fifteen newest."
   },
   {
    "key": "msdyn365bc",
    "name": "Microsoft Dynamics 365 Business Central (YouTube)",
+   "author": "Microsoft",
    "site": "https://www.youtube.com/@MicrosoftDynamics365BC",
-   "kind": "youtube"
+   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfWR2ekfRFckLjev6eQYLg",
+   "kind": "youtube",
+   "language": "en",
+   "note": "Microsoft's own channel: launch events and feature demos. The feed holds the fifteen newest."
+  }
+ ],
+ "latest": [
+  {
+   "source": "yzhums",
+   "kind": "blog",
+   "title": "General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29)",
+   "url": "https://yzhums.com/76443/",
+   "published": "2026-10-02",
+   "summary": "Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. New customers will automatically get the latest builds of Business Central 2026 rw2 (version 29). Cloud (SaaS) : Managing Production and Sandbox Environments in the Admin Center Version: W1 29.0 (Platform 29.0.55365.0 + Application 29.0.54011.55407) New customers will automatically get the latest builds of Business Central 20"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Run data queries with MCP Server (no APIs required)",
+   "url": "https://yzhums.com/76419/",
+   "published": "2026-10-02",
+   "summary": "Hi, Readers. The public preview for Dynamics 365 Business Central 2026 release wave 2 (BC29) is available. Learn more: Link . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Run data queries with MCP Server. Run data queries with MCP Server : Use new MCP tools to define, validate, and run custom data queries. Your MCP applic"
+  },
+  {
+   "source": "waldo",
+   "kind": "blog",
+   "title": "Business Central data in Fabric: the way it should be",
+   "url": "https://waldo.be/2026/10/01/business-central-data-in-fabric-the-way-it-should-be/",
+   "published": "2026-10-01",
+   "summary": "Ok .. so .. let me get one thing out of the way first: I’m not a Fabric expert. Far from it. I have a LOT to learn about Fabric myself . But this one is too important not to spread the word, so here’s my summary of what Kennie Pontoppidan showed in his Launch Edition video for 2026 release wave 2 . Mirroring from Business Central to Microsoft Fabric . Natively . Coming in public preview in 29.x (K"
   }
  ],
  "links": {
@@ -487,6 +537,16 @@
     "title": "Business Central 2025 wave 1 (BC26): Autofill fields with Copilot (New capability of Copilot)",
     "url": "https://yzhums.com/62595/",
     "published": "2025-03-21",
+    "matched_by": "title"
+   }
+  ],
+  "968c58592e30e2fc": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Run data queries with MCP Server (no APIs required)",
+    "url": "https://yzhums.com/76419/",
+    "published": "2026-10-02",
     "matched_by": "title"
    }
   ],
