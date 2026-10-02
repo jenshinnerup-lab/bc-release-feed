@@ -1,92 +1,42 @@
 {
- "generated_at": "2026-10-01",
+ "generated_at": "2026-10-02",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
    "key": "yzhums",
    "name": "Dynamics 365 Lab",
-   "author": "Yun Zhu",
    "site": "https://yzhums.com/",
-   "feed": "https://yzhums.com/feed/",
-   "kind": "blog",
-   "language": "en",
-   "note": "One walkthrough per release wave feature, titled after the feature itself. The best match rate of them all."
+   "kind": "blog"
   },
   {
    "key": "waldo",
    "name": "waldo.be",
-   "author": "Eric Wauters",
    "site": "https://www.waldo.be/",
-   "feed": "https://www.waldo.be/feed/",
-   "kind": "blog",
-   "language": "en",
-   "note": "Development practice, DevOps and tooling. Writes by theme rather than by feature."
+   "kind": "blog"
   },
   {
    "key": "demiliani",
    "name": "Stefano Demiliani",
-   "author": "Stefano Demiliani",
    "site": "https://demiliani.com/",
-   "feed": "https://demiliani.com/feed/",
-   "kind": "blog",
-   "language": "en",
-   "note": "Architecture, Azure and AL. The REST API is closed, so only the feed is read."
+   "kind": "blog"
   },
   {
    "key": "vjeko",
    "name": "Vjeko.com",
-   "author": "Vjekoslav Babic",
    "site": "https://vjeko.com/",
-   "feed": "https://vjeko.com/feed/",
-   "kind": "blog",
-   "language": "en",
-   "note": "Deep AL and architecture essays. The feed carries titles and summaries only."
+   "kind": "blog"
   },
   {
    "key": "hougaard",
    "name": "Hougaard.com (YouTube)",
-   "author": "Erik Hougaard",
    "site": "https://www.youtube.com/@Hougaard",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcJCTa4PvbOQj50y_HJSxXw",
-   "kind": "youtube",
-   "language": "en",
-   "note": "Short practical videos on AL and Business Central. The feed holds the fifteen newest."
+   "kind": "youtube"
   },
   {
    "key": "msdyn365bc",
    "name": "Microsoft Dynamics 365 Business Central (YouTube)",
-   "author": "Microsoft",
    "site": "https://www.youtube.com/@MicrosoftDynamics365BC",
-   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfWR2ekfRFckLjev6eQYLg",
-   "kind": "youtube",
-   "language": "en",
-   "note": "Microsoft's own channel: launch events and feature demos. The feed holds the fifteen newest."
-  }
- ],
- "latest": [
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Translate objects with the same name in different namespaces (Translations with namespaces)",
-   "url": "https://yzhums.com/76334/",
-   "published": "2026-09-28",
-   "summary": "Hi, Readers. The public preview for Dynamics 365 Business Central 2026 release wave 2 (BC29) is available. Learn more: Link . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Translate objects with the same name in different namespaces (Translations with namespaces). Translate objects with the same name in different namespace"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Use cross-platform report layout paths (forward slashes or backslashes)",
-   "url": "https://yzhums.com/76319/",
-   "published": "2026-09-25",
-   "summary": "Hi, Readers. The public preview for Dynamics 365 Business Central 2026 release wave 2 (BC29) is available. Learn more: Link . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Use cross-platform report layout paths (forward slashes or backslashes). Use cross-platform report layout paths : Use either forward slashes or backslas"
-  },
-  {
-   "source": "demiliani",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central: AL Query objects and the new ReadState property.",
-   "url": "https://demiliani.com/2026/09/24/dynamics-365-business-central-al-query-objects-and-the-new-readstate-property/",
-   "published": "2026-09-24",
-   "summary": "A query object in AL object type built for one job: reading data. You describe a result set by declaring one or more tables as data items, nesting them to express joins, and choosing the columns you want back. On top of that you can filter rows, group them, aggregate values with methods such as Sum or Count , and limit the number of rows returned. Because the whole definition is handed to the data"
+   "kind": "youtube"
   }
  ],
  "links": {
@@ -210,26 +160,6 @@
     "matched_by": "title"
    }
   ],
-  "254538d899385749": [
-   {
-    "source": "yzhums",
-    "kind": "blog",
-    "title": "Business Central 2026 release wave 2 (BC29): Preview images directly in web client",
-    "url": "https://yzhums.com/75746/",
-    "published": "2026-09-04",
-    "matched_by": "title"
-   }
-  ],
-  "2648f49ad2755e97": [
-   {
-    "source": "yzhums",
-    "kind": "blog",
-    "title": "Business Central 2026 release wave 2 (BC29): Set up vendor-specific number series for self-billing invoices",
-    "url": "https://yzhums.com/76268/",
-    "published": "2026-09-23",
-    "matched_by": "title"
-   }
-  ],
   "2993b7d462cd64f5": [
    {
     "source": "yzhums",
@@ -247,16 +177,6 @@
     "title": "Business Central 2025 wave 2 (BC27): Install UK localization as an extension to the base app (UK Delocalization)",
     "url": "https://yzhums.com/69120/",
     "published": "2026-01-28",
-    "matched_by": "title"
-   }
-  ],
-  "2eba7702b354dcb9": [
-   {
-    "source": "yzhums",
-    "kind": "blog",
-    "title": "Business Central 2026 release wave 2 (BC29): Control transaction isolation for queries and isolated storage (Query ReadState supports ReadCommitted)",
-    "url": "https://yzhums.com/76233/",
-    "published": "2026-09-21",
     "matched_by": "title"
    }
   ],
@@ -420,16 +340,6 @@
     "matched_by": "title"
    }
   ],
-  "6643073bfd59131d": [
-   {
-    "source": "yzhums",
-    "kind": "blog",
-    "title": "Business Central 2026 release wave 2 (BC29): Enable unified Copilot chat experience consistent with Microsoft Copilot (New Chat with Copilot)",
-    "url": "https://yzhums.com/75811/",
-    "published": "2026-09-07",
-    "matched_by": "title"
-   }
-  ],
   "6705d23a50d336ee": [
    {
     "source": "yzhums",
@@ -480,6 +390,16 @@
     "matched_by": "title"
    }
   ],
+  "720a742acd0062a2": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Set up vendor-specific number series for self-billing invoices",
+    "url": "https://yzhums.com/76268/",
+    "published": "2026-09-23",
+    "matched_by": "title"
+   }
+  ],
   "792265277ee0aa75": [
    {
     "source": "yzhums",
@@ -520,16 +440,6 @@
     "matched_by": "title"
    }
   ],
-  "81d88e7622017c26": [
-   {
-    "source": "yzhums",
-    "kind": "blog",
-    "title": "Business Central 2026 release wave 2 (BC29): Show recently used in lookups",
-    "url": "https://yzhums.com/75730/",
-    "published": "2026-09-04",
-    "matched_by": "title"
-   }
-  ],
   "8526435b8632f848": [
    {
     "source": "yzhums",
@@ -540,13 +450,13 @@
     "matched_by": "title"
    }
   ],
-  "87d43a7a7282a9ca": [
+  "88ea1b536c0e4297": [
    {
     "source": "yzhums",
     "kind": "blog",
-    "title": "Business Central 2026 release wave 2 (BC29): Use cross-platform report layout paths (forward slashes or backslashes)",
-    "url": "https://yzhums.com/76319/",
-    "published": "2026-09-25",
+    "title": "Business Central 2026 release wave 2 (BC29): Show recently used in lookups",
+    "url": "https://yzhums.com/75730/",
+    "published": "2026-09-04",
     "matched_by": "title"
    }
   ],
@@ -680,13 +590,13 @@
     "matched_by": "title"
    }
   ],
-  "af96e223d005a324": [
+  "b2c71ae10e3dd1db": [
    {
     "source": "yzhums",
     "kind": "blog",
-    "title": "Business Central 2026 release wave 2 (BC29): Detect tables approaching SQL column limits (New warning)",
-    "url": "https://yzhums.com/76053/",
-    "published": "2026-09-14",
+    "title": "Business Central 2026 release wave 2 (BC29): Preview images directly in web client",
+    "url": "https://yzhums.com/75746/",
+    "published": "2026-09-04",
     "matched_by": "title"
    }
   ],
@@ -845,16 +755,6 @@
     "title": "Business Central 2025 wave 1 (BC26): Convert simple type values to text using new ToText method (without using System.Format Method)",
     "url": "https://yzhums.com/62430/",
     "published": "2025-03-18",
-    "matched_by": "title"
-   }
-  ],
-  "dab7691e173dbd9a": [
-   {
-    "source": "yzhums",
-    "kind": "blog",
-    "title": "Business Central 2026 release wave 2 (BC29): Migrate table fields from Integer to BigInteger (Support for BigInteger field migration)",
-    "url": "https://yzhums.com/76388/",
-    "published": "2026-10-01",
     "matched_by": "title"
    }
   ],
