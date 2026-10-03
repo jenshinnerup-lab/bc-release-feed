@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-03",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -15410,6 +15410,90 @@
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
       "country_code": "",
       "general_availability": "October 1, 2026",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "area": "Platform and Technology",
+      "title": "Upgraded the Abbyy FineReader Engine from 12.7.4.1 to 12.8.2.0.",
+      "summary": "Upgraded the Abbyy FineReader Engine from 12.7.4.1 to 12.8.2.0. FineReader Engine 12.8 depends much more on the recognition languages than 12.7. With only the default language (i.e.: English), letters outside the English alphabet are replaced or dropped (e.g.: 'ø' read as '0', 'é' read as 'e', 'ß' and 'æ' are dropped). When the expected languages are set in the category's config.xml, 12.8 reads these letters correctly – in several cases better than 12.7. If uncertain which languages to expect, u",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "area": "Platform and Technology",
+      "title": "Added the option to authenticate Microsoft Graph (MSG) email with a certificate, same as EWS.",
+      "summary": "Added the option to authenticate Microsoft Graph (MSG) email with a certificate, same as EWS. If both a certificate thumbprint and a client secret are configured, the certificate is used.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "area": "Platform and Technology",
+      "title": "Certificate thumbprints are now matched regardless of casing, spaces and the invisible characters added when copying from the Windows certificate dial",
+      "summary": "Certificate thumbprints are now matched regardless of casing, spaces and the invisible characters added when copying from the Windows certificate dialog (EWS and Microsoft Graph).",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "area": "Platform and Technology",
+      "title": "The email client secret can now be stored in cleartext in config.xml by setting ClientSecretClearText (MSG) or EwsClientSecretClearText (EWS) to true.",
+      "summary": "The email client secret can now be stored in cleartext in config.xml by setting ClientSecretClearText (MSG) or EwsClientSecretClearText (EWS) to true. Without it, the secret must be encrypted – as before.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "area": "Platform and Technology",
+      "title": "Configuration values that cannot be read are now logged as warnings. If the email configuration cannot be read (e.g.",
+      "summary": "Configuration values that cannot be read are now logged as warnings. If the email configuration cannot be read (e.g.: a client secret that cannot be decrypted), email is disabled for that category instead of running with a partial configuration.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "area": "Platform and Technology",
+      "title": "The service now stops with a clear error if the installed ABBYY FineReader Engine is not version 12.",
+      "summary": "The service now stops with a clear error if the installed ABBYY FineReader Engine is not version 12. All 12.x versions are accepted, and versions newer than 12.7 use the 12.7 engine wrapper.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "area": "Platform and Technology",
+      "title": "Improved the engine resilience.",
+      "summary": "Improved the engine resilience. The engine instance is recycled after a document fails to close cleanly, and engine temp folders are only cleaned up when the process that owns them is no longer running.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "country_code": "",
+      "general_availability": "",
       "publisher": "Continia",
       "product_name": "Continia Document Capture"
     },
@@ -48820,6 +48904,18 @@
       "general_availability": "",
       "publisher": "Dynalogic",
       "product_name": "Dynalogic Birds JobManager"
+    },
+    {
+      "id": "dynalogic-bdw-18217",
+      "version": "2026.1.0.252",
+      "area": "API and integration",
+      "title": "MCP Server Access Mode: Read Only",
+      "summary": "The MCP Server can now be configured in either Read Only or Full Access mode. In Full Access mode, agents can perform all actions available to the authenticated user. In Read Only mode, write operations such as adding or removing tags and templates are blocked. This allows organizations to safely evaluate MCP integrations before granting full access.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Document%20Warehouse/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Document Warehouse"
     },
     {
       "id": "dynalogic-bdw-8959",
@@ -98977,6 +99073,30 @@
     },
     {
       "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "functional_area": "Platform and Technology",
+      "title": "Fixed issue where Microsoft Graph (MSG) email imported unread emails from every folder in the mailbox (e.g.",
+      "summary": "Fixed issue where Microsoft Graph (MSG) email imported unread emails from every folder in the mailbox (e.g. Junk Email, Deleted Items and archive folders) and ignored the configured SubFolder. This could import old emails when switching from EWS to MSG. MSG now reads only from the Inbox, or from the configured subfolder of the Inbox, same as EWS. If the configured subfolder does not exist, an error is logged and no emails are imported.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "hotfix_id": "-",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Document Capture Service 28.03",
+      "functional_area": "Platform and Technology",
+      "title": "Updated NuGet packages to fix security vulnerabilities (including Microsoft.Graph 5.105.0 to 6.2.0).",
+      "summary": "Updated NuGet packages to fix security vulnerabilities (including Microsoft.Graph 5.105.0 to 6.2.0).",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-service/",
+      "hotfix_id": "-",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
       "version": "Document Capture Service 28.02",
       "functional_area": "Platform and Technology",
       "title": "Fixed an issue where MSG email attachments were not always detected correctly.",
@@ -144370,6 +144490,78 @@
       "country_code": "",
       "publisher": "Dynalogic",
       "product_name": "Dynalogic Birds JobManager"
+    },
+    {
+      "id": "dynalogic-bdw-18163",
+      "version": "2026.1.0.252",
+      "functional_area": "API and integration",
+      "title": "Duplicate Legal Entity field creation in BC Kickstart",
+      "summary": "When running the BC Kickstart flow, two fields named \"Legal Entity\" could be created. We now ensure that only a single field is created.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Document%20Warehouse/",
+      "hotfix_id": "18163",
+      "country_code": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Document Warehouse"
+    },
+    {
+      "id": "dynalogic-bdw-18193",
+      "version": "2026.1.0.252",
+      "functional_area": "Viewer",
+      "title": "Viewer support for .heic images",
+      "summary": "The viewer now supports rendering `.heic` images. Previous releases only provided thumbnail support.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Document%20Warehouse/",
+      "hotfix_id": "18193",
+      "country_code": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Document Warehouse"
+    },
+    {
+      "id": "dynalogic-bdw-18218",
+      "version": "2026.1.0.252",
+      "functional_area": "Outlook and email",
+      "title": "409 Conflict for duplicate user email addresses",
+      "summary": "Creating a user with an email address that is already assigned to another user now returns a 409 Conflict response instead of 500 Internal Server Error . Duplicate users will no longer be created in this scenario. ``` PUT /apigateway/api/user/{id} { \"primaryEmail\": <existing email - with different casing>, ... } ```",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Document%20Warehouse/",
+      "hotfix_id": "18218",
+      "country_code": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Document Warehouse"
+    },
+    {
+      "id": "dynalogic-bdw-18231",
+      "version": "2026.1.0.252",
+      "functional_area": "SharePoint",
+      "title": "409 Conflict for duplicate storage provider sites",
+      "summary": "Attempting to create a storage provider site that already exists now returns a 409 Conflict response instead of 500 Internal Server Error . ``` PATCH /apigateway/api/storageproviders/sharepoint/config/{providerId}/sites/add [ { path: <existing site path>, tagContext: null } ] ```",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Document%20Warehouse/",
+      "hotfix_id": "18231",
+      "country_code": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Document Warehouse"
+    },
+    {
+      "id": "dynalogic-bdw-18232",
+      "version": "2026.1.0.252",
+      "functional_area": "SharePoint",
+      "title": "404 Not Found for non-existent storage provider sites",
+      "summary": "API requests that attempt to modify a SharePoint site that is not configured now return 404 Not Found instead of 500 Internal Server Error .",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Document%20Warehouse/",
+      "hotfix_id": "18232",
+      "country_code": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Document Warehouse"
+    },
+    {
+      "id": "dynalogic-bdw-18237",
+      "version": "2026.1.0.252",
+      "functional_area": "SharePoint",
+      "title": "SharePoint sync no longer retries deleted files",
+      "summary": "The SharePoint sync no longer repeatedly retries files that have already been deleted. When a URL-based upload references a file that no longer exists, processing now stops immediately. This reduces unnecessary API calls and system load.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Document%20Warehouse/",
+      "hotfix_id": "18237",
+      "country_code": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Document Warehouse"
     },
     {
       "id": "dynalogic-bdw-17795",

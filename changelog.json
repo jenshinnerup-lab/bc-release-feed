@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-03",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "3e4ff8f2eaab58867bf3",
+      "date": "2026-10-03",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "dynalogic-bdw-18237",
+      "version": "2026.1.0.252",
+      "title": "SharePoint sync no longer retries deleted files",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "f782e84ed389aae252e7",
+      "date": "2026-10-03",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "dynalogic-bdw-18232",
+      "version": "2026.1.0.252",
+      "title": "404 Not Found for non-existent storage provider sites",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "385cfbc728a590f14582",
+      "date": "2026-10-03",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "dynalogic-bdw-18231",
+      "version": "2026.1.0.252",
+      "title": "409 Conflict for duplicate storage provider sites",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "dacf638eca4f219861a5",
+      "date": "2026-10-03",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "dynalogic-bdw-18218",
+      "version": "2026.1.0.252",
+      "title": "409 Conflict for duplicate user email addresses",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "8245ed8f141693c56494",
+      "date": "2026-10-03",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "dynalogic-bdw-18193",
+      "version": "2026.1.0.252",
+      "title": "Viewer support for .heic images",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "b4e3542497360ada6d81",
+      "date": "2026-10-03",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "dynalogic-bdw-18163",
+      "version": "2026.1.0.252",
+      "title": "Duplicate Legal Entity field creation in BC Kickstart",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "f96e4dc0226ba5e3fa64",
+      "date": "2026-10-03",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bdw-18217",
+      "version": "2026.1.0.252",
+      "title": "MCP Server Access Mode: Read Only",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "0294aa6df5724fd3a966",
       "date": "2026-10-02",
