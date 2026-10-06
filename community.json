@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05",
+ "generated_at": "2026-10-06",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,26 +67,26 @@
   {
    "source": "yzhums",
    "kind": "blog",
-   "title": "Cumulative Update Summary for Microsoft Dynamics 365 Business Central (October, 2026)",
-   "url": "https://yzhums.com/76495/",
-   "published": "2026-10-05",
-   "summary": "Cumulative Update (October, 2026) for Microsoft Dynamics 365 Business Central is now released . BC29: CU00 Cloud (SaaS) : Managing Production and Sandbox Environments in the Admin Center Version: W1 29.0 (Platform 29.0.55365.0 + Application 29.0.54011.55407) On-Premises: Microsoft Dynamics 365 Business Central 2026 Release Wave 1 Version: W1 29.0 (Platform 29.0.55365.0 + Application 29.0.54011.554"
+   "title": "Business Central 2026 release wave 2 (BC29): Faster data loading with improved data model for table extensions (all fields on an AL table are stored in the same table)",
+   "url": "https://yzhums.com/76505/",
+   "published": "2026-10-06",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Faster data loading with improved data model for table extensions (all fields on an AL table are "
   },
   {
-   "source": "waldo",
+   "source": "demiliani",
    "kind": "blog",
-   "title": "The Business Central 2026 release wave 2 docs nobody asked for ..",
-   "url": "https://waldo.be/2026/10/02/the-business-central-2026-release-wave-2-docs-nobody-asked-for/",
-   "published": "2026-10-02",
-   "summary": "I did a thing .. again . You know the drill. Microsoft drops the Business Central 2026 release wave 2 launch event . 38 videos. 7 hours and 9 minutes of “What’s new in ..”. And somewhere in there are the 12 minutes that actually matter to you . Which 12 minutes? Well .. that’s the fun part. Nobody tells you. And this wave, the release plans on Learn are gone too . Microsoft moved them to the AI at"
+   "title": "Dynamics 365 Business Central license keys: what changes from version 28.",
+   "url": "https://demiliani.com/2026/10/05/dynamics-365-business-central-license-keys-what-changes-from-version-28/",
+   "published": "2026-10-05",
+   "summary": "Starting October 1, 2026 , Microsoft is changing how license keys work for Dynamics 365 Business Central on-premises and for Dual Use Rights (DUR) scenarios. Version-specific keys go away, replaced by a single “28+” key family. The change simplifies things on paper, but it adds a step to every upgrade: you must download a fresh license file to unlock the objects of the new version . If you maintai"
   },
   {
    "source": "yzhums",
    "kind": "blog",
-   "title": "General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29)",
-   "url": "https://yzhums.com/76443/",
-   "published": "2026-10-02",
-   "summary": "Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. New customers will automatically get the latest builds of Business Central 2026 rw2 (version 29). Cloud (SaaS) : Managing Production and Sandbox Environments in the Admin Center Version: W1 29.0 (Platform 29.0.55365.0 + Application 29.0.54011.55407) New customers will automatically get the latest builds of Business Central 20"
+   "title": "Cumulative Update Summary for Microsoft Dynamics 365 Business Central (October, 2026)",
+   "url": "https://yzhums.com/76495/",
+   "published": "2026-10-05",
+   "summary": "Cumulative Update (October, 2026) for Microsoft Dynamics 365 Business Central is now released . BC29: CU00 Cloud (SaaS) : Managing Production and Sandbox Environments in the Admin Center Version: W1 29.0 (Platform 29.0.55365.0 + Application 29.0.54011.55407) On-Premises: Microsoft Dynamics 365 Business Central 2026 Release Wave 1 Version: W1 29.0 (Platform 29.0.55365.0 + Application 29.0.54011.554"
   }
  ],
  "links": {
@@ -637,6 +637,16 @@
     "title": "Business Central 2025 wave 2 (BC27): Add more fields and columns by personalizing pages",
     "url": "https://yzhums.com/67489/",
     "published": "2025-09-10",
+    "matched_by": "title"
+   }
+  ],
+  "ad5a03b50c537c65": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Faster data loading with improved data model for table extensions (all fields on an AL table are stored in the same table)",
+    "url": "https://yzhums.com/76505/",
+    "published": "2026-10-06",
     "matched_by": "title"
    }
   ],
