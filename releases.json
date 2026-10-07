@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03",
+  "generated_at": "2026-10-07",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -88560,6 +88560,18 @@
       "product_name": "Continia Banking"
     },
     {
+      "id": "continia-cb-83763",
+      "version": "Continia Banking 2026 R2",
+      "functional_area": "Payment Export",
+      "title": "Fixed an issue where object ID ranges overlapped between the base application and approval apps.",
+      "summary": "Fixed an issue where object ID ranges overlapped between the base application and approval apps. Each app now uses a unique ID range.",
+      "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r2/",
+      "hotfix_id": "83763",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Banking"
+    },
+    {
       "id": "continia-cb-81974",
       "version": "Continia Banking 2026 R2",
       "functional_area": "Payment Import",
@@ -88615,18 +88627,6 @@
       "summary": "Fixed an issue where bank date and time values containing milliseconds could be interpreted using the environment's time zone. Dates are now read exactly as provided.",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r2/",
       "hotfix_id": "82460",
-      "country_code": "",
-      "publisher": "Continia",
-      "product_name": "Continia Banking"
-    },
-    {
-      "id": "continia-cb-83763",
-      "version": "Continia Banking 2026 R2",
-      "functional_area": "Payment Export",
-      "title": "Fixed an issue where object ID ranges overlapped between the base application and approval apps.",
-      "summary": "Fixed an issue where object ID ranges overlapped between the base application and approval apps. Each app now uses a unique ID range.",
-      "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r2/",
-      "hotfix_id": "83763",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Banking"

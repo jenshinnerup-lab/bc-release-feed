@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06",
+ "generated_at": "2026-10-07",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Calculate multiple excise duties per item",
+   "url": "https://yzhums.com/76445/",
+   "published": "2026-10-07",
+   "summary": "Hi, Readers. The public preview for Dynamics 365 Business Central 2026 release wave 2 (BC29) is available. Learn more: Link . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Calculate multiple excise duties per item. Calculate multiple excise duties per item : This feature enhances excise tax management by allowing you to as"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Faster data loading with improved data model for table extensions (all fields on an AL table are stored in the same table)",
    "url": "https://yzhums.com/76505/",
    "published": "2026-10-06",
@@ -79,14 +87,6 @@
    "url": "https://demiliani.com/2026/10/05/dynamics-365-business-central-license-keys-what-changes-from-version-28/",
    "published": "2026-10-05",
    "summary": "Starting October 1, 2026 , Microsoft is changing how license keys work for Dynamics 365 Business Central on-premises and for Dual Use Rights (DUR) scenarios. Version-specific keys go away, replaced by a single “28+” key family. The change simplifies things on paper, but it adds a step to every upgrade: you must download a fresh license file to unlock the objects of the new version . If you maintai"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Cumulative Update Summary for Microsoft Dynamics 365 Business Central (October, 2026)",
-   "url": "https://yzhums.com/76495/",
-   "published": "2026-10-05",
-   "summary": "Cumulative Update (October, 2026) for Microsoft Dynamics 365 Business Central is now released . BC29: CU00 Cloud (SaaS) : Managing Production and Sandbox Environments in the Admin Center Version: W1 29.0 (Platform 29.0.55365.0 + Application 29.0.54011.55407) On-Premises: Microsoft Dynamics 365 Business Central 2026 Release Wave 1 Version: W1 29.0 (Platform 29.0.55365.0 + Application 29.0.54011.554"
   }
  ],
  "links": {
@@ -657,6 +657,16 @@
     "title": "Business Central 2025 wave 1 (BC26): Use enhanced customer document layout for service management",
     "url": "https://yzhums.com/62260/",
     "published": "2025-03-13",
+    "matched_by": "title"
+   }
+  ],
+  "ae68e44462e67dfb": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Calculate multiple excise duties per item",
+    "url": "https://yzhums.com/76445/",
+    "published": "2026-10-07",
     "matched_by": "title"
    }
   ],
