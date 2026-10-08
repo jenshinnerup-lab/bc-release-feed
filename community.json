@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07",
+ "generated_at": "2026-10-08",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Retained DEV extensions (DEV extensions remain installed during environment update)",
+   "url": "https://yzhums.com/76570/",
+   "published": "2026-10-08",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Retained DEV extensions (DEV extensions remain installed during environment update). As of now, t"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Calculate multiple excise duties per item",
    "url": "https://yzhums.com/76445/",
    "published": "2026-10-07",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76505/",
    "published": "2026-10-06",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Faster data loading with improved data model for table extensions (all fields on an AL table are "
-  },
-  {
-   "source": "demiliani",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central license keys: what changes from version 28.",
-   "url": "https://demiliani.com/2026/10/05/dynamics-365-business-central-license-keys-what-changes-from-version-28/",
-   "published": "2026-10-05",
-   "summary": "Starting October 1, 2026 , Microsoft is changing how license keys work for Dynamics 365 Business Central on-premises and for Dual Use Rights (DUR) scenarios. Version-specific keys go away, replaced by a single “28+” key family. The change simplifies things on paper, but it adds a step to every upgrade: you must download a fresh license file to unlock the objects of the new version . If you maintai"
   }
  ],
  "links": {

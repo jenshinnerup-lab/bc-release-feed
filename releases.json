@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07",
+  "generated_at": "2026-10-08",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -81616,7 +81616,7 @@
       "version": "Continia Banking 2026 R1, Service Pack 5",
       "functional_area": "Payment Import",
       "title": "You can now include an FIK payment reference on customer statements.",
-      "summary": "You can now include an FIK payment reference on customer statements. When customers pay using this reference, payment matching automatically proposes all open entries included in the statement period.",
+      "summary": "You can now include an FIK payment reference on customer statements. When customers pay using this reference, payment matching automatically proposes all open entries included in the statement period. See Introducing customer statement payment references",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r1/",
       "hotfix_id": "79343",
       "country_code": "",
@@ -87916,7 +87916,7 @@
       "version": "Continia Banking 2026 R2",
       "functional_area": "General Application",
       "title": "Transaction imports from NatWest now only include booked transactions when the TransactionMutability attribute is empty.",
-      "summary": "Transaction imports from NatWest now only include booked transactions when the TransactionMutability attribute is empty.",
+      "summary": "Transaction imports from NatWest now only include booked transactions when the TransactionMutability attribute is empty. See Reconciling statements imported through Yapily .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r2/",
       "hotfix_id": "83024",
       "country_code": "",
@@ -88276,7 +88276,7 @@
       "version": "Continia Banking 2026 R2",
       "functional_area": "Payment Import",
       "title": "You can now import CSV bank account statements directly by using a new statement import action and CSV target type.",
-      "summary": "You can now import CSV bank account statements directly by using a new statement import action and CSV target type.",
+      "summary": "You can now import CSV bank account statements directly by using a new statement import action and CSV target type. See Setting up bank accounts for CSV ports",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r2/",
       "hotfix_id": "70532",
       "country_code": "",
