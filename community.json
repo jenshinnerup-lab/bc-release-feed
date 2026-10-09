@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08",
+ "generated_at": "2026-10-09",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): AL developers can turn indexes on/off in AL code",
+   "url": "https://yzhums.com/76518/",
+   "published": "2026-10-09",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Turn indexes on/off from AL. AL developers can now turn indexes off/on from AL code : AL develope"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Retained DEV extensions (DEV extensions remain installed during environment update)",
    "url": "https://yzhums.com/76570/",
    "published": "2026-10-08",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76445/",
    "published": "2026-10-07",
    "summary": "Hi, Readers. The public preview for Dynamics 365 Business Central 2026 release wave 2 (BC29) is available. Learn more: Link . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Calculate multiple excise duties per item. Calculate multiple excise duties per item : This feature enhances excise tax management by allowing you to as"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Faster data loading with improved data model for table extensions (all fields on an AL table are stored in the same table)",
-   "url": "https://yzhums.com/76505/",
-   "published": "2026-10-06",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Faster data loading with improved data model for table extensions (all fields on an AL table are "
   }
  ],
  "links": {
@@ -677,6 +677,16 @@
     "title": "Business Central 2026 release wave 2 (BC29): Preview images directly in web client",
     "url": "https://yzhums.com/75746/",
     "published": "2026-09-04",
+    "matched_by": "title"
+   }
+  ],
+  "b5b3e706dab40bde": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): AL developers can turn indexes on/off in AL code",
+    "url": "https://yzhums.com/76518/",
+    "published": "2026-10-09",
     "matched_by": "title"
    }
   ],

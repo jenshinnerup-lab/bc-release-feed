@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-03",
+  "generated_at": "2026-10-09",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "2e53c6a7f918d7f327a9",
+      "date": "2026-10-09",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-83924",
+      "version": "New or changed functionality",
+      "title": "On the action bar, the user list where you switch to a user who has delegated to you, now fits the window and scrolls, so that every user in a long li",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "9d3546856244ea8ca4f1",
+      "date": "2026-10-09",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-83914",
+      "version": "Bug fixes",
+      "title": "In the History view of the Expenses overview, completed expenses were shown with the incorrect status, Approved .",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "8e1a4a49e4fdf9def71a",
+      "date": "2026-10-09",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-83822",
+      "version": "Bug fixes",
+      "title": "Some PDF attachments were not shown in the preview and kept loading.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "ac50966673496f321e63",
+      "date": "2026-10-09",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-83816",
+      "version": "New or changed functionality",
+      "title": "On the Please select a company for this expense page (which opens for an emailed expense that hasn't been assigned a company) you can now move a file",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "6ceb192479a2759d87e5",
+      "date": "2026-10-09",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-83815",
+      "version": "Bug fixes",
+      "title": "In the History view of the Expense Reports, Mileage, and Per Diem overviews, the Status column was missing, so the status of each document was not sho",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "3e4ff8f2eaab58867bf3",
       "date": "2026-10-03",

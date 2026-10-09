@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08",
+  "generated_at": "2026-10-09",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -123726,6 +123726,78 @@
       "title": "Minor bug fixes and improvements.",
       "summary": "Minor bug fixes and improvements.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-mobile-app/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-83924",
+      "version": "New or changed functionality",
+      "functional_area": "Expense Mobile App and Portal",
+      "title": "On the action bar, the user list where you switch to a user who has delegated to you, now fits the window and scrolls, so that every user in a long li",
+      "summary": "On the action bar, the user list where you switch to a user who has delegated to you, now fits the window and scrolls, so that every user in a long list can be reached. When ten or more users have delegated to you, a search field at the top of the list filters the users by name or email.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "83924",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-83816",
+      "version": "New or changed functionality",
+      "functional_area": "Expenses",
+      "title": "On the Please select a company for this expense page (which opens for an emailed expense that hasn't been assigned a company) you can now move a file",
+      "summary": "On the Please select a company for this expense page (which opens for an emailed expense that hasn't been assigned a company) you can now move a file to your receipts with Move to receipts , in the same way as you do on the Expense page.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "83816",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-83815",
+      "version": "Bug fixes",
+      "functional_area": "Expense Mobile App and Portal",
+      "title": "In the History view of the Expense Reports, Mileage, and Per Diem overviews, the Status column was missing, so the status of each document was not sho",
+      "summary": "In the History view of the Expense Reports, Mileage, and Per Diem overviews, the Status column was missing, so the status of each document was not shown. This has been fixed.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "83815",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-83914",
+      "version": "Bug fixes",
+      "functional_area": "Expense Mobile App and Portal",
+      "title": "In the History view of the Expenses overview, completed expenses were shown with the incorrect status, Approved .",
+      "summary": "In the History view of the Expenses overview, completed expenses were shown with the incorrect status, Approved . They're now shown with the correct status, Completed .",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "83914",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-83822",
+      "version": "Bug fixes",
+      "functional_area": "General Application",
+      "title": "Some PDF attachments were not shown in the preview and kept loading.",
+      "summary": "Some PDF attachments were not shown in the preview and kept loading. This has been fixed.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "83822",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Bug fixes",
+      "functional_area": "General Application",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
       "hotfix_id": "N/A",
       "country_code": "",
       "publisher": "Continia",
