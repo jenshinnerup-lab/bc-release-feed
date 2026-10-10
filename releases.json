@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09",
+  "generated_at": "2026-10-10",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -131968,7 +131968,7 @@
       "version": "Continia Finance 2025 R2 Service Pack 6",
       "functional_area": "Essentials",
       "title": "In CSV ports, amount formatting settings on the port were overwritten by the regional settings in Business Central, which could cause incorrect decima",
-      "summary": "In CSV ports, amount formatting settings on the port were overwritten by the regional settings in Business Central, which could cause incorrect decimal values when importing German CSV files under an English (United Kingdom) region code. This has now been fixed, so the port’s amount formatting settings are used instead of the regional settings.",
+      "summary": "In CSV ports, amount formatting settings on the port were overwritten by the regional settings in Business Central, which could cause incorrect decimal values when importing German CSV files under an English (United Kingdom) region code. This has now been fixed, so the port\u0000\u0000’s amount formatting settings are used instead of the regional settings.",
       "doc_url": "https://docs.continia.com/en-us/continia-finance/new-and-planned/detailed-changelogs/continia-finance-2025-r2/",
       "hotfix_id": "76174",
       "country_code": "",

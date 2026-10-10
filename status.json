@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-09T03:33:14Z",
+  "updated_at": "2026-10-10T03:33:18Z",
   "source": "One content hash per feed file, and a log of the builds that changed one. Check this before downloading the feed.",
   "files": {
     "releases.json": {
-      "hash": "9309c5c2afabd52ab76a4a4936dc61f76eb6876840d9a66205f3a9b000b37d25",
-      "updated_at": "2026-10-09T03:33:14Z"
+      "hash": "ddeb1f6e0c15cd92179bb55be77b0941b141c36f7ccd8724b8e19dd473b0944c",
+      "updated_at": "2026-10-10T03:33:18Z"
     },
     "ideas.json": {
       "hash": "6df93d0802af7c51e6b507d10a5e4cbb63ee8136153845625586674114317064",
@@ -20,6 +20,16 @@
     }
   },
   "activity": [
+    {
+      "at": "2026-10-10T03:33:18Z",
+      "files": [
+        "releases.json"
+      ],
+      "features": 3978,
+      "hotfixes": 8085,
+      "ideas": 3626,
+      "changelog_entries": 0
+    },
     {
       "at": "2026-10-09T03:33:14Z",
       "files": [
