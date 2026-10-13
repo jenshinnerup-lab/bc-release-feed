@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10",
+  "generated_at": "2026-10-13",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -25897,7 +25897,7 @@
       "summary": "For Polish localization in the Expense Management (PL) app, restrictions were removed in Expenses for the Vendor No. field. You can also use the field for purchase invoice posting.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -25909,7 +25909,7 @@
       "summary": "When you open the Bank Agreements page, pending activation requests now automatically synchronize with Continia Online. If a bank agreement becomes activated, a notification informs you that you can download card transactions.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -25921,7 +25921,7 @@
       "summary": "You can now record the eDocument ID ( NSeI Document No. in the Polish localization) and a new Missing NSeI No. Reason on expenses to support Polish KSeF reporting requirements. You can enable both fields for expenses through Configured Field Types in Business Central and in the Expense Portal/App . During posting, the field values are transferred to the corresponding IT.integro Polish Localization fields, allowing them to propagate to the resulting ledger entries.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -25933,7 +25933,7 @@
       "summary": "The following event publisher was added to Codeunit 6086330 \"CEM Expense-Post\". It provides an opportunity to modify filters set when determining whether to use an existing or create a new Purchase Invoice document during Expense posting: OnFindExistingPurchaseHeaderOnBeforeFindFirst().",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -25945,7 +25945,7 @@
       "summary": "A new event publisher was added to the Canadian localization app to allow modifications to Sales Tax lines before posting: OnBeforePostGLAccLine().",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -25957,7 +25957,7 @@
       "summary": "A dedicated Expense Setup page was added, bringing a consistent setup experience for Expense , Expense Report , Mileage , and Per Diem . You can open Expense Setup from the Modules list on the Expense Management Setup page (it is also available through Tell Me .) When field setup cannot synchronize with Continia Online , closing a setup page now displays the issue as a message instead of preventing the page from closing.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -25969,7 +25969,7 @@
       "summary": "You can now set up expense types with suggested G/L account mappings, instead of having to map them by hand. From the Expense Types page, the new Set Up Expense Types dialog lists the expense types to be created and proposes a G/L account for each one. You can review and adjust each suggestion before anything is created, then choose Keep it to create the expense types and apply the accounts to the posting setup, or Discard it to close without changes. Two suggestion methods are available. Contin",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -25981,7 +25981,7 @@
       "summary": "New payment types now default to a matching tolerance of 3% on amount and 4 days on date, replacing the previous 2% and 2 days. On the Payment Type Card , the Amount (%) and Date (Days) tolerance fields moved under Show more , so they're no longer shown by default.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -25993,7 +25993,7 @@
       "summary": "The Country/Region Code field is now visible on expense pages when it is configured as a field type on expenses.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26005,7 +26005,7 @@
       "summary": "Support for eInvoicing was added to Expense Management via integration with Continia Document Capture . You can now link expenses to eDocuments processed in Document Capture , allowing posting to be handled as a single accounting event and preventing duplicate purchase postings. On the expense, the existing Applied Purch. Doc. No. field identifies the linked Document Capture document. When this field is populated, only the payment or refund side of the expense is posted, while the purchase posti",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26017,7 +26017,7 @@
       "summary": "A drag-and-drop attachment area was added to the document viewer, allowing you to add attachments directly. Previously, the viewer could misleadingly appear as though an attachment existed and allow an empty file to be downloaded.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26029,7 +26029,7 @@
       "summary": "A new Configure Continia Expense Management page brings the most common setup options together in one place. You can enable modules, configure who submits and approves documents, and access the detailed setup for expense types, payment types, mileage rates, and per diem rates.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26041,7 +26041,7 @@
       "summary": "Action categories were removed from single actions. You can now access them directly with a single click, instead of them being nested under category groups.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26053,7 +26053,7 @@
       "summary": "You can start a new trial setup wizard from a notification on the Employees list, allowing you to activate a free 30-day trial of Expense Management and invite colleagues to try it.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26065,7 +26065,7 @@
       "summary": "When a module, such as Mileage or Per Diem was disabled, its navigation action remained visible on the Continia User Setup Card . Module-specific navigation actions are now hidden when the corresponding module is disabled.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26077,7 +26077,7 @@
       "summary": "You can no longer schedule the Send History to CO report as a recurring job.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26089,7 +26089,7 @@
       "summary": "Page Field Type Dependency had redundant actions that were not usable. They were removed.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26101,7 +26101,7 @@
       "summary": "The Setup action category was removed from the Expense Management Setup page. You can now access all contained actions directly with a single click.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26113,7 +26113,7 @@
       "summary": "Default reimbursement settings were moved directly to the Continia User Setup and Expense User Group pages. You can now maintain the default vehicle, per diem group, and reimbursement methods for expenses, mileage, and per diems at the user or group level without using a separate Default User Setup page. Existing defaults are migrated automatically when upgrading. Configuration files exported from earlier versions using the Continia Configuration wizard no longer transfer these settings.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26125,7 +26125,7 @@
       "summary": "Bank Transaction was renamed to Card Transaction .",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26137,7 +26137,7 @@
       "summary": "In the Danish localization, Afregning has been renamed to UdgiftRapport .",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26149,7 +26149,7 @@
       "summary": "When leaving Lookup Value Access per User/Group with an invalid setup, users are now given the option to discard their changes.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26161,7 +26161,7 @@
       "summary": "Attachments from expenses and mileages are now shown directly on the posted entries and purchase documents they were posted to, so you can review a receipt without opening the original expense document. The attachment factbox appears on: G/L Entries Vendor Ledger Entries and Employee Ledger Entries Project Ledger Entries",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26173,7 +26173,7 @@
       "summary": "Improved the Expense Management Setup page by splitting module-specific settings into dedicated Setup pages for Expense, Mileage, Per Diem and Expense Report. The main Expense Management Setup page now provides a cleaner overview with quick access to each module's configuration, and each module's setup is individually searchable from the Tell Me search.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26185,7 +26185,7 @@
       "summary": "You can now apply filters to DateTime fields and use advanced filter types, including ranges, when limiting the lookup values available in Configured Fields . This provides a more focused selection when choosing values from large lookup lists. You can also review existing filters and refine them, to further limit the values shown to users.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26197,7 +26197,7 @@
       "summary": "Performance was optimized for the Lookup Value Access per User/Group page.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26209,7 +26209,7 @@
       "summary": "A new Both Users option was reintroduced in the Send Email To field on the Approval Sharing – Expense Management page. When selected, both the original approver and the substitute receive notifications when Send Status Email to Approvers is used.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26221,7 +26221,7 @@
       "summary": "When documents were deleted in Business Central , they continued to appear in the Expense App and Expense Portal history with their original status and amounts. You can no longer delete documents with history in Continia Online directly from Business Central . Instead, you must send them to the expense user for deletion.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26233,7 +26233,7 @@
       "summary": "The stability of the Configured Fields setup page was improved. The page no longer resets its cursor position when opening and closing field detail cards, making it easier to configure fields without losing your place in the list.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26245,7 +26245,7 @@
       "summary": "Credit Card was renamed to Company Card .",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26257,7 +26257,7 @@
       "summary": "The Expenses , Mileage , Per Diems , and Expense Reports lists now have a simple and a full column view, following the Show More Columns / Show Fewer Columns pattern from the Business Central general journal. The simple view keeps the columns needed to review documents - user, dates, description, amount, status, approval, and comments - and hides less frequently used columns such as dimensions, job, tax, and configurable shortcut fields. Use Show More Columns to display all available columns and",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26269,7 +26269,7 @@
       "summary": "The Mileage card and list were aligned with the other Expense Management document types: The document title on the Mileage card now shows only the entry number and user name, without the vehicle code and description. The approval action is now called Send for Approval on both the card and the list, where the card and list previously used different wording. The Approvals action is no longer promoted in the action bar on the Mileage card and is now found under Related > Mileage , matching the Mile",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26281,7 +26281,7 @@
       "summary": "The Type field on the Allowances page was deprecated and is no longer visible. On Per Diem Posting Groups , the Accommodation Allowance Code can no longer be changed after rates have been configured - delete the rates first or create a new posting group.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26293,7 +26293,7 @@
       "summary": "You can now calculate per diems with an explicit time zone, so the amount is the same no matter who opens or posts the document. Each per diem stores the time zone in which its times were captured, and the calculation uses that time zone to determine day boundaries. Departure and return times always show in the time zone where they were entered, rather than being converted to the time zone of the user viewing the document. This makes per diem amounts consistent for companies whose users, approve",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26305,7 +26305,7 @@
       "summary": "Meal deduction handling for taxable Per Diem amounts was updated to better align with local tax practices. For German and Danish companies, the full taxable Per Diem is now paid without meal deductions after the 3-month rule or 12-month rule is triggered. A new setup option was added to control whether meal deductions reduce taxable rates in the standard Per Diem calculation.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
@@ -26317,7 +26317,7 @@
       "summary": "The Per Diem card and list were aligned with the other Expense Management document types: The document title on the Per Diem card now shows only the entry number and user name, without the per diem group code and description. The approval action is now called Send for Approval on both the card and the list, where the card previously used Send Approval Request . The Approvals action is no longer promoted in the action bar on the Per Diem card. You can now find it under Related > Per Diem , which ",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "country_code": "",
-      "general_availability": "October 01, 2026",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
     },
