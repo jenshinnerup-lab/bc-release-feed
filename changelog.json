@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "37bb0a8686671cda7bec",
+      "date": "2026-10-14",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-opp-82558",
+      "version": "OPplus 2026 R2",
+      "title": "When report OPP Payment List (5157894) was printed with Incl.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "2a9d92e8739caa19ec6c",
+      "date": "2026-10-14",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-33564",
+      "version": "3.2026.10.1",
+      "title": "On-Demand Message Content Loading",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "accea517c9862f4d5f8b",
+      "date": "2026-10-14",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-32643",
+      "version": "3.2026.10.1",
+      "title": "Advanced Business Process Trigger Conditions",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "1e5de1180e0f4c80b186",
+      "date": "2026-10-14",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-32625",
+      "version": "3.2026.10.1",
+      "title": "Configure batch jobs via batch job form",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "e179ebadeb556ef5cc87",
+      "date": "2026-10-14",
+      "change": "removed",
+      "item_type": "feature",
+      "item_id": "continia-dc--",
+      "version": "Document Capture Service 27.01",
+      "title": "Removed support for ABBYY FineReader Engine versions 10 and 11.",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "891777cb9c587f0ef7fc",
       "date": "2026-10-13",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13",
+ "generated_at": "2026-10-14",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,26 +67,26 @@
   {
    "source": "yzhums",
    "kind": "blog",
-   "title": "Major update of Dynamics 365 Business Central 2026 release wave 2 (BC29) is available for existing customers",
-   "url": "https://yzhums.com/76631/",
-   "published": "2026-10-13",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) And, all the sessions of Business Central Launch Event (2026 release wave 2) are live! It is time for the major update again.😁 If you are the notification recipients of Business Central, you might have received the notifi"
+   "title": "Business Central 2026 release wave 2 (BC29): Use conditional visibility in the updated Word add-in (Hide If Empty/False in Word Layout)",
+   "url": "https://yzhums.com/76655/",
+   "published": "2026-10-14",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Use conditional visibility in the updated Word add-in . Use conditional visibility in the updated"
   },
   {
    "source": "demiliani",
    "kind": "blog",
-   "title": "End of .NET 8 support and what it means for Dynamics 365 Business Central on-prem.",
-   "url": "https://demiliani.com/2026/10/12/end-of-net-8-support-and-what-it-means-for-dynamics-365-business-central-on-prem/",
-   "published": "2026-10-12",
-   "summary": "Microsoft has confirmed that both .NET 8 and .NET 9 reach end of support on November 10, 2026 . After that date there are no more servicing updates, no security fixes and no technical support for either version. .NET 8 is an LTS release with a 36-month window. .NET 9 is an STS release, which now also gets 24 months instead of 18, so both versions end on the same day. Version Release date Release t"
+   "title": "Securing your Azure Storage Account: a guide to enabling Business Central-only access using Network Security Perimeter (part2) – now with Service Tags.",
+   "url": "https://demiliani.com/2026/10/13/securing-your-azure-storage-account-a-guide-to-enabling-business-central-only-access-using-network-security-perimeter-part2-now-with-service-tags/",
+   "published": "2026-10-13",
+   "summary": "Do you remember this blog post I wrote last year few days before Christmas? In that post, I explained how to enable a Business Centra-only access to an Azure Storage Account by using an Azure Service called Azure Network Security Perimeter (NSP) . This is probably a not so well-known service for many but it’s an important security service also used under the hood of our lovely Business Central clo"
   },
   {
    "source": "yzhums",
    "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): AL developers can turn indexes on/off in AL code",
-   "url": "https://yzhums.com/76518/",
-   "published": "2026-10-09",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Turn indexes on/off from AL. AL developers can now turn indexes off/on from AL code : AL develope"
+   "title": "Major update of Dynamics 365 Business Central 2026 release wave 2 (BC29) is available for existing customers",
+   "url": "https://yzhums.com/76631/",
+   "published": "2026-10-13",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) And, all the sessions of Business Central Launch Event (2026 release wave 2) are live! It is time for the major update again.😁 If you are the notification recipients of Business Central, you might have received the notifi"
   }
  ],
  "links": {
@@ -767,6 +767,16 @@
     "title": "Business Central 2025 wave 2 (BC27): Autofill contact details with Copilot",
     "url": "https://yzhums.com/68043/",
     "published": "2025-10-02",
+    "matched_by": "title"
+   }
+  ],
+  "c5d880d7f02e6d35": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Use conditional visibility in the updated Word add-in (Hide If Empty/False in Word Layout)",
+    "url": "https://yzhums.com/76655/",
+    "published": "2026-10-14",
     "matched_by": "title"
    }
   ],
