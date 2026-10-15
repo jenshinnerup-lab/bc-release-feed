@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14",
+  "generated_at": "2026-10-15",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -73180,7 +73180,7 @@
       "version": "Continia Banking 2025 R2, Service Pack 12",
       "functional_area": "Payment Export",
       "title": "You can now create a new banking template by copying an existing one.",
-      "summary": "You can now create a new banking template by copying an existing one. The new template retains the original configuration while leaving the source template unchanged.",
+      "summary": "You can now create a new banking template by copying an existing one. The new template retains the original configuration while leaving the source template unchanged. See Using field templates in Continia Banking .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2025-r2/",
       "hotfix_id": "82503",
       "country_code": "",
@@ -82000,7 +82000,7 @@
       "version": "Continia Banking 2026 R1, Service Pack 6",
       "functional_area": "Payment Export",
       "title": "You can now create a new banking template by copying an existing one.",
-      "summary": "You can now create a new banking template by copying an existing one. The new template retains the original configuration while leaving the source template unchanged.",
+      "summary": "You can now create a new banking template by copying an existing one. The new template retains the original configuration while leaving the source template unchanged. See Using field templates in Continia Banking .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r1/",
       "hotfix_id": "82503",
       "country_code": "",
@@ -89320,7 +89320,7 @@
       "version": "Continia Banking 2026 R2",
       "functional_area": "Payment Export",
       "title": "You can now create a new banking template by copying an existing one.",
-      "summary": "You can now create a new banking template by copying an existing one. The new template retains the original configuration while leaving the source template unchanged.",
+      "summary": "You can now create a new banking template by copying an existing one. The new template retains the original configuration while leaving the source template unchanged. See Using field templates in Continia Banking .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r2/",
       "hotfix_id": "82503",
       "country_code": "",
