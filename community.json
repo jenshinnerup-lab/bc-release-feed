@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15",
+ "generated_at": "2026-10-16",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Design themes, headers, and footers for document reports with the updated Word add-in",
+   "url": "https://yzhums.com/76756/",
+   "published": "2026-10-16",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Design themes, headers, and footers for document reports with the updated Word add-in . Design do"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Design document reports with the updated Word add-in (New design components)",
    "url": "https://yzhums.com/76696/",
    "published": "2026-10-15",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76655/",
    "published": "2026-10-14",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Use conditional visibility in the updated Word add-in . Use conditional visibility in the updated"
-  },
-  {
-   "source": "demiliani",
-   "kind": "blog",
-   "title": "Securing your Azure Storage Account: a guide to enabling Business Central-only access using Network Security Perimeter (part2) – now with Service Tags.",
-   "url": "https://demiliani.com/2026/10/13/securing-your-azure-storage-account-a-guide-to-enabling-business-central-only-access-using-network-security-perimeter-part2-now-with-service-tags/",
-   "published": "2026-10-13",
-   "summary": "Do you remember this blog post I wrote last year few days before Christmas? In that post, I explained how to enable a Business Centra-only access to an Azure Storage Account by using an Azure Service called Azure Network Security Perimeter (NSP) . This is probably a not so well-known service for many but it’s an important security service also used under the hood of our lovely Business Central clo"
   }
  ],
  "links": {
