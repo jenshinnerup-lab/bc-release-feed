@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-10-14",
+  "generated_at": "2026-10-17",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "1858e7beae4952b5a452",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84952",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "RemoveApprovalRestriction relied on user permissions and exact text matching to identify workflows.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "6d320d5bf9ee8c81bae5",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84847",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "Using Apply Entries or changing Applies-to Doc.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "a1780afd9040aefff405",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84742",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "Validation in advanced payment journal setup could incorrectly report that Bank Code was missing.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "6e01adc57160164210ec",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84501",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "Changing the PSP Code on a PSP Agreement did not update related search rules and reconciliation settings.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "6be3966fa81e71feca30",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84486",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "Performance issues when generating external payment references caused most reported banking errors.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "5229f40f4343d57f57d2",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84481",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "Special characters in imported CSV Port configurations could be displayed incorrectly because of an encoding issue.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "4dd1338cf516ea88e826",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84472",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "When importing a CSV file with Import Target set to Account Statement , Fee Alternative Descriptions were not applied.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "2283251a58e1090c2701",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84470",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "In advanced payment suggestions not summarized per account, opposing entries such as credit memos could be marked as paid together with payment entrie",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "2daca47740b899125410",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84456",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "Suggested vendor payments were not reduced by open payment allocations marked On Hold .",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "77726709f7e70f34d414",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84351",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "Regulatory reporting codes from purchase and sales orders were not retained after posting, causing payment validation failures in some cases.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "0e11cb1bc0bcf3d65714",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-84038",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "When Summarize per Account and Find Payment Discounts were enabled, entries with payment discount dates on bank closing days were not summarized toget",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "53abca21c905a028a7cb",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-83928",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "When remittance lines added after payment creation exceeded bank limits, the default remittance advice text was used instead of the configured templat",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "03fd3997d3b07eb506c0",
+      "date": "2026-10-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-cb-82318",
+      "version": "Continia Banking 2026 R2, hotfix 1",
+      "title": "When an authentication was shared to another company or bank, target company bank accounts remained Not Ready until Bank Account Setup was run again.",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "37bb0a8686671cda7bec",
       "date": "2026-10-14",
