@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18",
+ "generated_at": "2026-10-19",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Dynamics 365 Business Central Blog Series: Working with Translations and Languages",
+   "url": "https://yzhums.com/76355/",
+   "published": "2026-10-19",
+   "summary": "A collection of articles about translations, languages, localization, multilingual development, and language-related features in Dynamics 365 Business Central. Articles in this series: XLIFF translation files (Working with Translations) XLIFF translation files (Working with Translations) Microsoft Dynamics 365 Business Central: XLIFF translation files (Working with Translations) Hi everyone.Today’"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Design themes, headers, and footers for document reports with the updated Word add-in",
    "url": "https://yzhums.com/76756/",
    "published": "2026-10-16",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76696/",
    "published": "2026-10-15",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Design document reports with the updated Word add-in . Design document reports with the updated W"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Use conditional visibility in the updated Word add-in (Hide If Empty/False in Word Layout)",
-   "url": "https://yzhums.com/76655/",
-   "published": "2026-10-14",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Use conditional visibility in the updated Word add-in . Use conditional visibility in the updated"
   }
  ],
  "links": {
