@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19",
+ "generated_at": "2026-10-20",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Cancelling a scheduled PTE update install (Next Major/Next Minor) in admin center",
+   "url": "https://yzhums.com/76546/",
+   "published": "2026-10-20",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . At the beginning of this year, we had a brief discussion about how to cancel a scheduled PTE update install (Next Major/Next Minor). More details: Dynamics 365 Business Central: Cancelling a scheduled PTE update install"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Dynamics 365 Business Central Blog Series: Working with Translations and Languages",
    "url": "https://yzhums.com/76355/",
    "published": "2026-10-19",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76756/",
    "published": "2026-10-16",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Design themes, headers, and footers for document reports with the updated Word add-in . Design do"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Design document reports with the updated Word add-in (New design components)",
-   "url": "https://yzhums.com/76696/",
-   "published": "2026-10-15",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Design document reports with the updated Word add-in . Design document reports with the updated W"
   }
  ],
  "links": {
