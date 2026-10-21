@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20",
+ "generated_at": "2026-10-21",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "The Early Access Preview for Dynamics 365 Business Central 2027 release wave 1 (BC30) is available",
+   "url": "https://yzhums.com/76863/",
+   "published": "2026-10-21",
+   "summary": "Hi, Readers. The Early Access Preview environment for Dynamics 365 Business Central 2027 release wave 1 (BC30) is available today. This information comes from BC Viva Engage PS: You can deploy a sandbox in the US, DE, or GB with the latest changes, allowing you to explore new features and capabilities before they are officially released. Your sandbox will automatically be kept up to date with the "
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Cancelling a scheduled PTE update install (Next Major/Next Minor) in admin center",
    "url": "https://yzhums.com/76546/",
    "published": "2026-10-20",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76355/",
    "published": "2026-10-19",
    "summary": "A collection of articles about translations, languages, localization, multilingual development, and language-related features in Dynamics 365 Business Central. Articles in this series: XLIFF translation files (Working with Translations) XLIFF translation files (Working with Translations) Microsoft Dynamics 365 Business Central: XLIFF translation files (Working with Translations) Hi everyone.Today’"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Design themes, headers, and footers for document reports with the updated Word add-in",
-   "url": "https://yzhums.com/76756/",
-   "published": "2026-10-16",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Design themes, headers, and footers for document reports with the updated Word add-in . Design do"
   }
  ],
  "links": {
