@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-18",
+  "generated_at": "2026-10-22",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "8228f9ac61abe7e628db",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-84515",
+      "version": "Continia Delivery Network 2026 R2, hotfix 1",
+      "title": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "c531267a82ad56f97786",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-83263",
+      "version": "Continia Delivery Network 2026 R2, hotfix 1",
+      "title": "Previously, when delegated users would complete the Customer Onboarding , they would receive an error that they are not allowed to schedule background",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "59c309155a016c966e25",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-84515",
+      "version": "Continia Delivery Network 2026 R2, hotfix 1",
+      "title": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "8756375009a10cade53d",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-83263",
+      "version": "Continia Delivery Network 2026 R2, hotfix 1",
+      "title": "Previously, when delegated users would complete the Customer Onboarding , they would receive an error, that they are not allowed to schedule backgroun",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "84267f06d217e055a48a",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bam-33819",
+      "version": "29.0",
+      "title": "BIRDS rebranding",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "f1982f6c5889cfccfeb6",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bam-33199",
+      "version": "29.0",
+      "title": "BIRDS rebranding",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "3f5f73ff326d65b4acf4",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bam-33197",
+      "version": "29.0",
+      "title": "BIRDS rebranding",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "602eb2efae87123b35a7",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bam-33194",
+      "version": "29.0",
+      "title": "BIRDS rebranding",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "5317ce8d248161112130",
+      "date": "2026-10-22",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bam-31299",
+      "version": "29.0",
+      "title": "BIRDS rebranding",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "b683cfbf0c000f1d52e9",
       "date": "2026-10-18",

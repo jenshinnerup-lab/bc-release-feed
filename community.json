@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21",
+ "generated_at": "2026-10-22",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -73,20 +73,20 @@
    "summary": "Hi, Readers. The Early Access Preview environment for Dynamics 365 Business Central 2027 release wave 1 (BC30) is available today. This information comes from BC Viva Engage PS: You can deploy a sandbox in the US, DE, or GB with the latest changes, allowing you to explore new features and capabilities before they are officially released. Your sandbox will automatically be kept up to date with the "
   },
   {
+   "source": "demiliani",
+   "kind": "blog",
+   "title": "Me @ Directions EMEA 2026",
+   "url": "https://demiliani.com/2026/10/21/me-directions-emea-2026/",
+   "published": "2026-10-21",
+   "summary": "Directions EMEA 2026 is landing in few days in Paris at Palais des Congrès de Paris. As usual, it will be a pleasure meeting lots of partners and talking with you about our favorite ERP… and also having a lot of fun together AI will be a core conference topic and this year I will have two particular sessions for you. From ERP to Intelligence: fine-tuning LLMs locally with Business Central data Org"
+  },
+  {
    "source": "yzhums",
    "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Cancelling a scheduled PTE update install (Next Major/Next Minor) in admin center",
    "url": "https://yzhums.com/76546/",
    "published": "2026-10-20",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . At the beginning of this year, we had a brief discussion about how to cancel a scheduled PTE update install (Next Major/Next Minor). More details: Dynamics 365 Business Central: Cancelling a scheduled PTE update install"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central Blog Series: Working with Translations and Languages",
-   "url": "https://yzhums.com/76355/",
-   "published": "2026-10-19",
-   "summary": "A collection of articles about translations, languages, localization, multilingual development, and language-related features in Dynamics 365 Business Central. Articles in this series: XLIFF translation files (Working with Translations) XLIFF translation files (Working with Translations) Microsoft Dynamics 365 Business Central: XLIFF translation files (Working with Translations) Hi everyone.Today’"
   }
  ],
  "links": {

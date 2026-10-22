@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18",
+  "generated_at": "2026-10-22",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -37434,6 +37434,18 @@
       "product_name": "Dynalogic Birds JobManager"
     },
     {
+      "id": "dynalogic-djm-32626",
+      "version": "02.01",
+      "area": "Developer",
+      "title": "New developer AL events for 02.01",
+      "summary": "New events in Codeunit.JobManNavEventPublisher: OnCodeunit_JobManPayCalculation_CheckRelativeDate OnJobManPubHolidayProvider_Discover OnJobManPubHolidayProvider_GetHolidays OnAfterCalculate (from 02.00) OnPayCalcEmployeeBefore OnPayCalcEmployeeAfter",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20JobManager/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds JobManager"
+    },
+    {
       "id": "dynalogic-djm-32629",
       "version": "02.01",
       "area": "Pay and agreements",
@@ -37619,18 +37631,6 @@
       "area": "Pay and agreements",
       "title": "Balance limit on today",
       "summary": "New feature on Balance setup - Possibility to limit the balance view until \"today\". Can be used on eg. vacation balance.",
-      "doc_url": "https://releasenotes.dynalogic.com/Birds%20JobManager/",
-      "country_code": "",
-      "general_availability": "",
-      "publisher": "Dynalogic",
-      "product_name": "Dynalogic Birds JobManager"
-    },
-    {
-      "id": "dynalogic-djm-32626",
-      "version": "02.00",
-      "area": "Developer",
-      "title": "New developer AL events for 02.01",
-      "summary": "New events in Codeunit.JobManNavEventPublisher: OnCodeunit_JobManPayCalculation_CheckRelativeDate OnJobManPubHolidayProvider_Discover OnJobManPubHolidayProvider_GetHolidays OnAfterCalculate (from 02.00) OnPayCalcEmployeeBefore OnPayCalcEmployeeAfter",
       "doc_url": "https://releasenotes.dynalogic.com/Birds%20JobManager/",
       "country_code": "",
       "general_availability": "",
@@ -49516,6 +49516,66 @@
       "general_availability": "",
       "publisher": "Dynalogic",
       "product_name": "Dynalogic Birds Document Warehouse"
+    },
+    {
+      "id": "dynalogic-bam-31299",
+      "version": "29.0",
+      "area": "Item Configurator",
+      "title": "BIRDS rebranding",
+      "summary": "App is being rebranded into Dynalogic BIRDS identity UI will also be undergoing small changes in naming and search, so it is visible where BIRDS apps are included into the Business Central environment.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Advanced%20Manufacturing%20for%20BC/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Advanced Manufacturing"
+    },
+    {
+      "id": "dynalogic-bam-33194",
+      "version": "29.0",
+      "area": "CAD-PLM Integration",
+      "title": "BIRDS rebranding",
+      "summary": "App is being rebranded into Dynalogic BIRDS identity UI will also be undergoing small changes in naming and search, so it is visible where BIRDS apps are included into the Business Central environment.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Advanced%20Manufacturing%20for%20BC/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Advanced Manufacturing"
+    },
+    {
+      "id": "dynalogic-bam-33197",
+      "version": "29.0",
+      "area": "Project Based",
+      "title": "BIRDS rebranding",
+      "summary": "App is being rebranded into Dynalogic BIRDS identity UI will also be undergoing small changes in naming and search, so it is visible where BIRDS apps are included into the Business Central environment.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Advanced%20Manufacturing%20for%20BC/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Advanced Manufacturing"
+    },
+    {
+      "id": "dynalogic-bam-33199",
+      "version": "29.0",
+      "area": "Quality Mgt.",
+      "title": "BIRDS rebranding",
+      "summary": "App is being rebranded into Dynalogic BIRDS identity UI will also be undergoing small changes in naming and search, so it is visible where BIRDS apps are included into the Business Central environment.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Advanced%20Manufacturing%20for%20BC/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Advanced Manufacturing"
+    },
+    {
+      "id": "dynalogic-bam-33819",
+      "version": "29.0",
+      "area": "9A Advanced Manufacturing for BC",
+      "title": "BIRDS rebranding",
+      "summary": "App is being rebranded into Dynalogic BIRDS identity UI will also be undergoing small changes in naming and search, so it is visible where BIRDS apps are included into the Business Central environment.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20Advanced%20Manufacturing%20for%20BC/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds Advanced Manufacturing"
     },
     {
       "id": "dynalogic-bam-1819",
@@ -98664,6 +98724,30 @@
       "product_name": "Continia Document Capture"
     },
     {
+      "id": "continia-dc-84515",
+      "version": "Continia Document Capture 2026 R1, Service Pack 6, hotfix 1",
+      "functional_area": "Country and Regional",
+      "title": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred",
+      "summary": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred: PayableAmount is calculated incorrectly - PayableAmount ('<amount>') don't match total calculation ('<amount>'). The sum of PaymentTerms/Amount elements or the value of the first PaymentTerms/Amount must equal PayableAmount . The cac:PrepaidPayment section is now generated when a prepaid amount is specified, and the payment terms amount is set to match the payable amount.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
+      "hotfix_id": "84515",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-83263",
+      "version": "Continia Document Capture 2026 R1, Service Pack 6, hotfix 1",
+      "functional_area": "eDocuments",
+      "title": "Previously, when delegated users completed the customer onboarding, they received an error message stating they were not allowed to schedule backgroun",
+      "summary": "Previously, when delegated users completed the customer onboarding, they received an error message stating they were not allowed to schedule background tasks. This would roll back changes in Business Central and force users to resync with the backend before completing the onboarding. Now, delegated users can complete the customer onboarding without scheduling the background job.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
+      "hotfix_id": "83263",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
       "id": "continia-dc-83092",
       "version": "Continia Delivery Network 2026 R1, Service Pack 6",
       "functional_area": "Country and Regional",
@@ -100543,6 +100627,30 @@
       "summary": "Previously, when opening a posted purchase invoice or credit memo, the following error could occur: Unfortunately, The current permissions have prevented the action. (CodeUnit 6225559 CTS-CDN eDocument Feature Execute: Continia Delivery Network)",
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
       "hotfix_id": "75306",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-84515",
+      "version": "Continia Delivery Network 2026 R2, hotfix 1",
+      "functional_area": "Country and Regional",
+      "title": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred",
+      "summary": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred: PayableAmount is calculated incorrectly - PayableAmount ('<amount>') don't match total calculation ('<amount>') The sum of PaymentTerms/Amount elements or the value of the first PaymentTerms/Amount must equal PayableAmount . The cac:PrepaidPayment section is now generated when a prepaid amount is specified, and the Payment Terms amount is set to match the payable amount.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
+      "hotfix_id": "84515",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-83263",
+      "version": "Continia Delivery Network 2026 R2, hotfix 1",
+      "functional_area": "eDocuments",
+      "title": "Previously, when delegated users would complete the Customer Onboarding , they would receive an error, that they are not allowed to schedule backgroun",
+      "summary": "Previously, when delegated users would complete the Customer Onboarding , they would receive an error, that they are not allowed to schedule background tasks. This would roll back changes in Business Central and force users to resync with the backend before completing the onboarding- This is now fixed, and delegated users can now complete the Customer Onboarding without scheduling the background job.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
+      "hotfix_id": "83263",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Document Capture"
@@ -112923,8 +113031,8 @@
       "id": "continia-dc-57113",
       "version": "Document Capture 2024 R1 Service Pack 2",
       "functional_area": "Platform and Technology",
-      "title": "If the Show Embedded PDF as Default field is marked but there is no PDF, the HTML is displayed – instead of no visualization at all.",
-      "summary": "If the Show Embedded PDF as Default field is marked but there is no PDF, the HTML is displayed – instead of no visualization at all.",
+      "title": "If the Show Embedded PDF as Default field is marked but there is no PDF, the HTML is displayed \u0000\u0000– instead of no visualization at all.",
+      "summary": "If the Show Embedded PDF as Default field is marked but there is no PDF, the HTML is displayed \u0000\u0000– instead of no visualization at all.",
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/previous-changelogs/document-capture-2024-r1/",
       "hotfix_id": "57113",
       "country_code": "",
@@ -120120,6 +120228,30 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-84515",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 6, hotfix 1",
+      "functional_area": "Country and Regional",
+      "title": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred",
+      "summary": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred: PayableAmount is calculated incorrectly - PayableAmount ('<amount>') don't match total calculation ('<amount>') The sum of PaymentTerms/Amount elements or the value of the first PaymentTerms/Amount must equal PayableAmount This has been fixed. The cac:PrepaidPayment section is now generated when a prepaid amount is specified, and the Payment Terms amount is set to match the payable amount.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "84515",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-83263",
+      "version": "Continia Delivery Network 2026 R1 Service Pack 6, hotfix 1",
+      "functional_area": "eDocuments",
+      "title": "Previously, when delegated users would complete the Customer Onboarding , they would receive an error that they are not allowed to schedule background",
+      "summary": "Previously, when delegated users would complete the Customer Onboarding , they would receive an error that they are not allowed to schedule background tasks. This would roll back changes in Business Central and force users to resync with the backend before completing the onboarding. This has been fixed, and delegated users can now complete the Customer Onboarding without scheduling the background job.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "83263",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-83092",
       "version": "Continia Delivery Network 2026 R1 Service Pack 6",
       "functional_area": "Country and Regional",
@@ -121399,6 +121531,30 @@
       "summary": "Previously, when importing the OIOUBL XML structure configuration, related network profiles had to be mapped manually. Without this mapping, exporting eDocuments could fail. Network profiles are now automatically mapped to the XML structures during import.",
       "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
       "hotfix_id": "75968",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-84515",
+      "version": "Continia Delivery Network 2026 R2, hotfix 1",
+      "functional_area": "Country and Regional",
+      "title": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred",
+      "summary": "When an OIOUBL invoice that contained a prepaid amount was sent, the following validation errors occurred: PayableAmount is calculated incorrectly - PayableAmount ('<amount>') don't match total calculation ('<amount>') The sum of PaymentTerms/Amount elements or the value of the first PaymentTerms/Amount must equal PayableAmount This has been fixed. The cac:PrepaidPayment section is now generated when a prepaid amount is specified, and the Payment Terms amount is set to match the payable amount.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r2/",
+      "hotfix_id": "84515",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-83263",
+      "version": "Continia Delivery Network 2026 R2, hotfix 1",
+      "functional_area": "eDocuments",
+      "title": "Previously, when delegated users would complete the Customer Onboarding , they would receive an error that they are not allowed to schedule background",
+      "summary": "Previously, when delegated users would complete the Customer Onboarding , they would receive an error that they are not allowed to schedule background tasks. This would roll back changes in Business Central and force users to resync with the backend before completing the onboarding. This has been fixed, and delegated users can now complete the Customer Onboarding without scheduling the background job.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r2/",
+      "hotfix_id": "83263",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Document Output"
@@ -125479,6 +125635,30 @@
       "summary": "On the Expenses , Mileage , Per Diems , and Expense Reports lists and their posted counterparts, the amount column was placed too far to the right and required horizontal scrolling. The amount column now displays immediately after Description .",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-management-2026-r2/",
       "hotfix_id": "79512",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Expense App 29.01",
+      "functional_area": "General Application",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-mobile-app/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Expense App 29.00 Hotfix 1",
+      "functional_area": "General Application",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-mobile-app/",
+      "hotfix_id": "N/A",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
@@ -143856,6 +144036,18 @@
       "product_name": "Continia Payment Management"
     },
     {
+      "id": "dynalogic-djm-33503",
+      "version": "02.01.175.0",
+      "functional_area": "Mobile app",
+      "title": "Mobile Time Sheet fixes",
+      "summary": "In some situations a day could be open for edit, though the day has already been Time Calculated. Also some days could be non editable where it should have been. Item Consumption now allways active.",
+      "doc_url": "https://releasenotes.dynalogic.com/Birds%20JobManager/",
+      "hotfix_id": "33503",
+      "country_code": "",
+      "publisher": "Dynalogic",
+      "product_name": "Dynalogic Birds JobManager"
+    },
+    {
       "id": "dynalogic-djm-32413",
       "version": "02.01",
       "functional_area": "Time calculation and approval",
@@ -143899,18 +144091,6 @@
       "summary": "Security group not applied to \"My Employee\" Page",
       "doc_url": "https://releasenotes.dynalogic.com/Birds%20JobManager/",
       "hotfix_id": "33126",
-      "country_code": "",
-      "publisher": "Dynalogic",
-      "product_name": "Dynalogic Birds JobManager"
-    },
-    {
-      "id": "dynalogic-djm-33503",
-      "version": "02.01",
-      "functional_area": "Mobile app",
-      "title": "Mobile Time Sheet fixes",
-      "summary": "In some situations a day could be open for edit, though the day has already been Time Calculated. Also some days could be non editable where it should have been. Item Consumption now allways active.",
-      "doc_url": "https://releasenotes.dynalogic.com/Birds%20JobManager/",
-      "hotfix_id": "33503",
       "country_code": "",
       "publisher": "Dynalogic",
       "product_name": "Dynalogic Birds JobManager"
