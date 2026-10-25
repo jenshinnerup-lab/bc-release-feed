@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24",
+ "generated_at": "2026-10-25",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -65,6 +65,14 @@
  ],
  "latest": [
   {
+   "source": "waldo",
+   "kind": "blog",
+   "title": "BCObservatory: explore all Business Central knowledge with an agent .. and more",
+   "url": "https://waldo.be/2026/10/24/bcobservatory-explore-all-business-central-knowledge-with-an-agent-and-more/",
+   "published": "2026-10-24",
+   "summary": "So.. here’s a train of thoughts. Business Central doesn’t have an information problem. We have HUUUGE amounts of it. Learn . The BCApps repo . The roadmap . YouTube sessions. And an awesome community writing blogs about all of it. Here’s the thing though. None of it is connected. Nothing links a Learn page to the code it documents. Nothing links that code to the session that explains it, or to the"
+  },
+  {
    "source": "demiliani",
    "kind": "blog",
    "title": "Dynamics 365 Business Central: introducing the new “Recent Record” virtual table",
@@ -79,14 +87,6 @@
    "url": "https://demiliani.com/2026/10/23/copilots-and-agents-for-dynamics-365-business-central-our-new-book-is-out/",
    "published": "2026-10-23",
    "summary": "I’m excited to share that my new book, Copilots and Agents for Dynamics 365 Business Central , is now available from Packt. This book originated from an idea I had over a year ago, when, while speaking with partners, I realized there was a great deal of confusion regarding how to create AI solutions for Business Central. I therefore decided to involve 3 friends who agreed immediately, and whom I m"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): New “Recent Record” virtual table (2000000174)",
-   "url": "https://yzhums.com/76509/",
-   "published": "2026-10-23",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about new “ Recent Record ” virtual table. This is not yet documented in the Business Central 2026 rele"
   }
  ],
  "links": {
