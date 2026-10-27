@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25",
+  "generated_at": "2026-10-27",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -95163,8 +95163,8 @@
       "id": "continia-dc-60191",
       "version": "Document Capture 2024 R2, Service Pack 1",
       "functional_area": "eDocuments",
-      "title": "When importing electronic documents using Continia eDocuments, document lines were recognized even though the values captured were not valid \u0000\u0000– or no",
-      "summary": "When importing electronic documents using Continia eDocuments, document lines were recognized even though the values captured were not valid \u0000\u0000– or no value was found for a field configured as required.",
+      "title": "When importing electronic documents using Continia eDocuments, document lines were recognized even though the values captured were not valid – or no v",
+      "summary": "When importing electronic documents using Continia eDocuments, document lines were recognized even though the values captured were not valid – or no value was found for a field configured as required.",
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2024-r2/",
       "hotfix_id": "60191",
       "country_code": "",
@@ -100627,6 +100627,18 @@
       "summary": "Previously, when opening a posted purchase invoice or credit memo, the following error could occur: Unfortunately, The current permissions have prevented the action. (CodeUnit 6225559 CTS-CDN eDocument Feature Execute: Continia Delivery Network)",
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
       "hotfix_id": "75306",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-85537",
+      "version": "Document Capture 2026 R2, hotfix 1",
+      "functional_area": "General Application",
+      "title": "Previously, the AI capabilities for account and line suggestions were added only when Document Capture was installed for the first time.",
+      "summary": "Previously, the AI capabilities for account and line suggestions were added only when Document Capture was installed for the first time. Companies that upgraded from an earlier version – including from Document Capture 2026 R1 (28.0) to 2026 R2 (29.0) – did not get these capabilities, so the suggestions were not available. The capabilities are now added when the company is upgraded. A capability that is already set up is left unchanged, and a capability added by the upgrade is not turned on unti",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
+      "hotfix_id": "85537",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Document Capture"

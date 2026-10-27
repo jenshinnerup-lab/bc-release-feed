@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26",
+ "generated_at": "2026-10-27",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -65,28 +65,28 @@
  ],
  "latest": [
   {
+   "source": "demiliani",
+   "kind": "blog",
+   "title": "Dynamics 365 Business Central: matching Production database configuration for Sandboxes.",
+   "url": "https://demiliani.com/2026/10/26/dynamics-365-business-central-matching-production-database-configuration-for-sandboxes/",
+   "published": "2026-10-26",
+   "summary": "One of the most frequent requests from Business Central partners for a long time has been the ability to have a performance level similar to that of a production environment (that runs in a premium tier) within a sandbox environment, for the purpose of conducting tests or other temporary activities. With Dynamics 365 Business Central 2026 Wave 2, Microsoft is introducing in Admin Center the possib"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
+   "title": "Dynamics 365 Business Central: The AL Table Proxy Generator is distributed in the Microsoft.Dynamics.BusinessCentral.Development.Tools.Altpgen NuGet package (altpgen.exe missing from AL Language extension)",
+   "url": "https://yzhums.com/76918/",
+   "published": "2026-10-26",
+   "summary": "Hi, Readers. Today I would like to briefly talk about a qustion I saw in the Dynamics 365 Community before, the AL Table Proxy Generator is distributed in the Microsoft.Dynamics.BusinessCentral.Development.Tools.Altpgen NuGet package (altpgen.exe missing from AL Language extension), more details: altpgen.exe missing from AL Language extension 18.x. Is the NuGet package the supported way? As you mi"
+  },
+  {
    "source": "yzhums",
    "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Evolve AL interfaces with default implementations (Default interface method implementations)",
    "url": "https://yzhums.com/76547/",
    "published": "2026-10-26",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Evolve AL interfaces with default implementations (Default interface method implementations). Evo"
-  },
-  {
-   "source": "waldo",
-   "kind": "blog",
-   "title": "BCObservatory: explore all Business Central knowledge with an agent .. and more",
-   "url": "https://waldo.be/2026/10/24/bcobservatory-explore-all-business-central-knowledge-with-an-agent-and-more/",
-   "published": "2026-10-24",
-   "summary": "So.. here’s a train of thoughts. Business Central doesn’t have an information problem. We have HUUUGE amounts of it. Learn . The BCApps repo . The roadmap . YouTube sessions. And an awesome community writing blogs about all of it. Here’s the thing though. None of it is connected. Nothing links a Learn page to the code it documents. Nothing links that code to the session that explains it, or to the"
-  },
-  {
-   "source": "demiliani",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central: introducing the new “Recent Record” virtual table",
-   "url": "https://demiliani.com/2026/10/23/dynamics-365-business-central-introducing-the-new-recent-record-virtual-table/",
-   "published": "2026-10-23",
-   "summary": "Dynamics 365 Business Central 2026 Wave 2 release (v29) silently introduces a new virtual table called Recent Record . This table (defined in the System.Environment namespace) lists the records most recently accessed by the current user in the current company . Each row identifies one referenced record. The list is always scoped to the current user and company and those dimensions are not exposed "
   }
  ],
  "links": {
