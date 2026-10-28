@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -26172,6 +26172,18 @@
       "title": "The Continia Expense Mobile App now helps you assign expenses that are not yet linked to a company.",
       "summary": "The Continia Expense Mobile App now helps you assign expenses that are not yet linked to a company. If one or more expenses have not been assigned to a company, you're asked whether you want to assign them. If you do, then you can select the relevant company for each on the them.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-mobile-app/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-84957",
+      "version": "Expense Portal 29.0.0.3",
+      "area": "Expenses",
+      "title": "When Continia Expense Management creates an expense from a scanned receipt, the Description field is now filled with a description suggested by AI.",
+      "summary": "When Continia Expense Management creates an expense from a scanned receipt, the Description field is now filled with a description suggested by AI. This applies to expenses created by the Expense Agent (including files sent to the Expense Agent from the Continia Expense Mobile App), expenses created via email, and to files added to an expense report. The suggested description is written in the company's language style, states what was purchased, where, and when. Dates include the year and use th",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
       "country_code": "",
       "general_availability": "",
       "publisher": "Continia",
@@ -125712,6 +125724,18 @@
       "product_name": "Continia Expense Management"
     },
     {
+      "id": "continia-em-N/A",
+      "version": "Expense Portal 29.0.0.5",
+      "functional_area": "General Application",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
       "id": "continia-em-85545",
       "version": "Expense Portal 29.0.0.4",
       "functional_area": "Expense Mobile App and Portal",
@@ -125738,6 +125762,18 @@
     {
       "id": "continia-em-N/A",
       "version": "Expense Portal 29.0.0.4",
+      "functional_area": "General Application",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Expense Portal 29.0.0.3",
       "functional_area": "General Application",
       "title": "Minor bug fixes and improvements.",
       "summary": "Minor bug fixes and improvements.",

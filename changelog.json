@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "ffecb0cfeec2181e5aec",
+      "date": "2026-10-28",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-84957",
+      "version": "Expense Portal 29.0.0.3",
+      "title": "When Continia Expense Management creates an expense from a scanned receipt, the Description field is now filled with a description suggested by AI.",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "69ea230eea22641b4f8b",
       "date": "2026-10-27",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27",
+ "generated_at": "2026-10-28",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -65,6 +65,14 @@
  ],
  "latest": [
   {
+   "source": "yzhums",
+   "kind": "blog",
+   "title": "Dynamics 365 Business Central: An error occurred when communicating with Dataverse (User does not have required privileges to access the org when it is in Admin Only mode)",
+   "url": "https://yzhums.com/76990/",
+   "published": "2026-10-28",
+   "summary": "Hi, Readers. Today I would like to share an error handling of Business Central, an error occurred when communicating with Dataverse (User does not have required privileges to access the org when it is in Admin Only mode). Recently, a partner ran into this exact issue while setting up the Dataverse integration in Business Central. More details: Dynamics 365 Business Central Blog Series: Integrate w"
+  },
+  {
    "source": "demiliani",
    "kind": "blog",
    "title": "Dynamics 365 Business Central: matching Production database configuration for Sandboxes.",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76918/",
    "published": "2026-10-26",
    "summary": "Hi, Readers. Today I would like to briefly talk about a qustion I saw in the Dynamics 365 Community before, the AL Table Proxy Generator is distributed in the Microsoft.Dynamics.BusinessCentral.Development.Tools.Altpgen NuGet package (altpgen.exe missing from AL Language extension), more details: altpgen.exe missing from AL Language extension 18.x. Is the NuGet package the supported way? As you mi"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Evolve AL interfaces with default implementations (Default interface method implementations)",
-   "url": "https://yzhums.com/76547/",
-   "published": "2026-10-26",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Evolve AL interfaces with default implementations (Default interface method implementations). Evo"
   }
  ],
  "links": {
