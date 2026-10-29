@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28",
+ "generated_at": "2026-10-29",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Page Scripting enters General Availability with two new capabilities",
+   "url": "https://yzhums.com/77021/",
+   "published": "2026-10-29",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Page Scripting enters General Availability with two new capabilities. Page Scripting enters Gener"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Dynamics 365 Business Central: An error occurred when communicating with Dataverse (User does not have required privileges to access the org when it is in Admin Only mode)",
    "url": "https://yzhums.com/76990/",
    "published": "2026-10-28",
@@ -79,14 +87,6 @@
    "url": "https://demiliani.com/2026/10/26/dynamics-365-business-central-matching-production-database-configuration-for-sandboxes/",
    "published": "2026-10-26",
    "summary": "One of the most frequent requests from Business Central partners for a long time has been the ability to have a performance level similar to that of a production environment (that runs in a premium tier) within a sandbox environment, for the purpose of conducting tests or other temporary activities. With Dynamics 365 Business Central 2026 Wave 2, Microsoft is introducing in Admin Center the possib"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central: The AL Table Proxy Generator is distributed in the Microsoft.Dynamics.BusinessCentral.Development.Tools.Altpgen NuGet package (altpgen.exe missing from AL Language extension)",
-   "url": "https://yzhums.com/76918/",
-   "published": "2026-10-26",
-   "summary": "Hi, Readers. Today I would like to briefly talk about a qustion I saw in the Dynamics 365 Community before, the AL Table Proxy Generator is distributed in the Microsoft.Dynamics.BusinessCentral.Development.Tools.Altpgen NuGet package (altpgen.exe missing from AL Language extension), more details: altpgen.exe missing from AL Language extension 18.x. Is the NuGet package the supported way? As you mi"
   }
  ],
  "links": {
@@ -157,6 +157,16 @@
     "title": "Business Central 2026 release wave 1 (BC28): Use self-billed invoices",
     "url": "https://yzhums.com/71666/",
     "published": "2026-04-06",
+    "matched_by": "title"
+   }
+  ],
+  "0c2ce2df313a2657": [
+   {
+    "source": "yzhums",
+    "kind": "blog",
+    "title": "Business Central 2026 release wave 2 (BC29): Page Scripting enters General Availability with two new capabilities",
+    "url": "https://yzhums.com/77021/",
+    "published": "2026-10-29",
     "matched_by": "title"
    }
   ],
