@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-10-30",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "64b9661b99c1163600cb",
+      "date": "2026-10-30",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-76742",
+      "version": "Document Output 2026 R2",
+      "title": "Corrected an issue where the print service was trying to modify the same data twice, causing an error in the event log.",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "67c4083e4cbb1f2be5f7",
       "date": "2026-10-29",

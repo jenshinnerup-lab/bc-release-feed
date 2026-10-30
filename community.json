@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29",
+ "generated_at": "2026-10-30",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Custom Report Layouts are now deprecated and have been removed",
+   "url": "https://yzhums.com/77038/",
+   "published": "2026-10-30",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Custom Report Layouts are now deprecated and have been removed. A report layout controls the cont"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Page Scripting enters General Availability with two new capabilities",
    "url": "https://yzhums.com/77021/",
    "published": "2026-10-29",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76990/",
    "published": "2026-10-28",
    "summary": "Hi, Readers. Today I would like to share an error handling of Business Central, an error occurred when communicating with Dataverse (User does not have required privileges to access the org when it is in Admin Only mode). Recently, a partner ran into this exact issue while setting up the Dataverse integration in Business Central. More details: Dynamics 365 Business Central Blog Series: Integrate w"
-  },
-  {
-   "source": "demiliani",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central: matching Production database configuration for Sandboxes.",
-   "url": "https://demiliani.com/2026/10/26/dynamics-365-business-central-matching-production-database-configuration-for-sandboxes/",
-   "published": "2026-10-26",
-   "summary": "One of the most frequent requests from Business Central partners for a long time has been the ability to have a performance level similar to that of a production environment (that runs in a premium tier) within a sandbox environment, for the purpose of conducting tests or other temporary activities. With Dynamics 365 Business Central 2026 Wave 2, Microsoft is introducing in Admin Center the possib"
   }
  ],
  "links": {

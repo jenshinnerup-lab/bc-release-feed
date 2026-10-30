@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-10-30",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -121572,6 +121572,18 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-76742",
+      "version": "Document Output 2026 R1 Service Pack 2",
+      "functional_area": "Platform and Technology",
+      "title": "Corrected an issue where the print service was trying to modify the same data twice, causing an error in the event log.",
+      "summary": "Corrected an issue where the print service was trying to modify the same data twice, causing an error in the event log.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "76742",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-78540",
       "version": "Document Output 2026 R1 Service Pack 1, hotfix 3",
       "functional_area": "General Application",
@@ -121879,6 +121891,18 @@
       "summary": "Previously, in Business Central online, the Scenario Flow field could not be changed on the Posted Sales Invoice and Posted Sales Credit Memo pages, even for users with the required permission sets. This was because Business Central online only allows posted documents to be modified through the standard update process. The Scenario Flow field has now been added to the page that opens from the Update Document action. The scenario flow can therefore be changed on posted sales invoices and credit m",
       "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r2/",
       "hotfix_id": "83743",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-76742",
+      "version": "Document Output 2026 R2",
+      "functional_area": "Platform and Technology",
+      "title": "Corrected an issue where the print service was trying to modify the same data twice, causing an error in the event log.",
+      "summary": "Corrected an issue where the print service was trying to modify the same data twice, causing an error in the event log.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r2/",
+      "hotfix_id": "76742",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Document Output"
@@ -125917,10 +125941,58 @@
     },
     {
       "id": "continia-em-N/A",
+      "version": "Expense Portal 29.0.0.7",
+      "functional_area": "Expenses",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Expense Portal 29.0.0.6",
+      "functional_area": "Expenses",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Expense Portal 29.0.0.6",
+      "functional_area": "Expenses",
+      "title": "Minor bug fixes and optimizations.",
+      "summary": "Minor bug fixes and optimizations.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
       "version": "Expense Portal 29.0.0.5",
       "functional_area": "General Application",
       "title": "Minor bug fixes and improvements.",
       "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Expense Portal 29.0.0.5",
+      "functional_area": "Expenses",
+      "title": "Minor bug fixes and optimizations.",
+      "summary": "Minor bug fixes and optimizations.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
       "hotfix_id": "N/A",
       "country_code": "",
