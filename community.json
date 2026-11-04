@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03",
+ "generated_at": "2026-11-04",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): Match Production Database Configuration",
+   "url": "https://yzhums.com/77070/",
+   "published": "2026-11-04",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Match Production Database Configuration . This is not yet documented in the Business Central 2026"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): Custom Report Layouts are now deprecated and have been removed",
    "url": "https://yzhums.com/77038/",
    "published": "2026-10-30",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/77021/",
    "published": "2026-10-29",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Page Scripting enters General Availability with two new capabilities. Page Scripting enters Gener"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central: An error occurred when communicating with Dataverse (User does not have required privileges to access the org when it is in Admin Only mode)",
-   "url": "https://yzhums.com/76990/",
-   "published": "2026-10-28",
-   "summary": "Hi, Readers. Today I would like to share an error handling of Business Central, an error occurred when communicating with Dataverse (User does not have required privileges to access the org when it is in Admin Only mode). Recently, a partner ran into this exact issue while setting up the Dataverse integration in Business Central. More details: Dynamics 365 Business Central Blog Series: Integrate w"
   }
  ],
  "links": {

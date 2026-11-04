@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-03",
+  "generated_at": "2026-11-04",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "ee23d869ac8f2dfaaaeb",
+      "date": "2026-11-04",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-opp-85123",
+      "version": "OPplus 2026 R2, Service Pack 1",
+      "title": "On-prem: when OPplus was installed but not activated, every OPplus subscriber on Gen.",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "4d5f6d37daa298f500ff",
       "date": "2026-11-03",
