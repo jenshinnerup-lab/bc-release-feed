@@ -1,7 +1,8 @@
 # Business Central Release Feed
 
 Public import feed for the **Business Central Release Radar** per-tenant
-extension. One file, regenerated from Microsoft's published release notes:
+extension. One file, regenerated from Microsoft's published release notes and
+the release notes of supported ISVs:
 
 ```
 releases.json
@@ -116,5 +117,7 @@ Customer selections never leave the Business Central tenant.
 
 ## Attribution
 
-Titles, summaries and links are Microsoft's, derived from the public Business
-Central release notes and release plans on Microsoft Learn.
+Microsoft items are derived from Microsoft's public Business Central release
+notes and release plans on Microsoft Learn. ISV items use each publisher's
+public release notes; the Tasklet Factory catalog covers Tasklet Mobile WMS for
+Business Central.
