@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04",
+ "generated_at": "2026-11-05",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,26 +67,26 @@
   {
    "source": "yzhums",
    "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Match Production Database Configuration",
-   "url": "https://yzhums.com/77070/",
+   "title": "Dynamics 365 Business Central: How to import Change Log Setup (Table/Field) using Configuration Packages",
+   "url": "https://yzhums.com/76760/",
+   "published": "2026-11-05",
+   "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central, how to import Change Log Setup (Table/Field) using Configuration Packages. I was recently asked about this topic, so I would like to share a quick overview here. The change log in Business Central lets you track all direct modifications a user makes to data in the database. You specify each table and field that you w"
+  },
+  {
+   "source": "demiliani",
+   "kind": "blog",
+   "title": "Giving an AI agent the keys to Business Central: practical security tips.",
+   "url": "https://demiliani.com/2026/11/04/giving-an-ai-agent-the-keys-to-business-central-practical-security-tips/",
    "published": "2026-11-04",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Match Production Database Configuration . This is not yet documented in the Business Central 2026"
+   "summary": "It is 7:40 on a Monday morning. Overnight, an AI agent has read 40 vendor invoices from the accounts-payable mailbox and created 40 draft purchase invoices in Business Central. 39 are perfect. 1 carries a bank account that no one in the company has ever seen. Whether that is a minor issue or a very expensive problem depends entirely on decisions made weeks earlier: which identity the agent used, w"
   },
   {
-   "source": "yzhums",
+   "source": "demiliani",
    "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Custom Report Layouts are now deprecated and have been removed",
-   "url": "https://yzhums.com/77038/",
-   "published": "2026-10-30",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Custom Report Layouts are now deprecated and have been removed. A report layout controls the cont"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29): Page Scripting enters General Availability with two new capabilities",
-   "url": "https://yzhums.com/77021/",
-   "published": "2026-10-29",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Page Scripting enters General Availability with two new capabilities. Page Scripting enters Gener"
+   "title": "Dynamics 365 Business Central: service update to .NET 10 and upgrade window.",
+   "url": "https://demiliani.com/2026/11/04/dynamics-365-business-central-service-update-to-net-10-and-upgrade-window/",
+   "published": "2026-11-04",
+   "summary": "Today I’ve received 4 requests always with the same problem: the following message appeared on some Dynamics 365 Business Central online environments: and then some environments were unresponsive for a bit of time : If you remember I wrote a post about .NET 8 end of support around one month ago, you can read it here . In these months (and before November 10, 2026) Microsoft is transitioning suppor"
   }
  ],
  "links": {
