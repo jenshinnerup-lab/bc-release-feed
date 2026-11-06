@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "f7704addab25f0154006",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-85055",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Pinned version 8.0.2 of the System.Security.Cryptography.Pkcs package to fix vulnerabilities CVE-2026-84008 and CVE-2026-70162.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "524c128a0e0eaa043c80",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-82597",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Job No.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "0cf871db4d45b4871980",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-80972, 85295",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Fixed incorrect translations of 'Added by' in comments and attachments, as well as Polish translation errors.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "7015ba186baeb4552690",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-80048",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Fixed comment and approver timestamps showing the wrong date when the client timezone offset crosses midnight.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "eed66532c98d51c18e1c",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-69293",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Fixed purchase approvals showing vendor invoice numbers in the Vendor Credit Memo No.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "7fdedb9c1bc72a8c70df",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-85055",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Pinned version 8.0.2 of the System.Security.Cryptography.Pkcs package to fix vulnerabilities CVE-2026-84008 and CVE-2026-70162.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "82e211010b3382c5a1c2",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-82597",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Job No.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "2b32478366a3738f709d",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-80972, 85295",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Fixed incorrect translations of 'Added by' in comments and attachments, as well as Polish translation errors.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "4014206afa734c308369",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-80048",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Fixed comment and approver timestamps showing the wrong date when the client timezone offset crosses midnight.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "5bab53055ca8dc49ff34",
+      "date": "2026-11-06",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-69293",
+      "version": "Web Approval Portal 28.0.8",
+      "title": "Fixed purchase approvals showing vendor invoice numbers in the Vendor Credit Memo No.",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "f77c68ab127dc29ce24a",
       "date": "2026-11-05",

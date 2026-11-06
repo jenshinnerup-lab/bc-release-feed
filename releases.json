@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -118200,6 +118200,90 @@
       "product_name": "Continia Document Capture"
     },
     {
+      "id": "continia-dc-82597",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Job No.",
+      "summary": "Job No. and Job Task No. captions and the contract line type now use project terms in Business Central 23 and later.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "82597",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Updated translations.",
+      "summary": "Updated translations.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "-",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-80048",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Fixed comment and approver timestamps showing the wrong date when the client timezone offset crosses midnight.",
+      "summary": "Fixed comment and approver timestamps showing the wrong date when the client timezone offset crosses midnight.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "80048",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc--",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Fixed an error when opening a settlement without approval entries or comments (EM 12.1).",
+      "summary": "Fixed an error when opening a settlement without approval entries or comments (EM 12.1).",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "-",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-69293",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Fixed purchase approvals showing vendor invoice numbers in the Vendor Credit Memo No.",
+      "summary": "Fixed purchase approvals showing vendor invoice numbers in the Vendor Credit Memo No. field on credit memos.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "69293",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-80972, 85295",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Fixed incorrect translations of 'Added by' in comments and attachments, as well as Polish translation errors.",
+      "summary": "Fixed incorrect translations of 'Added by' in comments and attachments, as well as Polish translation errors.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "80972, 85295",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-85055",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Pinned version 8.0.2 of the System.Security.Cryptography.Pkcs package to fix vulnerabilities CVE-2026-84008 and CVE-2026-70162.",
+      "summary": "Pinned version 8.0.2 of the System.Security.Cryptography.Pkcs package to fix vulnerabilities CVE-2026-84008 and CVE-2026-70162.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "85055",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
       "id": "continia-dc-72073",
       "version": "Web Approval Portal 28.0.7",
       "functional_area": "Bug fixes",
@@ -136723,6 +136807,90 @@
       "summary": "In the Australian localization, when using distribution codes and both the AMOUNT INCLUDING TAX and the TAX AMOUNT were configured, the following error would have occurred when the system was trying to do the automatic allocation. The tax amount entered (<value 1>) different from the calculated amount (<value 2>).",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/previous-changelogs/expense-management-2024-r1/",
       "hotfix_id": "53517",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-82597",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Job No.",
+      "summary": "Job No. and Job Task No. captions and the contract line type now use project terms in Business Central 23 and later.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "82597",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em--",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Updated translations.",
+      "summary": "Updated translations.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "-",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-80048",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Fixed comment and approver timestamps showing the wrong date when the client timezone offset crosses midnight.",
+      "summary": "Fixed comment and approver timestamps showing the wrong date when the client timezone offset crosses midnight.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "80048",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em--",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Fixed an error when opening a settlement without approval entries or comments (EM 12.1).",
+      "summary": "Fixed an error when opening a settlement without approval entries or comments (EM 12.1).",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "-",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-69293",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Fixed purchase approvals showing vendor invoice numbers in the Vendor Credit Memo No.",
+      "summary": "Fixed purchase approvals showing vendor invoice numbers in the Vendor Credit Memo No. field on credit memos.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "69293",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-80972, 85295",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Fixed incorrect translations of 'Added by' in comments and attachments, as well as Polish translation errors.",
+      "summary": "Fixed incorrect translations of 'Added by' in comments and attachments, as well as Polish translation errors.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "80972, 85295",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-85055",
+      "version": "Web Approval Portal 28.0.8",
+      "functional_area": "Bug fixes",
+      "title": "Pinned version 8.0.2 of the System.Security.Cryptography.Pkcs package to fix vulnerabilities CVE-2026-84008 and CVE-2026-70162.",
+      "summary": "Pinned version 8.0.2 of the System.Security.Cryptography.Pkcs package to fix vulnerabilities CVE-2026-84008 and CVE-2026-70162.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/web-approval-portal/",
+      "hotfix_id": "85055",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
