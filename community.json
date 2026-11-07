@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06",
+ "generated_at": "2026-11-07",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Cumulative Update Summary for Microsoft Dynamics 365 Business Central (November, 2026)",
+   "url": "https://yzhums.com/77153/",
+   "published": "2026-11-06",
+   "summary": "Cumulative Update (November, 2026) for Microsoft Dynamics 365 Business Central is now released . BC29: CU01 Cloud (SaaS) : Managing Production and Sandbox Environments in the Admin Center Version: W1 29.1 (Platform 29.0.57431.0 + Application 29.1.57326.57497) On-Premises: Update 29.1 for Microsoft Dynamics 365 Business Central 2026 Release Wave 2 (Application Build 29.1.57497, Platform Build 29.0."
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29): New notification bar",
    "url": "https://yzhums.com/77124/",
    "published": "2026-11-06",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/76760/",
    "published": "2026-11-05",
    "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central, how to import Change Log Setup (Table/Field) using Configuration Packages. I was recently asked about this topic, so I would like to share a quick overview here. The change log in Business Central lets you track all direct modifications a user makes to data in the database. You specify each table and field that you w"
-  },
-  {
-   "source": "demiliani",
-   "kind": "blog",
-   "title": "Giving an AI agent the keys to Business Central: practical security tips.",
-   "url": "https://demiliani.com/2026/11/04/giving-an-ai-agent-the-keys-to-business-central-practical-security-tips/",
-   "published": "2026-11-04",
-   "summary": "It is 7:40 on a Monday morning. Overnight, an AI agent has read 40 vendor invoices from the accounts-payable mailbox and created 40 draft purchase invoices in Business Central. 39 are perfect. 1 carries a bank account that no one in the company has ever seen. Whether that is a minor issue or a very expensive problem depends entirely on decisions made weeks earlier: which identity the agent used, w"
   }
  ],
  "links": {
