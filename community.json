@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08",
+ "generated_at": "2026-11-09",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Microsoft Announces New Business Central + Copilot Bundles Starting January 2027",
+   "url": "https://yzhums.com/77170/",
+   "published": "2026-11-09",
+   "summary": "Hi, Readers. Microsoft has announced a new Business Central + Copilot offer, making it easier for customers to purchase Dynamics 365 Business Central and Microsoft 365 Copilot together through a single CSP bundle. More details: Announcing new Business Central + Copilot offer and Copilot capabilities and New Business Central + Copilot bundled offers available January 1, 2027 The new bundles will be"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Cumulative Update Summary for Microsoft Dynamics 365 Business Central (November, 2026)",
    "url": "https://yzhums.com/77153/",
    "published": "2026-11-06",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/77124/",
    "published": "2026-11-06",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29) is generally available. More details: General Availability: Dynamics 365 Business Central 2026 release wave 2 (BC29) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about New notification bar . This is not yet documented in the Business Central 2026 release wave 2 (BC"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central: How to import Change Log Setup (Table/Field) using Configuration Packages",
-   "url": "https://yzhums.com/76760/",
-   "published": "2026-11-05",
-   "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central, how to import Change Log Setup (Table/Field) using Configuration Packages. I was recently asked about this topic, so I would like to share a quick overview here. The change log in Business Central lets you track all direct modifications a user makes to data in the database. You specify each table and field that you w"
   }
  ],
  "links": {
