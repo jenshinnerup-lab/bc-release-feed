@@ -1,34 +1,68 @@
 {
-  "updated_at": "2026-11-05T06:09:42Z",
+  "updated_at": "2026-11-09T04:31:27Z",
   "source": "One content hash per feed file, and a log of the builds that changed one. Check this before downloading the feed.",
   "files": {
     "releases.json": {
-      "hash": "fe30f7bf0b5dc3763e8a659f626c93a2841a791563dec530644b4dc0ea61d2ab",
-      "updated_at": "2026-11-05T06:09:42Z"
+      "hash": "9ffa155c931752ab891e0fa931abda31c7c482f3a7477fd0e7c3de97967bf388",
+      "updated_at": "2026-11-07T04:31:25Z"
     },
     "ideas.json": {
-      "hash": "abe8d36eed0f8892071ccf4fea4f0d4e22b83fea986a47cddb0fc9059b04a431",
-      "updated_at": "2026-11-05T04:33:04Z"
+      "hash": "6835720492f9018236868998328023135de0af5addd7be9eb75682f6ffa80c55",
+      "updated_at": "2026-11-08T05:11:30Z"
     },
     "changelog.json": {
-      "hash": "b1d4efed686cc80cd068eabcc416c483570469c1191ab0c6ca111d62b6ac7bd0",
-      "updated_at": "2026-11-05T04:33:04Z"
+      "hash": "7e7ce0f0bd732bcd8ed2d76f4fe72e9735a329089c2a6c3e1692e2c947513332",
+      "updated_at": "2026-11-07T04:31:25Z"
     },
     "community.json": {
-      "hash": "033848d3958e25da64795b4da6d3b5bb22778549d6cba2a336370da6453c19a7",
-      "updated_at": "2026-11-05T04:33:04Z"
+      "hash": "b30601683c143c7c0f3dc58a7338f7fe5194412c85ba459303f3ce9b477f6605",
+      "updated_at": "2026-11-09T04:31:27Z"
     }
   },
   "activity": [
     {
-      "at": "2026-11-05T06:09:42Z",
+      "at": "2026-11-09T04:31:27Z",
       "files": [
-        "releases.json"
+        "community.json"
+      ],
+      "features": 4112,
+      "hotfixes": 8671,
+      "ideas": 3639,
+      "changelog_entries": 0
+    },
+    {
+      "at": "2026-11-08T05:11:30Z",
+      "files": [
+        "ideas.json"
+      ],
+      "features": 4112,
+      "hotfixes": 8671,
+      "ideas": 3639,
+      "changelog_entries": 0
+    },
+    {
+      "at": "2026-11-07T04:31:25Z",
+      "files": [
+        "releases.json",
+        "changelog.json",
+        "community.json"
+      ],
+      "features": 4112,
+      "hotfixes": 8671,
+      "ideas": 3635,
+      "changelog_entries": 78
+    },
+    {
+      "at": "2026-11-06T04:33:05Z",
+      "files": [
+        "releases.json",
+        "changelog.json",
+        "community.json"
       ],
       "features": 4095,
-      "hotfixes": 8596,
+      "hotfixes": 8610,
       "ideas": 3635,
-      "changelog_entries": 0
+      "changelog_entries": 10
     },
     {
       "at": "2026-11-05T04:33:04Z",

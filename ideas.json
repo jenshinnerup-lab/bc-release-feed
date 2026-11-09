@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-08",
   "source": "Derived from Microsoft's public Business Central Ideas portal (aka.ms/bcideas). Titles are the authors'; author names are left out.",
   "ideas": [
     {
@@ -19,7 +19,7 @@
       "title": "Save page filter with column layout",
       "status": "Under Review",
       "planned_for": "",
-      "votes": 664,
+      "votes": 665,
       "category": "General",
       "area": "Unclassified",
       "created": "2020-08-17",
@@ -79,7 +79,7 @@
       "title": "Show number of recods in list",
       "status": "Under Review",
       "planned_for": "",
-      "votes": 449,
+      "votes": 450,
       "category": "General",
       "area": "Unclassified",
       "created": "2018-11-25",
@@ -91,7 +91,7 @@
       "title": "Enable incremental refresh for Business Central in Power BI",
       "status": "Needs Votes",
       "planned_for": "",
-      "votes": 425,
+      "votes": 426,
       "category": "Reports and Business Intelligence",
       "area": "Reporting and data analysis",
       "created": "2021-01-27",
@@ -175,7 +175,7 @@
       "title": "Recurring General Journal Approval",
       "status": "Under Review",
       "planned_for": "",
-      "votes": 357,
+      "votes": 358,
       "category": "Financial Management",
       "area": "Financial management",
       "created": "2020-02-19",
@@ -319,7 +319,7 @@
       "title": "Vendor Bank Account Approval Workflow",
       "status": "Planned",
       "planned_for": "",
-      "votes": 292,
+      "votes": 293,
       "category": "Purchasing",
       "area": "Supply chain management",
       "created": "2020-01-10",
@@ -331,7 +331,7 @@
       "title": "Allow deletion of obsolete fields and table extensions from schema",
       "status": "Needs Votes",
       "planned_for": "",
-      "votes": 289,
+      "votes": 290,
       "category": "General",
       "area": "Unclassified",
       "created": "2021-07-09",
@@ -427,7 +427,7 @@
       "title": "b2b customer portal to allow customer view and place orders, pay and engage.",
       "status": "Under Review",
       "planned_for": "",
-      "votes": 264,
+      "votes": 265,
       "category": "Sales",
       "area": "Sales and marketing",
       "created": "2018-06-10",
@@ -559,7 +559,7 @@
       "title": "G/L entries to keep Foreign Currency amount, revalue GL Accounts",
       "status": "Under Review",
       "planned_for": "",
-      "votes": 237,
+      "votes": 238,
       "category": "Financial Management",
       "area": "Financial management",
       "created": "2019-04-06",
@@ -579,6 +579,18 @@
       "feature_id": ""
     },
     {
+      "id": "e1a72ac3-e6ae-ea11-8b71-0003ff68b7e1",
+      "title": "Add Expiration Date for Physical Inventory Orders / Recordings",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 236,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2020-06-15",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=e1a72ac3-e6ae-ea11-8b71-0003ff68b7e1",
+      "feature_id": ""
+    },
+    {
       "id": "e7970961-4798-e911-80e7-0003ff68f3db",
       "title": "Expand Item No. (Number) to 50 chars",
       "status": "Under Review",
@@ -588,18 +600,6 @@
       "area": "Supply chain management",
       "created": "2019-06-26",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=e7970961-4798-e911-80e7-0003ff68f3db",
-      "feature_id": ""
-    },
-    {
-      "id": "e1a72ac3-e6ae-ea11-8b71-0003ff68b7e1",
-      "title": "Add Expiration Date for Physical Inventory Orders / Recordings",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 235,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2020-06-15",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=e1a72ac3-e6ae-ea11-8b71-0003ff68b7e1",
       "feature_id": ""
     },
     {
@@ -895,7 +895,7 @@
       "title": "Item Availability by Timeline - to show graphical information",
       "status": "Needs Votes",
       "planned_for": "",
-      "votes": 193,
+      "votes": 194,
       "category": "Inventory",
       "area": "Supply chain management",
       "created": "2019-06-28",
@@ -979,7 +979,7 @@
       "title": "Dynamic Filters for Reports",
       "status": "Under Review",
       "planned_for": "",
-      "votes": 185,
+      "votes": 186,
       "category": "Reports and Business Intelligence",
       "area": "Reporting and data analysis",
       "created": "2019-08-27",
@@ -999,6 +999,18 @@
       "feature_id": ""
     },
     {
+      "id": "487e9e37-670f-e911-9461-0003ff68bc11",
+      "title": "Drop Shipments order of operation",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 184,
+      "category": "Purchasing",
+      "area": "Supply chain management",
+      "created": "2019-01-03",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=487e9e37-670f-e911-9461-0003ff68bc11",
+      "feature_id": ""
+    },
+    {
       "id": "17523041-949d-e911-80e7-0003ff68d318",
       "title": "Production Order Scheduling capability (Schedule vs plan)",
       "status": "Completed",
@@ -1009,18 +1021,6 @@
       "created": "2019-07-03",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=17523041-949d-e911-80e7-0003ff68d318",
       "feature_id": "7a9832a4b344a85c"
-    },
-    {
-      "id": "487e9e37-670f-e911-9461-0003ff68bc11",
-      "title": "Drop Shipments order of operation",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 183,
-      "category": "Purchasing",
-      "area": "Supply chain management",
-      "created": "2019-01-03",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=487e9e37-670f-e911-9461-0003ff68bc11",
-      "feature_id": ""
     },
     {
       "id": "9545da70-666f-eb11-8fed-0003ff459a70",
@@ -1059,6 +1059,18 @@
       "feature_id": ""
     },
     {
+      "id": "f93e6725-d2b2-e911-b083-0003ff6889b9",
+      "title": "Allow users to change sort order of reports",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 181,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2019-07-30",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f93e6725-d2b2-e911-b083-0003ff6889b9",
+      "feature_id": ""
+    },
+    {
       "id": "63821e40-c7f5-e911-b862-0003ff68ac6b",
       "title": "Job Version management / Archiving",
       "status": "Completed",
@@ -1080,18 +1092,6 @@
       "area": "Unclassified",
       "created": "2018-08-14",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b9653f1f-16a0-e811-b96f-0003ff68e07f",
-      "feature_id": ""
-    },
-    {
-      "id": "f93e6725-d2b2-e911-b083-0003ff6889b9",
-      "title": "Allow users to change sort order of reports",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 180,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2019-07-30",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f93e6725-d2b2-e911-b083-0003ff6889b9",
       "feature_id": ""
     },
     {
@@ -1215,6 +1215,18 @@
       "feature_id": ""
     },
     {
+      "id": "72bc2951-0bd7-ef11-95f5-7c1e52eec0d8",
+      "title": "Allow table and field deletion for AppSource apps",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 172,
+      "category": "Development",
+      "area": "Development",
+      "created": "2025-01-20",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=72bc2951-0bd7-ef11-95f5-7c1e52eec0d8",
+      "feature_id": ""
+    },
+    {
       "id": "de042869-a777-e711-80c0-00155d7cd0b4",
       "title": "Check Overflow",
       "status": "Under Review",
@@ -1224,18 +1236,6 @@
       "area": "Financial management",
       "created": "2017-08-03",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=de042869-a777-e711-80c0-00155d7cd0b4",
-      "feature_id": ""
-    },
-    {
-      "id": "72bc2951-0bd7-ef11-95f5-7c1e52eec0d8",
-      "title": "Allow table and field deletion for AppSource apps",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 171,
-      "category": "Development",
-      "area": "Development",
-      "created": "2025-01-20",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=72bc2951-0bd7-ef11-95f5-7c1e52eec0d8",
       "feature_id": ""
     },
     {
@@ -1371,6 +1371,18 @@
       "feature_id": ""
     },
     {
+      "id": "425fbf3e-9f17-ea11-b265-0003ff6893a2",
+      "title": "Item Journal Approvals",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 160,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2019-12-05",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=425fbf3e-9f17-ea11-b265-0003ff6893a2",
+      "feature_id": ""
+    },
+    {
       "id": "14bb2a55-6d99-ec11-826d-0003ff45e043",
       "title": "Dynamic Subject for Email in Business Central",
       "status": "Needs Votes",
@@ -1380,18 +1392,6 @@
       "area": "Unclassified",
       "created": "2022-03-01",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=14bb2a55-6d99-ec11-826d-0003ff45e043",
-      "feature_id": ""
-    },
-    {
-      "id": "425fbf3e-9f17-ea11-b265-0003ff6893a2",
-      "title": "Item Journal Approvals",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 159,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2019-12-05",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=425fbf3e-9f17-ea11-b265-0003ff6893a2",
       "feature_id": ""
     },
     {
@@ -1687,7 +1687,7 @@
       "title": "Purchase Accruals for G/L accounts",
       "status": "Needs Votes",
       "planned_for": "",
-      "votes": 144,
+      "votes": 145,
       "category": "Financial Management",
       "area": "Financial management",
       "created": "2019-06-13",
@@ -1779,6 +1779,18 @@
       "feature_id": ""
     },
     {
+      "id": "f2a48734-0d7b-e911-80e7-0003ff689d0b",
+      "title": "Allow to progammaticaly set the 'RunPageMode' on PAGE.RUN / PageManagement",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 141,
+      "category": "Development",
+      "area": "Development",
+      "created": "2019-05-20",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f2a48734-0d7b-e911-80e7-0003ff689d0b",
+      "feature_id": ""
+    },
+    {
       "id": "97dc8c8e-05e5-e911-b3b9-0003ff68f5d3",
       "title": "Create Configuration Package using Import from Excel",
       "status": "Needs Votes",
@@ -1812,18 +1824,6 @@
       "area": "Service and support",
       "created": "2020-07-28",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=d4984865-afd0-ea11-bf21-0003ff689cf3",
-      "feature_id": ""
-    },
-    {
-      "id": "f2a48734-0d7b-e911-80e7-0003ff689d0b",
-      "title": "Allow to progammaticaly set the 'RunPageMode' on PAGE.RUN / PageManagement",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 140,
-      "category": "Development",
-      "area": "Development",
-      "created": "2019-05-20",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f2a48734-0d7b-e911-80e7-0003ff689d0b",
       "feature_id": ""
     },
     {
@@ -2199,6 +2199,18 @@
       "feature_id": ""
     },
     {
+      "id": "5ac29655-3e41-ec11-a3ee-0003ff45ebbf",
+      "title": "Allow date formulas when running reports on job queues or when scheduling reports",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 127,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2021-11-09",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5ac29655-3e41-ec11-a3ee-0003ff45ebbf",
+      "feature_id": ""
+    },
+    {
       "id": "eba5e3c1-15ca-e911-b083-0003ff68b806",
       "title": "Locations - ability to link to a dimesion",
       "status": "Under Review",
@@ -2208,18 +2220,6 @@
       "area": "Supply chain management",
       "created": "2019-08-29",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=eba5e3c1-15ca-e911-b083-0003ff68b806",
-      "feature_id": ""
-    },
-    {
-      "id": "5ac29655-3e41-ec11-a3ee-0003ff45ebbf",
-      "title": "Allow date formulas when running reports on job queues or when scheduling reports",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 126,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2021-11-09",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5ac29655-3e41-ec11-a3ee-0003ff45ebbf",
       "feature_id": ""
     },
     {
@@ -2463,6 +2463,18 @@
       "feature_id": ""
     },
     {
+      "id": "132b8c1b-49fa-e811-a140-0003ff68d4f1",
+      "title": "Charge Item Costs be applied to on-hand inventory at the point of receipt not invoice",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 119,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2018-12-07",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=132b8c1b-49fa-e811-a140-0003ff68d4f1",
+      "feature_id": ""
+    },
+    {
       "id": "1a98ee04-1a65-e811-bd6d-0003ff68b050",
       "title": "Update Log and Notifications",
       "status": "Under Review",
@@ -2532,18 +2544,6 @@
       "area": "Development",
       "created": "2019-09-27",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=ffb55256-31e1-e911-b3b9-0003ff68b7e1",
-      "feature_id": ""
-    },
-    {
-      "id": "132b8c1b-49fa-e811-a140-0003ff68d4f1",
-      "title": "Charge Item Costs be applied to on-hand inventory at the point of receipt not invoice",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 118,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2018-12-07",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=132b8c1b-49fa-e811-a140-0003ff68d4f1",
       "feature_id": ""
     },
     {
@@ -2835,6 +2835,18 @@
       "feature_id": ""
     },
     {
+      "id": "99428e62-7229-eb11-8441-0003ff68a10c",
+      "title": "Initialize variables with declaration",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 111,
+      "category": "Development",
+      "area": "Development",
+      "created": "2020-11-18",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=99428e62-7229-eb11-8441-0003ff68a10c",
+      "feature_id": ""
+    },
+    {
       "id": "b01aed82-c94a-ed11-97b0-0003ff45e08b",
       "title": "Setting SaveValueToDatabasePromptly for Saas Environment",
       "status": "Completed",
@@ -2845,18 +2857,6 @@
       "created": "2022-10-13",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b01aed82-c94a-ed11-97b0-0003ff45e08b",
       "feature_id": "207b0079ea6fd84a"
-    },
-    {
-      "id": "99428e62-7229-eb11-8441-0003ff68a10c",
-      "title": "Initialize variables with declaration",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 110,
-      "category": "Development",
-      "area": "Development",
-      "created": "2020-11-18",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=99428e62-7229-eb11-8441-0003ff68a10c",
-      "feature_id": ""
     },
     {
       "id": "a5656b10-cedd-e911-b3b9-0003ff68f1ff",
@@ -2907,6 +2907,18 @@
       "feature_id": ""
     },
     {
+      "id": "f7c3d0e9-ede0-e811-b96f-0003ff68a883",
+      "title": "Send email orders to Vendors directly from Puchase Order with attachments to multiple addresses",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 110,
+      "category": "Purchasing",
+      "area": "Supply chain management",
+      "created": "2018-11-05",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f7c3d0e9-ede0-e811-b96f-0003ff68a883",
+      "feature_id": ""
+    },
+    {
       "id": "43749c35-dc41-ea11-b698-0003ff68dcf8",
       "title": "FactBox - default Collapsed/Expanded by User Setup",
       "status": "Under Review",
@@ -2940,18 +2952,6 @@
       "area": "Microsoft 365 and Power Platform",
       "created": "2022-12-14",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=e781b921-b07b-ed11-a76e-0003ff45d48e",
-      "feature_id": ""
-    },
-    {
-      "id": "f7c3d0e9-ede0-e811-b96f-0003ff68a883",
-      "title": "Send email orders to Vendors directly from Puchase Order with attachments to multiple addresses",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 109,
-      "category": "Purchasing",
-      "area": "Supply chain management",
-      "created": "2018-11-05",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f7c3d0e9-ede0-e811-b96f-0003ff68a883",
       "feature_id": ""
     },
     {
@@ -3051,6 +3051,18 @@
       "feature_id": ""
     },
     {
+      "id": "f3e8b259-2027-eb11-8441-0003ff68950e",
+      "title": "Subcontracting enhancements",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 104,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2020-11-15",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f3e8b259-2027-eb11-8441-0003ff68950e",
+      "feature_id": ""
+    },
+    {
       "id": "5dbc689f-9c9a-ea11-8b71-0003ff68cf28",
       "title": "Production corrections after Finishing Production Order",
       "status": "Completed",
@@ -3072,18 +3084,6 @@
       "area": "Development",
       "created": "2019-01-29",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=89b9db8a-cf23-e911-9462-0003ff68b7e4",
-      "feature_id": ""
-    },
-    {
-      "id": "f3e8b259-2027-eb11-8441-0003ff68950e",
-      "title": "Subcontracting enhancements",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 103,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2020-11-15",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f3e8b259-2027-eb11-8441-0003ff68950e",
       "feature_id": ""
     },
     {
@@ -3459,6 +3459,18 @@
       "feature_id": ""
     },
     {
+      "id": "1ab97eef-2855-e911-b048-0003ff68a675",
+      "title": "Analysis reports - date filters",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 92,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2019-04-02",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=1ab97eef-2855-e911-b048-0003ff68a675",
+      "feature_id": ""
+    },
+    {
       "id": "21f39583-af7d-eb11-8ced-0003ff458669",
       "title": "Affect the Job Planning when using Create Corrective Credit Memo",
       "status": "Needs Votes",
@@ -3492,18 +3504,6 @@
       "area": "Manufacturing",
       "created": "2020-12-01",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f51bcee4-e533-eb11-8441-0003ff68e4a2",
-      "feature_id": ""
-    },
-    {
-      "id": "1ab97eef-2855-e911-b048-0003ff68a675",
-      "title": "Analysis reports - date filters",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 91,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2019-04-02",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=1ab97eef-2855-e911-b048-0003ff68a675",
       "feature_id": ""
     },
     {
@@ -3735,6 +3735,18 @@
       "feature_id": ""
     },
     {
+      "id": "95dd7fbe-36b4-e711-80c0-00155d7cb38d",
+      "title": "Schedule reports - Send by email and multiple users",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 87,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2017-10-19",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=95dd7fbe-36b4-e711-80c0-00155d7cb38d",
+      "feature_id": ""
+    },
+    {
       "id": "b1c49562-7b88-ea11-99e5-0003ff68dcc1",
       "title": "prevent users to register time on closed jobs and/or activities",
       "status": "Needs Votes",
@@ -3819,18 +3831,6 @@
       "feature_id": ""
     },
     {
-      "id": "95dd7fbe-36b4-e711-80c0-00155d7cb38d",
-      "title": "Schedule reports - Send by email and multiple users",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 86,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2017-10-19",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=95dd7fbe-36b4-e711-80c0-00155d7cb38d",
-      "feature_id": ""
-    },
-    {
       "id": "a61e6506-980b-ea11-b862-0003ff68a0fd",
       "title": "Recurring Journal Balance by Dimension",
       "status": "Completed",
@@ -3876,6 +3876,18 @@
       "area": "Unclassified",
       "created": "2024-07-11",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2e0e43c3-8c3f-ef11-b4ac-6045bdbf7e19",
+      "feature_id": ""
+    },
+    {
+      "id": "2ef5e746-db6b-e911-b047-0003ff688f46",
+      "title": "Reports Due for Reworking",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 85,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2019-05-01",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2ef5e746-db6b-e911-b047-0003ff688f46",
       "feature_id": ""
     },
     {
@@ -3951,18 +3963,6 @@
       "feature_id": ""
     },
     {
-      "id": "2ef5e746-db6b-e911-b047-0003ff688f46",
-      "title": "Reports Due for Reworking",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 84,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2019-05-01",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2ef5e746-db6b-e911-b047-0003ff688f46",
-      "feature_id": ""
-    },
-    {
       "id": "31e7c24d-e489-ee11-a81c-000d3a05c3f3",
       "title": "Implement a new TransactionInstance property for Codeunits (similar to SingleInstance)",
       "status": "Needs Votes",
@@ -4035,6 +4035,18 @@
       "feature_id": ""
     },
     {
+      "id": "57c5c06a-f6e6-e811-a140-0003ff68bbb7",
+      "title": "Query Tool/Wizard",
+      "status": "Planned",
+      "planned_for": "2020 Release Wave 2",
+      "votes": 83,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2018-11-13",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=57c5c06a-f6e6-e811-a140-0003ff68bbb7",
+      "feature_id": ""
+    },
+    {
       "id": "5ca4eaba-2146-e711-80c0-00155d7cd0b4",
       "title": "Enable Configuration for CRM Integration",
       "status": "Under Review",
@@ -4092,18 +4104,6 @@
       "area": "Reporting and data analysis",
       "created": "2017-06-07",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5304eaa4-014b-e711-80c0-00155d7cb38d",
-      "feature_id": ""
-    },
-    {
-      "id": "57c5c06a-f6e6-e811-a140-0003ff68bbb7",
-      "title": "Query Tool/Wizard",
-      "status": "Planned",
-      "planned_for": "2020 Release Wave 2",
-      "votes": 82,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2018-11-13",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=57c5c06a-f6e6-e811-a140-0003ff68bbb7",
       "feature_id": ""
     },
     {
@@ -4239,6 +4239,18 @@
       "feature_id": ""
     },
     {
+      "id": "44b1d8d0-3d46-e711-80c0-00155d7cb38d",
+      "title": "Account Schedule - Smart Column Captions",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 80,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2017-06-01",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=44b1d8d0-3d46-e711-80c0-00155d7cb38d",
+      "feature_id": ""
+    },
+    {
       "id": "80cc02a1-0eb0-ec11-826d-0003ff45cee2",
       "title": "Server side printing (Schedule A Report feature) to be allowed for SaaS deployment.",
       "status": "New",
@@ -4296,18 +4308,6 @@
       "area": "Unclassified",
       "created": "2023-04-19",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=20a41e9d-94de-ed11-9139-0003ff45cc8b",
-      "feature_id": ""
-    },
-    {
-      "id": "44b1d8d0-3d46-e711-80c0-00155d7cb38d",
-      "title": "Account Schedule - Smart Column Captions",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 79,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2017-06-01",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=44b1d8d0-3d46-e711-80c0-00155d7cb38d",
       "feature_id": ""
     },
     {
@@ -4671,6 +4671,18 @@
       "feature_id": ""
     },
     {
+      "id": "eeee26f8-ab34-eb11-8441-0003ff68daff",
+      "title": "Select multiple Vendors on report filter",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 75,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2020-12-02",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=eeee26f8-ab34-eb11-8441-0003ff68daff",
+      "feature_id": ""
+    },
+    {
       "id": "f1a6194e-e9b7-eb11-89ee-0003ff45c6cd",
       "title": "Add/Edit Routing link code in production order routing line",
       "status": "Completed",
@@ -4743,6 +4755,18 @@
       "feature_id": ""
     },
     {
+      "id": "2dba00de-1c52-e911-b047-0003ff68d113",
+      "title": "User Defined Fields on Tables",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 74,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2019-03-29",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2dba00de-1c52-e911-b047-0003ff68d113",
+      "feature_id": ""
+    },
+    {
       "id": "3a4d8d6a-3f43-e911-867a-0003ff688996",
       "title": "Global event - OnOpenPage",
       "status": "Needs Votes",
@@ -4764,6 +4788,18 @@
       "area": "Development",
       "created": "2020-09-29",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=3c20fb10-3802-eb11-b5d9-0003ff68e671",
+      "feature_id": ""
+    },
+    {
+      "id": "3d4e7905-b603-e911-9461-0003ff68a694",
+      "title": "Close Accounting Periods for Posting by Subledger",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 74,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2018-12-19",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=3d4e7905-b603-e911-9461-0003ff68a694",
       "feature_id": ""
     },
     {
@@ -4827,30 +4863,6 @@
       "feature_id": ""
     },
     {
-      "id": "eeee26f8-ab34-eb11-8441-0003ff68daff",
-      "title": "Select multiple Vendors on report filter",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 74,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2020-12-02",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=eeee26f8-ab34-eb11-8441-0003ff68daff",
-      "feature_id": ""
-    },
-    {
-      "id": "2dba00de-1c52-e911-b047-0003ff68d113",
-      "title": "User Defined Fields on Tables",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 73,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2019-03-29",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2dba00de-1c52-e911-b047-0003ff68d113",
-      "feature_id": ""
-    },
-    {
       "id": "34470e72-f515-f011-9d48-6045bdb535b9",
       "title": "Feature Request: Make Unbound Actions First-Class Citizens with a New API Codeunit Type",
       "status": "Needs Votes",
@@ -4860,18 +4872,6 @@
       "area": "Development",
       "created": "2025-04-10",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=34470e72-f515-f011-9d48-6045bdb535b9",
-      "feature_id": ""
-    },
-    {
-      "id": "3d4e7905-b603-e911-9461-0003ff68a694",
-      "title": "Close Accounting Periods for Posting by Subledger",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 73,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2018-12-19",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=3d4e7905-b603-e911-9461-0003ff68a694",
       "feature_id": ""
     },
     {
@@ -4896,6 +4896,18 @@
       "area": "Financial management",
       "created": "2018-08-08",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=89d21a1e-bc9a-e811-b96f-0003ff68935d",
+      "feature_id": ""
+    },
+    {
+      "id": "92a82247-af3c-ea11-8454-0003ff68993b",
+      "title": "Fixed Asset Depreciation",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 72,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2020-01-22",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=92a82247-af3c-ea11-8454-0003ff68993b",
       "feature_id": ""
     },
     {
@@ -5040,18 +5052,6 @@
       "area": "Unclassified",
       "created": "2017-07-26",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=7e176f94-eb71-e711-80c0-00155d7cd0b4",
-      "feature_id": ""
-    },
-    {
-      "id": "92a82247-af3c-ea11-8454-0003ff68993b",
-      "title": "Fixed Asset Depreciation",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 71,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2020-01-22",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=92a82247-af3c-ea11-8454-0003ff68993b",
       "feature_id": ""
     },
     {
@@ -5295,6 +5295,18 @@
       "feature_id": ""
     },
     {
+      "id": "a95d68e8-bab6-ed11-9ac5-0003ff459e22",
+      "title": "Default dimensions on dimensions",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 69,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2023-02-27",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a95d68e8-bab6-ed11-9ac5-0003ff459e22",
+      "feature_id": ""
+    },
+    {
       "id": "bb122dd7-8bbf-ee11-92bd-6045bdb614a3",
       "title": "Adress from EU VAT Registration No. Validation Service",
       "status": "Needs Votes",
@@ -5463,18 +5475,6 @@
       "feature_id": ""
     },
     {
-      "id": "a95d68e8-bab6-ed11-9ac5-0003ff459e22",
-      "title": "Default dimensions on dimensions",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 68,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2023-02-27",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a95d68e8-bab6-ed11-9ac5-0003ff459e22",
-      "feature_id": ""
-    },
-    {
       "id": "b9aa1feb-a99d-e911-80e7-0003ff68dae9",
       "title": "Have setting to make deleting accounts not possible if they have been used during a certain time period",
       "status": "Completed",
@@ -5484,6 +5484,18 @@
       "area": "Financial management",
       "created": "2019-07-03",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b9aa1feb-a99d-e911-80e7-0003ff68dae9",
+      "feature_id": ""
+    },
+    {
+      "id": "df97640f-2c4f-ea11-b698-0003ff689f0d",
+      "title": "Possibility to change posting date on credit memo and new invoice when using function Cancel or Correct",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 68,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2020-02-14",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=df97640f-2c4f-ea11-b698-0003ff689f0d",
       "feature_id": ""
     },
     {
@@ -5547,6 +5559,18 @@
       "feature_id": ""
     },
     {
+      "id": "2e68a17e-b503-e911-9461-0003ff68a694",
+      "title": "Account Schedule Formatting Enhancements",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 67,
+      "category": "Reports and Business Intelligence",
+      "area": "Reporting and data analysis",
+      "created": "2018-12-19",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2e68a17e-b503-e911-9461-0003ff68a694",
+      "feature_id": ""
+    },
+    {
       "id": "5e43d63b-bee9-e811-a140-0003ff68e086",
       "title": "Intercompany \"Auto. Accept Transaction\" should work for IC General Journals",
       "status": "Completed",
@@ -5595,18 +5619,6 @@
       "feature_id": ""
     },
     {
-      "id": "df97640f-2c4f-ea11-b698-0003ff689f0d",
-      "title": "Possibility to change posting date on credit memo and new invoice when using function Cancel or Correct",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 67,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2020-02-14",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=df97640f-2c4f-ea11-b698-0003ff689f0d",
-      "feature_id": ""
-    },
-    {
       "id": "dfa46264-b916-ea11-b265-0003ff68aeb1",
       "title": "Use Search Name in Account No.",
       "status": "Needs Votes",
@@ -5628,18 +5640,6 @@
       "area": "Unclassified",
       "created": "2020-07-07",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=27831e0e-92c0-ea11-bf21-0003ff68a0e7",
-      "feature_id": ""
-    },
-    {
-      "id": "2e68a17e-b503-e911-9461-0003ff68a694",
-      "title": "Account Schedule Formatting Enhancements",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 66,
-      "category": "Reports and Business Intelligence",
-      "area": "Reporting and data analysis",
-      "created": "2018-12-19",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2e68a17e-b503-e911-9461-0003ff68a694",
       "feature_id": ""
     },
     {
@@ -6099,6 +6099,18 @@
       "feature_id": ""
     },
     {
+      "id": "b4c08a2b-ccbb-ee11-92bd-6045bdaf814b",
+      "title": "Create Purchase Order with Team Member license",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 63,
+      "category": "Purchasing",
+      "area": "Supply chain management",
+      "created": "2024-01-25",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b4c08a2b-ccbb-ee11-92bd-6045bdaf814b",
+      "feature_id": ""
+    },
+    {
       "id": "b51cd35c-346b-e911-b047-0003ff68e45b",
       "title": "Item Variant on Production Forecast",
       "status": "Completed",
@@ -6231,18 +6243,6 @@
       "feature_id": ""
     },
     {
-      "id": "b4c08a2b-ccbb-ee11-92bd-6045bdaf814b",
-      "title": "Create Purchase Order with Team Member license",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 62,
-      "category": "Purchasing",
-      "area": "Supply chain management",
-      "created": "2024-01-25",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b4c08a2b-ccbb-ee11-92bd-6045bdaf814b",
-      "feature_id": ""
-    },
-    {
       "id": "d0497560-c64e-ed11-97b0-0003ff45da57",
       "title": "Sales Price List Duplication - more flexibility",
       "status": "Needs Votes",
@@ -6360,6 +6360,18 @@
       "area": "Supply chain management",
       "created": "2020-04-22",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f5f72372-7884-ea11-99e5-0003ff68dcf4",
+      "feature_id": ""
+    },
+    {
+      "id": "0e086034-626c-f011-95f2-7c1e52eec559",
+      "title": "There should be an option to prevent the GTIN number from being copied when copying an item.",
+      "status": "New",
+      "planned_for": "",
+      "votes": 60,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2025-07-29",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=0e086034-626c-f011-95f2-7c1e52eec559",
       "feature_id": ""
     },
     {
@@ -6528,18 +6540,6 @@
       "area": "Development",
       "created": "2020-12-16",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=06f1a861-753f-eb11-8fed-0003ff68cf42",
-      "feature_id": ""
-    },
-    {
-      "id": "0e086034-626c-f011-95f2-7c1e52eec559",
-      "title": "There should be an option to prevent the GTIN number from being copied when copying an item.",
-      "status": "New",
-      "planned_for": "",
-      "votes": 59,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2025-07-29",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=0e086034-626c-f011-95f2-7c1e52eec559",
       "feature_id": ""
     },
     {
@@ -6771,6 +6771,18 @@
       "feature_id": ""
     },
     {
+      "id": "a93b912f-ac37-f011-a2da-7c1e52b4c1ef",
+      "title": "Enhancements to Standard Cost Worksheet – Support for Stockkeeping Units",
+      "status": "New",
+      "planned_for": "",
+      "votes": 58,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2025-05-23",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a93b912f-ac37-f011-a2da-7c1e52b4c1ef",
+      "feature_id": ""
+    },
+    {
       "id": "ac547a33-ccd3-e911-b3b9-0003ff68be02",
       "title": "Default bin should only assign to a pick-able bin",
       "status": "Needs Votes",
@@ -6900,18 +6912,6 @@
       "area": "Development",
       "created": "2020-04-12",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a2bd6407-e47c-ea11-99e5-0003ff68be05",
-      "feature_id": ""
-    },
-    {
-      "id": "a93b912f-ac37-f011-a2da-7c1e52b4c1ef",
-      "title": "Enhancements to Standard Cost Worksheet – Support for Stockkeeping Units",
-      "status": "New",
-      "planned_for": "",
-      "votes": 57,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2025-05-23",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a93b912f-ac37-f011-a2da-7c1e52b4c1ef",
       "feature_id": ""
     },
     {
@@ -7623,6 +7623,18 @@
       "feature_id": ""
     },
     {
+      "id": "a837bc3d-6c19-f011-9d47-7c1e52f90348",
+      "title": "Compress Item Ledger Entries",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 53,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2025-04-14",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a837bc3d-6c19-f011-9d47-7c1e52f90348",
+      "feature_id": ""
+    },
+    {
       "id": "b70f7255-731b-e911-9461-0003ff688f46",
       "title": "Dark Mode",
       "status": "Declined",
@@ -7692,18 +7704,6 @@
       "area": "Unclassified",
       "created": "2021-06-11",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9c1656cb-62ca-eb11-ba5e-0003ff459e25",
-      "feature_id": ""
-    },
-    {
-      "id": "a837bc3d-6c19-f011-9d47-7c1e52f90348",
-      "title": "Compress Item Ledger Entries",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 52,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2025-04-14",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a837bc3d-6c19-f011-9d47-7c1e52f90348",
       "feature_id": ""
     },
     {
@@ -8787,6 +8787,18 @@
       "feature_id": ""
     },
     {
+      "id": "6c199b8f-63a7-f111-85cd-0022484d9fbd",
+      "title": "Remove Business Central Administrator Restrictions for Partner Users in Customer Sandbox Environments",
+      "status": "New",
+      "planned_for": "",
+      "votes": 47,
+      "category": "General",
+      "area": "Unclassified",
+      "created": "2026-09-03",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=6c199b8f-63a7-f111-85cd-0022484d9fbd",
+      "feature_id": ""
+    },
+    {
       "id": "75150db7-a3cb-ec11-bea1-0003ff45bb77",
       "title": "Order promising tool does not take future orders into consideration",
       "status": "New",
@@ -8796,6 +8808,18 @@
       "area": "Supply chain management",
       "created": "2022-05-04",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=75150db7-a3cb-ec11-bea1-0003ff45bb77",
+      "feature_id": ""
+    },
+    {
+      "id": "793b37c7-7767-ee11-a81c-00224852ff9c",
+      "title": "Consider Expiration Date on Planning Worksheet",
+      "status": "New",
+      "planned_for": "",
+      "votes": 47,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2023-10-10",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=793b37c7-7767-ee11-a81c-00224852ff9c",
       "feature_id": ""
     },
     {
@@ -9039,18 +9063,6 @@
       "feature_id": ""
     },
     {
-      "id": "6c199b8f-63a7-f111-85cd-0022484d9fbd",
-      "title": "Remove Business Central Administrator Restrictions for Partner Users in Customer Sandbox Environments",
-      "status": "New",
-      "planned_for": "",
-      "votes": 46,
-      "category": "General",
-      "area": "Unclassified",
-      "created": "2026-09-03",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=6c199b8f-63a7-f111-85cd-0022484d9fbd",
-      "feature_id": ""
-    },
-    {
       "id": "6d68d041-95cb-ec11-bea1-0003ff45b1d6",
       "title": "Improved inventory pick for Jobs",
       "status": "Needs Votes",
@@ -9060,18 +9072,6 @@
       "area": "Project management",
       "created": "2022-05-04",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=6d68d041-95cb-ec11-bea1-0003ff45b1d6",
-      "feature_id": ""
-    },
-    {
-      "id": "793b37c7-7767-ee11-a81c-00224852ff9c",
-      "title": "Consider Expiration Date on Planning Worksheet",
-      "status": "New",
-      "planned_for": "",
-      "votes": 46,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2023-10-10",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=793b37c7-7767-ee11-a81c-00224852ff9c",
       "feature_id": ""
     },
     {
@@ -9459,6 +9459,18 @@
       "feature_id": ""
     },
     {
+      "id": "36e78ae7-bb75-ef11-a4e5-000d3a7ad6db",
+      "title": "Automatic Cost Adjustment – Changed cost price on purchase order or in Revaluation Journal.",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 44,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2024-09-18",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=36e78ae7-bb75-ef11-a4e5-000d3a7ad6db",
+      "feature_id": ""
+    },
+    {
       "id": "44ba3ffe-1832-ea11-8455-0003ff68e2ab",
       "title": "Cumulative updates link in email",
       "status": "Needs Votes",
@@ -9759,18 +9771,6 @@
       "feature_id": ""
     },
     {
-      "id": "36e78ae7-bb75-ef11-a4e5-000d3a7ad6db",
-      "title": "Automatic Cost Adjustment – Changed cost price on purchase order or in Revaluation Journal.",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 43,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2024-09-18",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=36e78ae7-bb75-ef11-a4e5-000d3a7ad6db",
-      "feature_id": ""
-    },
-    {
       "id": "402f75de-1bac-eb11-89ee-0003ff45b7ac",
       "title": "Provide lookup/drop-down of option and enum PK field values",
       "status": "Needs Votes",
@@ -9828,6 +9828,18 @@
       "area": "Development",
       "created": "2025-05-11",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=77a4a462-472e-f011-9d48-7c1e52960760",
+      "feature_id": ""
+    },
+    {
+      "id": "93eed470-d350-ea11-b698-0003ff68a0f0",
+      "title": "Rectify the 'Inventory Value Zero' in return reason codes",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 43,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2020-02-16",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=93eed470-d350-ea11-b698-0003ff68a0f0",
       "feature_id": ""
     },
     {
@@ -10140,18 +10152,6 @@
       "area": "Development",
       "created": "2022-01-27",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=84d8ed18-5a7f-ec11-b820-0003ff45920b",
-      "feature_id": ""
-    },
-    {
-      "id": "93eed470-d350-ea11-b698-0003ff68a0f0",
-      "title": "Rectify the 'Inventory Value Zero' in return reason codes",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 42,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2020-02-16",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=93eed470-d350-ea11-b698-0003ff68a0f0",
       "feature_id": ""
     },
     {
@@ -11439,6 +11439,18 @@
       "feature_id": ""
     },
     {
+      "id": "f1999700-a266-ee11-a81c-6045bd81410b",
+      "title": "Disable Search when Filtering on Primary Key",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 39,
+      "category": "General",
+      "area": "Unclassified",
+      "created": "2023-10-09",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f1999700-a266-ee11-a81c-6045bd81410b",
+      "feature_id": ""
+    },
+    {
       "id": "036fea07-59de-e911-b3b9-0003ff68f1ff",
       "title": "remove confusion between different navigate functions",
       "status": "Completed",
@@ -11760,18 +11772,6 @@
       "area": "Country and regional",
       "created": "2020-10-28",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=ee7d4f13-0419-eb11-8441-0003ff68a0b0",
-      "feature_id": ""
-    },
-    {
-      "id": "f1999700-a266-ee11-a81c-6045bd81410b",
-      "title": "Disable Search when Filtering on Primary Key",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 38,
-      "category": "General",
-      "area": "Unclassified",
-      "created": "2023-10-09",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=f1999700-a266-ee11-a81c-6045bd81410b",
       "feature_id": ""
     },
     {
@@ -12183,6 +12183,18 @@
       "feature_id": ""
     },
     {
+      "id": "0b782dc3-8443-ef11-b4ad-6045bd7df976",
+      "title": "Add External Doc. No. to the Bank Deposit Reports",
+      "status": "New",
+      "planned_for": "",
+      "votes": 36,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2024-07-16",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=0b782dc3-8443-ef11-b4ad-6045bd7df976",
+      "feature_id": ""
+    },
+    {
       "id": "0b90120d-4fe8-ee11-a73e-002248504629",
       "title": "Alternative Posting Groups for Employees",
       "status": "Needs Votes",
@@ -12360,6 +12372,18 @@
       "area": "Unclassified",
       "created": "2024-05-23",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=732f337b-1219-ef11-989a-000d3a7afa6b",
+      "feature_id": ""
+    },
+    {
+      "id": "7b7af43f-d1e4-f011-92b8-7c1e52cb0102",
+      "title": "Improve Capacity Ledger Entries with clear unit display",
+      "status": "New",
+      "planned_for": "",
+      "votes": 36,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2025-12-29",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=7b7af43f-d1e4-f011-92b8-7c1e52cb0102",
       "feature_id": ""
     },
     {
@@ -12567,18 +12591,6 @@
       "feature_id": ""
     },
     {
-      "id": "0b782dc3-8443-ef11-b4ad-6045bd7df976",
-      "title": "Add External Doc. No. to the Bank Deposit Reports",
-      "status": "New",
-      "planned_for": "",
-      "votes": 35,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2024-07-16",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=0b782dc3-8443-ef11-b4ad-6045bd7df976",
-      "feature_id": ""
-    },
-    {
       "id": "0dd4139e-3f82-eb11-8ced-0003ff45e64a",
       "title": "Printer selection for BC On-Prem",
       "status": "Needs Votes",
@@ -12756,18 +12768,6 @@
       "area": "Unclassified",
       "created": "2019-11-19",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=78b7a06d-d80a-ea11-b862-0003ff68edfa",
-      "feature_id": ""
-    },
-    {
-      "id": "7b7af43f-d1e4-f011-92b8-7c1e52cb0102",
-      "title": "Improve Capacity Ledger Entries with clear unit display",
-      "status": "New",
-      "planned_for": "",
-      "votes": 35,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2025-12-29",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=7b7af43f-d1e4-f011-92b8-7c1e52cb0102",
       "feature_id": ""
     },
     {
@@ -13995,6 +13995,18 @@
       "feature_id": ""
     },
     {
+      "id": "1843d08d-9a41-e711-80c0-00155d7cb38d",
+      "title": "Add Quantity when selecting an item in a line",
+      "status": "Under Review",
+      "planned_for": "",
+      "votes": 32,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2017-05-26",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=1843d08d-9a41-e711-80c0-00155d7cb38d",
+      "feature_id": ""
+    },
+    {
       "id": "194234e7-12df-ef11-95f5-6045bd8417e6",
       "title": "Request for Intercompany Digital Attachment Enhancement in Business Central",
       "status": "New",
@@ -14088,6 +14100,18 @@
       "area": "Financial management",
       "created": "2021-11-04",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=3e266fac-7c3d-ec11-a3ee-0003ff45e9e0",
+      "feature_id": ""
+    },
+    {
+      "id": "53c7b8f5-f44e-ea11-b698-0003ff689f0d",
+      "title": "Update Quantity Shipped or Quantity Fields in Blanket Sales Order after posting Credit Memo corresponding to Posted Sales Invoice created through posting of Order corresponding to Blanket Sales Order.",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 32,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2020-02-14",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=53c7b8f5-f44e-ea11-b698-0003ff689f0d",
       "feature_id": ""
     },
     {
@@ -14391,18 +14415,6 @@
       "feature_id": ""
     },
     {
-      "id": "1843d08d-9a41-e711-80c0-00155d7cb38d",
-      "title": "Add Quantity when selecting an item in a line",
-      "status": "Under Review",
-      "planned_for": "",
-      "votes": 31,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2017-05-26",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=1843d08d-9a41-e711-80c0-00155d7cb38d",
-      "feature_id": ""
-    },
-    {
       "id": "1b4dd161-4292-f011-aa43-7c1e5291e405",
       "title": "Allow Programmatic Filtering of Analysis Views via AL in Custom Pages",
       "status": "New",
@@ -14568,18 +14580,6 @@
       "area": "Unclassified",
       "created": "2019-01-11",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=52115846-6115-e911-9461-0003ff689aeb",
-      "feature_id": ""
-    },
-    {
-      "id": "53c7b8f5-f44e-ea11-b698-0003ff689f0d",
-      "title": "Update Quantity Shipped or Quantity Fields in Blanket Sales Order after posting Credit Memo corresponding to Posted Sales Invoice created through posting of Order corresponding to Blanket Sales Order.",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 31,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2020-02-14",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=53c7b8f5-f44e-ea11-b698-0003ff689f0d",
       "feature_id": ""
     },
     {
@@ -15192,6 +15192,18 @@
       "area": "Sales and marketing",
       "created": "2023-09-26",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=7513d4c4-425c-ee11-a81c-6045bdbfb39e",
+      "feature_id": ""
+    },
+    {
+      "id": "768a2dc3-35c8-ea11-bf21-0003ff68f444",
+      "title": "Add Vendor Bank Account Changes to Workflow as standard",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 30,
+      "category": "Purchasing",
+      "area": "Supply chain management",
+      "created": "2020-07-17",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=768a2dc3-35c8-ea11-bf21-0003ff68f444",
       "feature_id": ""
     },
     {
@@ -15876,18 +15888,6 @@
       "area": "Unclassified",
       "created": "2019-05-16",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=74d8645d-1e78-e911-80e7-0003ff689d0b",
-      "feature_id": ""
-    },
-    {
-      "id": "768a2dc3-35c8-ea11-bf21-0003ff68f444",
-      "title": "Add Vendor Bank Account Changes to Workflow as standard",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 29,
-      "category": "Purchasing",
-      "area": "Supply chain management",
-      "created": "2020-07-17",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=768a2dc3-35c8-ea11-bf21-0003ff68f444",
       "feature_id": ""
     },
     {
@@ -16587,6 +16587,18 @@
       "feature_id": ""
     },
     {
+      "id": "9a6a7de8-1dde-ef11-95f5-7c1e52cd49bc",
+      "title": "Assembly BOM in Stockkeeping Units",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 28,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2025-01-29",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9a6a7de8-1dde-ef11-95f5-7c1e52cd49bc",
+      "feature_id": ""
+    },
+    {
       "id": "a9eb899d-5526-ee11-913b-0003ff4588ed",
       "title": "Access keys for action bar and navigation menu with \"ALT\" Key in a language other than English",
       "status": "Needs Votes",
@@ -17139,18 +17151,6 @@
       "feature_id": ""
     },
     {
-      "id": "9a6a7de8-1dde-ef11-95f5-7c1e52cd49bc",
-      "title": "Assembly BOM in Stockkeeping Units",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 27,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2025-01-29",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9a6a7de8-1dde-ef11-95f5-7c1e52cd49bc",
-      "feature_id": ""
-    },
-    {
       "id": "9bb82ab7-90f0-ec11-b5cf-0003ff45834c",
       "title": "Display PO and SO Numbers in Item Ledger Entries and Value Entries Lists for Purchase Receipts and Sales Shipments",
       "status": "Needs Votes",
@@ -17187,6 +17187,18 @@
       "feature_id": ""
     },
     {
+      "id": "a466cd78-9cc7-ea11-bf23-0003ff68f7d5",
+      "title": "Line level and Lot/serial card attachments",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 27,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2020-07-16",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a466cd78-9cc7-ea11-bf23-0003ff68f7d5",
+      "feature_id": ""
+    },
+    {
       "id": "b8f8f7af-0acf-ee11-92bd-6045bdb614a3",
       "title": "Expand columns in HTTP request Get Customers with Language",
       "status": "Needs Votes",
@@ -17196,6 +17208,18 @@
       "area": "Development",
       "created": "2024-02-19",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b8f8f7af-0acf-ee11-92bd-6045bdb614a3",
+      "feature_id": ""
+    },
+    {
+      "id": "b9d107f8-a0bf-eb11-89ee-0003ff45a9b7",
+      "title": "Permantly change sorting on pages",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 27,
+      "category": "General",
+      "area": "Unclassified",
+      "created": "2021-05-28",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b9d107f8-a0bf-eb11-89ee-0003ff45a9b7",
       "feature_id": ""
     },
     {
@@ -17859,15 +17883,27 @@
       "feature_id": ""
     },
     {
-      "id": "a466cd78-9cc7-ea11-bf23-0003ff68f7d5",
-      "title": "Line level and Lot/serial card attachments",
+      "id": "9fbab997-e259-ee11-a81c-0022484c1d83",
+      "title": "Vendor Invoice No Duplicate",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 26,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2023-09-23",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9fbab997-e259-ee11-a81c-0022484c1d83",
+      "feature_id": ""
+    },
+    {
+      "id": "a31b687a-b333-ea11-8454-0003ff689747",
+      "title": "Location and Variant Filters on Item availabilty screens",
       "status": "Needs Votes",
       "planned_for": "",
       "votes": 26,
       "category": "Inventory",
       "area": "Supply chain management",
-      "created": "2020-07-16",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a466cd78-9cc7-ea11-bf23-0003ff68f7d5",
+      "created": "2020-01-10",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a31b687a-b333-ea11-8454-0003ff689747",
       "feature_id": ""
     },
     {
@@ -18063,6 +18099,18 @@
       "feature_id": ""
     },
     {
+      "id": "dd2f507f-a640-ef11-b4ac-6045bdbf7e19",
+      "title": "Prevent Duplicate Customer Ledger Entry when posting Bank Deposit",
+      "status": "New",
+      "planned_for": "",
+      "votes": 26,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2024-07-12",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=dd2f507f-a640-ef11-b4ac-6045bdbf7e19",
+      "feature_id": ""
+    },
+    {
       "id": "e457027c-9782-e711-80c0-00155d7cd0b4",
       "title": "Create general journal & vendor invoice from Excel add-in",
       "status": "Under Review",
@@ -18216,6 +18264,18 @@
       "area": "Sales and marketing",
       "created": "2024-08-15",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=1fa6dfe1-e15a-ef11-a4e5-000d3a7dc745",
+      "feature_id": ""
+    },
+    {
+      "id": "256164a2-2575-ea11-99e5-0003ff68bc19",
+      "title": "Populate Demand Forecast By Sales Budget",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 25,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2020-04-02",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=256164a2-2575-ea11-99e5-0003ff68bc19",
       "feature_id": ""
     },
     {
@@ -18555,18 +18615,6 @@
       "feature_id": ""
     },
     {
-      "id": "9fbab997-e259-ee11-a81c-0022484c1d83",
-      "title": "Vendor Invoice No Duplicate",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 25,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2023-09-23",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9fbab997-e259-ee11-a81c-0022484c1d83",
-      "feature_id": ""
-    },
-    {
       "id": "a085f2b7-c436-ea11-8454-0003ff68993b",
       "title": "Job should support invoice discount",
       "status": "Needs Votes",
@@ -18588,18 +18636,6 @@
       "area": "Development",
       "created": "2020-12-07",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a1957aba-2f38-eb11-8441-0003ff68f205",
-      "feature_id": ""
-    },
-    {
-      "id": "a31b687a-b333-ea11-8454-0003ff689747",
-      "title": "Location and Variant Filters on Item availabilty screens",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 25,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2020-01-10",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a31b687a-b333-ea11-8454-0003ff689747",
       "feature_id": ""
     },
     {
@@ -18744,18 +18780,6 @@
       "area": "Governance and administration",
       "created": "2022-11-24",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=d94cf861-0b6c-ed11-a770-0003ff45af7c",
-      "feature_id": ""
-    },
-    {
-      "id": "dd2f507f-a640-ef11-b4ac-6045bdbf7e19",
-      "title": "Prevent Duplicate Customer Ledger Entry when posting Bank Deposit",
-      "status": "New",
-      "planned_for": "",
-      "votes": 25,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2024-07-12",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=dd2f507f-a640-ef11-b4ac-6045bdbf7e19",
       "feature_id": ""
     },
     {
@@ -18996,18 +19020,6 @@
       "area": "Financial management",
       "created": "2018-12-12",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=244feae2-5dfe-e811-a140-0003ff68bfb1",
-      "feature_id": ""
-    },
-    {
-      "id": "256164a2-2575-ea11-99e5-0003ff68bc19",
-      "title": "Populate Demand Forecast By Sales Budget",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 24,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2020-04-02",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=256164a2-2575-ea11-99e5-0003ff68bc19",
       "feature_id": ""
     },
     {
@@ -20055,6 +20067,18 @@
       "feature_id": ""
     },
     {
+      "id": "70a081ac-fc55-e711-80c0-00155d7cd0b4",
+      "title": "Item List",
+      "status": "Declined",
+      "planned_for": "",
+      "votes": 23,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2017-06-21",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=70a081ac-fc55-e711-80c0-00155d7cd0b4",
+      "feature_id": ""
+    },
+    {
       "id": "70f2dadc-ac51-ee11-a81c-000d3a7a41da",
       "title": "Undo Receipt should allow user to choose the posting date",
       "status": "Needs Votes",
@@ -21003,18 +21027,6 @@
       "feature_id": ""
     },
     {
-      "id": "70a081ac-fc55-e711-80c0-00155d7cd0b4",
-      "title": "Item List",
-      "status": "Declined",
-      "planned_for": "",
-      "votes": 22,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2017-06-21",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=70a081ac-fc55-e711-80c0-00155d7cd0b4",
-      "feature_id": ""
-    },
-    {
       "id": "75174687-6fc4-eb11-89ee-0003ff45b551",
       "title": "Enable private beta for AppSource apps",
       "status": "Completed",
@@ -21228,18 +21240,6 @@
       "area": "Financial management",
       "created": "2025-07-29",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b7bf8f1b-616c-f011-95f2-7c1e52eec559",
-      "feature_id": ""
-    },
-    {
-      "id": "b9d107f8-a0bf-eb11-89ee-0003ff45a9b7",
-      "title": "Permantly change sorting on pages",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 22,
-      "category": "General",
-      "area": "Unclassified",
-      "created": "2021-05-28",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=b9d107f8-a0bf-eb11-89ee-0003ff45a9b7",
       "feature_id": ""
     },
     {
@@ -22647,6 +22647,18 @@
       "feature_id": ""
     },
     {
+      "id": "243bbb30-1577-e711-80c0-00155d7cb38d",
+      "title": "Attribute per Item Unit of Measure",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 20,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2017-08-02",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=243bbb30-1577-e711-80c0-00155d7cb38d",
+      "feature_id": ""
+    },
+    {
       "id": "245db4fc-c95d-ea11-b698-0003ff68861b",
       "title": "enable SaveValues property for page extension",
       "status": "Needs Votes",
@@ -22932,6 +22944,18 @@
       "area": "Country and regional",
       "created": "2021-01-21",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=59764481-ff5b-eb11-8fed-0003ff68ec39",
+      "feature_id": ""
+    },
+    {
+      "id": "5c117c1f-367e-f111-9b47-6045bd7f45b8",
+      "title": "Support Non-Inventory Items as Assembly BOM Components",
+      "status": "New",
+      "planned_for": "",
+      "votes": 20,
+      "category": "Inventory",
+      "area": "Supply chain management",
+      "created": "2026-07-12",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5c117c1f-367e-f111-9b47-6045bd7f45b8",
       "feature_id": ""
     },
     {
@@ -23739,6 +23763,18 @@
       "feature_id": ""
     },
     {
+      "id": "16654b47-44b7-f111-aad1-7c1e526f9ea3",
+      "title": "Using the Bank Account on the Purchase invoice for paying",
+      "status": "New",
+      "planned_for": "",
+      "votes": 19,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2026-09-23",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=16654b47-44b7-f111-aad1-7c1e526f9ea3",
+      "feature_id": ""
+    },
+    {
       "id": "1b0b17e0-f0e7-f011-92b8-7c1e52ce6adc",
       "title": "Dimension correction should apply to all related entries and documents",
       "status": "New",
@@ -23748,18 +23784,6 @@
       "area": "Financial management",
       "created": "2026-01-02",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=1b0b17e0-f0e7-f011-92b8-7c1e52ce6adc",
-      "feature_id": ""
-    },
-    {
-      "id": "243bbb30-1577-e711-80c0-00155d7cb38d",
-      "title": "Attribute per Item Unit of Measure",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 19,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2017-08-02",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=243bbb30-1577-e711-80c0-00155d7cb38d",
       "feature_id": ""
     },
     {
@@ -24051,18 +24075,6 @@
       "feature_id": ""
     },
     {
-      "id": "5c117c1f-367e-f111-9b47-6045bd7f45b8",
-      "title": "Support Non-Inventory Items as Assembly BOM Components",
-      "status": "New",
-      "planned_for": "",
-      "votes": 19,
-      "category": "Inventory",
-      "area": "Supply chain management",
-      "created": "2026-07-12",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5c117c1f-367e-f111-9b47-6045bd7f45b8",
-      "feature_id": ""
-    },
-    {
       "id": "5ce0d3b4-1ca1-eb11-89ee-0003ff45e650",
       "title": "Prepayment on Sales Invoice",
       "status": "Needs Votes",
@@ -24204,6 +24216,18 @@
       "area": "Development",
       "created": "2021-03-02",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=851f7a5b-707b-eb11-8fed-0003ff45e089",
+      "feature_id": ""
+    },
+    {
+      "id": "85e2f803-162a-ee11-805a-0003ff45ac6d",
+      "title": "Dutch Telebank Get Entries Dates",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 19,
+      "category": "Geographies and Localization",
+      "area": "Country and regional",
+      "created": "2023-07-24",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=85e2f803-162a-ee11-805a-0003ff45ac6d",
       "feature_id": ""
     },
     {
@@ -24879,6 +24903,18 @@
       "feature_id": ""
     },
     {
+      "id": "00498946-43d0-f011-ad8e-000d3ae45fef",
+      "title": "Standard Cost on manufacturing SKU - take cost of purchased Items from SKU",
+      "status": "New",
+      "planned_for": "",
+      "votes": 18,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2025-12-03",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=00498946-43d0-f011-ad8e-000d3ae45fef",
+      "feature_id": ""
+    },
+    {
       "id": "00a73d6b-246f-ee11-a81c-000d3ae53364",
       "title": "Mandatory Fields",
       "status": "Needs Votes",
@@ -25032,18 +25068,6 @@
       "area": "Reporting and data analysis",
       "created": "2019-09-30",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=1659712e-5be3-e911-b3b9-0003ff68b7e1",
-      "feature_id": ""
-    },
-    {
-      "id": "16654b47-44b7-f111-aad1-7c1e526f9ea3",
-      "title": "Using the Bank Account on the Purchase invoice for paying",
-      "status": "New",
-      "planned_for": "",
-      "votes": 18,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2026-09-23",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=16654b47-44b7-f111-aad1-7c1e526f9ea3",
       "feature_id": ""
     },
     {
@@ -26319,18 +26343,6 @@
       "feature_id": ""
     },
     {
-      "id": "00498946-43d0-f011-ad8e-000d3ae45fef",
-      "title": "Standard Cost on manufacturing SKU - take cost of purchased Items from SKU",
-      "status": "New",
-      "planned_for": "",
-      "votes": 17,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2025-12-03",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=00498946-43d0-f011-ad8e-000d3ae45fef",
-      "feature_id": ""
-    },
-    {
       "id": "0200b6ce-34ba-f011-aa43-7c1e52a6c1f4",
       "title": "Open up Telemetry in API Webhook Notification framework (Modify TelemetryScope to All)",
       "status": "New",
@@ -26556,6 +26568,18 @@
       "area": "Development",
       "created": "2024-04-04",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2c346c33-8cf2-ee11-a73d-6045bdb71da1",
+      "feature_id": ""
+    },
+    {
+      "id": "2d5f7f8e-44d0-f011-ad8e-000d3ae45fef",
+      "title": "Standard Cost on manufacturing SKU - take cost of subassembly Items from SKU",
+      "status": "New",
+      "planned_for": "",
+      "votes": 17,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2025-12-03",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2d5f7f8e-44d0-f011-ad8e-000d3ae45fef",
       "feature_id": ""
     },
     {
@@ -27216,6 +27240,18 @@
       "area": "Country and regional",
       "created": "2021-12-03",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9d2abedc-1f54-ec11-a3ee-0003ff45ac6d",
+      "feature_id": ""
+    },
+    {
+      "id": "a0fa9e6f-2e96-ef11-95f5-6045bdc01d6d",
+      "title": "Void ACHs",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 17,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2024-10-29",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a0fa9e6f-2e96-ef11-95f5-6045bdc01d6d",
       "feature_id": ""
     },
     {
@@ -28215,18 +28251,6 @@
       "feature_id": ""
     },
     {
-      "id": "2d5f7f8e-44d0-f011-ad8e-000d3ae45fef",
-      "title": "Standard Cost on manufacturing SKU - take cost of subassembly Items from SKU",
-      "status": "New",
-      "planned_for": "",
-      "votes": 16,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2025-12-03",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=2d5f7f8e-44d0-f011-ad8e-000d3ae45fef",
-      "feature_id": ""
-    },
-    {
       "id": "2e673080-6002-e911-a140-0003ff68a2bf",
       "title": "Export G/L register with foreign currency code and foreign currency amount",
       "status": "Needs Votes",
@@ -28452,6 +28476,18 @@
       "area": "Microsoft 365 and Power Platform",
       "created": "2022-04-24",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5e46535e-bec3-ec11-bea1-0003ff45e64b",
+      "feature_id": ""
+    },
+    {
+      "id": "5ec5c545-22de-ef11-95f5-6045bd8417e6",
+      "title": "Permissions to create customers/vendors from contact",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 16,
+      "category": "Development",
+      "area": "Development",
+      "created": "2025-01-29",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5ec5c545-22de-ef11-95f5-6045bd8417e6",
       "feature_id": ""
     },
     {
@@ -29871,6 +29907,18 @@
       "feature_id": ""
     },
     {
+      "id": "33082404-322b-f011-9d47-7c1e52ba8afb",
+      "title": "Overpicking with item tracking",
+      "status": "New",
+      "planned_for": "",
+      "votes": 15,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2025-05-07",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=33082404-322b-f011-9d47-7c1e52ba8afb",
+      "feature_id": ""
+    },
+    {
       "id": "363fd3be-d869-ea11-b698-0003ff6889ac",
       "title": "Tiles in ListParts",
       "status": "Declined",
@@ -30108,18 +30156,6 @@
       "area": "Development",
       "created": "2020-10-29",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=562c6464-d419-eb11-8441-0003ff68950e",
-      "feature_id": ""
-    },
-    {
-      "id": "5ec5c545-22de-ef11-95f5-6045bd8417e6",
-      "title": "Permissions to create customers/vendors from contact",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 15,
-      "category": "Development",
-      "area": "Development",
-      "created": "2025-01-29",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5ec5c545-22de-ef11-95f5-6045bd8417e6",
       "feature_id": ""
     },
     {
@@ -31779,18 +31815,6 @@
       "feature_id": ""
     },
     {
-      "id": "33082404-322b-f011-9d47-7c1e52ba8afb",
-      "title": "Overpicking with item tracking",
-      "status": "New",
-      "planned_for": "",
-      "votes": 14,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2025-05-07",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=33082404-322b-f011-9d47-7c1e52ba8afb",
-      "feature_id": ""
-    },
-    {
       "id": "346d9731-aca8-e911-b083-0003ff6893a2",
       "title": "Add Tax Registration number - Vendor Card PST",
       "status": "Needs Votes",
@@ -32055,6 +32079,18 @@
       "feature_id": ""
     },
     {
+      "id": "472a8709-412b-eb11-8441-0003ff68950e",
+      "title": "Multiple check format attached to bank accounts",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 14,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2020-11-20",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=472a8709-412b-eb11-8441-0003ff68950e",
+      "feature_id": ""
+    },
+    {
       "id": "47a6d772-bbc6-ea11-bf21-0003ff68dcc1",
       "title": "Enhanced Account Schedules",
       "status": "Declined",
@@ -32295,6 +32331,18 @@
       "feature_id": ""
     },
     {
+      "id": "60a124d9-a284-ef11-9442-6045bdb9fcc9",
+      "title": "Delete Users in BC",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 14,
+      "category": "General",
+      "area": "Unclassified",
+      "created": "2024-10-07",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=60a124d9-a284-ef11-9442-6045bdb9fcc9",
+      "feature_id": ""
+    },
+    {
       "id": "60a76434-5dc3-f011-aa43-7c1e52e939df",
       "title": "Remittance advice email real time notifications",
       "status": "Under Review",
@@ -32412,6 +32460,18 @@
       "area": "Unclassified",
       "created": "2024-05-02",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=70629ea3-6208-ef11-a73c-0022484fbac4",
+      "feature_id": ""
+    },
+    {
+      "id": "72b8d0f1-87b7-ed11-9ac4-0003ff45e60c",
+      "title": "Consumption Lot Item Tracing per Individual Production Output Booking",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 14,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2023-02-28",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=72b8d0f1-87b7-ed11-9ac4-0003ff45e60c",
       "feature_id": ""
     },
     {
@@ -32832,18 +32892,6 @@
       "area": "Sales and marketing",
       "created": "2021-03-22",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9e46b58d-218b-eb11-8ced-0003ff45a07d",
-      "feature_id": ""
-    },
-    {
-      "id": "a0fa9e6f-2e96-ef11-95f5-6045bdc01d6d",
-      "title": "Void ACHs",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 14,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2024-10-29",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=a0fa9e6f-2e96-ef11-95f5-6045bdc01d6d",
       "feature_id": ""
     },
     {
@@ -33903,6 +33951,18 @@
       "feature_id": ""
     },
     {
+      "id": "29bb25d2-841e-ef11-9899-000d3a7b8f3a",
+      "title": "Copilot Matching for Payment processing",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 13,
+      "category": "Agents and Copilot",
+      "area": "Copilot and agents",
+      "created": "2024-05-30",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=29bb25d2-841e-ef11-9899-000d3a7b8f3a",
+      "feature_id": ""
+    },
+    {
       "id": "2baa8c04-e9ec-ee11-a73d-6045bdb71da1",
       "title": "Save output \"Post Inventory cost to G/L\" (Report 1002) when running in Jobqueue",
       "status": "Needs Votes",
@@ -34044,6 +34104,18 @@
       "area": "Governance and administration",
       "created": "2019-10-28",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=3dd64bd6-8ff9-e911-b862-0003ff68954d",
+      "feature_id": ""
+    },
+    {
+      "id": "3e91a058-6180-f111-9b47-7c1e529dab82",
+      "title": "Allow Import and Export of Page Scripting YAML Files Through AL Code",
+      "status": "New",
+      "planned_for": "",
+      "votes": 13,
+      "category": "Development",
+      "area": "Development",
+      "created": "2026-07-15",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=3e91a058-6180-f111-9b47-7c1e529dab82",
       "feature_id": ""
     },
     {
@@ -34476,18 +34548,6 @@
       "area": "Unclassified",
       "created": "2024-07-24",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=700f3338-a349-ef11-b4ac-000d3a7ac7fa",
-      "feature_id": ""
-    },
-    {
-      "id": "72b8d0f1-87b7-ed11-9ac4-0003ff45e60c",
-      "title": "Consumption Lot Item Tracing per Individual Production Output Booking",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 13,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2023-02-28",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=72b8d0f1-87b7-ed11-9ac4-0003ff45e60c",
       "feature_id": ""
     },
     {
@@ -35919,18 +35979,6 @@
       "feature_id": ""
     },
     {
-      "id": "29bb25d2-841e-ef11-9899-000d3a7b8f3a",
-      "title": "Copilot Matching for Payment processing",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 12,
-      "category": "Agents and Copilot",
-      "area": "Copilot and agents",
-      "created": "2024-05-30",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=29bb25d2-841e-ef11-9899-000d3a7b8f3a",
-      "feature_id": ""
-    },
-    {
       "id": "2c77109a-66da-eb11-ba5e-0003ff45c6ef",
       "title": "Default dates on BC",
       "status": "Needs Votes",
@@ -36123,18 +36171,6 @@
       "feature_id": ""
     },
     {
-      "id": "3e91a058-6180-f111-9b47-7c1e529dab82",
-      "title": "Allow Import and Export of Page Scripting YAML Files Through AL Code",
-      "status": "New",
-      "planned_for": "",
-      "votes": 12,
-      "category": "Development",
-      "area": "Development",
-      "created": "2026-07-15",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=3e91a058-6180-f111-9b47-7c1e529dab82",
-      "feature_id": ""
-    },
-    {
       "id": "3f5bdeee-59ca-eb11-ba5e-0003ff459e25",
       "title": "Page group properties expand/collapse UX experience",
       "status": "Needs Votes",
@@ -36264,6 +36300,18 @@
       "area": "Financial management",
       "created": "2018-09-28",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=46512d5e-47c3-e811-b96f-0003ff68bbb7",
+      "feature_id": ""
+    },
+    {
+      "id": "477e63f3-b13c-ec11-a3ee-0003ff45e9e0",
+      "title": "Subcontracting improvements - Part1 : visibility",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 12,
+      "category": "Manufacturing",
+      "area": "Manufacturing",
+      "created": "2021-11-03",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=477e63f3-b13c-ec11-a3ee-0003ff45e9e0",
       "feature_id": ""
     },
     {
@@ -36492,6 +36540,18 @@
       "area": "Supply chain management",
       "created": "2023-11-08",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=5ea2e87c-567e-ee11-a81c-00224850ef4c",
+      "feature_id": ""
+    },
+    {
+      "id": "6004cd6a-3d18-e911-9461-0003ff68ee33",
+      "title": "Change invoice Send From email address to email address different from Office365 primary email address",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 12,
+      "category": "Sales",
+      "area": "Sales and marketing",
+      "created": "2019-01-14",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=6004cd6a-3d18-e911-9461-0003ff68ee33",
       "feature_id": ""
     },
     {
@@ -38583,30 +38643,6 @@
       "feature_id": ""
     },
     {
-      "id": "472a8709-412b-eb11-8441-0003ff68950e",
-      "title": "Multiple check format attached to bank accounts",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 11,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2020-11-20",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=472a8709-412b-eb11-8441-0003ff68950e",
-      "feature_id": ""
-    },
-    {
-      "id": "477e63f3-b13c-ec11-a3ee-0003ff45e9e0",
-      "title": "Subcontracting improvements - Part1 : visibility",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 11,
-      "category": "Manufacturing",
-      "area": "Manufacturing",
-      "created": "2021-11-03",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=477e63f3-b13c-ec11-a3ee-0003ff45e9e0",
-      "feature_id": ""
-    },
-    {
       "id": "48f13e01-fe1f-eb11-8441-0003ff68950e",
       "title": "Warehouse Entries & Item Ledger Entries Reconciliation / Comparison",
       "status": "Needs Votes",
@@ -38883,18 +38919,6 @@
       "feature_id": ""
     },
     {
-      "id": "6004cd6a-3d18-e911-9461-0003ff68ee33",
-      "title": "Change invoice Send From email address to email address different from Office365 primary email address",
-      "status": "Needs Votes",
-      "planned_for": "",
-      "votes": 11,
-      "category": "Sales",
-      "area": "Sales and marketing",
-      "created": "2019-01-14",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=6004cd6a-3d18-e911-9461-0003ff68ee33",
-      "feature_id": ""
-    },
-    {
       "id": "60cf249d-5862-eb11-8fed-0003ff45921c",
       "title": "Date Formula Field logic to include H for Hours",
       "status": "Needs Votes",
@@ -38964,6 +38988,18 @@
       "area": "Reporting and data analysis",
       "created": "2025-12-17",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=67e3ce8b-29db-f011-ad8e-7c1e52cbbd63",
+      "feature_id": ""
+    },
+    {
+      "id": "6875bd28-2948-f011-a2da-7c1e52b4c1ef",
+      "title": "Aged accounts Payable Excel",
+      "status": "New",
+      "planned_for": "",
+      "votes": 11,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2025-06-13",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=6875bd28-2948-f011-a2da-7c1e52b4c1ef",
       "feature_id": ""
     },
     {
@@ -39600,6 +39636,18 @@
       "area": "Service and support",
       "created": "2021-07-01",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9efdb365-6fda-eb11-ba5e-0003ff4582ed",
+      "feature_id": ""
+    },
+    {
+      "id": "9f713ac5-49ea-f011-92b8-7c1e52ce6adc",
+      "title": "Sync-NAVApp and Start-NAVAppDataUpgrade Deployment Durations (Rebuild Keys)",
+      "status": "New",
+      "planned_for": "",
+      "votes": 11,
+      "category": "Tenant Administration",
+      "area": "Governance and administration",
+      "created": "2026-01-05",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9f713ac5-49ea-f011-92b8-7c1e52ce6adc",
       "feature_id": ""
     },
     {
@@ -40971,6 +41019,18 @@
       "feature_id": ""
     },
     {
+      "id": "1e2ea3a4-d226-ef11-8ee7-6045bdb88c35",
+      "title": "A way to utilize notification in the bell/chime icon",
+      "status": "Needs Votes",
+      "planned_for": "",
+      "votes": 10,
+      "category": "General",
+      "area": "Unclassified",
+      "created": "2024-06-10",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=1e2ea3a4-d226-ef11-8ee7-6045bdb88c35",
+      "feature_id": ""
+    },
+    {
       "id": "1fd29f31-ffbd-ed11-9ac7-0003ff45ac6d",
       "title": "Increase the number of sandboxes an ISV can have in our Tenant",
       "status": "Needs Votes",
@@ -41763,18 +41823,6 @@
       "feature_id": ""
     },
     {
-      "id": "6875bd28-2948-f011-a2da-7c1e52b4c1ef",
-      "title": "Aged accounts Payable Excel",
-      "status": "New",
-      "planned_for": "",
-      "votes": 10,
-      "category": "Financial Management",
-      "area": "Financial management",
-      "created": "2025-06-13",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=6875bd28-2948-f011-a2da-7c1e52b4c1ef",
-      "feature_id": ""
-    },
-    {
       "id": "68d4615c-3986-ea11-99e6-0003ff68c595",
       "title": "Postal Code Master File",
       "status": "Needs Votes",
@@ -42063,6 +42111,18 @@
       "feature_id": ""
     },
     {
+      "id": "85c1cd9e-12d9-f111-bda1-7c1e52af2e3b",
+      "title": "NL Telebanking: add second transaction mode field on customer card",
+      "status": "New",
+      "planned_for": "",
+      "votes": 10,
+      "category": "Financial Management",
+      "area": "Financial management",
+      "created": "2026-11-05",
+      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=85c1cd9e-12d9-f111-bda1-7c1e52af2e3b",
+      "feature_id": ""
+    },
+    {
       "id": "87e41f9b-fb43-ea11-b698-0003ff68d520",
       "title": "The metadata endpoint should represent actual behavior",
       "status": "Needs Votes",
@@ -42324,18 +42384,6 @@
       "area": "Project management",
       "created": "2021-11-03",
       "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9d9ad33b-773c-ec11-a3ee-0003ff45e9e0",
-      "feature_id": ""
-    },
-    {
-      "id": "9f713ac5-49ea-f011-92b8-7c1e52ce6adc",
-      "title": "Sync-NAVApp and Start-NAVAppDataUpgrade Deployment Durations (Rebuild Keys)",
-      "status": "New",
-      "planned_for": "",
-      "votes": 10,
-      "category": "Tenant Administration",
-      "area": "Governance and administration",
-      "created": "2026-01-05",
-      "url": "https://experience.dynamics.com/ideas/idea/?ideaid=9f713ac5-49ea-f011-92b8-7c1e52ce6adc",
       "feature_id": ""
     },
     {
