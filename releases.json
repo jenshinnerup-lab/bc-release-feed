@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07",
+  "generated_at": "2026-11-10",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -154785,17 +154785,6 @@
       "country_code": "",
       "publisher": "Dynalogic",
       "product_name": "Dynalogic Birds Smart Connect"
-    }
-  ],
-  "isv_resources": [
-    {
-      "publisher": "Continia",
-      "product_name": "Continia Banking",
-      "kind": "video",
-      "title": "Introducing Continia Banking 2024",
-      "url": "https://www.youtube.com/watch?v=x5x-cRfdsRE&t=203s",
-      "channel_name": "Continia Software",
-      "channel_url": "https://www.youtube.com/@ContiniaSoftware"
     }
   ]
 }
