@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-07",
+  "generated_at": "2026-11-11",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "2c3b906713d40ebabb7e",
+      "date": "2026-11-11",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-86507",
+      "version": "Document Output 2026 R2 Service Pack 1, hotfix 1",
+      "title": "When Document Output/Azure Blob Storage was set up in more than one company, opening a posted sales document or sending an invoice by email could fail",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "8c13edbf494036c020cd",
+      "date": "2026-11-11",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-82738",
+      "version": "Continia Delivery Network 2025 R2, Service Pack 7",
+      "title": "Previously, when the job queue entry responsible for updating Continia Delivery Network metadata ran under a user with only the Continia Delivery Netw",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "b713f3a037c26949e3db",
+      "date": "2026-11-11",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-86583",
+      "version": "Document Capture 2026 R2, Service Pack 1, hotfix 1",
+      "title": "Previously, importing a configuration file using the Set Up Document Capture guide in Document Capture 29.1 could trigger the following error if the f",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "5de7da19a252ed38994d",
+      "date": "2026-11-11",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-86479",
+      "version": "Document Capture 2026 R2, Service Pack 1, hotfix 1",
+      "title": "Previously, dragging a file onto the Documents FactBox opened the file instead of attaching it to the document.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "c15c2d02267772cec988",
+      "date": "2026-11-11",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-dc-86261",
+      "version": "Document Capture 2026 R2, Service Pack 1, hotfix 1",
+      "title": "The AI column on document lines now displays Alternative when a different account is entered manually or a translation is deleted from the Line Transl",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "19b180bf499b75d57b00",
       "date": "2026-11-07",

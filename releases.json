@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10",
+  "generated_at": "2026-11-11",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -15494,6 +15494,18 @@
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
       "country_code": "",
       "general_availability": "April 1, 2026",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-69483",
+      "version": "Document Capture 2026 R2, Service Pack 1, hotfix 1",
+      "area": "Order & Receipt Matching",
+      "title": "Important The functionality described below, introduced in version 29.1, has been reverted in this hotfix because it caused issues when matching two o",
+      "summary": "Important The functionality described below, introduced in version 29.1, has been reverted in this hotfix because it caused issues when matching two or more document lines to the same purchase line, or when using fuzzy matching. This functionality will be revised and reintroduced in a future service pack when the issues have been resolved. Previously, when manually matching purchase invoices or credit memos on the Invoice Matching or Credit Memo Matching page, the matched quantity was not linked",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
+      "country_code": "",
+      "general_availability": "October 1, 2026",
       "publisher": "Continia",
       "product_name": "Continia Document Capture"
     },
@@ -82754,8 +82766,8 @@
       "id": "continia-cb-75511",
       "version": "Continia Banking 2025 R2, Service Pack 5, hotfix 3",
       "functional_area": "Payment Export",
-      "title": "Fixed an issue in the export upgrade where creditor bank accounts could be duplicated because record ID‑based deduplication was not working correctly.",
-      "summary": "Fixed an issue in the export upgrade where creditor bank accounts could be duplicated because record ID‑based deduplication was not working correctly.",
+      "title": "Fixed an issue in the export upgrade where creditor bank accounts could be duplicated because record ID\u0000\u0000‑based deduplication was not working correctl",
+      "summary": "Fixed an issue in the export upgrade where creditor bank accounts could be duplicated because record ID\u0000\u0000‑based deduplication was not working correctly.",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2025-r2/",
       "hotfix_id": "75511",
       "country_code": "",
@@ -104411,6 +104423,42 @@
       "product_name": "Continia Document Capture"
     },
     {
+      "id": "continia-dc-86261",
+      "version": "Document Capture 2026 R2, Service Pack 1, hotfix 1",
+      "functional_area": "Documents and Templates",
+      "title": "The AI column on document lines now displays Alternative when a different account is entered manually or a translation is deleted from the Line Transl",
+      "summary": "The AI column on document lines now displays Alternative when a different account is entered manually or a translation is deleted from the Line Translations page. The AI suggestions remain available in the drill-down for review and selection. The Recognize Fields action now also removes any remaining AI suggestions from the document lines.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
+      "hotfix_id": "86261",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-86583",
+      "version": "Document Capture 2026 R2, Service Pack 1, hotfix 1",
+      "functional_area": "Documents and Templates",
+      "title": "Previously, importing a configuration file using the Set Up Document Capture guide in Document Capture 29.1 could trigger the following error if the f",
+      "summary": "Previously, importing a configuration file using the Set Up Document Capture guide in Document Capture 29.1 could trigger the following error if the file contained a template with an XML stylesheet: The length of the string is <escape><Length></escape>, but it must be less than or equal to 2048 characters. Value: <escape><Value></escape> These configuration files can now be imported successfully. Additionally, the custom instructions on templates are now included when exporting and importing tem",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
+      "hotfix_id": "86583",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
+      "id": "continia-dc-86479",
+      "version": "Document Capture 2026 R2, Service Pack 1, hotfix 1",
+      "functional_area": "General Application",
+      "title": "Previously, dragging a file onto the Documents FactBox opened the file instead of attaching it to the document.",
+      "summary": "Previously, dragging a file onto the Documents FactBox opened the file instead of attaching it to the document. The file is now correctly attached to the document when dropped onto the FactBox.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
+      "hotfix_id": "86479",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
       "id": "continia-dc-84504",
       "version": "Document Capture 2026 R2, Service Pack 1",
       "functional_area": "Country and Regional",
@@ -116547,7 +116595,7 @@
       "version": "Document Capture 2024 R1 Service Pack 3",
       "functional_area": "Documents and Templates",
       "title": "Previously, the asterisk ( ) character wasn't included in the automatic rule creation when Enable Rule Generation was enabled for a template field.",
-      "summary": "Previously, the asterisk ( ) character wasn't included in the automatic rule creation when Enable Rule Generation was enabled for a template field. Now, the asterisk is included in the automatically created expression, along with the required escape character (). See examples below. Captured string 123456 generates the rule [0-9]{6} Captured string 123456 generates the rule [0-9]{6} Captured string 123A456 generates the rule [0-9]{3}A*[0-9]{3}",
+      "summary": "Previously, the asterisk ( ) character wasn't included in the automatic rule creation when Enable Rule Generation was enabled for a template field. Now, the asterisk is included in the automatically created expression, along with the required escape character (). See examples below. Captured string 123456 generates the rule [0-9]{6} Captured string 123456 generates the rule [0-9]{6} Captured string 123A 456 generates the rule [0-9]{3}A*[0-9]{3}",
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/previous-changelogs/document-capture-2024-r1/",
       "hotfix_id": "57534",
       "country_code": "",
@@ -124067,6 +124115,42 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-82462",
+      "version": "Continia Delivery Network 2025 R2, Service Pack 7",
+      "functional_area": "XML Export",
+      "title": "Previously, when a sales invoice or credit memo with a line discount was exported in ZUGFeRD or CII format, the gross price and discount amount were r",
+      "summary": "Previously, when a sales invoice or credit memo with a line discount was exported in ZUGFeRD or CII format, the gross price and discount amount were rounded separately. This could cause the net price to differ by one cent from the gross price minus the discount, resulting in the following validation error: PEPPOL-EN16931-R046: Item net price MUST equal (Gross price - Allowance amount) when gross price is provided. The gross price, allowance amount, and net price are now calculated using consiste",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r2/",
+      "hotfix_id": "82462",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-85358",
+      "version": "Continia Delivery Network 2025 R2, Service Pack 7",
+      "functional_area": "XML Export",
+      "title": "Previously, when only Continia Document Output was installed, the VATEX Code field in VAT Posting Setup page was hidden by default.",
+      "summary": "Previously, when only Continia Document Output was installed, the VATEX Code field in VAT Posting Setup page was hidden by default. Even when made visible through personalization, the field could not be edited and did not provide a lookup. As a result, VATEX codes could only be configured using a configuration package. The VATEX Code field is now visible and editable when Continia Document Output is installed, allowing VATEX codes to be configured directly in VAT Posting Setup .",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r2/",
+      "hotfix_id": "85358",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-82738",
+      "version": "Continia Delivery Network 2025 R2, Service Pack 7",
+      "functional_area": "eDocuments",
+      "title": "Previously, when the job queue entry responsible for updating Continia Delivery Network metadata ran under a user with only the Continia Delivery Netw",
+      "summary": "Previously, when the job queue entry responsible for updating Continia Delivery Network metadata ran under a user with only the Continia Delivery Network - Basic permission set, the job failed with the following error: Sorry, the current permissions prevented the action. (TableData <Table ID> <Table Name> Modify: Continia Delivery Network) The job queue repeatedly retried the job, preventing updates to networks, identifier types, network profiles, and profile document types. The Continia Deliver",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r2/",
+      "hotfix_id": "82738",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-82084",
       "version": "Continia Delivery Network 2025 R2, Service Pack 6",
       "functional_area": "Country and Regional",
@@ -126546,6 +126630,18 @@
       "summary": "Previously, when importing the OIOUBL XML structure configuration, related network profiles had to be mapped manually. Without this mapping, exporting eDocuments could fail. Network profiles are now automatically mapped to the XML structures during import.",
       "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
       "hotfix_id": "75968",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-86507",
+      "version": "Document Output 2026 R2 Service Pack 1, hotfix 1",
+      "functional_area": "General Application",
+      "title": "When Document Output/Azure Blob Storage was set up in more than one company, opening a posted sales document or sending an invoice by email could fail",
+      "summary": "When Document Output/Azure Blob Storage was set up in more than one company, opening a posted sales document or sending an invoice by email could fail with the following error: - Access to company '<company>' is denied This has now been fixed, and it no longer requires access to companies other than the one in use.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r2/",
+      "hotfix_id": "86507",
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Document Output"
@@ -131681,6 +131777,18 @@
       "title": "Minor bug fixes and improvements.",
       "summary": "Minor bug fixes and improvements.",
       "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-mobile-app/",
+      "hotfix_id": "N/A",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-N/A",
+      "version": "Expense Portal 29.0.0.9",
+      "functional_area": "General Application",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
       "hotfix_id": "N/A",
       "country_code": "",
       "publisher": "Continia",
