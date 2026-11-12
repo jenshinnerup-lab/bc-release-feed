@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11",
+ "generated_at": "2026-11-12",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,26 +67,26 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29.1): Data mirroring to Microsoft Fabric (No APIs or OData Needed)",
+   "url": "https://yzhums.com/77184/",
+   "published": "2026-11-12",
+   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29.1) is generally available. More details: Cumulative Update Summary for Microsoft Dynamics 365 Business Central (November, 2026) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Data mirroring to Microsoft Fabric. Data mirroring to Microsoft Fabric : Business value"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29.1): Cross-environment Master Data Management",
    "url": "https://yzhums.com/77263/",
    "published": "2026-11-11",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29.1) is generally available. More details: Cumulative Update Summary for Microsoft Dynamics 365 Business Central (November, 2026) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Cross-environment Master Data Management. Cross-environment Master Data Management : Bu"
   },
   {
-   "source": "yzhums",
+   "source": "waldo",
    "kind": "blog",
-   "title": "Dynamics 365 Business Central: New 28+ License Key for On-Premises (license key version update)",
-   "url": "https://yzhums.com/77267/",
-   "published": "2026-11-10",
-   "summary": "Hi, Readers. Today, I’d like to share a recent Microsoft update that applies strictly to On-Premises customers. Microsoft announced a change to the licensing mechanism for Dynamics 365 Business Central On-Premises, effective October 1, 2026. More details: Dynamics 365 Business Central license key version update Let’s see more details. Starting from this date, new Business Central releases will no "
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Microsoft Announces New Business Central + Copilot Bundles Starting January 2027",
-   "url": "https://yzhums.com/77170/",
-   "published": "2026-11-09",
-   "summary": "Hi, Readers. Microsoft has announced a new Business Central + Copilot offer, making it easier for customers to purchase Dynamics 365 Business Central and Microsoft 365 Copilot together through a single CSP bundle. More details: Announcing new Business Central + Copilot offer and Copilot capabilities and New Business Central + Copilot bundled offers available January 1, 2027 The new bundles will be"
+   "title": "Agent Maron & waldo: Mission AL Runner",
+   "url": "https://waldo.be/2026/11/11/agent-maron-waldo-mission-al-runner/",
+   "published": "2026-11-11",
+   "summary": "A short story. The timestamps, the quotes and the numbers are real. So are the agents. I. The briefing Every mission starts with a problem. Mine was a number: 4 hours and 20 minutes. That’s how long it takes to run our test suite on a Business Central container. Spin up the container, publish about 70 apps, run more than 10,000 tests, collect the results. Four hours and twenty minutes of waiting, "
   }
  ],
  "links": {

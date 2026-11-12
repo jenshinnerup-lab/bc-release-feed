@@ -1,25 +1,37 @@
 {
-  "updated_at": "2026-11-11T08:49:42Z",
+  "updated_at": "2026-11-12T04:31:16Z",
   "source": "One content hash per feed file, and a log of the builds that changed one. Check this before downloading the feed.",
   "files": {
     "releases.json": {
-      "hash": "a4c0a2c954535212b5005ea228e2481ace3c1569945295772cf29073c32f4ad1",
-      "updated_at": "2026-11-11T08:49:42Z"
+      "hash": "f2309dc65307fbe222512b3674fb8418f4e15828f671ff4c08148e8c568b7a9c",
+      "updated_at": "2026-11-12T04:31:16Z"
     },
     "ideas.json": {
       "hash": "6835720492f9018236868998328023135de0af5addd7be9eb75682f6ffa80c55",
       "updated_at": "2026-11-08T05:11:30Z"
     },
     "changelog.json": {
-      "hash": "1e349d8d391a6ca2aec477896df40b3eb1f6528780431c94962b436cd37f0505",
-      "updated_at": "2026-11-11T04:31:20Z"
+      "hash": "5b9380849370fe6d880cce0f420d1408d92e4969fa9e23f27e63c1bc2ecf3cc4",
+      "updated_at": "2026-11-12T04:31:16Z"
     },
     "community.json": {
-      "hash": "1a5c27cbdb9974de7cfff2a4ffc484b5ad89e9179f6dcb748284f4ad46b96d92",
-      "updated_at": "2026-11-11T04:31:20Z"
+      "hash": "96407751c45adc9bf97644e85ae1365eeda3b5dc1b42882683152a6e04399834",
+      "updated_at": "2026-11-12T04:31:16Z"
     }
   },
   "activity": [
+    {
+      "at": "2026-11-12T04:31:16Z",
+      "files": [
+        "releases.json",
+        "changelog.json",
+        "community.json"
+      ],
+      "features": 4119,
+      "hotfixes": 8679,
+      "ideas": 3639,
+      "changelog_entries": 589
+    },
     {
       "at": "2026-11-11T08:49:42Z",
       "files": [
