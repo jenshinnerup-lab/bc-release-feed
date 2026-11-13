@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-13",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "8bf1b39f425270287039",
+      "date": "2026-11-13",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-do-75123",
+      "version": "Document Output 2025 R2 Service Pack 5",
+      "title": "When moving email logs to Azure Blob Storage using the Move Logs action, the following error occurred if a log attachment had a file name with a file",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "093817cbdf0d1112f7e8",
       "date": "2026-11-12",

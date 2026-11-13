@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-13",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -14490,6 +14490,18 @@
       "product_name": "Continia Document Capture"
     },
     {
+      "id": "continia-dc-69483",
+      "version": "Continia Document Capture 2026 R1, Service Pack 7, hotfix 1",
+      "area": "Order & Receipt Matching",
+      "title": "Important The functionality described below, introduced in version 29.1, has been reverted in this hotfix because it caused issues when matching two o",
+      "summary": "Important The functionality described below, introduced in version 29.1, has been reverted in this hotfix because it caused issues when matching two or more document lines to the same purchase line, or when using fuzzy matching. This functionality will be revised and reintroduced in a future service pack when the issues have been resolved. Previously, when manually matching purchase invoices or credit memos on the Invoice Matching or Credit Memo Matching page, the matched quantity was not linked",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
+      "country_code": "",
+      "general_availability": "April 1, 2026",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
       "id": "continia-dc-64086",
       "version": "Continia Document Capture 2026 R1, Service Pack 7",
       "area": "Documents and Templates",
@@ -14506,7 +14518,7 @@
       "version": "Continia Document Capture 2026 R1, Service Pack 7",
       "area": "Order & Receipt Matching",
       "title": "Previously, when manually matching purchase invoices or credit memos on the Invoice Matching or Credit Memo Matching page, the matched quantity was no",
-      "summary": "Previously, when manually matching purchase invoices or credit memos on the Invoice Matching or Credit Memo Matching page, the matched quantity was not linked to the corresponding line in Document Lines .",
+      "summary": "Previously, when manually matching purchase invoices or credit memos on the Invoice Matching or Credit Memo Matching page, the matched quantity was not linked to the corresponding line in Document Lines . Important This was reversed in Document Capture version 28.7.1 .",
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
       "country_code": "",
       "general_availability": "April 1, 2026",
@@ -15574,7 +15586,7 @@
       "version": "Document Capture 2026 R2, Service Pack 1",
       "area": "Order & Receipt Matching",
       "title": "Previously, when manually matching purchase invoices or credit memos on the Invoice Matching or Credit Memo Matching page, the matched quantity was no",
-      "summary": "Previously, when manually matching purchase invoices or credit memos on the Invoice Matching or Credit Memo Matching page, the matched quantity was not linked to the corresponding line in Document Lines .",
+      "summary": "Previously, when manually matching purchase invoices or credit memos on the Invoice Matching or Credit Memo Matching page, the matched quantity was not linked to the corresponding line in Document Lines . Important This was reversed in Document Capture version 29.1.1 .",
       "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r2/",
       "country_code": "",
       "general_availability": "October 1, 2026",
@@ -22554,8 +22566,20 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-77805",
+      "version": "Document Output 2025 R2 Service Pack 5",
+      "area": "eDocuments",
+      "title": "eDocument log entries are now stored in Azure Blob Storage based on the Log Storage Type setting in Document Output Setup .",
+      "summary": "eDocument log entries are now stored in Azure Blob Storage based on the Log Storage Type setting in Document Output Setup . Previously, only email log entries were stored in Azure Blob Storage while eDocument XML data was always stored in the database. Existing eDocument entries can be migrated by running Move Logs from Document Output Setup .",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r2/",
+      "country_code": "",
+      "general_availability": "October 2, 2025",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-78367",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "area": "Country and Regional",
       "title": "For eDocuments sent through the Peppol network, sender and receiver identifier endpoints are now sourced from their authoritative records.",
       "summary": "For eDocuments sent through the Peppol network, sender and receiver identifier endpoints are now sourced from their authoritative records. The sender identifier is read as-is from the participation record in Business Central, and the receiver identifier is retrieved from the Continia Delivery Network lookup at send time. Previously, Business Central could reformat or transform Peppol identifier values before writing them into the eDocument XML. With the PEPPOL-COMMON-R042 rule now enforcing an 8",
@@ -22567,7 +22591,7 @@
     },
     {
       "id": "continia-do-78364",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "area": "Country and Regional",
       "title": "The Peppol identifier format for new Danish (0184) participations has been updated to comply with the Peppol eDEC codelist requirements.",
       "summary": "The Peppol identifier format for new Danish (0184) participations has been updated to comply with the Peppol eDEC codelist requirements. When you register a new Danish Peppol participation, Business Central now sends the 8-digit CVR number directly, without adding a DK prefix. This change ensures compliance with the upcoming PEPPOL-COMMON-R042 schematron rule, which requires Danish identifiers under scheme 0184 to use the 8-digit-only format. Existing participations that were previously register",
@@ -22579,7 +22603,7 @@
     },
     {
       "id": "continia-do-78371",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "area": "General Application",
       "title": "Whenever you open the Participations page, Business Central now also synchronizes participation identifier values from the Continia Delivery Network.",
       "summary": "Whenever you open the Participations page, Business Central now also synchronizes participation identifier values from the Continia Delivery Network. If an identifier value has been updated on the network side – for example, to comply with updated Peppol format requirements – your local participation record is automatically updated to reflect the current value. This ensures that your Business Central records stay in sync with the Continia Delivery Network without any manual intervention.",
@@ -22591,7 +22615,7 @@
     },
     {
       "id": "continia-do-75642",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 4, hotfix 2",
+      "version": "Continia Delivery Network 2025 R2 Service Pack 4, hotfix 2",
       "area": "General Application",
       "title": "Previously, all eDocuments blob files were stored in the Business Central database, which could significantly increase the database size over time in",
       "summary": "Previously, all eDocuments blob files were stored in the Business Central database, which could significantly increase the database size over time in environments with high document volumes. eDocuments files can now be archived to Azure Blob Storage. The archive location and retention period can be configured in Continia eDocuments Setup . Eligible documents, including files attached to existing documents, are automatically moved to the selected storage by a scheduled background task while remai",
@@ -22759,7 +22783,7 @@
     },
     {
       "id": "continia-do-82097",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "area": "Country and Regional",
       "title": "Previously, the business process code reported in F10.1 was taken only from the Scenario Framework, and B1 was reported for every document the configu",
       "summary": "Previously, the business process code reported in F10.1 was taken only from the Scenario Framework, and B1 was reported for every document the configuration did not cover - which was incorrect for service and mixed invoices. A Scenario Framework value is still used when one is set, but otherwise the code is now calculated from the document: B1, S1 or M1 for goods, services or a mix, and B4, S4 or M4 for a final invoice that settles an earlier prepayment. If the document does not hold enough info",
@@ -22771,7 +22795,7 @@
     },
     {
       "id": "continia-do-83110",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "area": "Country and Regional",
       "title": "Previously, an invoice could be reported with an exempt VAT category even though the seller had no VAT identifier, and the receiving platform rejected",
       "summary": "Previously, an invoice could be reported with an exempt VAT category even though the seller had no VAT identifier, and the receiving platform rejected the file. French e-reporting now checks for the identifier and adds an entry to the report log when it is missing.",
@@ -22783,7 +22807,7 @@
     },
     {
       "id": "continia-do-83779",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "area": "Country and Regional",
       "title": "Updated the FA(3) styled view with the latest changes provided by IT.integro",
       "summary": "Updated the FA(3) styled view with the latest changes provided by IT.integro",
@@ -22795,7 +22819,7 @@
     },
     {
       "id": "continia-do-83332",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "area": "eDocuments",
       "title": "The CII XML structure used for ZUGFeRD and XRechnung invoices has been improved in many places, so the invoices meet the EN 16931 and XRechnung valida",
       "summary": "The CII XML structure used for ZUGFeRD and XRechnung invoices has been improved in many places, so the invoices meet the EN 16931 and XRechnung validation rules. Line discounts are now exported as line allowances, line totals are rounded correctly, and the buyer reference is included. The invoices now also contain more details, such as payee and seller tax representative information, contact details, the delivery address, billing periods, item classifications and attributes, and references to ot",
@@ -22807,7 +22831,7 @@
     },
     {
       "id": "continia-do-65379",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "area": "eDocuments",
       "title": "You can now send self-billing invoices and credit memos in the XRechnung and ZUGFeRD formats, for UBL and the CII versions.",
       "summary": "You can now send self-billing invoices and credit memos in the XRechnung and ZUGFeRD formats, for UBL and the CII versions.",
@@ -22819,7 +22843,7 @@
     },
     {
       "id": "continia-do-82566",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "area": "General Application",
       "title": "The Participation Onboarding assisted setup previously offered every document flow, profile and business role regardless of which Continia apps were a",
       "summary": "The Participation Onboarding assisted setup previously offered every document flow, profile and business role regardless of which Continia apps were activated for the company, so it was possible to register for document exchange the company could not actually perform. The onboarding now takes the activated apps into account.",
@@ -102179,6 +102203,18 @@
       "product_name": "Continia Document Capture"
     },
     {
+      "id": "continia-dc-86479",
+      "version": "Continia Document Capture 2026 R1, Service Pack 7, hotfix 1",
+      "functional_area": "General Application",
+      "title": "Previously, dragging a file onto the Documents FactBox opened the file instead of attaching it to the document.",
+      "summary": "Previously, dragging a file onto the Documents FactBox opened the file instead of attaching it to the document. The file is now correctly attached to the document when dropped onto the FactBox.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-capture/new-and-planned/detailed-changelogs/document-capture-2026-r1/",
+      "hotfix_id": "86479",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Capture"
+    },
+    {
       "id": "continia-dc-78161",
       "version": "Continia Document Capture 2026 R1, Service Pack 7",
       "functional_area": "Documents and Templates",
@@ -124188,7 +124224,7 @@
     },
     {
       "id": "continia-do-82462",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 7",
+      "version": "Continia Delivery Network 2025 R2 Service Pack 7",
       "functional_area": "XML Export",
       "title": "Previously, when a sales invoice or credit memo with a line discount was exported in ZUGFeRD or CII format, the gross price and discount amount were r",
       "summary": "Previously, when a sales invoice or credit memo with a line discount was exported in ZUGFeRD or CII format, the gross price and discount amount were rounded separately. This could cause the net price to differ by one cent from the gross price minus the discount, resulting in the following validation error: PEPPOL-EN16931-R046: Item net price MUST equal (Gross price - Allowance amount) when gross price is provided. The gross price, allowance amount, and net price are now calculated using consiste",
@@ -124200,7 +124236,7 @@
     },
     {
       "id": "continia-do-85358",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 7",
+      "version": "Continia Delivery Network 2025 R2 Service Pack 7",
       "functional_area": "XML Export",
       "title": "Previously, when only Continia Document Output was installed, the VATEX Code field in VAT Posting Setup page was hidden by default.",
       "summary": "Previously, when only Continia Document Output was installed, the VATEX Code field in VAT Posting Setup page was hidden by default. Even when made visible through personalization, the field could not be edited and did not provide a lookup. As a result, VATEX codes could only be configured using a configuration package. The VATEX Code field is now visible and editable when Continia Document Output is installed, allowing VATEX codes to be configured directly in VAT Posting Setup .",
@@ -124212,7 +124248,7 @@
     },
     {
       "id": "continia-do-82738",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 7",
+      "version": "Continia Delivery Network 2025 R2 Service Pack 7",
       "functional_area": "eDocuments",
       "title": "Previously, when the job queue entry responsible for updating Continia Delivery Network metadata ran under a user with only the Continia Delivery Netw",
       "summary": "Previously, when the job queue entry responsible for updating Continia Delivery Network metadata ran under a user with only the Continia Delivery Network - Basic permission set, the job failed with the following error: Sorry, the current permissions prevented the action. (TableData <Table ID> <Table Name> Modify: Continia Delivery Network) The job queue repeatedly retried the job, preventing updates to networks, identifier types, network profiles, and profile document types. The Continia Deliver",
@@ -124223,8 +124259,20 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-78983",
+      "version": "Document Output 2025 R2 Service Pack 6",
+      "functional_area": "General Application",
+      "title": "In Document Output 27.3.7 and later, a custom eDocument File Name configured on email template lines was not applied to XML attachments, so a random G",
+      "summary": "In Document Output 27.3.7 and later, a custom eDocument File Name configured on email template lines was not applied to XML attachments, so a random GUID-based file name was used and ZUGFeRD invoices could be rejected. This has now been fixed, and the configured file name is correctly applied to XML attachments.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r2/",
+      "hotfix_id": "78983",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-82084",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 6",
+      "version": "Document Output 2025 R2 Service Pack 6",
       "functional_area": "Country and Regional",
       "title": "When CDN Receiver Type was set to Other and a receiver ID had identifier type 0002 , the country prefix DK was incorrectly added to the entered CDN Re",
       "summary": "When CDN Receiver Type was set to Other and a receiver ID had identifier type 0002 , the country prefix DK was incorrectly added to the entered CDN Receiver ID Value for every network except Peppol – affecting documents sent through networks where the same identifier type represents a different kind of identifier.",
@@ -124236,7 +124284,7 @@
     },
     {
       "id": "continia-do-82231",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5, hotfix 1",
+      "version": "Continia Delivery Network 2025 R2 Service Pack 5, hotfix 1",
       "functional_area": "eDocuments",
       "title": "Improved the reliability of the receiving capabilities check, ensuring endpoint information is always determined independently for each customer.",
       "summary": "Improved the reliability of the receiving capabilities check, ensuring endpoint information is always determined independently for each customer.",
@@ -124248,7 +124296,7 @@
     },
     {
       "id": "continia-do-79278",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "functional_area": "eDocuments",
       "title": "Previously, the DK prefix to 0184 (DK",
       "summary": "Previously, the DK prefix to 0184 (DK:DIGST) identifiers was automatically added when sending eDocuments, which caused deliveries to fail for participants whose registered identifier did not include the prefix. Now, when the Recipient Type is set to Other in Continia Customer Setup , the Recipient ID Value is used exactly as entered, that is, the DK prefix is no longer added automatically.",
@@ -124260,7 +124308,7 @@
     },
     {
       "id": "continia-do-71269",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "functional_area": "eDocuments",
       "title": "When exporting XML documents, the IssueDate value was previously taken from the posting date instead of the document date.",
       "summary": "When exporting XML documents, the IssueDate value was previously taken from the posting date instead of the document date. IssueDate now defaults to the document date for both eBilling and XML exports. An integration event is available to override the default IssueDate when needed.",
@@ -124272,7 +124320,7 @@
     },
     {
       "id": "continia-do-57898",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "functional_area": "eDocuments",
       "title": "Previously, the customer GLN was used in the delivery details of exported electronic documents, even when the document contained a ship-to address wit",
       "summary": "Previously, the customer GLN was used in the delivery details of exported electronic documents, even when the document contained a ship-to address with its own GLN. The GLN from the ship-to address is now used when available, ensuring that goods are delivered to the correct location. The customer GLN is used only as a fallback when no ship-to address is specified or when the ship-to address does not contain a GLN.",
@@ -124284,7 +124332,7 @@
     },
     {
       "id": "continia-do-69656",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "functional_area": "eDocuments",
       "title": "Previously, sending a sales invoice or credit memo containing a fixed asset line could result in the eDocument being marked as Not Valid because the g",
       "summary": "Previously, sending a sales invoice or credit memo containing a fixed asset line could result in the eDocument being marked as Not Valid because the generated eDocument line was missing a name and unit of measure. During eDocument generation, the line name is now populated from the fixed asset description, falling back to the sales line description when the fixed asset description is empty. Unit of measure information is resolved from configured code list translations or the unit of measure's in",
@@ -124295,8 +124343,32 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-75123",
+      "version": "Document Output 2025 R2 Service Pack 5",
+      "functional_area": "Documents and Templates",
+      "title": "When moving email logs to Azure Blob Storage using the Move Logs action, the following error occurred if a log attachment had a file name with a file",
+      "summary": "When moving email logs to Azure Blob Storage using the Move Logs action, the following error occurred if a log attachment had a file name with a file extension longer than 10 characters: The length of the string is 23, but it must be less than or equal to 10 characters. Value: doc04980520250811111324 This issue has now been solved.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r2/",
+      "hotfix_id": "75123",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-73459",
+      "version": "Document Output 2025 R2 Service Pack 5",
+      "functional_area": "Platform and Technology",
+      "title": "Fixed an issue where HTML changes, including styles and metadata in the head section, were not saved in Document Output -> Email Signature Card .",
+      "summary": "Fixed an issue where HTML changes, including styles and metadata in the head section, were not saved in Document Output -> Email Signature Card . The complete HTML, including the head section, is now preserved when saving signatures. Improved signature embedding by scoping CSS styles with unique class names to prevent style conflicts when inserting signatures into email templates.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2025-r2/",
+      "hotfix_id": "73459",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-77406",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "functional_area": "General Application",
       "title": "In certain cases, executing the CTS-CDN Upgrade Metadata Job job queue entry could cause the metadata upgrade to fail with the following error: The cu",
       "summary": "In certain cases, executing the CTS-CDN Upgrade Metadata Job job queue entry could cause the metadata upgrade to fail with the following error: The current permissions prevented the action. (TableData 6086245 CTS-CDN Configuration Setup CDN Setup: Modify: Continia Delivery Network)",
@@ -124308,7 +124380,7 @@
     },
     {
       "id": "continia-do-71000",
-      "version": "Continia Delivery Network 2025 R2, Service Pack 5",
+      "version": "Document Output 2025 R2 Service Pack 5",
       "functional_area": "XML Export",
       "title": "When a sales or service invoice or credit memo was sent as an XML document and a discount was entered in Line Discount % on the lines, the discount pe",
       "summary": "When a sales or service invoice or credit memo was sent as an XML document and a discount was entered in Line Discount % on the lines, the discount percentage was missing from the exported document – only the discount amount was included. The percentage was read from Line Discount Calculation , which stays empty on posted documents when the discount is entered as a percentage. The line discount percentage is now exported for PEPPOL BIS3, XRechnung and OIOUBL documents, together with the base amo",
@@ -125100,7 +125172,7 @@
     },
     {
       "id": "continia-do-82259",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, a payment applied to an invoice while the payment itself was being posted did not appear in the F10.2 and F10.4 payment declarations.",
       "summary": "Previously, a payment applied to an invoice while the payment itself was being posted did not appear in the F10.2 and F10.4 payment declarations. This happened when Applies-to Doc. No. or Applies-to ID was filled in on the journal line, and when the payment was applied automatically for customers set to Apply to Oldest . Payments applied afterwards on the Apply Entries page were not affected. These payments now appear in the declarations, no matter how they were applied.",
@@ -125112,7 +125184,7 @@
     },
     {
       "id": "continia-do-82260",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Flow F10.2 now reports payments from foreign B2B customers instead of French ones.",
       "summary": "Flow F10.2 now reports payments from foreign B2B customers instead of French ones. Flows F10.1 and F10.3 now also include invoices with the scenario codes USECASE-20 and USECASE-21, so prepayments and their related documents are reported again. The filters are updated automatically when the app is updated, and manually changed filters are kept.",
@@ -125124,7 +125196,7 @@
     },
     {
       "id": "continia-do-82455",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "French eReporting requires every credit memo to reference the invoice it corrects.",
       "summary": "French eReporting requires every credit memo to reference the invoice it corrects. When the credit memo was created with the Cancel action on a posted invoice, or was a Prepayment Credit Memo , this reference was not found and the report failed for the whole period. Both are now reported with the correct invoice.",
@@ -125136,7 +125208,7 @@
     },
     {
       "id": "continia-do-82681",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, one document that failed a check stopped the eReport from being generated for the whole period.",
       "summary": "Previously, one document that failed a check stopped the eReport from being generated for the whole period. The eReport is now generated for the full period, and each failed check is recorded in the eReport log. Approving an eReport with unresolved entries in the log now requires confirmation.",
@@ -125148,7 +125220,7 @@
     },
     {
       "id": "continia-do-82799",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Fixed a mapping issue in the CIIEN-16931 XML Structure",
       "summary": "Fixed a mapping issue in the CIIEN-16931 XML Structure: /rsm:CrossIndustryInvoice/rsm:SupplyChainTradeTransaction/ram:ApplicableHeaderTradeAgreement/ram:BuyerReference is now mapped to Buyers Reference on the eBilling Header. /rsm:CrossIndustryInvoice/rsm:SupplyChainTradeTransaction/ram:ApplicableHeaderTradeAgreement/ram:ContractReferencedDocument/ram:IssuerAssignedID is now mapped to Contract No. on the eBilling Header.",
@@ -125160,7 +125232,7 @@
     },
     {
       "id": "continia-do-83023",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "The report types that are combined into one eReport are now predefined, so the eReport Groups page is no longer used",
       "summary": "The report types that are combined into one eReport are now predefined, so the eReport Groups page is no longer used: invoice and transaction data are reported together, and payment data is reported together. On update, open eReports of the same period that belong together are merged into one, while eReports that have already been sent are left unchanged.",
@@ -125172,7 +125244,7 @@
     },
     {
       "id": "continia-do-83424",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Fixed an issue that prevented French Self-Billing documents from being sent successfully through the French eInvoicing network.",
       "summary": "Fixed an issue that prevented French Self-Billing documents from being sent successfully through the French eInvoicing network.",
@@ -125184,7 +125256,7 @@
     },
     {
       "id": "continia-do-83616",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, when a general journal document had several lines, the amounts in the F10.3 eReporting could be counted more than once, so the declared am",
       "summary": "Previously, when a general journal document had several lines, the amounts in the F10.3 eReporting could be counted more than once, so the declared amounts were too high. Each document is now counted only once, with the correct amounts.",
@@ -125196,7 +125268,7 @@
     },
     {
       "id": "continia-do-83619",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, eReports were not validated against the Schematron rules before being sent.",
       "summary": "Previously, eReports were not validated against the Schematron rules before being sent. As a result, an eReport that did not meet the required format could still be sent. Each eReport is now validated against the Schematron rules before it is sent. If validation fails, the eReport is not sent and the validation errors are logged.",
@@ -125208,7 +125280,7 @@
     },
     {
       "id": "continia-do-83743",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, in Business Central online, the Scenario Flow field could not be changed on the Posted Sales Invoice and Posted Sales Credit Memo pages, e",
       "summary": "Previously, in Business Central online, the Scenario Flow field could not be changed on the Posted Sales Invoice and Posted Sales Credit Memo pages, even for users with the required permission sets. This was because Business Central online only allows posted documents to be modified through the standard update process. The Scenario Flow field has now been added to the page that opens from the Update Document action. The scenario flow can therefore be changed on posted sales invoices and credit m",
@@ -125220,7 +125292,7 @@
     },
     {
       "id": "continia-do-83878",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, the job that sends eReports stopped after a single error, and no eReports were sent until someone restarted it.",
       "summary": "Previously, the job that sends eReports stopped after a single error, and no eReports were sent until someone restarted it. The job now tries again up to three times before it stops.",
@@ -125232,7 +125304,7 @@
     },
     {
       "id": "continia-do-83991",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, when changing the VAT regime in the country setup for France, or clearing eReport Nos.",
       "summary": "Previously, when changing the VAT regime in the country setup for France, or clearing eReport Nos. in the eReporting setup, the error shown for an eReport that was not yet sent could give the wrong advice. The error message now explains what to do, based on the status of the eReport.",
@@ -125244,7 +125316,7 @@
     },
     {
       "id": "continia-do-84061",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "The Approved tile on the Role Center is now named Ready to Send and only counts eReports whose period is closed and whose due date has been reached.",
       "summary": "The Approved tile on the Role Center is now named Ready to Send and only counts eReports whose period is closed and whose due date has been reached. Previously, the tile also counted eReports that were not yet due, and the tiles were not updated when returning to the page.",
@@ -125256,7 +125328,7 @@
     },
     {
       "id": "continia-do-84137",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, the delivery date in the eReport could be wrong.",
       "summary": "Previously, the delivery date in the eReport could be wrong. The eReport now uses the actual delivery date from posted shipments or receipts. If no date is found, the date is left empty and a warning is shown.",
@@ -125268,7 +125340,7 @@
     },
     {
       "id": "continia-do-84273",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, French eReporting took the VAT exemption code from the Full VATEX Code field on the VAT Clauses page.",
       "summary": "Previously, French eReporting took the VAT exemption code from the Full VATEX Code field on the VAT Clauses page. The code is now taken from the VATEX Code field on the VAT Posting Setup page, and existing codes are copied there during the update. Action required: For VAT Posting Setups that use a VAT Clause with a code that does not start with VATEX-, fill in the VATEX Code field manually.",
@@ -125280,7 +125352,7 @@
     },
     {
       "id": "continia-do-85357",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "Country and Regional",
       "title": "Previously, the eReporting Setup page opened read-only for administrators without the SUPER permission set.",
       "summary": "Previously, the eReporting Setup page opened read-only for administrators without the SUPER permission set. Administrators can now set up eReporting, while users with only edit permissions can view the setup but not change it.",
@@ -125292,8 +125364,8 @@
     },
     {
       "id": "continia-do-83369",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
-      "functional_area": "Document and Templates",
+      "version": "Document Output 2026 R1 Service Pack 7",
+      "functional_area": "Documents and Templates",
       "title": "The Email field on the main XRECHNUNG2 and ZUGFERD profiles is now set to PDF by default, so documents that are not a sales or service invoice or cred",
       "summary": "The Email field on the main XRECHNUNG2 and ZUGFERD profiles is now set to PDF by default, so documents that are not a sales or service invoice or credit memo are sent as PDF.",
       "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
@@ -125304,7 +125376,7 @@
     },
     {
       "id": "continia-do-80406",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "eDocuments",
       "title": "After a line was deleted on an order used in a PEPPOL order change flow, AnticipatedMonetaryTotal was miscalculated because the deleted line was still",
       "summary": "After a line was deleted on an order used in a PEPPOL order change flow, AnticipatedMonetaryTotal was miscalculated because the deleted line was still counted, causing the following error: Expected total sum of line amounts MUST equal the sum of the order line amounts at order line level This has now been fixed, and the order change can now be sent.",
@@ -125315,8 +125387,20 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-82900",
+      "version": "Document Output 2026 R1 Service Pack 7",
+      "functional_area": "eDocuments",
+      "title": "When an output profile both sent eDocuments through the network and attached the eDocument XML to an email, the XML attachment was missing for documen",
+      "summary": "When an output profile both sent eDocuments through the network and attached the eDocument XML to an email, the XML attachment was missing for documents that had already been sent, and the following error occurred: Network Document {GUID} has already been sent. The XML is now attached as expected, and no error is reported for this scenario.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "82900",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-83367",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "eDocuments",
       "title": "When you sent a posted sales credit memo in the ZUGFeRD format, the following error occurred",
       "summary": "When you sent a posted sales credit memo in the ZUGFeRD format, the following error occurred: There is no XML Structure Setup within the filter. Filters: Electronic Document Type: eBilling, eBilling Document Type: Credit Memo, Electronic Format: '' The format only included a structure for invoices. It now also includes a structure for credit memos, so credit memos can be sent in this format, and incoming credit notes in this format are recognized as credit memos.",
@@ -125328,7 +125412,7 @@
     },
     {
       "id": "continia-do-84154",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "eDocuments",
       "title": "Added indirect permissions to the Continia Delivery Network - Scenario Framework app to allow for users with DO-BASIC permissions to assign eDocument",
       "summary": "Added indirect permissions to the Continia Delivery Network - Scenario Framework app to allow for users with DO-BASIC permissions to assign eDocument Scenario Flow code (field value) to sales document. Before this change the user would get the follow error message: \"Sorry, the current permissions prevented the action. (TableData 6252607 CTS-CDNSF Scenario Hdr. Value eDocument Scenario Header Value Insert: Continia Delivery Network - Scenario Framework)\"",
@@ -125340,7 +125424,7 @@
     },
     {
       "id": "continia-do-84433",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "eDocuments",
       "title": "When resolving VAT as endpoint type on a Norwegian customer, that has VAT Number assigned as \"NO xxx xxx xxx MVA\" eCandidates fail to remove the leadi",
       "summary": "When resolving VAT as endpoint type on a Norwegian customer, that has VAT Number assigned as \"NO xxx xxx xxx MVA\" eCandidates fail to remove the leading and trailing letters. Causing the eCandidate status to be Not Registered .",
@@ -125351,8 +125435,56 @@
       "product_name": "Continia Document Output"
     },
     {
+      "id": "continia-do-74200",
+      "version": "Document Output 2026 R1 Service Pack 7",
+      "functional_area": "General Application",
+      "title": "When the Sell-to Customer and Bill-to Customer were different on sales and service documents, the Document Output FactBox showed the wrong email recip",
+      "summary": "When the Sell-to Customer and Bill-to Customer were different on sales and service documents, the Document Output FactBox showed the wrong email recipients. The FactBox now uses the Bill-to Customer output profile and email address, so posted documents are sent to the correct recipient.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "74200",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-80187",
+      "version": "Document Output 2026 R1 Service Pack 7",
+      "functional_area": "General Application",
+      "title": "When the Template Table field on email templates was misunderstood and changed to a different table, the template failed and returned errors when appl",
+      "summary": "When the Template Table field on email templates was misunderstood and changed to a different table, the template failed and returned errors when applied to records. The field now has a clearer name and tooltip that emphasize it must contain the first table of the report, preventing incorrect setup.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "80187",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-82025",
+      "version": "Document Output 2026 R1 Service Pack 7",
+      "functional_area": "General Application",
+      "title": "When changing Log storage type on the Document Output Setup page, the value reverted to the original selection.",
+      "summary": "When changing Log storage type on the Document Output Setup page, the value reverted to the original selection. This has now been fixed, and the selected log storage type and matching storage settings are shown correctly.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "82025",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
+      "id": "continia-do-82835",
+      "version": "Document Output 2026 R1 Service Pack 7",
+      "functional_area": "General Application",
+      "title": "The Send Actions Visibility setup was ignored on Posted Sales Shipments and Posted Sales Return Receipts .",
+      "summary": "The Send Actions Visibility setup was ignored on Posted Sales Shipments and Posted Sales Return Receipts . The standard email and send actions on these documents now follow the configured visibility settings.",
+      "doc_url": "https://docs.continia.com/en-us/continia-document-output/new-and-planned/detailed-changelogs/document-output-2026-r1/",
+      "hotfix_id": "82835",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Document Output"
+    },
+    {
       "id": "continia-do-85418",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "General Application",
       "title": "Sometimes, the Company Name , Country Code and VAT Registration No.",
       "summary": "Sometimes, the Company Name , Country Code and VAT Registration No. columns on the Network Participations page were empty. Since recently, these details come from the company onboarding data, which was not retrieved after the upgrade. Whenever you open the Network Participations page, the company onboarding data is now refreshed together with the participations, and the columns show the details of the company behind each participation.",
@@ -125364,7 +125496,7 @@
     },
     {
       "id": "continia-do-82462",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "XML Export",
       "title": "When a sales invoice or credit memo with a line discount was exported in the ZUGFeRD or CII format, the gross price and the discount on a line were ro",
       "summary": "When a sales invoice or credit memo with a line discount was exported in the ZUGFeRD or CII format, the gross price and the discount on a line were rounded separately, so the net price could differ by one cent from the gross price minus the discount, and the following validation error occurred: PEPPOL-EN16931-R046: Item net price MUST equal (Gross price - Allowance amount) when gross price is provided. This has been fixed. The gross price, allowance amount, and net price are now derived from the",
@@ -125376,7 +125508,7 @@
     },
     {
       "id": "continia-do-85358",
-      "version": "Continia Delivery Network 2026 R1 Service Pack 7",
+      "version": "Document Output 2026 R1 Service Pack 7",
       "functional_area": "XML Export",
       "title": "When only Continia Document Output was installed, the VATEX Code field in VAT Posting Setup was hidden by default, and when it was made visible throug",
       "summary": "When only Continia Document Output was installed, the VATEX Code field in VAT Posting Setup was hidden by default, and when it was made visible through personalization it could not be edited and had no lookup. Using VATEX codes therefore required a configuration package. This has been fixed. The VATEX Code field in VAT Posting Setup is now visible and editable when Continia Document Output is installed.",
