@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13",
+ "generated_at": "2026-11-14",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -73,20 +73,20 @@
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29.1) is generally available. More details: Cumulative Update Summary for Microsoft Dynamics 365 Business Central (November, 2026) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Use batch totals for payment journals. Use batch totals for payment journals : Business"
   },
   {
+   "source": "demiliani",
+   "kind": "blog",
+   "title": "AI and prompt injections: the invoice that approves itself.",
+   "url": "https://demiliani.com/2026/11/13/ai-and-prompt-injections-the-invoice-that-approves-itself/",
+   "published": "2026-11-13",
+   "summary": "Few days ago in a local Azure event I talked about the importance of raising the bar of security in this AI era. The key message I shared was essentially this: attackers now are moving faster, AI compresses a typical cyberattack from about 4 weeks to about 18 hours and models keep getting better at finding and exploiting weaknesses. As agents gain access to real tools, data and business systems, s"
+  },
+  {
    "source": "yzhums",
    "kind": "blog",
    "title": "Business Central 2026 release wave 2 (BC29.1): Data mirroring to Microsoft Fabric (No APIs or OData Needed)",
    "url": "https://yzhums.com/77184/",
    "published": "2026-11-12",
    "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29.1) is generally available. More details: Cumulative Update Summary for Microsoft Dynamics 365 Business Central (November, 2026) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Data mirroring to Microsoft Fabric. Data mirroring to Microsoft Fabric : Business value"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2026 release wave 2 (BC29.1): Cross-environment Master Data Management",
-   "url": "https://yzhums.com/77263/",
-   "published": "2026-11-11",
-   "summary": "Hi, Readers. Dynamics 365 Business Central 2026 wave 2 (BC29.1) is generally available. More details: Cumulative Update Summary for Microsoft Dynamics 365 Business Central (November, 2026) . I will continue to test and share some new features that I hope will be helpful. In this post, I would like to talk about Cross-environment Master Data Management. Cross-environment Master Data Management : Bu"
   }
  ],
  "links": {
