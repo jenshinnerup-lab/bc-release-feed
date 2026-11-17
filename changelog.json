@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-14",
+  "generated_at": "2026-11-17",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "9273d8e78c3889e8ed4b",
+      "date": "2026-11-17",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "dynalogic-bsc-7686",
+      "version": "3.2026.11.1",
+      "title": "AS2 Connector Code Cleanup",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "65a029e6df700cdb31d6",
+      "date": "2026-11-17",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-34130",
+      "version": "3.2026.11.1",
+      "title": "Improve Failed Queue Retry Handling",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "1c47caef4193646d5c51",
+      "date": "2026-11-17",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-33951",
+      "version": "3.2026.11.1",
+      "title": "Enable file processing order configuration for Azure container connectors",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "cecb6c35145eb6bc584a",
+      "date": "2026-11-17",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-33933",
+      "version": "3.2026.11.1",
+      "title": "Processor Group Navigation Improvements",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "0dc6faefdfcac557a8fe",
+      "date": "2026-11-17",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-33576",
+      "version": "3.2026.11.1",
+      "title": "Simplified Azure Storage Configuration",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "ba0b4b7088fdd3003a00",
+      "date": "2026-11-17",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-33175",
+      "version": "3.2026.11.1",
+      "title": "Integration with Print Management Framework",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "dd72094e2310302c0cc4",
+      "date": "2026-11-17",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "dynalogic-bsc-11515",
+      "version": "3.2026.11.1",
+      "title": "Team-Based Security for Smart Connect",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "870813e239f34a36eb82",
       "date": "2026-11-14",
