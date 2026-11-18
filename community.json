@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17",
+ "generated_at": "2026-11-18",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,26 +67,26 @@
   {
    "source": "yzhums",
    "kind": "blog",
-   "title": "Dynamics 365 Business Central: Enter Company Details quickly using information from Microsoft 365",
-   "url": "https://yzhums.com/77475/",
-   "published": "2026-11-17",
-   "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central, how to enter Company Details quickly using information from Microsoft 365. Business Central organizes business entities in companies. For each company, you must fill in some of the basic company details and relevant information on the Company Information page. The information on the Company Information page is used i"
-  },
-  {
-   "source": "hougaard",
-   "kind": "youtube",
-   "title": "Going Stargazing with the Business Central Observatory",
-   "url": "https://www.youtube.com/watch?v=C5OdiYfxozc",
-   "published": "2026-11-16",
-   "summary": "Find the Observatory here https://waldo1001.github.io/waldo.BCObservatory/ Find more information at my blog https://www.hougaard.com or follow me on https://bsky.app/profile/hougaard.bsky.social Source code can be found here: https://github.com/hougaard/Youtube-Video-Sources"
+   "title": "Business Central 2027 wave 1 (BC30): Remove ability to expose a Microsoft page as an OData endpoint (Disable OData web services on Microsoft UI pages)",
+   "url": "https://yzhums.com/77505/",
+   "published": "2026-11-18",
+   "summary": "Hi, Readers. Today, I want to share an important feature removal coming in the next release, 2027 release wave 1 (version 30.0): Remove ability to expose a Microsoft page as an OData endpoint (Disable OData web services on Microsoft UI pages) . This is mentioned in the official Microsoft documentation below. Remove ability to expose a Microsoft page as an OData endpoint (removal) A UI page isn’t a"
   },
   {
    "source": "demiliani",
    "kind": "blog",
-   "title": "Fewer tools, better agents: curating the Dynamics 365 Business Central MCP catalog.",
-   "url": "https://demiliani.com/2026/11/16/fewer-tools-better-agents-curating-the-dynamics-365-business-central-mcp-catalog/",
-   "published": "2026-11-16",
-   "summary": "Model Context Protocol (MCP) makes it easy to turn REST APIs into tools that AI clients can discover, and that ease is the risk . In this months I saw lots of Business Central tenants with MCP configuration turned on and with a lot of “doors opened” to AI agents. A catalog of hundreds of loosely scoped tools is a security surface, and it is a confusion engine for the agent that has to choose among"
+   "title": "YAMPI (Dynamics 365 Business Central Admin MCP Server) version 2.0.x: a ground-up refresh.",
+   "url": "https://demiliani.com/2026/11/17/yampi-dynamics-365-business-central-admin-mcp-server-version-2-0-x-a-ground-up-refresh/",
+   "published": "2026-11-17",
+   "summary": "YAMPI (the open source D365 Business Central Admin MCP Server I’ve released last year at Directions EMEA) lets AI assistants such as GitHub Copilot, Claude Desktop and Cursor performing advanced Business Central administration tasks through natural language. Version 2.0 is the largest update since the first release: almost every part of the project has been revisited, from the tools exposed to the"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
+   "title": "Dynamics 365 Business Central: Enter Company Details quickly using information from Microsoft 365",
+   "url": "https://yzhums.com/77475/",
+   "published": "2026-11-17",
+   "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central, how to enter Company Details quickly using information from Microsoft 365. Business Central organizes business entities in companies. For each company, you must fill in some of the basic company details and relevant information on the Company Information page. The information on the Company Information page is used i"
   }
  ],
  "links": {
