@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18",
+  "generated_at": "2026-11-19",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -9244,18 +9244,6 @@
       "summary_nl": "Schakel realtime factuurrapportage aan de AEAT in met Verifactu in Business Central, zodat u voldoet aan de eisen betreffende QR-codes, hash-ketening en digitale handtekeningen.",
       "title_fr": "Activer le mode Verifactu intégré en Espagne",
       "summary_fr": "Activez le rapport de factures en temps réel à l'AEAT avec Verifactu dans Business Central, en assurant la conformité au code QR, au chaînage de hachage et aux signatures numériques."
-    },
-    {
-      "id": "e1ee97e412dd7b77",
-      "version": "29.0",
-      "area": "Microsoft 365 and Power Platform",
-      "title": "Map new Dataverse fields in Business Central",
-      "enabled_for": "",
-      "general_availability": "",
-      "doc_url": "",
-      "country_code": "",
-      "publisher": "Microsoft",
-      "product_name": "Business Central"
     },
     {
       "id": "1557f5ff098d5281",

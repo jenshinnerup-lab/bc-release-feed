@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-18",
+  "generated_at": "2026-11-19",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "7e76309dbd455c2ac5c0",
+      "date": "2026-11-19",
+      "change": "removed",
+      "item_type": "feature",
+      "item_id": "e1ee97e412dd7b77",
+      "version": "29.0",
+      "title": "Map new Dataverse fields in Business Central",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "a6299d3b4dcfd3a7dbb0",
       "date": "2026-11-18",
