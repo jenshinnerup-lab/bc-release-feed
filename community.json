@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19",
+ "generated_at": "2026-11-20",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Dynamics 365 Business Central: How to easily check users and their licenses (User Details)",
+   "url": "https://yzhums.com/77046/",
+   "published": "2026-11-20",
+   "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central, how to easily check users and their assigned licenses. A few years ago, I discussed how to view all licensed users in Business Central. More details: Dynamics 365 Business Central: How to view all licensed users (Users in Plans) At that time, we could use Users in Plans (Query 774) to check the licenses assigned to u"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Dynamics 365 Business Central: How to hide the header and footer on a worksheet page to display more lines",
    "url": "https://yzhums.com/74858/",
    "published": "2026-11-19",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/77505/",
    "published": "2026-11-18",
    "summary": "Hi, Readers. Today, I want to share an important feature removal coming in the next release, 2027 release wave 1 (version 30.0): Remove ability to expose a Microsoft page as an OData endpoint (Disable OData web services on Microsoft UI pages) . This is mentioned in the official Microsoft documentation below. Remove ability to expose a Microsoft page as an OData endpoint (removal) A UI page isn’t a"
-  },
-  {
-   "source": "demiliani",
-   "kind": "blog",
-   "title": "YAMPI (Dynamics 365 Business Central Admin MCP Server) version 2.0.x: a ground-up refresh.",
-   "url": "https://demiliani.com/2026/11/17/yampi-dynamics-365-business-central-admin-mcp-server-version-2-0-x-a-ground-up-refresh/",
-   "published": "2026-11-17",
-   "summary": "YAMPI (the open source D365 Business Central Admin MCP Server I’ve released last year at Directions EMEA) lets AI assistants such as GitHub Copilot, Claude Desktop and Cursor performing advanced Business Central administration tasks through natural language. Version 2.0 is the largest update since the first release: almost every part of the project has been revisited, from the tools exposed to the"
   }
  ],
  "links": {
