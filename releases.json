@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19",
+  "generated_at": "2026-11-21",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -12202,7 +12202,7 @@
       "version": "Continia Banking 2026 R1, Service Pack 7",
       "area": "Payment Export",
       "title": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or",
-      "summary": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or employee receives it in their own language.",
+      "summary": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or employee receives it in their own language. See Continia Banking templates in Export .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r1/",
       "country_code": "",
       "general_availability": "November 1, 2026",
@@ -12382,7 +12382,7 @@
       "version": "Continia Banking 2026 R2, Service Pack 1",
       "area": "Payment Export",
       "title": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or",
-      "summary": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or employee receives it in their own language.",
+      "summary": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or employee receives it in their own language. See Continia Banking templates in Export .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r2/",
       "country_code": "",
       "general_availability": "October 1, 2026",
@@ -26527,7 +26527,7 @@
     },
     {
       "id": "continia-em-79942",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "area": "Per Diem",
       "title": "Since version 27.0, per diems posted to a project no longer showed the Project No.",
       "summary": "Since version 27.0, per diems posted to a project no longer showed the Project No. and Project Task No. on the resulting G/L entries. Per diems without destinations now carry the project on the G/L entries again. Per diems with destinations still post the project separately for each destination, so these fields stay blank on their G/L entries.",
@@ -27175,7 +27175,7 @@
     },
     {
       "id": "continia-em-79942",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "area": "Per Diem",
       "title": "Since version 27.0, per diems posted to a project no longer showed the Project No.",
       "summary": "Since version 27.0, per diems posted to a project no longer showed the Project No. and Project Task No. on the resulting G/L entries. Per diems without destinations now carry the project on the G/L entries again. Per diems with destinations still post the project separately for each destination, so these fields stay blank on their G/L entries.",
@@ -27187,7 +27187,7 @@
     },
     {
       "id": "continia-em-81323",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "area": "Per Diem",
       "title": "Added support for Finnish per diems.",
       "summary": "Added support for Finnish per diems. Allowances are calculated as Finnish rules define them, in travel days of 24 hours counted from departure, with the hours after the last full travel day evaluated separately, and with country-specific rates for foreign travel. Per diem calculations for other countries remain unchanged.",
@@ -27199,7 +27199,7 @@
     },
     {
       "id": "continia-em-82955",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "area": "Per Diem",
       "title": "When Country Specific Per Diems is turned off, the Per Diem Group card now shows the rates of the group in a Rates part, with the newest rate first.",
       "summary": "When Country Specific Per Diems is turned off, the Per Diem Group card now shows the rates of the group in a Rates part, with the newest rate first. You can open, edit and create rates from the part on the Per Diem Rate card. When you drill down on Per Diem Rates for a new line in Posting Groups , you are again asked to set up the missing rate instead of seeing all rates of the group.",
@@ -27211,7 +27211,7 @@
     },
     {
       "id": "continia-em-79566",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Country and Regional",
       "title": "For Polish localization in the Expense Management (PL) app, restrictions were removed in Expenses for the Vendor No.",
       "summary": "For Polish localization in the Expense Management (PL) app, restrictions were removed in Expenses for the Vendor No. field. You can also use the field for purchase invoice posting.",
@@ -27223,7 +27223,7 @@
     },
     {
       "id": "continia-em-78857",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Card Transactions",
       "title": "When you open the Bank Agreements page, pending activation requests now automatically synchronize with Continia Online.",
       "summary": "When you open the Bank Agreements page, pending activation requests now automatically synchronize with Continia Online. If a bank agreement becomes activated, a notification informs you that you can download card transactions.",
@@ -27235,7 +27235,7 @@
     },
     {
       "id": "continia-em-75426",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "You can now record the eDocument ID ( NSeI Document No.",
       "summary": "You can now record the eDocument ID ( NSeI Document No. in the Polish localization) and a new Missing NSeI No. Reason on expenses to support Polish KSeF reporting requirements. You can enable both fields for expenses through Configured Field Types in Business Central and in the Expense Portal/App . During posting, the field values are transferred to the corresponding IT.integro Polish Localization fields, allowing them to propagate to the resulting ledger entries.",
@@ -27247,7 +27247,7 @@
     },
     {
       "id": "continia-em-78919",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "The following event publisher was added to Codeunit 6086330 \"CEM Expense-Post\".",
       "summary": "The following event publisher was added to Codeunit 6086330 \"CEM Expense-Post\". It provides an opportunity to modify filters set when determining whether to use an existing or create a new Purchase Invoice document during Expense posting: OnFindExistingPurchaseHeaderOnBeforeFindFirst().",
@@ -27259,7 +27259,7 @@
     },
     {
       "id": "continia-em-78349",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "A new event publisher was added to the Canadian localization app to allow modifications to Sales Tax lines before posting: OnBeforePostGLAccLine().",
       "summary": "A new event publisher was added to the Canadian localization app to allow modifications to Sales Tax lines before posting: OnBeforePostGLAccLine().",
@@ -27271,7 +27271,7 @@
     },
     {
       "id": "continia-em-82012",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "A dedicated Expense Setup page was added, bringing a consistent setup experience for Expense , Expense Report , Mileage , and Per Diem .",
       "summary": "A dedicated Expense Setup page was added, bringing a consistent setup experience for Expense , Expense Report , Mileage , and Per Diem . You can open Expense Setup from the Modules list on the Expense Management Setup page (it is also available through Tell Me .) When field setup cannot synchronize with Continia Online , closing a setup page now displays the issue as a message instead of preventing the page from closing.",
@@ -27283,7 +27283,7 @@
     },
     {
       "id": "continia-em-80875",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "You can now set up expense types with suggested G/L account mappings, instead of having to map them by hand.",
       "summary": "You can now set up expense types with suggested G/L account mappings, instead of having to map them by hand. From the Expense Types page, the new Set Up Expense Types dialog lists the expense types to be created and proposes a G/L account for each one. You can review and adjust each suggestion before anything is created, then choose Keep it to create the expense types and apply the accounts to the posting setup, or Discard it to close without changes. Two suggestion methods are available. Contin",
@@ -27295,7 +27295,7 @@
     },
     {
       "id": "continia-em-79721",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "New payment types now default to a matching tolerance of 3% on amount and 4 days on date, replacing the previous 2% and 2 days.",
       "summary": "New payment types now default to a matching tolerance of 3% on amount and 4 days on date, replacing the previous 2% and 2 days. On the Payment Type Card , the Amount (%) and Date (Days) tolerance fields moved under Show more , so they're no longer shown by default.",
@@ -27307,7 +27307,7 @@
     },
     {
       "id": "continia-em-75054",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "The Country/Region Code field is now visible on expense pages when it is configured as a field type on expenses.",
       "summary": "The Country/Region Code field is now visible on expense pages when it is configured as a field type on expenses.",
@@ -27319,7 +27319,7 @@
     },
     {
       "id": "continia-em-76723",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "Support for eInvoicing was added to Expense Management via integration with Continia Document Capture .",
       "summary": "Support for eInvoicing was added to Expense Management via integration with Continia Document Capture . You can now link expenses to eDocuments processed in Document Capture , allowing posting to be handled as a single accounting event and preventing duplicate purchase postings. On the expense, the existing Applied Purch. Doc. No. field identifies the linked Document Capture document. When this field is populated, only the payment or refund side of the expense is posted, while the purchase posti",
@@ -27331,7 +27331,7 @@
     },
     {
       "id": "continia-em-80070",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Expenses",
       "title": "A drag-and-drop attachment area was added to the document viewer, allowing you to add attachments directly.",
       "summary": "A drag-and-drop attachment area was added to the document viewer, allowing you to add attachments directly. Previously, the viewer could misleadingly appear as though an attachment existed and allow an empty file to be downloaded.",
@@ -27343,7 +27343,7 @@
     },
     {
       "id": "continia-em-81937",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "A new Configure Continia Expense Management page brings the most common setup options together in one place.",
       "summary": "A new Configure Continia Expense Management page brings the most common setup options together in one place. You can enable modules, configure who submits and approves documents, and access the detailed setup for expense types, payment types, mileage rates, and per diem rates.",
@@ -27355,7 +27355,7 @@
     },
     {
       "id": "continia-em-77710",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "Action categories were removed from single actions.",
       "summary": "Action categories were removed from single actions. You can now access them directly with a single click, instead of them being nested under category groups.",
@@ -27367,7 +27367,7 @@
     },
     {
       "id": "continia-em-81936",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "You can start a new trial setup wizard from a notification on the Employees list, allowing you to activate a free 30-day trial of Expense Management a",
       "summary": "You can start a new trial setup wizard from a notification on the Employees list, allowing you to activate a free 30-day trial of Expense Management and invite colleagues to try it.",
@@ -27379,7 +27379,7 @@
     },
     {
       "id": "continia-em-79367",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "When a module, such as Mileage or Per Diem was disabled, its navigation action remained visible on the Continia User Setup Card .",
       "summary": "When a module, such as Mileage or Per Diem was disabled, its navigation action remained visible on the Continia User Setup Card . Module-specific navigation actions are now hidden when the corresponding module is disabled.",
@@ -27391,7 +27391,7 @@
     },
     {
       "id": "continia-em-77695",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "You can no longer schedule the Send History to CO report as a recurring job.",
       "summary": "You can no longer schedule the Send History to CO report as a recurring job.",
@@ -27403,7 +27403,7 @@
     },
     {
       "id": "continia-em-77711",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "Page Field Type Dependency had redundant actions that were not usable.",
       "summary": "Page Field Type Dependency had redundant actions that were not usable. They were removed.",
@@ -27415,7 +27415,7 @@
     },
     {
       "id": "continia-em-77712",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "The Setup action category was removed from the Expense Management Setup page.",
       "summary": "The Setup action category was removed from the Expense Management Setup page. You can now access all contained actions directly with a single click.",
@@ -27427,7 +27427,7 @@
     },
     {
       "id": "continia-em-77707",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "Default reimbursement settings were moved directly to the Continia User Setup and Expense User Group pages.",
       "summary": "Default reimbursement settings were moved directly to the Continia User Setup and Expense User Group pages. You can now maintain the default vehicle, per diem group, and reimbursement methods for expenses, mileage, and per diems at the user or group level without using a separate Default User Setup page. Existing defaults are migrated automatically when upgrading. Configuration files exported from earlier versions using the Continia Configuration wizard no longer transfer these settings.",
@@ -27439,7 +27439,7 @@
     },
     {
       "id": "continia-em-79238",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "Bank Transaction was renamed to Card Transaction .",
       "summary": "Bank Transaction was renamed to Card Transaction .",
@@ -27451,7 +27451,7 @@
     },
     {
       "id": "continia-em-80158",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "In the Danish localization, Afregning has been renamed to UdgiftRapport .",
       "summary": "In the Danish localization, Afregning has been renamed to UdgiftRapport .",
@@ -27463,7 +27463,7 @@
     },
     {
       "id": "continia-em-75793",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "When leaving Lookup Value Access per User/Group with an invalid setup, users are now given the option to discard their changes.",
       "summary": "When leaving Lookup Value Access per User/Group with an invalid setup, users are now given the option to discard their changes.",
@@ -27475,7 +27475,7 @@
     },
     {
       "id": "continia-em-78914",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "Attachments from expenses and mileages are now shown directly on the posted entries and purchase documents they were posted to, so you can review a re",
       "summary": "Attachments from expenses and mileages are now shown directly on the posted entries and purchase documents they were posted to, so you can review a receipt without opening the original expense document. The attachment factbox appears on: G/L Entries Vendor Ledger Entries and Employee Ledger Entries Project Ledger Entries",
@@ -27487,7 +27487,7 @@
     },
     {
       "id": "continia-em-77715",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "Improved the Expense Management Setup page by splitting module-specific settings into dedicated Setup pages for Expense, Mileage, Per Diem and Expense",
       "summary": "Improved the Expense Management Setup page by splitting module-specific settings into dedicated Setup pages for Expense, Mileage, Per Diem and Expense Report. The main Expense Management Setup page now provides a cleaner overview with quick access to each module's configuration, and each module's setup is individually searchable from the Tell Me search.",
@@ -27499,7 +27499,7 @@
     },
     {
       "id": "continia-em-78848",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "You can now apply filters to DateTime fields and use advanced filter types, including ranges, when limiting the lookup values available in Configured",
       "summary": "You can now apply filters to DateTime fields and use advanced filter types, including ranges, when limiting the lookup values available in Configured Fields . This provides a more focused selection when choosing values from large lookup lists. You can also review existing filters and refine them, to further limit the values shown to users.",
@@ -27511,7 +27511,7 @@
     },
     {
       "id": "continia-em-75792",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "Performance was optimized for the Lookup Value Access per User/Group page.",
       "summary": "Performance was optimized for the Lookup Value Access per User/Group page.",
@@ -27523,7 +27523,7 @@
     },
     {
       "id": "continia-em-54832",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "A new Both Users option was reintroduced in the Send Email To field on the Approval Sharing – Expense Management page.",
       "summary": "A new Both Users option was reintroduced in the Send Email To field on the Approval Sharing – Expense Management page. When selected, both the original approver and the substitute receive notifications when Send Status Email to Approvers is used.",
@@ -27535,7 +27535,7 @@
     },
     {
       "id": "continia-em-74788",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "When documents were deleted in Business Central , they continued to appear in the Expense App and Expense Portal history with their original status an",
       "summary": "When documents were deleted in Business Central , they continued to appear in the Expense App and Expense Portal history with their original status and amounts. You can no longer delete documents with history in Continia Online directly from Business Central . Instead, you must send them to the expense user for deletion.",
@@ -27547,7 +27547,7 @@
     },
     {
       "id": "continia-em-76370",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "The stability of the Configured Fields setup page was improved.",
       "summary": "The stability of the Configured Fields setup page was improved. The page no longer resets its cursor position when opening and closing field detail cards, making it easier to configure fields without losing your place in the list.",
@@ -27559,7 +27559,7 @@
     },
     {
       "id": "continia-em-79513",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "Credit Card was renamed to Company Card .",
       "summary": "Credit Card was renamed to Company Card .",
@@ -27571,7 +27571,7 @@
     },
     {
       "id": "continia-em-79653",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "General Application",
       "title": "The Expenses , Mileage , Per Diems , and Expense Reports lists now have a simple and a full column view, following the Show More Columns / Show Fewer",
       "summary": "The Expenses , Mileage , Per Diems , and Expense Reports lists now have a simple and a full column view, following the Show More Columns / Show Fewer Columns pattern from the Business Central general journal. The simple view keeps the columns needed to review documents - user, dates, description, amount, status, approval, and comments - and hides less frequently used columns such as dimensions, job, tax, and configurable shortcut fields. Use Show More Columns to display all available columns and",
@@ -27583,7 +27583,7 @@
     },
     {
       "id": "continia-em-79944",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Mileages",
       "title": "The Mileage card and list were aligned with the other Expense Management document types",
       "summary": "The Mileage card and list were aligned with the other Expense Management document types: The document title on the Mileage card now shows only the entry number and user name, without the vehicle code and description. The approval action is now called Send for Approval on both the card and the list, where the card and list previously used different wording. The Approvals action is no longer promoted in the action bar on the Mileage card and is now found under Related > Mileage , matching the Mile",
@@ -27595,7 +27595,7 @@
     },
     {
       "id": "continia-em-77697",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Per Diem",
       "title": "The Type field on the Allowances page was deprecated and is no longer visible.",
       "summary": "The Type field on the Allowances page was deprecated and is no longer visible. On Per Diem Posting Groups , the Accommodation Allowance Code can no longer be changed after rates have been configured - delete the rates first or create a new posting group.",
@@ -27607,7 +27607,7 @@
     },
     {
       "id": "continia-em-69669",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Per Diem",
       "title": "You can now calculate per diems with an explicit time zone, so the amount is the same no matter who opens or posts the document.",
       "summary": "You can now calculate per diems with an explicit time zone, so the amount is the same no matter who opens or posts the document. Each per diem stores the time zone in which its times were captured, and the calculation uses that time zone to determine day boundaries. Departure and return times always show in the time zone where they were entered, rather than being converted to the time zone of the user viewing the document. This makes per diem amounts consistent for companies whose users, approve",
@@ -27619,7 +27619,7 @@
     },
     {
       "id": "continia-em-76832",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Per Diem",
       "title": "Meal deduction handling for taxable Per Diem amounts was updated to better align with local tax practices.",
       "summary": "Meal deduction handling for taxable Per Diem amounts was updated to better align with local tax practices. For German and Danish companies, the full taxable Per Diem is now paid without meal deductions after the 3-month rule or 12-month rule is triggered. A new setup option was added to control whether meal deductions reduce taxable rates in the standard Per Diem calculation.",
@@ -27631,7 +27631,7 @@
     },
     {
       "id": "continia-em-79943",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "area": "Per Diem",
       "title": "The Per Diem card and list were aligned with the other Expense Management document types",
       "summary": "The Per Diem card and list were aligned with the other Expense Management document types: The document title on the Per Diem card now shows only the entry number and user name, without the per diem group code and description. The approval action is now called Send for Approval on both the card and the list, where the card previously used Send Approval Request . The Approvals action is no longer promoted in the action bar on the Per Diem card. You can now find it under Related > Per Diem , which ",
@@ -76095,7 +76095,7 @@
       "version": "Continia Banking 2025 R2, Service Pack 13",
       "functional_area": "Payment Export",
       "title": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or",
-      "summary": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or employee receives it in their own language.",
+      "summary": "A new Translated Fixed Text method in a Banking Template 's field selection lets you maintain a fixed text per language, so each vendor, customer, or employee receives it in their own language. See Continia Banking templates in Export .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2025-r2/",
       "hotfix_id": "84342",
       "country_code": "",
@@ -131100,7 +131100,7 @@
     },
     {
       "id": "continia-em-85090",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "functional_area": "Document Approval",
       "title": "On the Approval Entries (Continia Expense Management) page, selecting an attachment in the Attachments dropdown of the document viewer showed the wron",
       "summary": "On the Approval Entries (Continia Expense Management) page, selecting an attachment in the Attachments dropdown of the document viewer showed the wrong file when more than one expense on an expense report had attachments. Typically it was the first attachment of the report. The selected attachment now shows correctly.",
@@ -131112,7 +131112,7 @@
     },
     {
       "id": "continia-em-78778",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "functional_area": "Expenses",
       "title": "When a new expense, mileage, or per diem was added to an expense report on the Expense Report card, it did not always inherit the report's values, suc",
       "summary": "When a new expense, mileage, or per diem was added to an expense report on the Expense Report card, it did not always inherit the report's values, such as Country/Region Code , Currency (expenses only), Project No. , and Project Task No. New lines now always take these values from the expense report header.",
@@ -131124,7 +131124,7 @@
     },
     {
       "id": "continia-em-76461",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "functional_area": "General Application",
       "title": "When demo data was created with the Expense Management setup wizard in a W1 sandbox company with a non-English user language, most expense types were",
       "summary": "When demo data was created with the Expense Management setup wizard in a W1 sandbox company with a non-English user language, most expense types were created without an Expense Posting Setup . The demo data is now created in the language of the imported setup configuration, so the expense posting setups are created for all expense types.",
@@ -131136,7 +131136,7 @@
     },
     {
       "id": "continia-em-83937",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "functional_area": "General Application",
       "title": "When the document storage settings were changed without changing the actual storage location, all attachments were deleted from the archive without an",
       "summary": "When the document storage settings were changed without changing the actual storage location, all attachments were deleted from the archive without any error. This could happen, for example, when only the File Service Authorization Key or the Company Code in Archive setting was changed. Attachments are now moved only when the storage location actually changes, and changes to the File Service connection alone no longer move any files.",
@@ -131148,7 +131148,7 @@
     },
     {
       "id": "continia-em-84514",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "functional_area": "General Application",
       "title": "When Lookup Value Access was opened from the Lookup Values page, it showed access entries for every value of the field type, not just the selected val",
       "summary": "When Lookup Value Access was opened from the Lookup Values page, it showed access entries for every value of the field type, not just the selected value. This happened when the access entries opened as a list instead of a matrix, which is the case with more than 100 Expense Management users or more than 25,000 lookup values. Only the access entries for the selected value are now shown.",
@@ -131160,7 +131160,7 @@
     },
     {
       "id": "continia-em-85056",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "functional_area": "General Application",
       "title": "Posting an expense matched to a card transaction failed with an inconsistency error in the G/L Entry table when the payment type had no Posting Accoun",
       "summary": "Posting an expense matched to a card transaction failed with an inconsistency error in the G/L Entry table when the payment type had no Posting Account and Post at import was disabled. The missing posting account is now reported as an error on the expense before it is posted.",
@@ -131172,7 +131172,7 @@
     },
     {
       "id": "continia-em-85216",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "functional_area": "General Application",
       "title": "When Journal Templ.",
       "summary": "When Journal Templ. Name Mandatory was enabled in the General Ledger Setup , processing card transactions in the Bank Transaction Inbox (Continia Expense Management) failed with the following error, even though Expense Template Name and Expense Batch Name were filled in on the Expense Management Setup page: Journal Template Name must have a value in Gen. Journal Line: Journal Template Name=, Journal Batch Name=, Line No.=0. It cannot be zero or empty. The journal template and batch from the Expe",
@@ -131184,7 +131184,7 @@
     },
     {
       "id": "continia-em-73987",
-      "version": "Expense Management 2026 R1, Service Pack 7, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 7",
       "functional_area": "Platform and Technology",
       "title": "When records used as lookup values for field types were changed frequently, the Expense Management Setup was updated on every change, which could caus",
       "summary": "When records used as lookup values for field types were changed frequently, the Expense Management Setup was updated on every change, which could cause performance issues and table locks. The setup is now only updated when a configured field type is affected, and it is no longer locked during the synchronization with Continia Online.",
@@ -131196,7 +131196,7 @@
     },
     {
       "id": "continia-em-82223",
-      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 6",
       "functional_area": "Expenses",
       "title": "When posting an expense with allocations that were matched to a bank transaction, one balancing entry was previously created on the intermediate expen",
       "summary": "When posting an expense with allocations that were matched to a bank transaction, one balancing entry was previously created on the intermediate expense account for each allocation's different dimension set. The account would then become balanced in total, but not per dimension value. A single balancing entry with the expense's own dimensions is now posted, matching the bank transaction entry.",
@@ -131208,7 +131208,7 @@
     },
     {
       "id": "continia-em-82517",
-      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 6",
       "functional_area": "Expenses",
       "title": "Tenants running in a language other than English, linking an expense to a purchase contract could fail with the following error when the contract's in",
       "summary": "Tenants running in a language other than English, linking an expense to a purchase contract could fail with the following error when the contract's invoicing period used a time unit whose abbreviation differs between languages, such as week ( uge ) on a Danish tenant: A time unit must be included in the date formula '-1U'. Valid time units are: D, WD, W, M, Q, or Y. The expense can now be linked to the purchase contract regardless of the display language and the invoicing period used.",
@@ -131220,7 +131220,7 @@
     },
     {
       "id": "continia-em-80069",
-      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 6",
       "functional_area": "General Application",
       "title": "When no attachment was loaded, the zoom control on the attachment preview showed Infinity% instead of a valid zoom percentage.",
       "summary": "When no attachment was loaded, the zoom control on the attachment preview showed Infinity% instead of a valid zoom percentage. This has now been fixed for all pages displaying the attachment preview.",
@@ -131232,7 +131232,7 @@
     },
     {
       "id": "continia-em-82154",
-      "version": "Expense Management 2026 R1, Service Pack 6, Hotfix 0",
+      "version": "Expense Management 2026 R1, Service Pack 6",
       "functional_area": "General Application",
       "title": "Customers could sometimes receive an incorrect warning that a VAT rate was not configured on expenses and expense allocations in Business Central.",
       "summary": "Customers could sometimes receive an incorrect warning that a VAT rate was not configured on expenses and expense allocations in Business Central. The validation now checks whether the rate exists in the Receipt VAT Mapping for the country, so the warning appears only when that rate is genuinely missing.",
@@ -132012,7 +132012,7 @@
     },
     {
       "id": "continia-em-84862",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Document Approval",
       "title": "The approval list in the Web Approval Portal could fail to load when it included a per diem from another company, and Expense Management was not set u",
       "summary": "The approval list in the Web Approval Portal could fail to load when it included a per diem from another company, and Expense Management was not set up in every company. If Enable Time Zone Handling differed between the companies, the per diem could also show a date that was one day off. A per diem now uses the Expense Management setup of its own company.",
@@ -132024,7 +132024,7 @@
     },
     {
       "id": "continia-em-85090",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Document Approval",
       "title": "On the Approval Entries (Continia Expense Management) page, selecting an attachment from the Attachments dropdown of the document viewer showed the wr",
       "summary": "On the Approval Entries (Continia Expense Management) page, selecting an attachment from the Attachments dropdown of the document viewer showed the wrong file when more than one expense on an expense report had attachments. More often than not it was the first attachment of the report. The selected attachment is now shown correctly.",
@@ -132036,7 +132036,7 @@
     },
     {
       "id": "continia-em-78778",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Expenses",
       "title": "When a new expense, mileage, or per diem was added to an expense report on the Expense Report card, it did not always inherit the report's values, suc",
       "summary": "When a new expense, mileage, or per diem was added to an expense report on the Expense Report card, it did not always inherit the report's values, such as Country/Region Code , Currency (expenses only), Project No. , and Project Task No. Now new lines always take these values from the expense report header.",
@@ -132048,7 +132048,7 @@
     },
     {
       "id": "continia-em-82223",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Expenses",
       "title": "When posting an expense with allocations that were matched to a bank transaction, one balancing entry was previously created on the intermediate expen",
       "summary": "When posting an expense with allocations that were matched to a bank transaction, one balancing entry was previously created on the intermediate expense account for each allocation's different dimension set. The account would then become balanced in total but not per dimension value. A single balancing entry with the expense's own dimensions is now posted, matching the bank transaction entry.",
@@ -132060,7 +132060,7 @@
     },
     {
       "id": "continia-em-82475",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Expenses",
       "title": "When posting expenses, mileage, or per diems using Post Batch with Expense Posting set to Preferable Purchase Invoice in Setup (Continia Expense Manag",
       "summary": "When posting expenses, mileage, or per diems using Post Batch with Expense Posting set to Preferable Purchase Invoice in Setup (Continia Expense Management) and the standard Business Central purchase invoice approval workflow enabled, the following error could occur and the entire batch was rolled back: Purchase Invoice must be approved and released before you can perform this action.",
@@ -132072,7 +132072,7 @@
     },
     {
       "id": "continia-em-82517",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Expenses",
       "title": "Previously, on tenants running in a language other than English, linking an expense to a purchase contract could fail with the following error when th",
       "summary": "Previously, on tenants running in a language other than English, linking an expense to a purchase contract could fail with the following error when the contract's invoicing period used a time unit whose abbreviation differs between languages, such as week ( uge ) on a Danish tenant: A time unit must be included in the date formula '-1U'. Valid time units are: D, WD, W, M, Q, or Y. The expense can now be linked to the purchase contract regardless of the display language and the invoicing period u",
@@ -132084,7 +132084,7 @@
     },
     {
       "id": "continia-em-82949",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Expenses",
       "title": "When the Expense Posting Setup (Continia Expense Management) page was opened from Expense Types (Continia Expense Management) , the Type Code field wa",
       "summary": "When the Expense Posting Setup (Continia Expense Management) page was opened from Expense Types (Continia Expense Management) , the Type Code field was hidden, so it was not clear which expense type each line belonged to after the filter was removed. The Type Code field is now always shown on the Expense Posting Setup (Continia Expense Management) page.",
@@ -132096,7 +132096,7 @@
     },
     {
       "id": "continia-em-83135",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Expenses",
       "title": "When Keep it was chosen in the Set Up Expense Types dialog, the confirmation message usually did not appear, although the expense types and posting se",
       "summary": "When Keep it was chosen in the Set Up Expense Types dialog, the confirmation message usually did not appear, although the expense types and posting setup lines were created correctly. The message has been removed, and the new expense types now appear on the Expense Types (Continia Expense Management) page right after the dialog closes.",
@@ -132108,7 +132108,7 @@
     },
     {
       "id": "continia-em-83140",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Expenses",
       "title": "Dutch: expense type is now translated consistently as Expense Type (plural Expense Types ) in all texts.",
       "summary": "Dutch: expense type is now translated consistently as Expense Type (plural Expense Types ) in all texts.",
@@ -132120,7 +132120,7 @@
     },
     {
       "id": "continia-em-76461",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "When demo data was created with the Expense Management setup wizard in a W1 sandbox company with a non-English user language, most expense types were",
       "summary": "When demo data was created with the Expense Management setup wizard in a W1 sandbox company with a non-English user language, most expense types were created without an Expense Posting Setup . The demo data is now created in the language of the imported setup configuration, so the expense posting setups are created for all expense types.",
@@ -132132,7 +132132,7 @@
     },
     {
       "id": "continia-em-78715",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "Danish: the options of the Project Line Type field now say Fakturerbar instead of Kontrakt .",
       "summary": "Danish: the options of the Project Line Type field now say Fakturerbar instead of Kontrakt .",
@@ -132144,7 +132144,7 @@
     },
     {
       "id": "continia-em-82154",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "Expenses and expense allocations could show an incorrect warning that a VAT rate was not configured for the country.",
       "summary": "Expenses and expense allocations could show an incorrect warning that a VAT rate was not configured for the country. The validation now checks whether the rate exists in the Receipt VAT Mapping for the country, so the warning appears only when the rate is missing.",
@@ -132156,7 +132156,7 @@
     },
     {
       "id": "continia-em-82348",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "When entering a value in a Decimal field on the Extra Fields page with the Business Central language set to Spanish, the following error occurred: Se",
       "summary": "When entering a value in a Decimal field on the Extra Fields page with the Business Central language set to Spanish, the following error occurred: Se ha especificado un campo o atributo no válido para la propiedad Format. <Precisión,2:2><Formato Estándar,9>. The issue could also occur in French or Swedish, and the fix in the previous release did not cover every case. This has now been fixed.",
@@ -132168,7 +132168,7 @@
     },
     {
       "id": "continia-em-82909",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "When attaching a file from a new, unsaved Expense Report line, the file could be added to another user's document.",
       "summary": "When attaching a file from a new, unsaved Expense Report line, the file could be added to another user's document. Actions for expense, mileage, and per diem lines now always apply to the line being worked on.",
@@ -132180,7 +132180,7 @@
     },
     {
       "id": "continia-em-82959",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "On the Configured Fields page, when opened from a module on the Configure Continia Expense Management page, Add offered fields from all modules, and a",
       "summary": "On the Configured Fields page, when opened from a module on the Configure Continia Expense Management page, Add offered fields from all modules, and after a field was added the page showed all modules again. Add now only offers fields for the module that you came from, and the page keeps showing only that module.",
@@ -132192,7 +132192,7 @@
     },
     {
       "id": "continia-em-83030",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "On the Configure Continia Expense Management page, the links that open the Configured Fields page for Mileage, Per Diem, and Expense Report stayed act",
       "summary": "On the Configure Continia Expense Management page, the links that open the Configured Fields page for Mileage, Per Diem, and Expense Report stayed active when the module was disabled. They opened an empty page where you could still add fields. The links are now disabled while the module is disabled.",
@@ -132204,7 +132204,7 @@
     },
     {
       "id": "continia-em-83033",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "When you enabled or disabled the Mileage or Per Diem module on a setup page, such as Configure Continia Expense Management , Mileage Setup (Continia E",
       "summary": "When you enabled or disabled the Mileage or Per Diem module on a setup page, such as Configure Continia Expense Management , Mileage Setup (Continia Expense Management) , or Per Diem Setup (Continia Expense Management) , the change was not synchronized to Continia Online when you closed the page. The change only took effect in the Expense App and Expense Portal after the next scheduled synchronization. It is now synchronized when you close the page.",
@@ -132216,7 +132216,7 @@
     },
     {
       "id": "continia-em-83651",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "On the Lookup Value Access per User/Group page, unticking a value for a user with full access created hidden access records under parent values the us",
       "summary": "On the Lookup Value Access per User/Group page, unticking a value for a user with full access created hidden access records under parent values the user could not access. Ticking a task under a project that the user's group did not grant was also silently lost, the legend disappeared after All Values was selected, and access inherited from the group was not always greyed out, including parent rows where every child value came from the group. This has now been fixed, and unticking the last child ",
@@ -132228,7 +132228,7 @@
     },
     {
       "id": "continia-em-83937",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "When the document storage settings were changed without changing the actual storage location, all attachments were deleted from the archive without an",
       "summary": "When the document storage settings were changed without changing the actual storage location, all attachments were deleted from the archive without any error. This could happen, for example, when only the File Service Authorization Key or the Company Code in Archive setting was changed. Attachments are now moved only when the storage location actually changes. Changes to the File Service connection alone no longer move any files.",
@@ -132240,7 +132240,7 @@
     },
     {
       "id": "continia-em-84151",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "When running Start Trial again with the Expense Management trial wizard, newly invited users didn't receive the welcome email if a previously invited",
       "summary": "When running Start Trial again with the Expense Management trial wizard, newly invited users didn't receive the welcome email if a previously invited user appeared above them in the list, and the localized banners weren't shown. Invited users now receive the welcome email, and the wizard shows the localized banners.",
@@ -132252,7 +132252,7 @@
     },
     {
       "id": "continia-em-84514",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "When Lookup Value Access was opened from the Lookup Values page, it showed access entries for every value of the field type, not just the selected val",
       "summary": "When Lookup Value Access was opened from the Lookup Values page, it showed access entries for every value of the field type, not just the selected value. This happened when the access entries opened as a list instead of a matrix, which is the case with more than 100 Expense Management users or more than 25,000 lookup values. Only the access entries for the selected value are now shown.",
@@ -132264,7 +132264,7 @@
     },
     {
       "id": "continia-em-85056",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "Posting an expense matched to a card transaction failed with an inconsistency error in the G/L Entry table when the payment type had no Posting Accoun",
       "summary": "Posting an expense matched to a card transaction failed with an inconsistency error in the G/L Entry table when the payment type had no Posting Account and Post at import was disabled. The missing posting account is now reported as an error on the expense before it is posted.",
@@ -132276,7 +132276,7 @@
     },
     {
       "id": "continia-em-85216",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "General Application",
       "title": "When Journal Templ.",
       "summary": "When Journal Templ. Name Mandatory was enabled in the General Ledger Setup , processing card transactions in the Bank Transaction Inbox (Continia Expense Management) failed with the following error, even though Expense Template Name and Expense Batch Name were filled in on the Expense Management Setup page: Journal Template Name must have a value in Gen. Journal Line: Journal Template Name=, Journal Batch Name=, Line No.=0. It cannot be zero or empty. The journal template and batch from the Expe",
@@ -132288,7 +132288,7 @@
     },
     {
       "id": "continia-em-73987",
-      "version": "Expense Management 2026 R2, Service Pack 1, Hotfix 0",
+      "version": "Expense Management 2026 R2, Service Pack 1",
       "functional_area": "Platform and Technology",
       "title": "When records used as lookup values for field types were changed frequently, the Expense Management Setup was updated on every change, which could caus",
       "summary": "When records used as lookup values for field types were changed frequently, the Expense Management Setup was updated on every change, which could cause performance issues and table locks. The setup is now only updated when a configured field type is affected, and it is no longer locked during the synchronization with Continia Online.",
@@ -132300,7 +132300,7 @@
     },
     {
       "id": "continia-em-80059",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "functional_area": "Card Transactions",
       "title": "In the Card Transaction Inbox , when selecting a Continia user ID on an entry where the card wasn't linked to that user, an error occurred stating tha",
       "summary": "In the Card Transaction Inbox , when selecting a Continia user ID on an entry where the card wasn't linked to that user, an error occurred stating that the Continia User Company Card didn't exist. You can now link the card to the selected user directly, after which, the remaining unprocessed entries for that card are mapped automatically.",
@@ -132312,7 +132312,7 @@
     },
     {
       "id": "continia-em-82606",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "functional_area": "General Application",
       "title": "The attachment counter in the Attachments FactBox on ledger entries and purchase documents did not update when switching between attachments.",
       "summary": "The attachment counter in the Attachments FactBox on ledger entries and purchase documents did not update when switching between attachments. It now shows the correct position, for example 2 of 2 instead of remaining at 1 of 2 .",
@@ -132324,7 +132324,7 @@
     },
     {
       "id": "continia-em-79363",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "functional_area": "General Application",
       "title": "The Name field on the Expense , Mileage , Per Diem , and Expense Report cards is now editable, so you can assign a user by typing a name instead of an",
       "summary": "The Name field on the Expense , Mileage , Per Diem , and Expense Report cards is now editable, so you can assign a user by typing a name instead of an ID. Type a full or partial name and it resolves to the matching Continia user, following the same behavior as the vendor name on a standard Business Central purchase invoice. When several users match, a list displays so you can pick one. The Continia User ID field is now located under Show more .Only users you are allowed to see are offered, so Ex",
@@ -132336,7 +132336,7 @@
     },
     {
       "id": "continia-em-79512",
-      "version": "Expense Management 2026 R2, Service Pack 0, Hotfix 0",
+      "version": "Expense Management 2026 R2",
       "functional_area": "General Application",
       "title": "On the Expenses , Mileage , Per Diems , and Expense Reports lists and their posted counterparts, the amount column was placed too far to the right and",
       "summary": "On the Expenses , Mileage , Per Diems , and Expense Reports lists and their posted counterparts, the amount column was placed too far to the right and required horizontal scrolling. The amount column now displays immediately after Description .",
