@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23",
+ "generated_at": "2026-11-24",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,26 +67,26 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Business Central 2026 release wave 2 (BC29): New API Overview page to view all available APIs (Discover APIs with the API Overview page)",
+   "url": "https://yzhums.com/77607/",
+   "published": "2026-11-24",
+   "summary": "Hi, Readers. Today I would like to share a new feature in Business Central that makes it much easier to view all available APIs in the current environment. A few years ago, I shared a simple way to view the list of all APIs in Business Central using the Page Metadata virtual table . More details: Dynamics 365 Business Central: A simple way to view the list of all APIs At that time, we could open t"
+  },
+  {
+   "source": "hougaard",
+   "kind": "youtube",
+   "title": "Building the World's Best ControlAddIn for AL code in Business Central",
+   "url": "https://www.youtube.com/watch?v=CBRjbRd7uLM",
+   "published": "2026-11-23",
+   "summary": "Find the repo here: https://github.com/hougaard/AL-StarterControlAddIn Check out www.hougaard.com"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Dynamics 365 Business Central: How to easily check users and their licenses (User Details)",
    "url": "https://yzhums.com/77046/",
    "published": "2026-11-20",
    "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central, how to easily check users and their assigned licenses. A few years ago, I discussed how to view all licensed users in Business Central. More details: Dynamics 365 Business Central: How to view all licensed users (Users in Plans) At that time, we could use Users in Plans (Query 774) to check the licenses assigned to u"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Dynamics 365 Business Central: How to hide the header and footer on a worksheet page to display more lines",
-   "url": "https://yzhums.com/74858/",
-   "published": "2026-11-19",
-   "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central, how to hide the header and footer on a Worksheet page to show more content. A Worksheet page lets users view and manage entries in tabular or matrix form. Use it when custom filters or default field values provide context for the collection. Examples include journals, where the user selects a batch, and inquiry pages"
-  },
-  {
-   "source": "yzhums",
-   "kind": "blog",
-   "title": "Business Central 2027 wave 1 (BC30): Remove ability to expose a Microsoft page as an OData endpoint (Disable OData web services on Microsoft UI pages)",
-   "url": "https://yzhums.com/77505/",
-   "published": "2026-11-18",
-   "summary": "Hi, Readers. Today, I want to share an important feature removal coming in the next release, 2027 release wave 1 (version 30.0): Remove ability to expose a Microsoft page as an OData endpoint (Disable OData web services on Microsoft UI pages) . This is mentioned in the official Microsoft documentation below. Remove ability to expose a Microsoft page as an OData endpoint (removal) A UI page isn’t a"
   }
  ],
  "links": {
