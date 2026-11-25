@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-25",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -12226,7 +12226,7 @@
       "version": "Continia Banking 2026 R1, Service Pack 7",
       "area": "Payment Import",
       "title": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the",
-      "summary": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the text the merge of the line was based on.",
+      "summary": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the text the merge of the line was based on. See Introducing merge lines .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r1/",
       "country_code": "",
       "general_availability": "November 1, 2026",
@@ -12406,7 +12406,7 @@
       "version": "Continia Banking 2026 R2, Service Pack 1",
       "area": "Payment Import",
       "title": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the",
-      "summary": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the text the merge of the line was based on.",
+      "summary": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the text the merge of the line was based on. See Introducing merge lines .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2026-r2/",
       "country_code": "",
       "general_availability": "October 1, 2026",
@@ -76119,7 +76119,7 @@
       "version": "Continia Banking 2025 R2, Service Pack 13",
       "functional_area": "Payment Import",
       "title": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the",
-      "summary": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the text the merge of the line was based on.",
+      "summary": "Added information on the Merge Lines page that enables the user to see the text the bank statement line was matched to the search rule on and also the text the merge of the line was based on. See Introducing merge lines .",
       "doc_url": "https://docs.continia.com/en-us/continia-banking/new-and-planned/detailed-changelogs/continia-banking-2025-r2/",
       "hotfix_id": "80839",
       "country_code": "",
