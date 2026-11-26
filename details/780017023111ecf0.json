@@ -1,0 +1,13 @@
+{
+  "id": "780017023111ecf0",
+  "title": "Use batch totals for payment journals",
+  "languages": {
+    "en": {
+      "title": "Use batch totals for payment journals",
+      "summary": "The Batch Total field on the Payment Journal page enhances payment processing by enabling you to work with and review a cumulative total for a payment journal batch. By surfacing batch-level totals directly in payment journals, organizations gain better control over outgoing payments and can streamline review and approval processes.",
+      "details": "The Batch Total field on the Payment Journal page enhances payment processing by enabling you to work with and review a cumulative total for a payment journal batch. By surfacing batch-level totals directly in payment journals, organizations gain better control over outgoing payments and can streamline review and approval processes.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573264",
+      "origin": "roadmap"
+    }
+  }
+}

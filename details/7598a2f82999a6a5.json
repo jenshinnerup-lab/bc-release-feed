@@ -1,0 +1,13 @@
+{
+  "id": "7598a2f82999a6a5",
+  "title": "Use AL language intelligence from AI agents and other editors",
+  "languages": {
+    "en": {
+      "title": "Use AL language intelligence from AI agents and other editors",
+      "summary": "\"Run the standalone AL language server to provide completion, navigation, references, rename, formatting, and other project-aware LSP features outside Visual Studio Code. Business value: Teams can use full AL language intelligence in AI coding agents and development environments that support the Language Server Protocol (LSP), without requiring Visual Studio Code as the client. This opens AL development to additional editors and agentic workflows while retaining accurate project-aware navigation",
+      "details": "\"Run the standalone AL language server to provide completion, navigation, references, rename, formatting, and other project-aware LSP features outside Visual Studio Code. Business value: Teams can use full AL language intelligence in AI coding agents and development environments that support the Language Server Protocol (LSP), without requiring Visual Studio Code as the client. This opens AL development to additional editors and agentic workflows while retaining accurate project-aware navigation and refactoring.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573338",
+      "origin": "roadmap"
+    }
+  }
+}

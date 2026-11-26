@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25",
+ "generated_at": "2026-11-26",
  "source": "What people outside Microsoft have written about these features. Matched on the feature's own title or a link to Microsoft's page.",
  "sources": [
   {
@@ -67,6 +67,14 @@
   {
    "source": "yzhums",
    "kind": "blog",
+   "title": "Dynamics 365 Business Central: How to pad a string to a specified length with a character (GetPaddedString)",
+   "url": "https://yzhums.com/77663/",
+   "published": "2026-11-26",
+   "summary": "Hi, Readers. Today I would like to share another mini tip about Business Central. When developing in AL, sometimes we may need to fill a string with a specific character until it reaches a specified length. For example: 1. TEST -> TESTAAAAAA 2. TEST -> ***TEST Of course, we can write this logic ourselves, but there is already a very simple method in the standard codeunit 47 StringConversionManagem"
+  },
+  {
+   "source": "yzhums",
+   "kind": "blog",
    "title": "Dynamics 365 Business Central: How to clear all Customized Pages for a Profile (Role)",
    "url": "https://yzhums.com/75960/",
    "published": "2026-11-25",
@@ -79,14 +87,6 @@
    "url": "https://yzhums.com/77607/",
    "published": "2026-11-24",
    "summary": "Hi, Readers. Today I would like to share a new feature in Business Central that makes it much easier to view all available APIs in the current environment. A few years ago, I shared a simple way to view the list of all APIs in Business Central using the Page Metadata virtual table . More details: Dynamics 365 Business Central: A simple way to view the list of all APIs At that time, we could open t"
-  },
-  {
-   "source": "hougaard",
-   "kind": "youtube",
-   "title": "Building the World's Best ControlAddIn for AL code in Business Central",
-   "url": "https://www.youtube.com/watch?v=CBRjbRd7uLM",
-   "published": "2026-11-23",
-   "summary": "Find the repo here: https://github.com/hougaard/AL-StarterControlAddIn Check out www.hougaard.com"
   }
  ],
  "links": {

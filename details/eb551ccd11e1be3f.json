@@ -1,0 +1,13 @@
+{
+  "id": "eb551ccd11e1be3f",
+  "title": "Discover objects in connected Business Central environments",
+  "languages": {
+    "en": {
+      "title": "Discover objects in connected Business Central environments",
+      "summary": "\"Search objects installed in a connected Business Central environment, including owning-app metadata needed to add dependencies and download the correct symbols. Business value: Developers and coding agents can discover AL objects that are installed in the target Business Central environment even when the corresponding symbols haven't yet been downloaded into the workspace. This reduces failed searches and helps agents add the correct app dependency before generating code that uses an object.\"",
+      "details": "\"Search objects installed in a connected Business Central environment, including owning-app metadata needed to add dependencies and download the correct symbols. Business value: Developers and coding agents can discover AL objects that are installed in the target Business Central environment even when the corresponding symbols haven't yet been downloaded into the workspace. This reduces failed searches and helps agents add the correct app dependency before generating code that uses an object.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573339",
+      "origin": "roadmap"
+    }
+  }
+}

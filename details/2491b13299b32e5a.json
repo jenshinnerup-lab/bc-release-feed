@@ -1,0 +1,13 @@
+{
+  "id": "2491b13299b32e5a",
+  "title": "Access application links through ModuleInfo",
+  "languages": {
+    "en": {
+      "title": "Access application links through ModuleInfo",
+      "summary": "\"Read help, EULA, privacy statement, and locale-aware context-sensitive help links from an app manifest at runtime through additional ModuleInfo properties. Business value: Extensions can surface application-specific help, legal, and privacy resources dynamically instead of duplicating links in code. Context-sensitive help can also respect the current user's locale, improving support experiences for multilingual deployments.\"",
+      "details": "\"Read help, EULA, privacy statement, and locale-aware context-sensitive help links from an app manifest at runtime through additional ModuleInfo properties. Business value: Extensions can surface application-specific help, legal, and privacy resources dynamically instead of duplicating links in code. Context-sensitive help can also respect the current user's locale, improving support experiences for multilingual deployments.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573354",
+      "origin": "roadmap"
+    }
+  }
+}

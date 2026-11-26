@@ -1,0 +1,13 @@
+{
+  "id": "8b9a5e30cf084faf",
+  "title": "Reduce complexity of report datasets",
+  "languages": {
+    "en": {
+      "title": "Reduce complexity of report datasets",
+      "summary": "Word layouts now include a company information dataitem that is shared across all report datasets. This reduces the work needed for a report developer and standardizes how company information is used across report layouts.",
+      "details": "Word layouts now include a company information dataitem that is shared across all report datasets. This reduces the work needed for a report developer and standardizes how company information is used across report layouts.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573321",
+      "origin": "roadmap"
+    }
+  }
+}

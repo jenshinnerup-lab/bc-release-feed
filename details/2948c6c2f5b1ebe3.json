@@ -1,0 +1,13 @@
+{
+  "id": "2948c6c2f5b1ebe3",
+  "title": "Control the lifecycle of all report layouts",
+  "languages": {
+    "en": {
+      "title": "Control the lifecycle of all report layouts",
+      "summary": "Set status on all types of layouts (including layouts shipped with Business Central, per-tenant extensions, and AppSource apps) to control which layouts are available to end users.",
+      "details": "Set status on all types of layouts (including layouts shipped with Business Central, per-tenant extensions, and AppSource apps) to control which layouts are available to end users.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573320",
+      "origin": "roadmap"
+    }
+  }
+}

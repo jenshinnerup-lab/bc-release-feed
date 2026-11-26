@@ -1,0 +1,13 @@
+{
+  "id": "8d84dae199037540",
+  "title": "Process Shopify order changes, exchanges, and refunds",
+  "languages": {
+    "en": {
+      "title": "Process Shopify order changes, exchanges, and refunds",
+      "summary": "Business Value Keep edited and exchanged Shopify orders aligned when you create sales documents and process refunds. Details When a Shopify return includes a replacement item, the connector imports the returned item and the exchange item together and adds them to a sales credit memo or sales return order. You can keep both items on the same document or move the exchange item to a new sales document. Example: Process an exchange A customer orders, pays for, and receives an item. You import and pr",
+      "details": "Business Value Keep edited and exchanged Shopify orders aligned when you create sales documents and process refunds. Details When a Shopify return includes a replacement item, the connector imports the returned item and the exchange item together and adds them to a sales credit memo or sales return order. You can keep both items on the same document or move the exchange item to a new sales document. Example: Process an exchange A customer orders, pays for, and receives an item. You import and process the Shopify order in Business Central, where it becomes a posted sales invoice. Later, the customer decides that the item doesn't fit and returns it in exchange for a replacement item. The connector imports the updated Shopify order and its linked refund. When you choose Create Sales Document , the connector creates the document type selected in Process Returns as : a sales credit memo or sales return order. The returned item has a positive quantity on the new document, and the exchange item has a negative quantity. You can post the document with both lines, or you can keep the returned item on the credit memo or return order and move the exchange item to a separate sales document. To split the lines before posting: If the credit memo or return order has the Released status, choose Reopen . Choose Move Negative Lines . From a sales credit memo, this action creates a sales invoice by default. From a sales return order, it creates a sales order by default. The new invoice or order for the replacement remains linked to the originating Shopify order and appears in the Linked Documents FactBox. For exchanges where the replacement costs more, the connector doesn't add an unnecessary balancing refund-account G/L line. A G/L line can still be added for cash rounding.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573343",
+      "origin": "roadmap"
+    }
+  }
+}

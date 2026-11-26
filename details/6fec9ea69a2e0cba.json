@@ -1,0 +1,13 @@
+{
+  "id": "6fec9ea69a2e0cba",
+  "title": "Add date ranges and vehicle types in your mileage calculation",
+  "languages": {
+    "en": {
+      "title": "Add date ranges and vehicle types in your mileage calculation",
+      "summary": "Expense Agent now supports advanced mileage rate configuration based on both effective date ranges and vehicle types, enabling more flexible and accurate mileage reimbursement calculations. This enhancement combines mileage rate scheduling with support for differentiated vehicle categories. Key capabilities include additions on the Mileage Rate Setup page: Define mileage rates that are valid only within specific date ranges, allowing organizations to accommodate rate changes over time. Configure",
+      "details": "Expense Agent now supports advanced mileage rate configuration based on both effective date ranges and vehicle types, enabling more flexible and accurate mileage reimbursement calculations. This enhancement combines mileage rate scheduling with support for differentiated vehicle categories. Key capabilities include additions on the Mileage Rate Setup page: Define mileage rates that are valid only within specific date ranges, allowing organizations to accommodate rate changes over time. Configure separate mileage reimbursement rates for different vehicle types, such as cars, motorcycles, electric vehicles, or other organization-defined vehicle categories. Automatically apply the correct reimbursement rate based on the travel date and selected vehicle type during mileage expense calculation. Support evolving regulatory requirements, company policies, and regional reimbursement standards without requiring manual recalculation of submitted mileage claims. Administrators can maintain a set of mileage rate records that include both an effective date range and an associated vehicle type. When someone creates a mileage expense, Expense Agent evaluates the trip date and the type of vehicle, and then applies the matching reimbursement rate automatically. This evaluation ensures that mileage claims are calculated using the appropriate rate in effect for the specific travel period and mode of transportation.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573254",
+      "origin": "roadmap"
+    }
+  }
+}

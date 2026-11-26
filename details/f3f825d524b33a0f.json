@@ -1,0 +1,13 @@
+{
+  "id": "f3f825d524b33a0f",
+  "title": "Manage agent permissions easier",
+  "languages": {
+    "en": {
+      "title": "Manage agent permissions easier",
+      "summary": "Assign additional permissions to agents when they request them.",
+      "details": "Assign additional permissions to agents when they request them.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573370",
+      "origin": "roadmap"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "4cb9366f74542d2a",
+  "title": "AI-Driven Approvals",
+  "languages": {
+    "en": {
+      "title": "AI-Driven Approvals",
+      "summary": "Expense Agent can validate submitted expense reports against approval policies written in natural language and provide approvers with guidance during the review process. After an employee submits an expense report, the system evaluates both the overall report and the individual expense lines to detect potential policy violations, suspicious patterns, or situations that might require closer attention. This process supports policies that aren't limited to exact thresholds or fixed numeric conditio",
+      "details": "Expense Agent can validate submitted expense reports against approval policies written in natural language and provide approvers with guidance during the review process. After an employee submits an expense report, the system evaluates both the overall report and the individual expense lines to detect potential policy violations, suspicious patterns, or situations that might require closer attention. This process supports policies that aren't limited to exact thresholds or fixed numeric conditions, such as when business class travel is allowed, what qualifies as an appropriate business meal, or when exceptions to preferred hotel standards might be acceptable. The result is additional review context that helps approvers make better-informed decisions without replacing the final human approval step. By running policy validation after submission, the feature can apply controls at the level of a single expense line in the first release. The feature complements existing approval workflows by highlighting issues, providing context, and helping organizations enforce policy consistently while keeping approvers in control of the final decision.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573255",
+      "origin": "roadmap"
+    }
+  }
+}

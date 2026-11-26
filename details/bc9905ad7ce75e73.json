@@ -1,0 +1,13 @@
+{
+  "id": "bc9905ad7ce75e73",
+  "title": "Translate objects with the same name in different namespaces",
+  "languages": {
+    "en": {
+      "title": "Translate objects with the same name in different namespaces",
+      "summary": "\"Generate namespace-aware translation identifiers so identically named AL objects can be translated independently while existing non-namespaced translations remain valid. Business value: Extension developers can translate objects independently when those objects have the same name but belong to different namespaces. This avoids translation identifier collisions and supports broader adoption of namespaces in existing apps.\"",
+      "details": "\"Generate namespace-aware translation identifiers so identically named AL objects can be translated independently while existing non-namespaced translations remain valid. Business value: Extension developers can translate objects independently when those objects have the same name but belong to different namespaces. This avoids translation identifier collisions and supports broader adoption of namespaces in existing apps.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573359",
+      "origin": "roadmap"
+    }
+  }
+}

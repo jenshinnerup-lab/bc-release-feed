@@ -1,0 +1,13 @@
+{
+  "id": "a534e3461d10c7ee",
+  "title": "Track your carbon footprint for fixed assets",
+  "languages": {
+    "en": {
+      "title": "Track your carbon footprint for fixed assets",
+      "summary": "This feature extends sustainability tracking to fixed assets by introducing fields and logic that capture emissions during acquisition, reclassification, and disposal. Emission data flows into the sustainability ledger and integrates with existing sustainability reporting. Validation ensures you can enter emissions only for acquisition transactions. Posting rules maintain data integrity across your fixed asset and sustainability ledgers. Sustainability fields are available only if you enable sus",
+      "details": "This feature extends sustainability tracking to fixed assets by introducing fields and logic that capture emissions during acquisition, reclassification, and disposal. Emission data flows into the sustainability ledger and integrates with existing sustainability reporting. Validation ensures you can enter emissions only for acquisition transactions. Posting rules maintain data integrity across your fixed asset and sustainability ledgers. Sustainability fields are available only if you enable sustainability features in setup.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573377",
+      "origin": "roadmap"
+    }
+  }
+}

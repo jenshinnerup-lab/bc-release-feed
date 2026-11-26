@@ -1,0 +1,13 @@
+{
+  "id": "6d179ab789ffa081",
+  "title": "Reverse Sustainability Ledger entries transaction",
+  "languages": {
+    "en": {
+      "title": "Reverse Sustainability Ledger entries transaction",
+      "summary": "Keep your sustainability data accurate by reversing sustainability ledger entries that contain mistakes. If you post sustainability transactions that contain a mistake, you can’t delete the entries. However, if you posted the entries from a sustainability journal or a general journal, what you can do is use the Reverse Transaction action on the Sustainability Ledger Entries page to reverse them. The reversal creates a new sustainability ledger entry that has the document number and posting date ",
+      "details": "Keep your sustainability data accurate by reversing sustainability ledger entries that contain mistakes. If you post sustainability transactions that contain a mistake, you can’t delete the entries. However, if you posted the entries from a sustainability journal or a general journal, what you can do is use the Reverse Transaction action on the Sustainability Ledger Entries page to reverse them. The reversal creates a new sustainability ledger entry that has the document number and posting date from the original entry. It also records the user who ran the reversal. The original posting date makes the values net to zero in the same period.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573376",
+      "origin": "roadmap"
+    }
+  }
+}

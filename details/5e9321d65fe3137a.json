@@ -1,0 +1,13 @@
+{
+  "id": "5e9321d65fe3137a",
+  "title": "Administrators can turn SIFT indexes on/off",
+  "languages": {
+    "en": {
+      "title": "Administrators can turn SIFT indexes on/off",
+      "summary": "Administrators can now turn SIFT indexes on/off directly in the Business Central application.",
+      "details": "Administrators can now turn SIFT indexes on/off directly in the Business Central application.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573316",
+      "origin": "roadmap"
+    }
+  }
+}

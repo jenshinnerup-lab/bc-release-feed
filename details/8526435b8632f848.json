@@ -1,0 +1,13 @@
+{
+  "id": "8526435b8632f848",
+  "title": "Run multiple financial reports and get a single PDF output",
+  "languages": {
+    "en": {
+      "title": "Run multiple financial reports and get a single PDF output",
+      "summary": "Define report packs that contain multiple financial reports, and then run them immediately or schedule delivery to report inboxes or by email.",
+      "details": "Define report packs that contain multiple financial reports, and then run them immediately or schedule delivery to report inboxes or by email.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573323",
+      "origin": "roadmap"
+    }
+  }
+}

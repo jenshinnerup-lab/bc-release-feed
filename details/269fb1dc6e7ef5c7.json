@@ -1,0 +1,13 @@
+{
+  "id": "269fb1dc6e7ef5c7",
+  "title": "Trace G/L account usage in finance reports",
+  "languages": {
+    "en": {
+      "title": "Trace G/L account usage in finance reports",
+      "summary": "Financial report authors can now identify uncategorized accounts, trace account usage and calculations, and preview definitions before publishing.",
+      "details": "Financial report authors can now identify uncategorized accounts, trace account usage and calculations, and preview definitions before publishing.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573324",
+      "origin": "roadmap"
+    }
+  }
+}

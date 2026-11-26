@@ -1,0 +1,13 @@
+{
+  "id": "616e32a18652ed87",
+  "title": "Germany - Export euBP with audit files export",
+  "languages": {
+    "en": {
+      "title": "Germany - Export euBP with audit files export",
+      "summary": "Create more complete audit export packages with less manual preparation by exporting European Business Profile (euBP) information together with transactional audit data. Organizations using the German localization can include both in a single Audit Files Export process. Benefits: • Export euBP and transactional audit data together in a single process. • Include relevant business profile information in exported audit documentation. • Reduce manual data collection and reconciliation during audit p",
+      "details": "Create more complete audit export packages with less manual preparation by exporting European Business Profile (euBP) information together with transactional audit data. Organizations using the German localization can include both in a single Audit Files Export process. Benefits: • Export euBP and transactional audit data together in a single process. • Include relevant business profile information in exported audit documentation. • Reduce manual data collection and reconciliation during audit preparation. • Provide auditors and regulatory authorities with relevant audit and business profile information in a standardized format.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573617",
+      "origin": "roadmap"
+    }
+  }
+}

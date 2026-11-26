@@ -1,0 +1,13 @@
+{
+  "id": "0251f1861893be80",
+  "title": "Configure AL MCP workspaces dynamically",
+  "languages": {
+    "en": {
+      "title": "Configure AL MCP workspaces dynamically",
+      "summary": "\"Start the AL MCP server without a predefined project, add AL projects at runtime, and use configured connection details in headless scenarios without authentication prompts. Business value: AI-agent hosts can start a reusable AL MCP server before the target project is known, then load projects as work begins. This supports flexible agent sessions, shared tooling configurations, and headless automation without requiring a separate server process for every preconfigured workspace.\"",
+      "details": "\"Start the AL MCP server without a predefined project, add AL projects at runtime, and use configured connection details in headless scenarios without authentication prompts. Business value: AI-agent hosts can start a reusable AL MCP server before the target project is known, then load projects as work begins. This supports flexible agent sessions, shared tooling configurations, and headless automation without requiring a separate server process for every preconfigured workspace.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573348",
+      "origin": "roadmap"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dc1233dbf64a92df",
+  "title": "Track your carbon footprint with item journals and item reclassification journals",
+  "languages": {
+    "en": {
+      "title": "Track your carbon footprint with item journals and item reclassification journals",
+      "summary": "This feature introduces carbon footprint tracking to Item Journals and Item Reclassification Journals . It adds fields for CO₂e per unit and total CO₂e, and calculates emissions to ensure that emissions follow the same lifecycle logic as item costs. Emissions are calculated based on Sustainability Value Entries by using the Average or the new Specific method. Posting results are recorded in Sustainability Value Entries only. There are no changes to item cost entries. For Item Reclassification Jo",
+      "details": "This feature introduces carbon footprint tracking to Item Journals and Item Reclassification Journals . It adds fields for CO₂e per unit and total CO₂e, and calculates emissions to ensure that emissions follow the same lifecycle logic as item costs. Emissions are calculated based on Sustainability Value Entries by using the Average or the new Specific method. Posting results are recorded in Sustainability Value Entries only. There are no changes to item cost entries. For Item Reclassification Journals : Emissions transfer between items without adding new values. Maintains a chain for updates after adjustments.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573378",
+      "origin": "roadmap"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bdad43c01f92e008",
+  "title": "Add an interim approver when you submit an expense report",
+  "languages": {
+    "en": {
+      "title": "Add an interim approver when you submit an expense report",
+      "summary": "This feature introduces support for a simple interim approval scenario for expense reports. When someone submits an expense report, organizations can designate an interim approver to review and approve expenses before the final approver can review and approve. Interim approver must review expense reports to confirm whether they're complete and compliant before final approver.",
+      "details": "This feature introduces support for a simple interim approval scenario for expense reports. When someone submits an expense report, organizations can designate an interim approver to review and approve expenses before the final approver can review and approve. Interim approver must review expense reports to confirm whether they're complete and compliant before final approver.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573260",
+      "origin": "roadmap"
+    }
+  }
+}

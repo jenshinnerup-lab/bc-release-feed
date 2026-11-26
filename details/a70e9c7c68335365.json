@@ -1,0 +1,13 @@
+{
+  "id": "a70e9c7c68335365",
+  "title": "Estimate your carbon footprint in Service Management",
+  "languages": {
+    "en": {
+      "title": "Estimate your carbon footprint in Service Management",
+      "summary": "This feature extends sustainability tracking to cover Service Management features by displaying carbon footprint values on service documents. Emission data comes from sustainability value entries for items and from resource cards for resource-related emissions. When you consume or ship items or resources as part of a service order, the system retrieves their associated CO₂e values from sustainability data. The system shows emission details on service invoices and posted documents for reporting a",
+      "details": "This feature extends sustainability tracking to cover Service Management features by displaying carbon footprint values on service documents. Emission data comes from sustainability value entries for items and from resource cards for resource-related emissions. When you consume or ship items or resources as part of a service order, the system retrieves their associated CO₂e values from sustainability data. The system shows emission details on service invoices and posted documents for reporting and customer communication. Resource emissions are based on values defined on the resource card. Item emissions come from sustainability setup and item configuration. Calculations follow the same logic as in other sustainability features, ensuring consistency across modules.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573375",
+      "origin": "roadmap"
+    }
+  }
+}

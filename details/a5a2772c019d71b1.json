@@ -1,0 +1,13 @@
+{
+  "id": "a5a2772c019d71b1",
+  "title": "Use new APIs for getting the PDF of a document report",
+  "languages": {
+    "en": {
+      "title": "Use new APIs for getting the PDF of a document report",
+      "summary": "We're introducing read-only APIs in the document report system. The APIs help establish automation on document reporting outside Business Central. For example, to create agents with Microsoft Copilot Studio and MCP Server for Business Central to automate business processes that involve document PDFs. The APIs are read-only and allow you to query the following types of documents: Sales documents Blanket sales orders Sales return orders Sales shipments Return receipts Sales archive quotes Sales ar",
+      "details": "We're introducing read-only APIs in the document report system. The APIs help establish automation on document reporting outside Business Central. For example, to create agents with Microsoft Copilot Studio and MCP Server for Business Central to automate business processes that involve document PDFs. The APIs are read-only and allow you to query the following types of documents: Sales documents Blanket sales orders Sales return orders Sales shipments Return receipts Sales archive quotes Sales archive orders Sales archive returns Sales archive blanket orders Purchasing documents Purchase quotes Blanket purchase orders Purchase receipts Purchase return orders Purch. Return Shipment Purchase Archive Quote Purchase Archive Order Purchase Archive Return Purchase Archive Blanket Order Inventory documents Phys. Inventory Order Posted Phys. Inventory Order Phys. Inventory Recording Posted Phys. Inventory Recording Inventory shipments Inventory receipts Posted inventory shipments Posted inventory receipts Transfer orders Transfer shipments Transfer receipts Posted direct transfers Assembly documents Assembly orders Posted assembly orders Business Value: This feature enhances automation on processes that include document reports. Businesses can leverage these APIs to build integrations with Power Automate or Microsoft Copilot Studio and MCP Server, opening up opportunities for intelligent automation. Enabled for: Enabled for end users automatically",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=576792",
+      "origin": "roadmap"
+    }
+  }
+}

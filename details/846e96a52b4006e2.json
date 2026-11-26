@@ -1,0 +1,13 @@
+{
+  "id": "846e96a52b4006e2",
+  "title": "Use assigned projects only in the web app",
+  "languages": {
+    "en": {
+      "title": "Use assigned projects only in the web app",
+      "summary": "Expense Agent web app now uses dedicated resource assignments for projects to determine which projects are available to each user when they create or manage expense entries. Key capabilities include: You can assign dedicated resources (employees) to the whole project or to the specific task. Display only projects or/and tasks where the user is assigned as a resource. Automatically filter project lists based on project-resource relationships. Reduce the risk of users selecting projects that aren'",
+      "details": "Expense Agent web app now uses dedicated resource assignments for projects to determine which projects are available to each user when they create or manage expense entries. Key capabilities include: You can assign dedicated resources (employees) to the whole project or to the specific task. Display only projects or/and tasks where the user is assigned as a resource. Automatically filter project lists based on project-resource relationships. Reduce the risk of users selecting projects that aren't relevant to their role or assignments.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573259",
+      "origin": "roadmap"
+    }
+  }
+}

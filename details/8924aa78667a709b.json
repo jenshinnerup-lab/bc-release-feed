@@ -1,0 +1,13 @@
+{
+  "id": "8924aa78667a709b",
+  "title": "France - Install French localization as an extension to the base app",
+  "languages": {
+    "en": {
+      "title": "France - Install French localization as an extension to the base app",
+      "summary": "The localized version for France is now available as a set of extensions on the W1 base app. This version includes a data upgrade feature to simplify the transition from the previous localization. This release moves the product closer to full delocalization, so ISVs can reach a wider market. Some features move to the base app or become global apps, while others stay specific to the French market.",
+      "details": "The localized version for France is now available as a set of extensions on the W1 base app. This version includes a data upgrade feature to simplify the transition from the previous localization. This release moves the product closer to full delocalization, so ISVs can reach a wider market. Some features move to the base app or become global apps, while others stay specific to the French market.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573621",
+      "origin": "roadmap"
+    }
+  }
+}

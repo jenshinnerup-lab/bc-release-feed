@@ -1,0 +1,13 @@
+{
+  "id": "968c58592e30e2fc",
+  "title": "Run data queries with MCP Server",
+  "languages": {
+    "en": {
+      "title": "Run data queries with MCP Server",
+      "summary": "Use new MCP tools to define, validate, and run custom data queries. Your MCP application can then query data for which no existing APIs exist.",
+      "details": "Use new MCP tools to define, validate, and run custom data queries. Your MCP application can then query data for which no existing APIs exist.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573312",
+      "origin": "roadmap"
+    }
+  }
+}

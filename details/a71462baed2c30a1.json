@@ -1,0 +1,13 @@
+{
+  "id": "a71462baed2c30a1",
+  "title": "Simplify AL extension setup and authentication in Visual Studio Code",
+  "languages": {
+    "en": {
+      "title": "Simplify AL extension setup and authentication in Visual Studio Code",
+      "summary": "\"Automatically acquire the required .NET runtime and use Visual Studio Code authentication by default, reducing manual setup across local and browser-hosted environments. Business value: AL developers spend less time installing runtimes and managing separate authentication prompts when setting up Visual Studio Code. The AL extension is also smaller because it no longer includes separate runtime copies for each supported operating system. The streamlined configuration provides a more consistent s",
+      "details": "\"Automatically acquire the required .NET runtime and use Visual Studio Code authentication by default, reducing manual setup across local and browser-hosted environments. Business value: AL developers spend less time installing runtimes and managing separate authentication prompts when setting up Visual Studio Code. The AL extension is also smaller because it no longer includes separate runtime copies for each supported operating system. The streamlined configuration provides a more consistent setup across Windows, macOS, and Linux.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573356",
+      "origin": "roadmap"
+    }
+  }
+}

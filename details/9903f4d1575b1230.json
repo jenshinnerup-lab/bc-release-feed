@@ -1,0 +1,13 @@
+{
+  "id": "9903f4d1575b1230",
+  "title": "Developers can define indexes that span fields from a base table and its table extensions",
+  "languages": {
+    "en": {
+      "title": "Developers can define indexes that span fields from a base table and its table extensions",
+      "summary": "The new data model for storing fields from table extensions allows developers to define keys across fields from the base table and table extensions.",
+      "details": "The new data model for storing fields from table extensions allows developers to define keys across fields from the base table and table extensions.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573315",
+      "origin": "roadmap"
+    }
+  }
+}

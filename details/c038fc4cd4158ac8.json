@@ -1,0 +1,13 @@
+{
+  "id": "c038fc4cd4158ac8",
+  "title": "Design document reports with the updated Word add-in",
+  "languages": {
+    "en": {
+      "title": "Design document reports with the updated Word add-in",
+      "summary": "Use new design components in the Word add-in to layout your document report layouts. We have added design controls for common document report parts, such as Addresses Field groups Amounts Signature lines Notes",
+      "details": "Use new design components in the Word add-in to layout your document report layouts. We have added design controls for common document report parts, such as Addresses Field groups Amounts Signature lines Notes",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573328",
+      "origin": "roadmap"
+    }
+  }
+}

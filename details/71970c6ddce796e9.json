@@ -1,0 +1,13 @@
+{
+  "id": "71970c6ddce796e9",
+  "title": "Agent can process vendor credit notes",
+  "languages": {
+    "en": {
+      "title": "Agent can process vendor credit notes",
+      "summary": "Payables Agent can recognize a vendor credit note and produce a purchase credit memo and applies to the original invoice, using the same draft and task experience as invoices. Note: It does not have Return Order matching functionality.",
+      "details": "Payables Agent can recognize a vendor credit note and produce a purchase credit memo and applies to the original invoice, using the same draft and task experience as invoices. Note: It does not have Return Order matching functionality.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=577878",
+      "origin": "roadmap"
+    }
+  }
+}

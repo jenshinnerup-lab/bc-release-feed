@@ -1,0 +1,13 @@
+{
+  "id": "5a76c01ac64f9b4c",
+  "title": "Restrict global symbol resolution to a minor version",
+  "languages": {
+    "en": {
+      "title": "Restrict global symbol resolution to a minor version",
+      "summary": "\"Configure global symbol downloads to remain within the major and minor version in app.json while still selecting the newest available patch for all dependencies. Business value: Development teams can make symbol restoration more predictable by preventing dependencies from moving to a newer minor release unexpectedly. This helps reproduce builds and test extensions against the intended Business Central minor version while still receiving compatible patch updates.\"",
+      "details": "\"Configure global symbol downloads to remain within the major and minor version in app.json while still selecting the newest available patch for all dependencies. Business value: Development teams can make symbol restoration more predictable by preventing dependencies from moving to a newer minor release unexpectedly. This helps reproduce builds and test extensions against the intended Business Central minor version while still receiving compatible patch updates.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573357",
+      "origin": "roadmap"
+    }
+  }
+}

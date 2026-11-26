@@ -1,0 +1,13 @@
+{
+  "id": "35bc8e25217ac3fd",
+  "title": "Profile slow Business Central sessions with AI agents",
+  "languages": {
+    "en": {
+      "title": "Profile slow Business Central sessions with AI agents",
+      "summary": "\"Let an AI agent schedule profiling for a Business Central session, collect CPU and memory data, identify costly AL paths, and summarize SQL and HTTP activity. Business value: Developers and administrators can investigate slow Business Central sessions with help from an AI agent instead of manually collecting and interpreting performance profiles. The agent can capture the affected session, identify expensive AL call paths, and summarize whether CPU or managed-memory usage contributes to the pro",
+      "details": "\"Let an AI agent schedule profiling for a Business Central session, collect CPU and memory data, identify costly AL paths, and summarize SQL and HTTP activity. Business value: Developers and administrators can investigate slow Business Central sessions with help from an AI agent instead of manually collecting and interpreting performance profiles. The agent can capture the affected session, identify expensive AL call paths, and summarize whether CPU or managed-memory usage contributes to the problem. This guided workflow shortens the time from a reported performance problem to actionable code-level findings, even when the user isn't already debugging the session.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573335",
+      "origin": "roadmap"
+    }
+  }
+}

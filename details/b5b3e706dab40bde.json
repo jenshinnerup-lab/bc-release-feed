@@ -1,0 +1,13 @@
+{
+  "id": "b5b3e706dab40bde",
+  "title": "AL developers can turn indexes on/off in AL code.",
+  "languages": {
+    "en": {
+      "title": "AL developers can turn indexes on/off in AL code.",
+      "summary": "AL developers can now turn indexes off/on from AL code. This allows app publishers to ship index management to match their features.",
+      "details": "AL developers can now turn indexes off/on from AL code. This allows app publishers to ship index management to match their features.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573314",
+      "origin": "roadmap"
+    }
+  }
+}

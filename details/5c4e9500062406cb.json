@@ -1,0 +1,13 @@
+{
+  "id": "5c4e9500062406cb",
+  "title": "Monitor usage of Open in Excel with telemetry",
+  "languages": {
+    "en": {
+      "title": "Monitor usage of Open in Excel with telemetry",
+      "summary": "Logging Open in Excel actions to telemetry makes data export events auditable, which can be critical for compliance, security investigations, and understanding how customers use Business Central.",
+      "details": "Logging Open in Excel actions to telemetry makes data export events auditable, which can be critical for compliance, security investigations, and understanding how customers use Business Central.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573317",
+      "origin": "roadmap"
+    }
+  }
+}

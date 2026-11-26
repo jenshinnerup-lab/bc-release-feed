@@ -1,0 +1,13 @@
+{
+  "id": "b244d81bcd409325",
+  "title": "Self-billing enablement",
+  "languages": {
+    "en": {
+      "title": "Self-billing enablement",
+      "summary": "Streamline self-billing by automatically creating, managing, and exchanging electronic documents for self-billed invoices as part of the invoice lifecycle. This reduces manual document handling while helping ensure self-billed transactions include the appropriate electronic documents in standardized formats used by local regulations and trading partners. Benefits • Automate electronic document generation and handling for self-billed invoices. • Integrate electronic documents directly into the se",
+      "details": "Streamline self-billing by automatically creating, managing, and exchanging electronic documents for self-billed invoices as part of the invoice lifecycle. This reduces manual document handling while helping ensure self-billed transactions include the appropriate electronic documents in standardized formats used by local regulations and trading partners. Benefits • Automate electronic document generation and handling for self-billed invoices. • Integrate electronic documents directly into the self-billing invoice lifecycle. • Support consistent vendor communications and the use of standardized electronic document formats.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573612",
+      "origin": "roadmap"
+    }
+  }
+}

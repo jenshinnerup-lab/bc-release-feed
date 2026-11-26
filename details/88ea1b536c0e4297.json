@@ -1,0 +1,13 @@
+{
+  "id": "88ea1b536c0e4297",
+  "title": "Show recently used in lookups",
+  "languages": {
+    "en": {
+      "title": "Show recently used in lookups",
+      "summary": "Business Central now highlights recently used records directly in lookup dialogs. When users open a lookup, the system surfaces records they have recently accessed or worked with, making it easier to select the correct value without performing a search. The suggestions are personalized to each user and are based on usage signals already collected by the platform. The feature reuses the same server-side intelligence that supports Autofill and recent-record scenarios, ensuring consistent recommend",
+      "details": "Business Central now highlights recently used records directly in lookup dialogs. When users open a lookup, the system surfaces records they have recently accessed or worked with, making it easier to select the correct value without performing a search. The suggestions are personalized to each user and are based on usage signals already collected by the platform. The feature reuses the same server-side intelligence that supports Autofill and recent-record scenarios, ensuring consistent recommendations across Business Central experiences. The feature makes Business Central feel more responsive and personalized by adapting lookup suggestions to each user's working patterns. It reduces repetitive data entry, speeds up transaction processing, and helps users stay focused on their work. By reusing existing server intelligence already powering Autofill experiences, the feature delivers a consistent and efficient way to surface the most relevant records across the application. Business Value: Finding the right record in a lookup is a common task throughout Business Central, but users often select the same customers, vendors, items, projects, or dimensions repeatedly during the day. By showing recently used records at the top of lookup dialogs, users can find and select frequently accessed data faster, with fewer searches and less navigation.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573368",
+      "origin": "roadmap"
+    }
+  }
+}

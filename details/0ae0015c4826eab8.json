@@ -1,0 +1,13 @@
+{
+  "id": "0ae0015c4826eab8",
+  "title": "Use withholding taxes (WHT) with employee transactions",
+  "languages": {
+    "en": {
+      "title": "Use withholding taxes (WHT) with employee transactions",
+      "summary": "This feature extends withholding tax capabilities to include employee transactions. The feature supports scenarios where employee-related payments or reimbursements are subject to withholding tax requirements and ensures that you accurately process the transactions in the financial system. Key capabilities include: Apply withholding tax rules to employee transactions. Automatically calculate withholding tax amounts based on configured tax setups. Maintain consistent tax treatment across vendor a",
+      "details": "This feature extends withholding tax capabilities to include employee transactions. The feature supports scenarios where employee-related payments or reimbursements are subject to withholding tax requirements and ensures that you accurately process the transactions in the financial system. Key capabilities include: Apply withholding tax rules to employee transactions. Automatically calculate withholding tax amounts based on configured tax setups. Maintain consistent tax treatment across vendor and employee transaction processing. When someone creates an employee transaction, the system finds the applicable withholding tax configuration and applies the relevant withholding tax treatment. This capabililty enables organizations to meet local tax requirements for employee-related payments while keeping financial records accurate and compliant.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573308",
+      "origin": "roadmap"
+    }
+  }
+}

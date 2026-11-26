@@ -1,0 +1,13 @@
+{
+  "id": "4bd80f61ba65964e",
+  "title": "Design document report themes with the updated Word add-in",
+  "languages": {
+    "en": {
+      "title": "Design document report themes with the updated Word add-in",
+      "summary": "Design document report themes using the new document samples controls in the Word add-in. We have added samples that look like common document types, such as invoice pick list outstanding orders.",
+      "details": "Design document report themes using the new document samples controls in the Word add-in. We have added samples that look like common document types, such as invoice pick list outstanding orders.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573330",
+      "origin": "roadmap"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "d735713b9d8f3a2f",
+  "title": "Diagnose AL MCP server activity with file logging",
+  "languages": {
+    "en": {
+      "title": "Diagnose AL MCP server activity with file logging",
+      "summary": "\"Write AL MCP server diagnostics to a configurable file, select the appropriate detail level for troubleshooting, or turn file logging off when it isn't required. Business value: Developers and administrators can retain AL MCP server diagnostics for troubleshooting intermittent failures and reviewing agent activity. Configurable verbosity helps capture detailed information during investigation without permanently producing excessive logs.\"",
+      "details": "\"Write AL MCP server diagnostics to a configurable file, select the appropriate detail level for troubleshooting, or turn file logging off when it isn't required. Business value: Developers and administrators can retain AL MCP server diagnostics for troubleshooting intermittent failures and reviewing agent activity. Configurable verbosity helps capture detailed information during investigation without permanently producing excessive logs.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573349",
+      "origin": "roadmap"
+    }
+  }
+}

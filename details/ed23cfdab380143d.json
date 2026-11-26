@@ -1,0 +1,13 @@
+{
+  "id": "ed23cfdab380143d",
+  "title": "Let agents allocate free AL object IDs",
+  "languages": {
+    "en": {
+      "title": "Let agents allocate free AL object IDs",
+      "summary": "\"Let coding agents find available IDs for AL objects and extension objects within project ranges, reducing manual range checks and collisions with existing project objects. Note that only IDs in connected environment are considered. Business value: Coding agents can scaffold AL objects without manually reading ID ranges or risking collisions with objects already declared in the project. This makes generated code more reliable and reduces the corrections needed before it compiles.\"",
+      "details": "\"Let coding agents find available IDs for AL objects and extension objects within project ranges, reducing manual range checks and collisions with existing project objects. Note that only IDs in connected environment are considered. Business value: Coding agents can scaffold AL objects without manually reading ID ranges or risking collisions with objects already declared in the project. This makes generated code more reliable and reduces the corrections needed before it compiles.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573346",
+      "origin": "roadmap"
+    }
+  }
+}

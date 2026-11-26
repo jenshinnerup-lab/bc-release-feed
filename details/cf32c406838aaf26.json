@@ -1,0 +1,13 @@
+{
+  "id": "cf32c406838aaf26",
+  "title": "Iceland - Enable SAF-T audit file format",
+  "languages": {
+    "en": {
+      "title": "Iceland - Enable SAF-T audit file format",
+      "summary": "This feature extends support for the Standard Audit File for Tax (SAF-T) format to Iceland, allowing customers in this counmtry to generate audit files using the established SAF-T framework. Key capabilities include: Enable SAF-T audit file generation for companies operating in Iceland. Reuse the existing SAF-T W1 implementation to support additional country-specific compliance scenarios. Provide a standardized electronic audit file format that can be shared with tax authorities and auditors whe",
+      "details": "This feature extends support for the Standard Audit File for Tax (SAF-T) format to Iceland, allowing customers in this counmtry to generate audit files using the established SAF-T framework. Key capabilities include: Enable SAF-T audit file generation for companies operating in Iceland. Reuse the existing SAF-T W1 implementation to support additional country-specific compliance scenarios. Provide a standardized electronic audit file format that can be shared with tax authorities and auditors when required. Simplify multinational compliance processes by using a consistent audit reporting approach across supported countries. By extending an existing SAF-T capability to additional markets, organizations benefit from a more unified compliance experience while reducing the need for separate audit file solutions for each country.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573620",
+      "origin": "roadmap"
+    }
+  }
+}

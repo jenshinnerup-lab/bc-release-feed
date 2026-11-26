@@ -1,0 +1,13 @@
+{
+  "id": "749daf45213330e1",
+  "title": "Actions on reports and pages can now inherit tooltips",
+  "languages": {
+    "en": {
+      "title": "Actions on reports and pages can now inherit tooltips",
+      "summary": "Tooltips on page or report objects are now inherited into actions that run those pages. This means you only need to write descriptive tooltips in one place and have it propagated out to all usage of the object.",
+      "details": "Tooltips on page or report objects are now inherited into actions that run those pages. This means you only need to write descriptive tooltips in one place and have it propagated out to all usage of the object.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573313",
+      "origin": "roadmap"
+    }
+  }
+}

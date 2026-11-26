@@ -1,0 +1,13 @@
+{
+  "id": "7a0ed7d9b13a415d",
+  "title": "Run AL tests from command-line and CI/CD workflows",
+  "languages": {
+    "en": {
+      "title": "Run AL tests from command-line and CI/CD workflows",
+      "summary": "\"Use ALTool to compile, deploy, and run AL test projects from scripts or pipelines, with structured JSON results for test methods and pass, fail, and skip counts. Business value: Development teams can run AL tests directly from automated build and release pipelines without depending on the MCP server or a manually operated test client. Machine-readable output makes it easier to publish test results, enforce quality gates, and diagnose failures in continuous integration environments. The same com",
+      "details": "\"Use ALTool to compile, deploy, and run AL test projects from scripts or pipelines, with structured JSON results for test methods and pass, fail, and skip counts. Business value: Development teams can run AL tests directly from automated build and release pipelines without depending on the MCP server or a manually operated test client. Machine-readable output makes it easier to publish test results, enforce quality gates, and diagnose failures in continuous integration environments. The same command can also be used locally, giving developers and build systems a consistent test-execution workflow.\"",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573334",
+      "origin": "roadmap"
+    }
+  }
+}

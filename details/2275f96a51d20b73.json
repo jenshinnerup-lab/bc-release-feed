@@ -1,0 +1,13 @@
+{
+  "id": "2275f96a51d20b73",
+  "title": "Start using the new non-deductible VAT framework in Belgium",
+  "languages": {
+    "en": {
+      "title": "Start using the new non-deductible VAT framework in Belgium",
+      "summary": "Belgian users will experience an improved non-deductible VAT process with the introduction of a new global feature. A preconfigured Non-deductible VAT Type field will be available specifically for Belgium. Previously, users selected a general ledger expense account in the Chart of Accounts and manually entered the partial deduction amount in the % Non-deductible VAT field. With the new approach, users will follow the standard global method, and setup will be managed through the VAT Posting Group",
+      "details": "Belgian users will experience an improved non-deductible VAT process with the introduction of a new global feature. A preconfigured Non-deductible VAT Type field will be available specifically for Belgium. Previously, users selected a general ledger expense account in the Chart of Accounts and manually entered the partial deduction amount in the % Non-deductible VAT field. With the new approach, users will follow the standard global method, and setup will be managed through the VAT Posting Group Setup . When you enable the new feature in the VAT Setup page, the system automatically provides a data upgrade. Business Value: Users in Belgium will receive an upgraded version of non-deductible VAT using the new global feature. Enabled for: Enabled by admins/makers/marketers for end users",
+      "source_url": "https://learn.microsoft.com/en-us/dynamics365/business-central/localfunctionality/belgium/how-to-set-up-non-deductible-vat",
+      "origin": "roadmap"
+    }
+  }
+}

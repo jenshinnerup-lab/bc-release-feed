@@ -1,0 +1,13 @@
+{
+  "id": "720a742acd0062a2",
+  "title": "Vendor specific number series for Self-billing Invoices",
+  "languages": {
+    "en": {
+      "title": "Vendor specific number series for Self-billing Invoices",
+      "summary": "Organizations that use self-billing often need to follow supplier-specific invoicing requirements, including unique numbering conventions. With this enhancement, users can define and assign dedicated number series for self-billed purchase invoices on a per-vendor basis. Key capabilities include: Set up a unique number series for individual vendors that participate in self-billing arrangements. Automatically apply the vendor-specific number series when creating self-billed purchase invoices. Main",
+      "details": "Organizations that use self-billing often need to follow supplier-specific invoicing requirements, including unique numbering conventions. With this enhancement, users can define and assign dedicated number series for self-billed purchase invoices on a per-vendor basis. Key capabilities include: Set up a unique number series for individual vendors that participate in self-billing arrangements. Automatically apply the vendor-specific number series when creating self-billed purchase invoices. Maintain separate invoice numbering sequences across different suppliers. Improve compliance with vendor agreements and local business requirements that mandate specific invoice numbering practices. Reduce manual intervention and the risk of numbering errors during invoice generation.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573307",
+      "origin": "roadmap"
+    }
+  }
+}

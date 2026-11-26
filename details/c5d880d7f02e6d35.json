@@ -1,0 +1,13 @@
+{
+  "id": "c5d880d7f02e6d35",
+  "title": "Use conditional visibility in the updated Word add-in",
+  "languages": {
+    "en": {
+      "title": "Use conditional visibility in the updated Word add-in",
+      "summary": "Design document reports layouts with conditional visibility using the new HideIf logic control in the Word add-in. The control can use boolean fields in the dataset to handle visibility of the content inside.",
+      "details": "Design document reports layouts with conditional visibility using the new HideIf logic control in the Word add-in. The control can use boolean fields in the dataset to handle visibility of the content inside.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573329",
+      "origin": "roadmap"
+    }
+  }
+}

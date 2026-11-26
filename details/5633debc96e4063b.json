@@ -1,0 +1,13 @@
+{
+  "id": "5633debc96e4063b",
+  "title": "Brand document reports with report themes",
+  "languages": {
+    "en": {
+      "title": "Brand document reports with report themes",
+      "summary": "With the new composable layouts feature, you can apply a report theme on layouts to get consistent look and feel on the PDF output. It is possible to set defaults on a global level, per company, per report, or per layout, giving the administrator full flexibility of theming.",
+      "details": "With the new composable layouts feature, you can apply a report theme on layouts to get consistent look and feel on the PDF output. It is possible to set defaults on a global level, per company, per report, or per layout, giving the administrator full flexibility of theming.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573327",
+      "origin": "roadmap"
+    }
+  }
+}

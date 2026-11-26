@@ -1,0 +1,13 @@
+{
+  "id": "40af357985ccd78c",
+  "title": "Calculate and report VAT based on expense reports",
+  "languages": {
+    "en": {
+      "title": "Calculate and report VAT based on expense reports",
+      "summary": "Expense Agent supports automated VAT handling for expense reports, which can help simplify tax management and improve reporting accuracy. Key capabilities include: Automatic VAT Calculation : Expense Agent identifies VAT-relevant expense transactions and calculates applicable VAT amounts based on the information in submitted expense reports. VAT-Aware Expense Processing : VAT values are incorporated into the expense review and processing workflow, reducing the need for manual tax calculations. E",
+      "details": "Expense Agent supports automated VAT handling for expense reports, which can help simplify tax management and improve reporting accuracy. Key capabilities include: Automatic VAT Calculation : Expense Agent identifies VAT-relevant expense transactions and calculates applicable VAT amounts based on the information in submitted expense reports. VAT-Aware Expense Processing : VAT values are incorporated into the expense review and processing workflow, reducing the need for manual tax calculations. Enhanced VAT Reporting : VAT amounts captured from employee expenses are aggregated and reported, supporting financial reporting and tax recovery processes. Improved Compliance : Standardized VAT handling helps ensure that expense-related tax calculations apply consistently across the organization. Human in the loop : If the VAT calculation is enabled for expense reports, accountants must review VAT calculation and confirm that everything is correct before posting it.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573262",
+      "origin": "roadmap"
+    }
+  }
+}

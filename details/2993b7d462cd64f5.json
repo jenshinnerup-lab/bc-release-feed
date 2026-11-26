@@ -1,0 +1,13 @@
+{
+  "id": "2993b7d462cd64f5",
+  "title": "Financial report changes are now always logged",
+  "languages": {
+    "en": {
+      "title": "Financial report changes are now always logged",
+      "summary": "Changes to financial row, column, and report definitions are automatically recorded in the change log for easier auditing.",
+      "details": "Changes to financial row, column, and report definitions are automatically recorded in the change log for easier auditing.",
+      "source_url": "https://www.microsoft.com/en-us/microsoft-365/roadmap?id=573325",
+      "origin": "roadmap"
+    }
+  }
+}
