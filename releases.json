@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26",
+  "generated_at": "2026-11-27",
   "source": "Derived from Microsoft's public Business Central release notes and ISV documentation. Titles and links are from respective publishers.",
   "features": [
     {
@@ -30421,6 +30421,84 @@
       "publisher": "Continia",
       "product_name": "Continia Expense Management",
       "first_seen": "2026-09-23"
+    },
+    {
+      "id": "continia-em-87916",
+      "version": "Expense Portal 29.0.4.0",
+      "area": "Expenses",
+      "title": "In the Receipts dialog on the expense and mileage pages, you can now click Edit to correct the values read from a saved receipt (such as the amount, c",
+      "summary": "In the Receipts dialog on the expense and mileage pages, you can now click Edit to correct the values read from a saved receipt (such as the amount, currency, merchant, and the last four digits of the card number). When you add a scanned receipt from the dialog to an expense that does not yet have any scanned values, the expense is filled in with the corrected values.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "continia-em-86439",
+      "version": "Expense Portal 29.0.4.0",
+      "area": "General Application",
+      "title": "On the lists of open expenses, mileages, per diems, and expense reports in the Expense Portal, you can now select and submit several documents with th",
+      "summary": "On the lists of open expenses, mileages, per diems, and expense reports in the Expense Portal, you can now select and submit several documents with the check boxes in the first column and handle them in one step. Choose Submit to submit the selected documents. On the expense, mileage, and per diem lists, you can also choose Assign to expense report to add the selected documents to an existing or a new expense report. Documents that cannot be handled, because of missing information, are skipped. ",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "continia-em-88051",
+      "version": "Expense Portal 29.0.4.0",
+      "area": "General Application",
+      "title": "When you open an expense, mileage, per diem, or expense report from History , its status is now shown at the top of the document, for example Submitte",
+      "summary": "When you open an expense, mileage, per diem, or expense report from History , its status is now shown at the top of the document, for example Submitted , Approved , or Rejected .",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "continia-em-86464",
+      "version": "Expense Portal 29.0.4.0",
+      "area": "General Application",
+      "title": "The search box on the expense, mileage, per diem, and expense report lists now finds the rows that contain every word you enter in the columns shown.",
+      "summary": "The search box on the expense, mileage, per diem, and expense report lists now finds the rows that contain every word you enter in the columns shown. You can use * for any characters and ? for a single character. It is the same search used in the Select documents dialog and on the document lines of an expense report.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "continia-em-77669",
+      "version": "Expense Portal 29.0.4.0",
+      "area": "General Application",
+      "title": "To align with expense warnings, when you submit a mileage or a per diem, you are now warned if a mileage with the same date and distance, or a per die",
+      "summary": "To align with expense warnings, when you submit a mileage or a per diem, you are now warned if a mileage with the same date and distance, or a per diem for an overlapping period, already exists. The warning links to the similar document, and you can choose whether you want to continue. The check for expenses, mileages, and per diems now also includes documents that are are yet to be submitted and documents in your other companies.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "continia-em-87114",
+      "version": "Expense Portal 29.0.4.0",
+      "area": "General Application",
+      "title": "Expenses, mileages, and per diems that may be duplicates are now marked with an orange exclamation mark ( !",
+      "summary": "Expenses, mileages, and per diems that may be duplicates are now marked with an orange exclamation mark ( ! ) in the lists of open documents. When you open such a document, an informational line at the top of the screen says that it may be a duplicate and links to the similar document.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "country_code": "",
+      "general_availability": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
     },
     {
       "id": "continia-em-84957",
@@ -148819,6 +148897,58 @@
       "country_code": "",
       "publisher": "Continia",
       "product_name": "Continia Expense Management"
+    },
+    {
+      "id": "continia-em-86765",
+      "version": "Expense Portal 29.0.4.0",
+      "functional_area": "Expenses",
+      "title": "In Expense Management versions prior to 9.0, expenses created with the Expense Agent were registered as paid with a company credit card (this also app",
+      "summary": "In Expense Management versions prior to 9.0, expenses created with the Expense Agent were registered as paid with a company credit card (this also applied to users without a company credit card). Now, these expenses are registered as cash/private for users without a company credit card. Whereas users with a company credit card are asked the first time they open the expense (the same as they would be for an expense they create themselves).",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "86765",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "continia-em-88286",
+      "version": "Expense Portal 29.0.4.0",
+      "functional_area": "Expenses",
+      "title": "An expense created from a scanned receipt, for example by the Expense Agent , could be assigned an expense type that was not an option in Business Cen",
+      "summary": "An expense created from a scanned receipt, for example by the Expense Agent , could be assigned an expense type that was not an option in Business Central. The scanner no longer suggests or assigns such expense types.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "88286",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "continia-em-87867",
+      "version": "Expense Portal 29.0.4.0",
+      "functional_area": "Expenses",
+      "title": "A receipt with several VAT rates was split into one allocation per VAT rate when it was attached to the expense page, but not when the expense was cre",
+      "summary": "A receipt with several VAT rates was split into one allocation per VAT rate when it was attached to the expense page, but not when the expense was created with the Expense Agent , by email, or by dropping the receipt on the expenses list. These expenses now split as expected.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "87867",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "id": "17c6aba42bc1ed08",
+      "version": "Expense Portal 29.0.4.0",
+      "functional_area": "General Application",
+      "title": "Minor bug fixes and improvements.",
+      "summary": "Minor bug fixes and improvements.",
+      "doc_url": "https://docs.continia.com/en-us/continia-expense-management/new-and-planned/detailed-changelogs/expense-portal/",
+      "hotfix_id": "",
+      "country_code": "",
+      "publisher": "Continia",
+      "product_name": "Continia Expense Management",
+      "first_seen": "2026-11-27"
     },
     {
       "id": "continia-em-N/A",

@@ -1,7 +1,117 @@
 {
-  "generated_at": "2026-11-26",
+  "generated_at": "2026-11-27",
   "source": "Changes between daily builds of this feed. Titles and links are Microsoft's.",
   "entries": [
+    {
+      "id": "faacba46e9a4a4f51c22",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-88286",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "An expense created from a scanned receipt, for example by the Expense Agent , could be assigned an expense type that was not an option in Business Cen",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "1af63e99fd33fea677eb",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-87867",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "A receipt with several VAT rates was split into one allocation per VAT rate when it was attached to the expense page, but not when the expense was cre",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "40a88ce2ecc65956d80e",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "continia-em-86765",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "In Expense Management versions prior to 9.0, expenses created with the Expense Agent were registered as paid with a company credit card (this also app",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "47c76e7f34497f9de4ab",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "hotfix",
+      "item_id": "17c6aba42bc1ed08",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "Minor bug fixes and improvements.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "bbb29bc9f2daf3fa4f60",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-88051",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "When you open an expense, mileage, per diem, or expense report from History , its status is now shown at the top of the document, for example Submitte",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "c16d397002cd20984c38",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-87916",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "In the Receipts dialog on the expense and mileage pages, you can now click Edit to correct the values read from a saved receipt (such as the amount, c",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "dd567b807d0d0ded6ff5",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-87114",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "Expenses, mileages, and per diems that may be duplicates are now marked with an orange exclamation mark ( !",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "f838b7d0a2e92ae6d416",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-86464",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "The search box on the expense, mileage, per diem, and expense report lists now finds the rows that contain every word you enter in the columns shown.",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "4a017114854b5c47510c",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-86439",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "On the lists of open expenses, mileages, per diems, and expense reports in the Expense Portal, you can now select and submit several documents with th",
+      "old": "",
+      "new": ""
+    },
+    {
+      "id": "b766c8002d2ace4ee155",
+      "date": "2026-11-27",
+      "change": "new",
+      "item_type": "feature",
+      "item_id": "continia-em-77669",
+      "version": "Expense Portal 29.0.4.0",
+      "title": "To align with expense warnings, when you submit a mileage or a per diem, you are now warned if a mileage with the same date and distance, or a per die",
+      "old": "",
+      "new": ""
+    },
     {
       "id": "a8e20add5a976960a96f",
       "date": "2026-11-26",
